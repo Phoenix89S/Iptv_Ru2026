@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Первый канал
+http://example.com/first_channel
+#EXTINF:-1,Россия 1
+http://example.com/russia1
+#EXTINF:-1,НТВ
+http://example.com/ntv
+#EXTINF:-1,СТС
+http://example.com/sts
+#EXTINF:-1,ТНТ
+http://example.com/tnt
+#EXTINF:-1,Рен ТВ
+http://example.com/ren
+#EXTINF:-1,Мир
+http://example.com/mir
+#EXTINF:-1,Пятый канал
+http://example.com/pятый_канал
+#EXTINF:-1,ОТР
+http://example.com/otr
