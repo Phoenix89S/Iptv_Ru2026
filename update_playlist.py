@@ -1,26 +1,43 @@
 import requests
 
-# URLs of the IPTV channels
-iptv_urls = [
-    'https://smolnp.github.io/IPTVru//IPTVru.m3u',
-    'https://raw.githubusercontent.com/Domk04/RusskiIPTV/main/my_list.iptvcat.com.m3u8'
-]
+def fetch_m3u_sources(sources):
+    channels = []
+    for source in sources:
+        response = requests.get(source)
+        if response.status_code == 200:
+            channels.extend(parse_m3u(response.text))
+        else:
+            print(f"Failed to fetch from {source}")
+    return channels
 
-# Function to fetch channels from a given URL
+def parse_m3u(m3u_content):
+    lines = m3u_content.splitlines()
+    channels = []
+    for i in range(len(lines)):
+        if lines[i].startswith('#EXTINF'):
+            channel_info = lines[i]
+            channel_url = lines[i + 1]
+            channels.append((channel_info, channel_url))
+    return channels
 
-def fetch_channels(url):
-    response = requests.get(url)
-    if response.status_code == 200:
-        return response.text.split('\n')
-    else:
-        return []
+def create_playlist(channels):
+    playlist_lines = []
+    for channel_info, channel_url in channels:
+        playlist_lines.append(f"{channel_info}\n{channel_url}")
+    return "\n".join(playlist_lines)
 
-# Fetch channels from all URLs
-combined_channels = set()
-for url in iptv_urls:
-    channels = fetch_channels(url)
-    combined_channels.update(channels)
+def main():
+    m3u_sources = [
+        "http://example.com/source1.m3u",
+        "http://example.com/source2.m3u",
+    ]
+    
+    channels = fetch_m3u_sources(m3u_sources)
+    complete_playlist = create_playlist(channels)
 
-# Remove duplicates and save to playlist.m3u
-with open('playlist.m3u', 'w') as f:
-    f.write('\n'.join(combined_channels))
+    with open("complete_playlist.m3u", "w") as playlist_file:
+        playlist_file.write(complete_playlist)
+        print("Playlist created successfully.")
+
+if __name__ == "__main__":
+    main()
