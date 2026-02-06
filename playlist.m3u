@@ -1,44 +1,309 @@
-#EXTM3U
-https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
-#EXTINF:-1 tvg-id="channel2" tvg-name="Россия 1" tvg-logo="url_to_logo" group-title="Federal",Россия 1
-http://stream-url/russia1
-#EXTINF:-1 tvg-id="channel3" tvg-name="НТВ" tvg-logo="url_to_logo" group-title="Federal",НТВ
-http://stream-url/ntv
-#EXTINF:-1 tvg-id="channel4" tvg-name="СТС" tvg-logo="url_to_logo" group-title="Federal",СТС
-http://stream-url/sts
-#EXTINF:-1 tvg-id="channel5" tvg-name="ТНТ" tvg-logo="url_to_logo" group-title="Federal",ТНТ
-http://stream-url/tnt
-#EXTINF:-1 tvg-id="channel6" tvg-name="Рен ТВ" tvg-logo="url_to_logo" group-title="Federal",Рен ТВ
-http://stream-url/ren_tv
-#EXTINF:-1 tvg-id="channel7" tvg-name="Мир" tvg-logo="url_to_logo" group-title="Federal",Мир
-http://stream-url/mir
-#EXTINF:-1 tvg-id="channel8" tvg-name="ОТР" tvg-logo="url_to_logo" group-title="Federal",ОТР
-http://stream-url/otr
-#EXTINF:-1 tvg-id="channel9" tvg-name="Пятый канал" tvg-logo="url_to_logo" group-title="Federal",Пятый канал
-http://stream-url/pjatyj_kanal
-#EXTINF:-1 tvg-id="channel10" tvg-name="Домашний" tvg-logo="url_to_logo" group-title="Federal",Домашний
-http://stream-url/domashnij
-#EXTINF:-1 tvg-id="channel11" tvg-name="ТВ-3" tvg-logo="url_to_logo" group-title="Federal",ТВ-3
-http://stream-url/tv3
-#EXTINF:-1 tvg-id="channel12" tvg-name="Пикабу" tvg-logo="url_to_logo" group-title="Federal",Пикабу
-http://stream-url/pikabu
-#EXTINF:-1 tvg-id="channel13" tvg-name="Звезда" tvg-logo="url_to_logo" group-title="Federal",Звезда
-http://stream-url/zvezda
-#EXTINF:-1 tvg-id="channel14" tvg-name="Боец" tvg-logo="url_to_logo" group-title="Federal",Боец
-http://stream-url/boec
-#EXTINF:-1 tvg-id="channel15" tvg-name="2x2" tvg-logo="url_to_logo" group-title="Federal",2x2
-http://stream-url/2x2
-#EXTINF:-1 tvg-id="channel16" tvg-name="Амедиа" tvg-logo="url_to_logo" group-title="Federal",Амедиа
-http://stream-url/amedya
-#EXTINF:-1 tvg-id="channel17" tvg-name="Русский роман" tvg-logo="url_to_logo" group-title="Federal",Русский роман
-http://stream-url/russkiy_roman
-#EXTINF:-1 tvg-id="channel18" tvg-name="Киноман" tvg-logo="url_to_logo" group-title="Federal",Киноман
-http://stream-url/kinoman
-#EXTINF:-1 tvg-id="regional_channel1" tvg-name="ТК Красноярск" tvg-logo="url_to_logo" group-title="Regional",ТК Красноярск
-http://stream-url/tk_krasnoyarsk
-#EXTINF:-1 tvg-id="regional_channel2" tvg-name="ТК Новосибирск" tvg-logo="url_to_logo" group-title="Regional",ТК Новосибирск
-http://stream-url/tk_novosibirsk
-#EXTINF:-1 tvg-id="regional_channel3" tvg-name="ТВ Урал" tvg-logo="url_to_logo" group-title="Regional",ТВ Урал
-http://stream-url/tv_ural
-#EXTINF:-1 tvg-id="regional_channel4" tvg-name="СТС Поволжье" tvg-logo="url_to_logo" group-title="Regional",СТС Поволжье
-http://stream-url/sts_povolzhye
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="Детские", Ani
+  http://hlstv.kem.211.ru/239.211.211.98/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ani", Ani SD
+  http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8?720*576
+#EXTINF:-1 group-title="Детские" tvg-id="ani", Ani 🟥
+  http://127.0.0.1:6878/ace/m/1a56fa1e4c2800c4bca035bc6b3b2cd425bb69dc/7c45dc82969d666fa0da387787e32757.m3u8?1048*576
+#EXTINF:-1 group-title="Детские", Baby Time
+  http://hlstv.kem.211.ru/239.211.211.51/stream.m3u8
+#EXTINF:-1 group-title="Детские", Baby TV 🟥 
+  http://127.0.0.1:6878/hls/r/9a45c1e738fc9d4f94c18a2d33f6115fe2dcd900/c7697b0737aa87a5f37e410237dda015.m3u8?1024*576
+#EXTINF:-1 group-title="Детские"  tvg-id="boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png", Cartoonito
+  http://edge05.beetv.kz:80/btv/SWM/Boomerang/Boomerang.m3u8
+#EXTINF:-1 group-title="Детские"  tvg-id="boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png", Cartoonito Full HD
+  https://stream01.vnet.am/Boomerang/mono.m3u8?1920*1080_VirusNet
+#EXTINF:-1 group-title="Детские"  tvg-id="boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png", Cartoonito 🟥
+  http://127.0.0.1:6878/ace/m/3f6a6aa05bd8e07a98e49fd7b00c9691a69164fc/73c2291c90221dc3032cdba502024259.m3u8?1024*576
+#EXTINF:-1 group-title="Детские", Cartoon Network
+  http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8?1047*576
+#EXTINF:-1 group-title="Детские", Cartoon Network 🟥
+  http://127.0.0.1:6878/ace/m/5d52371d64c6f92b5c5b9eaf49db0912578c5c95/0b971abb19c739b71c119d518b9a6337.m3u8?1047*576
+#EXTINF:-1 group-title="Детские", Da Vinci
+  https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
+#EXTINF:-1 group-title="Детские", Da Vinci 🟥
+  http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
+#EXTINF:-1 group-title="Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Disney_XD_-_2015_%28Purple%29.svg/1584px-Disney_XD_-_2015_%28Purple%29.svg.png", Disney XD
+  https://cdn.wasd.tv/live/1684244/index.m3u8
+#EXTINF:-1 group-title="Детские", DuckTV
+  https://okkotv-live.cdnvideo.ru/channel/DuckTV/480p.m3u8
+#EXTINF:-1 group-title="Детские", DuckTV HD
+  https://okkotv-live.cdnvideo.ru/channel/DuckTV/720p.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ducktv", DuckTV Full HD
+  https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
+#EXTINF:-1 group-title="Детские", FamilyJam
+  http://hlstv.kem.211.ru/239.211.200.90/stream.m3u8
+#XTINF:-1 group-title="Детские", Gulli Girl
+  http://edge05.beetv.kz:80/btv/SWM/Guilli/Guilli.m3u8
+#EXTINF:-1 group-title="Детские", Gulli Girl 🟥
+  http://127.0.0.1:6878/ace/getstream?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a&.mp4?1047*576
+#EXTINF:-1 group-title="Детские", JimJam
+  http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8?1024*576
+#EXTINF:-1 group-title="Детские", Nick Jr.
+  http://176.222.190.76/btv/icon/Nick_Jr/Nick_Jr.m3u8?1047*576_Beeline
+#EXTINF:-1 group-title="Детские", Nickelodeon
+  http://31.148.48.15:80/Nickelodeon/index.m3u8?token=test?1024*576_Ракета
+#EXTINF:-1 group-title="Детские" tvg-id="nicktoons", Nicktoons Full HD
+  http://176.222.190.76/btv/SWM/nicktoons/nicktoons.m3u8?1920*1080_Beeline
+#EXTINF:-1 group-title="Детские", TiJi
+  http://178.160.249.210:8000/play/a2tz/index.m3u8
+#EXTINF:-1 group-title="Детские", TiJi 🟥 
+  acestream://4da0f57fb96330c7f6ad5f4bce0ba93038b628c3
+#EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki", В гостях у сказки
+  http://178.160.249.210:8000/play/a2v0/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki", В гостях у сказки Full HD
+  https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki", В гостях у сказки 🟥
+  http://127.0.0.1:6878/ace/m/d78c7a1da99696e3987563926a1cd31bff9c56bf/c041a8fa519450e2b45cc9a2c039d7d7.m3u8
+#EXTINF:-1 group-title="Детские", Детские мультфильмы
+  http://fs1.persik.by/484215/index.m3u8
+#EXTINF:-1 group-title="Детские", Детский мир 
+  http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
+#EXTINF:-1 group-title="Детские", Детский мир 🟥
+  http://127.0.0.1:6878/hls/r/c6fed6c54d9d213a423a1699fbdba590727b5902/5dd2ed999ff3b6581fa98e0078d05064.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ginger-hd", Капитан Фантастика Full HD
+  http://176.222.190.76/btv/SWM/Fantastica_HD/Fantastica_HD.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ginger-hd", Капитан Фантастика 🟥
+  http://127.0.0.1:6878/ace/getstream?id=5bfc90fb33d6046da53943364b3d68d0e19e4464&.mp4
+#EXTINF:-1 group-title="Детские", Карусель
+  https://livehlsvgtrkrf.cdnvideo.ru:443/hls/karusel/playlist_2.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel", Карусель HD
+  https://livehlsvgtrkrf.cdnvideo.ru:443/hls/karusel/playlist_3.m3u8
+#EXTINF:-1 group-title="Детские", Карусель 🟥
+  http://127.0.0.1:6878/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132&.mp4
+#EXTINF:-1 group-title="Детские", Карусель Int.
+  http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="liova", Лëва HD
+  http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 group-title="Детские", Мульт
+  http://176.222.190.76/btv/SWM/SWM_Mult/SWM_Mult.m3u8
+#EXTINF:-1 group-title="Детские", Мульт HD
+  http://176.222.190.76:80/btv/SWM/SWM_Mult/SWM_Mult_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Детские", Мульт HD 🟧
+  http://80.251.49.103:8003/play/89
+#EXTINF:-1 group-title="Детские", Мульт HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=83392085bd6971ff98e8884913a51c3313126f7f&.mp4
+#EXTINF:-1 group-title="Детские" tvg-id="multimania", Мультиландия
+  https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/480p.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimania", Мультиландия HD
+  https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/720p.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimania", Мультиландия Full HD
+  https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimania", Мультиландия Full HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&.mp4
+#EXTINF:-1 group-title="Детские", Мультимузыка
+  http://178.160.249.210:8000/play/a2vb/index.m3u8
+#EXTINF:-1 group-title="Детские", Мультимузыка 🟥
+  http://127.0.0.1:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
+#EXTINF:-1 group-title="Детские", О!
+  http://176.222.190.76/btv/SWM/O/O.m3u8
+#EXTINF:-1 group-title="Детские", О! 🟥
+  http://127.0.0.1:6878/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2&.mp4
+#EXTINF:-1 group-title="Детские", Радость моя
+  http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Детские", Рыжий
+  http://176.222.190.76/btv/SWM/Ryzhyi/Ryzhyi.m3u8
+#EXTINF:-1 group-title="Детские", Рыжий 🟥
+  http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&.mp4
+#EXTINF:-1 group-title="Детские", Смайлик ТВ
+  https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Детские", СТС Kids
+  http://46.19.99.11:4000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Детские", СТС Kids HD
+  http://138.201.67.145:8081/stskids/index.m3u8
+#EXTINF:-1 group-title="Детские", СТС Kids HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
+#EXTINF:-1 group-title="Детские", СуперГерои
+  http://streamer1.ruslanatv.ru/russia/malish_2023/playlist.m3u8
+#EXTINF:-1 group-title="Детские", СуперГерои 🟥
+  http://127.0.0.1:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e&.mp4
+#EXTINF:-1 group-title="Детские", Уникум
+  http://176.222.190.76/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
+#EXTINF:-1 group-title="Детские", Уникум 🟥
+  http://127.0.0.1:6878/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee&.mp4
+#EXTINF:-1 group-title="Спортивные", Eurosport 1
+  http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
+#EXTINF:-1 group-title="Спортивные", Eurosport 1 HD 🟥  
+  http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
+#EXTINF:-1 group-title="Спортивные", Eurosport 2
+  http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
+#EXTINF:-1 group-title="Спортивные", Eurosport 2 HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
+#EXTINF:-1 group-title="Спортивные", Extreme Sports
+  http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Extreme Sports 🟥
+  http://127.0.0.1:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082&.mp4
+#EXTINF:-1 group-title="Спортивные", Fast&Fun Box
+  http://178.160.249.210:8000/play/a2u9/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Fast&Fun Box HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&.mp4
+#EXTINF:-1 group-title="Спортивные", FightBox
+  http://hlstv.kem.211.ru/239.211.211.184/stream.m3u8
+#EXTINF:-1 group-title="Спортивные", FightBox HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
+#EXTINF:-1 group-title="Спортивные", Fuel TV HD
+  https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", KHL
+  http://hlstv.kem.211.ru/239.211.211.48/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl", KHL HD
+  http://31.148.48.15:80/KHL_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl", KHL Full HD
+  https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl", KHL Full HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd", KHL Prime HD
+  http://31.148.48.15:80/KHL_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd", KHL Prime Full HD
+  https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd", KHL Prime Full HD 🟥 
+  http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
+#EXTINF:-1 group-title="Спортивные" tvg-id="m1global", MMA TV 🟧
+  http://94.230.240.17:8080/m1global/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="m1global", MMA TV Full HD
+  http://hlstv.kem.211.ru/239.211.200.190/stream.m3u8
+#EXTINF:-1 group-title="Спортивные", Russian Extreme HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
+#EXTINF:-1 group-title="Спортивные", Russian Extreme UHD
+  http://hlstv.kem.211.ru/239.211.200.63/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports", Setanta Sport 1 HD
+  http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports", Setanta Sport 1 HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus", Setanta Sport 2 HD
+  http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus", Setanta Sport 2 HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
+#EXTINF:-1 group-title="Спортивные", Setanta Qazaqstan
+  http://176.222.190.76/btv/SWM/Sentanta_Kaz/Sentanta_Kaz.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport", Viju+ Sport
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/480p.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport", Viju+ Sport HD
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/720p.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport", Viju+ Sport Full HD
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
+#EXTINF:-1 group-title="Спортивные", Бокс ТВ
+  http://hlstv.kem.211.ru/239.211.211.14/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="box-tv", Бокс ТВ HD
+  http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные", Матч Премьер
+  http://streamer1.ruslanatv.ru/russia/match_premier_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч Премьер HD
+  http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч Премьер HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
+#EXTINF:-1 group-title="Спортивные", Матч!
+  http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! 🟥
+  http://127.0.0.1:6878/hls/r/0a04b9a0fc12bd86ccdf8a9166255951d23ac30e/c25f3fe6713c9978311a31a1afa040c5.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! HD
+  http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 group-title="Спортивные", Матч! HD 🟥
+  http://127.0.0.1:6878/hls/r/fae62ebb8af40bf0df6551307b0dcdc101408f27/2956e2b34a3806e7b161f258c7e3e7d1.m3u8  
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv", Матч! Full HD
+  http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv", Матч! Full HD 🟥
+  http://127.0.0.1:6878/ace/m/f69b2859510dce33b992dd1940f95254c6e6f51c/7d83256f035711468367aec67d4e1426.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Арена
+  http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Арена HD
+  http://bl.uma.media/live/126868/HLS/16128000_4/4/4/playlist.m3u8?v2.MdSdyTZAoFTbeN9TXhzoXkkVKn-L4OZ5dklViX_htFY.SedCYPGao43JYRE8hSw6CKCv9ZDSKUpGts5Cq2Ufo8E.1678549058.4800c174b1238131dc4a64c3a8562cc0
+#EXTINF:-1 group-title="Спортивные", Матч! Арена HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
+#EXTINF:-1 group-title="Спортивные", Матч! Боец
+  http://streamer1.ruslanatv.ru/russia/match_boets_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-boets", Матч! Боец HD
+  http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-boets", Матч! Боец HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&.mp4
+#EXTINF:-1 group-title="Спортивные", Матч! Игра
+  https://federaltv-migra.cdnvideo.ru/migra/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Игра HD
+  http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Игра HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
+#EXTINF:-1 group-title="Спортивные", Матч! Планета
+  http://bl.uma.media/live/126869/HLS/1258291_3/4/4/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Планета 🟥   
+  http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af&.mp4
+#EXTINF:-1 group-title="Спортивные", Матч! Страна
+  http://streamer1.ruslanatv.ru/russia/match_strana_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-nash-sport", Матч! Страна HD
+  https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-nash-sport", Матч! Страна HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&.mp4
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 1
+  http://streamer1.ruslanatv.ru/russia/match_futbol_1_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 1 HD
+  http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 1 HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2
+  http://streamer1.ruslanatv.ru/russia/match_futbol_2_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2 HD
+  http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2 HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&.mp4
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 3
+  http://streamer1.ruslanatv.ru/russia/match_futbol_3_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 3 HD
+  http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 3 HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&.mp4
+#EXTINF:-1 group-title="Спортивные", Мир Баскетбола
+  http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Мир Баскетбола 🟥
+  http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
+#EXTINF:-1 group-title="Спортивные", Спортивный 🟥
+  http://127.0.0.1:6878/ace/m/30cf0f8140006a03d60a4639c623f024b4e167ed/bf48f23b4e80d28642db161d27a93abe.m3u8
+#EXTINF:-1 group-title="Спортивные", Старт
+  http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
+#EXTINF:-1 group-title="Спортивные", Старт Триумф
+  https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
+#EXTINF:-1 group-title="Спортивные", Удар
+  http://176.222.190.76/btv/SWM/udar_hd/udar_hd.m3u8
+#EXTINF:-1 group-title="Спортивные", Футбол
+  http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Футбол HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd&.mp4
+#EXTINF:-1 group-title="Спортивные", Футбольный 🟥
+  http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f&.mp4
+#EXTINF:-1 group-title="Спортивные", Хоккейный 🟥 
+  http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857&.mp4
+#EXTINF:-1 group-title="Кино", 1+2
+  http://89.254.128.5:22280/1_2/mono.m3u8
+#EXTINF:-1 group-title="Кино", A1
+  http://okkotv-live.cdnvideo.ru/channel/A1_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино", A1 HD
+  http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино", A1 HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82&.mp4
+#EXTINF:-1 group-title="Кино", A2
+  http://okkotv-live.cdnvideo.ru/channel/A2_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино", A2 HD
+  http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино", A2 HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&.mp4
+#EXTINF:-1 group-title="Кино", Amedia Hit
+  http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино", Amedia Hit HD
+  http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино", Amedia Hit HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&.mp4
+#EXTINF:-1 group-title="Кино", Amedia Premium HD
+  http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+#EXTINF:-1 group-title="Кино", Amedia Premium HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2&.mp4
+#EXTINF:-1 group-title="Кино", BackusTV
+  http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 group-title="Кино", BackusTV Dark
+  http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 group-title="Кино", .black
+  https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+#EXTINF:-1 group-title="Кино", .black 🟥
+  http://127.0.0.1:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&.mp4
+#EXTINF:-1 group-title="Кино", Bollywood HD
+  http://176.222.190.76/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+#EXTINF:-1 group-title="Кино", Bollywood HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&.mp4
+#EXTINF:-1 group-title="Кино" tvg-id="bolt-ru", Bolt
+  https://okkotv
