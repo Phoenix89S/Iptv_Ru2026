@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="channel1" tvg-name="Первый канал" tvg-logo="url_to_logo" group-title="Federal",Первый канал
-http://stream-url/first_channel
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 #EXTINF:-1 tvg-id="channel2" tvg-name="Россия 1" tvg-logo="url_to_logo" group-title="Federal",Россия 1
 http://stream-url/russia1
 #EXTINF:-1 tvg-id="channel3" tvg-name="НТВ" tvg-logo="url_to_logo" group-title="Federal",НТВ
