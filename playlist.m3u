@@ -1,19 +1,45 @@
 #EXTM3U
-#EXTINF:-1,Первый канал
-http://example.com/first_channel
-#EXTINF:-1,Россия 1
-http://example.com/russia1
-#EXTINF:-1,НТВ
-http://example.com/ntv
-#EXTINF:-1,СТС
-http://example.com/sts
-#EXTINF:-1,ТНТ
-http://example.com/tnt
-#EXTINF:-1,Рен ТВ
-http://example.com/ren
-#EXTINF:-1,Мир
-http://example.com/mir
-#EXTINF:-1,Пятый канал
-http://example.com/pятый_канал
-#EXTINF:-1,ОТР
-http://example.com/otr
+#EXTINF:-1 tvg-id="channel1" tvg-name="Первый канал" tvg-logo="url_to_logo" group-title="Federal",Первый канал
+http://stream-url/first_channel
+#EXTINF:-1 tvg-id="channel2" tvg-name="Россия 1" tvg-logo="url_to_logo" group-title="Federal",Россия 1
+http://stream-url/russia1
+#EXTINF:-1 tvg-id="channel3" tvg-name="НТВ" tvg-logo="url_to_logo" group-title="Federal",НТВ
+http://stream-url/ntv
+#EXTINF:-1 tvg-id="channel4" tvg-name="СТС" tvg-logo="url_to_logo" group-title="Federal",СТС
+http://stream-url/sts
+#EXTINF:-1 tvg-id="channel5" tvg-name="ТНТ" tvg-logo="url_to_logo" group-title="Federal",ТНТ
+http://stream-url/tnt
+#EXTINF:-1 tvg-id="channel6" tvg-name="Рен ТВ" tvg-logo="url_to_logo" group-title="Federal",Рен ТВ
+http://stream-url/ren_tv
+#EXTINF:-1 tvg-id="channel7" tvg-name="Мир" tvg-logo="url_to_logo" group-title="Federal",Мир
+http://stream-url/mir
+#EXTINF:-1 tvg-id="channel8" tvg-name="ОТР" tvg-logo="url_to_logo" group-title="Federal",ОТР
+http://stream-url/otr
+#EXTINF:-1 tvg-id="channel9" tvg-name="Пятый канал" tvg-logo="url_to_logo" group-title="Federal",Пятый канал
+http://stream-url/pjatyj_kanal
+#EXTINF:-1 tvg-id="channel10" tvg-name="Домашний" tvg-logo="url_to_logo" group-title="Federal",Домашний
+http://stream-url/domashnij
+#EXTINF:-1 tvg-id="channel11" tvg-name="ТВ-3" tvg-logo="url_to_logo" group-title="Federal",ТВ-3
+http://stream-url/tv3
+#EXTINF:-1 tvg-id="channel12" tvg-name="Пикабу" tvg-logo="url_to_logo" group-title="Federal",Пикабу
+http://stream-url/pikabu
+#EXTINF:-1 tvg-id="channel13" tvg-name="Звезда" tvg-logo="url_to_logo" group-title="Federal",Звезда
+http://stream-url/zvezda
+#EXTINF:-1 tvg-id="channel14" tvg-name="Боец" tvg-logo="url_to_logo" group-title="Federal",Боец
+http://stream-url/boec
+#EXTINF:-1 tvg-id="channel15" tvg-name="2x2" tvg-logo="url_to_logo" group-title="Federal",2x2
+http://stream-url/2x2
+#EXTINF:-1 tvg-id="channel16" tvg-name="Амедиа" tvg-logo="url_to_logo" group-title="Federal",Амедиа
+http://stream-url/amedya
+#EXTINF:-1 tvg-id="channel17" tvg-name="Русский роман" tvg-logo="url_to_logo" group-title="Federal",Русский роман
+http://stream-url/russkiy_roman
+#EXTINF:-1 tvg-id="channel18" tvg-name="Киноман" tvg-logo="url_to_logo" group-title="Federal",Киноман
+http://stream-url/kinoman
+#EXTINF:-1 tvg-id="regional_channel1" tvg-name="ТК Красноярск" tvg-logo="url_to_logo" group-title="Regional",ТК Красноярск
+http://stream-url/tk_krasnoyarsk
+#EXTINF:-1 tvg-id="regional_channel2" tvg-name="ТК Новосибирск" tvg-logo="url_to_logo" group-title="Regional",ТК Новосибирск
+http://stream-url/tk_novosibirsk
+#EXTINF:-1 tvg-id="regional_channel3" tvg-name="ТВ Урал" tvg-logo="url_to_logo" group-title="Regional",ТВ Урал
+http://stream-url/tv_ural
+#EXTINF:-1 tvg-id="regional_channel4" tvg-name="СТС Поволжье" tvg-logo="url_to_logo" group-title="Regional",СТС Поволжье
+http://stream-url/sts_povolzhye
