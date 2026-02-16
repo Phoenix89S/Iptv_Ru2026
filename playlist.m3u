@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
+7#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 
 #EXTINF:0,Соловьев Live
 #EXTGRP:Mav Private Production
@@ -2023,4 +2023,9 @@ http://rusradio.hostingradio.ru/rusradio96.aacp
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://iptvx.one/picons/yumor-fm.png" group-title="Радио",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
- 
+
+
+group-title="Региональные: Рыбинск40/RYB.m3u'
+pls='http://dmi3y-tv.ru/iptv/region/ZABAVA_RYB.m3u'
+desc=
+src='http://dmi3y-tv.ru/d-tv/playlist/zabava/region/1'
