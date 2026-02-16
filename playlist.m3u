@@ -2076,7 +2076,11 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://iptvx.one/picons/yumor-fm.png" group-title="Радио",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
 
-
-#EXTINF:-1, Рыбинск 40
-#EXTGRP:Региональные
-http://dmi3y-tv.ru/d-tv/playlist/zabava/region/1.m3u
+#EXTINF:-1 group-title="НТВ-семейство", НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 group-title="НТВ-семейство", НТВ-America
+http://4.59.210.197:8815/udp/127.0.0.1:6003
+#EXTINF:-1 group-title="НТВ-семейство", НТВ-Беларусь
+http://194.158.222.36:6107
+#EXTINF:-1 group-title="НТВ-семейство" tvg-id="ntv-mir", НТВ-Мир
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
