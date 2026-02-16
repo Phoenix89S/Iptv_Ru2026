@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 
 #EXTINF:0,Соловьев Live
 #EXTGRP:Mav Private Production
