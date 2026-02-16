@@ -2076,6 +2076,23 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://iptvx.one/picons/yumor-fm.png" group-title="Радио",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
 
+#EXTINF:0 group-title="Телеканалы Ужасов",Trash HD
+#EXTGRP:Телеканалы Ужасов
+http://s05.wsbof.com/trash-hd/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Телеканалы Ужасов",Страшное HD
+#EXTGRP:Телеканалы Ужасов
+http://s05.wsbof.com/strashnoe-hd/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Телеканалы Ужасов",Шокирующее HD
+#EXTGRP:Телеканалы Ужасов
+http://s05.wsbof.com/shokiruschee-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Телеканалы Ужасов",Киноужас HD
+#EXTGRP:Телеканалы Ужасов
+http://s05.wsbof.com/kinouzhas-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Телеканалы Ужасов",НСТ
+#EXTGRP:Телеканалы Ужасов
+http://s05.wsbof.com/hct/mpegts?token=a0ac444f
+
+
 #EXTINF:-1 group-title="НТВ-семейство", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="НТВ-семейство", НТВ-America
