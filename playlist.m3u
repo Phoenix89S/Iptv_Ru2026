@@ -2301,7 +2301,12 @@ http://s05.wsbof.com/zvezda-plus/mpegts?token=a0ac444f
 #EXTGRP:Звезда
 http://s05.wsbof.com/zvezda-plus-hd/mpegts?token=a0ac444f
 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Ю",№1 Ю
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
+#EXTINF:-1 tvg-id="yu" group-title="Ю",№2 Ю ТВ
+http://stream-msk-09.ott.tricolor.tv/dtv/id247_MSKSG-PVR-1--U/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 
 
 
