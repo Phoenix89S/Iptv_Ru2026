@@ -2202,6 +2202,13 @@ http://194.158.222.36:6107
 #EXTINF:-1 group-title="НТВ" tvg-id="ntv-mir",10. НТВ‑Мир
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="НТВ",11. НТВ (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2&checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="НТВ",12. НТВ (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2&checkedby:iptvcat.com
+
 
 #EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Первый канал",Первый канал
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2&checkedby:iptvcat.com
