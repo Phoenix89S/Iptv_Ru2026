@@ -2212,3 +2212,19 @@ http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/var
 #EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Первый канал",Первый канал (+8)
 http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2&checkedby:iptvcat.com
 
+#EXTINF:0 group-title="Телесемейство 1_TV.ru",Телекафе
+#EXTGRP:Телесемейство 1_TV.ru
+http://s01.wsbof.com/telekafe/mpegts?token=bc805980
+
+
+#EXTINF:0 group-title="Телесемейство 1_TV.ru",Дом Кино
+#EXTGRP:Телесемейство 1_TV.ru
+http://s01.wsbof.com/dom-kino/mpegts?token=bc805980
+
+
+#EXTINF:0 group-title="Телесемейство 1_TV.ru",Дом Кино Премиум HD
+#EXTGRP:Телесемейство 1_TV.ru
+http://s01.wsbof.com/dom-kino-premium-hd/mpegts?token=bc805980
+
+
+
