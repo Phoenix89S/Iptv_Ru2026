@@ -2285,6 +2285,21 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="ТНТ",5 ТНТ4 HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
+#EXTINF:0 group-title="Звезда",1. Звезда
+#EXTGRP:Звезда
+http://s05.wsbof.com/zvezda/mpegts?token=a0ac444f
+
+#EXTINF:0 group-title="Звезда",2. Звезда HD
+#EXTGRP:Звезда
+http://s05.wsbof.com/zvezda-hd-orig/mpegts?token=a0ac444f
+
+#EXTINF:0 group-title="Звезда",3. Звезда Плюс
+#EXTGRP:Звезда
+http://s05.wsbof.com/zvezda-plus/mpegts?token=a0ac444f
+
+#EXTINF:0 group-title="Звезда",4. Звезда Плюс HD
+#EXTGRP:Звезда
+http://s05.wsbof.com/zvezda-plus-hd/mpegts?token=a0ac444f
 
 
 
