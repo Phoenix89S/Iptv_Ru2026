@@ -2235,7 +2235,7 @@ http://s01.wsbof.com/dom-kino-premium-hd/mpegts?token=bc805980
 
 #EXTINF:-1 tvg-id="CarouselInternational.ru@SD" tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="Детские расширенный",2: Карусель International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские расширенный",1: Карусель
+#EXTINF:-0 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские расширенный",1: Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские расширенный",3: Мульт
 http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
@@ -2255,6 +2255,10 @@ http://158.101.222.193:88/georgia_play.php?id=ctctv
 
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="СТС",СТС Love
 http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
+
+#EXTINF:3 tvg-id="STSkids.ru@SD" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="СТС" tvg-position="4",СТС Kids
+http://31.148.48.15/STS_Kids_HD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="ТНТ",1 ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
