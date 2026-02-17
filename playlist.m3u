@@ -2259,6 +2259,13 @@ http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
 #EXTINF:3 tvg-id="STSkids.ru@SD" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="СТС" tvg-position="4",СТС Kids
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 
+#EXTINF:4 tvg-id="STSkids" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="СТС" tvg-position="5",СТС Kids
+http://s01.wsbof.com/ctc-kids/mpegts?token=bc805980
+
+
+#EXTINF:5 tvg-id="STSkids-hd" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="СТС" tvg-position="6",СТС Kids HD
+http://s01.wsbof.com/ctc-kids-hd/mpegts?token=bc805980
+
 
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="ТНТ",1 ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
