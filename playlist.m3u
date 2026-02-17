@@ -2235,6 +2235,10 @@ http://s01.wsbof.com/dom-kino-premium-hd/mpegts?token=bc805980
 
 #EXTINF:-1 tvg-id="CarouselInternational.ru@SD" tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="Детские расширенный",2: Карусель International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские расширенный",1: Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+
+
 
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="СТС",СТС
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9)
