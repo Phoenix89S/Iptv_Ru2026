@@ -2340,5 +2340,101 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 tvg-id="yu" group-title="Ю",№2 Ю ТВ
 http://stream-msk-09.ott.tricolor.tv/dtv/id247_MSKSG-PVR-1--U/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 
+#EXTINF:1 tvg-id="match-tv" tvg-logo="http://epg.it999.ru/logos/match-tv.png" group-title="Все на Матч!", №1 Матч! ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
+
+#EXTINF:2 tvg-id="match-tv" tvg-logo="http://epg.it999.ru/logos/match-tv.png" group-title="Все на Матч!", №2 Матч! HD
+http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MDkyNTYyOSwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMzIwODI5LCJzZXNzaW9uX2lkIjoiNWIwOGJiN2Y1YzM3NDA2ZDdlNjFjYWM0MmJjZTczZDAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qt4uNH0T0O4COAVNFrE95bbTPpPjZ7g2ZsRP6kuI_cQ
+
+
+#EXTINF:3 tvg-id="match-arena" tvg-logo="http://epg.it999.ru/logos/match-arena.png" group-title="Все на Матч!", №3 Матч! Арена
+http://46.8.46.14/arena/index.m3u8
+
+
+#EXTINF:4 tvg-id="match-arena" tvg-logo="http://epg.it999.ru/logos/match-arena.png" group-title="Все на Матч!", №4 Матч! Арена HD
+http://193.111.244.35:7474/matcharena/index.m3u8
+
+
+#EXTINF:5 tvg-id="match-boets" tvg-logo="http://epg.it999.ru/logos/match-boets.png" group-title="Все на Матч!", №5 Матч Боец
+http://91.194.191.241:8081/chid143/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:6 tvg-id="match-boets" tvg-logo="http://epg.it999.ru/logos/match-boets.png" group-title="Все на Матч!", №6 Матч! Боец HD
+http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA4NzI1ODAsImlhdCI6MTc2MDc4NjE4MCwiY2lkIjo2LCJ1aWQiOjk1NTQ2NjU2NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.QwSBXc8h98Pc67oXryvep-5SQFwxCtLiEq6bDxBEdjo&offset=3
+
+
+
+#EXTINF:7 tvg-id="match-igra" tvg-logo="http://epg.it999.ru/logos/match-igra.png" group-title="Все на Матч!", №7 Матч! Игра
+http://91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:8 tvg-id="match-igra" tvg-logo="http://epg.it999.ru/logos/match-igra.png" group-title="Все на Матч!", №8 Матч Игра
+http://46.8.46.14/eurosport/index.m3u8
+
+
+
+#EXTINF:9 tvg-id="match-nash-sport" tvg-logo="http://epg.it999.ru/logos/match-nash-sport.png" group-title="Все на Матч!", №9 Матч Страна
+http://91.194.191.241:8081/chid56/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:10 tvg-id="match-nash-sport" tvg-logo="http://epg.it999.ru/logos/match-nash-sport.png" group-title="Все на Матч!", №10 Матч! Страна
+http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA4NzI1ODAsImlhdCI6MTc2MDc4NjE4MCwiY2lkIjo2LCJ1aWQiOjk1NTQ2NjU2NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.QwSBXc8h98Pc67oXryvep-5SQFwxCtLiEq6bDxBEdjo&offset=3
+
+
+
+#EXTINF:11 tvg-id="match-planeta" tvg-logo="http://epg.it999.ru/logos/match-planeta.png" group-title="Все на Матч!", №11 Матч Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+
+
+
+#EXTINF:12 tvg-id="match-planeta" tvg-logo="http://epg.it999.ru/logos/match-planeta.png" group-title="Все на Матч!", №12 Матч! Планета
+http://tvip.btk.teleos.ru:8081/chid52/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:13 tvg-id="match-premier" tvg-logo="http://epg.it999.ru/logos/match-premier.png" group-title="Все на Матч!", №13 Матч Премьер
+http://91.194.191.241:8081/chid172/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:14 tvg-id="match-premier" tvg-logo="http://epg.it999.ru/logos/match-premier.png" group-title="Все на Матч!", №14 Матч‑Премьер
+http://192.162.64.99:5000/play/a02b/index.m3u8
+
+
+#EXTINF:15 tvg-id="match-premier" tvg-logo="http://epg.it999.ru/logos/match-premier.png" group-title="Все на Матч!", №15 Матч! Премьер
+http://46.8.46.14/premier/index.m3u8
+
+
+#EXTINF:16 tvg-id="match-premier" tvg-logo="http://epg.it999.ru/logos/match-premier.png" group-title="Все на Матч!", №16 Матч Премьер HD
+http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+
+
+#EXTINF:17 tvg-id="match-premier" tvg-logo="http://epg.it999.ru/logos/match-premier.png" group-title="Все на Матч!", №17 Матч! Премьер HD
+https://mhd128.iptv2022.com/p/RyPrvSomOVPqeDHEOAPKJg,1760821223/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+
+
+#EXTINF:18 tvg-id="match-football1" tvg-logo="http://epg.it999.ru/logos/match-football1.png" group-title="Все на Матч!", №18 Матч! Футбол 1
+http://193.111.244.35:7474/matchfut1hd/index.m3u8
+
+
+#EXTINF:19 tvg-id="match-football1" tvg-logo="http://epg.it999.ru/logos/match-football1.png" group-title="Все на Матч!", №19 Матч! Футбол 1 HD
+https://mhd128.iptv2022.com/p/hMvvOY-LfnvL-wLWhMMWMQ,1760821223/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+
+
+#EXTINF:20 tvg-id="match-football2" tvg-logo="http://epg.it999.ru/logos/match-football2.png" group-title="Все на Матч!", №20 Матч! Футбол 2
+http://193.111.244.35:7474/matchfutbol2/index.m3u8
+
+
+#EXTINF:21 tvg-id="match-football2" tvg-logo="http://epg.it999.ru/logos/match-football2.png" group-title="Все на Матч!", №21 Матч! Футбол 2 HD
+https://mhd128.iptv2022.com/p/IzmnOpWz1gCHUTHA_UmUTg,1760821223/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+
+
+#EXTINF:22 tvg-id="match-football3" tvg-logo="http://epg.it999.ru/logos/match-football3.png" group-title="Все на Матч!", №22 Матч! Футбол 3
+http://192.162.64.99:5000/play/a030/index.m3u8
+
+
+#EXTINF:23 tvg-id="match-football3" tvg-logo="http://epg.it999.ru/logos/match-football3.png" group-title="Все на Матч!", №23 Матч! Футбол 3 HD
+https://mhd128.iptv2022.com/p/80P_qp3ZJkcN5wqMzTjKpQ,1760821223/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 
