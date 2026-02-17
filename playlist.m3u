@@ -2187,13 +2187,16 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="НТВ",6. НТВ Право
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="НТВ",7. Неизвестная Россия HD
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group-title="НТВ",9. НТВ Беларусь
 #EXTGRP:НТВ
 http://194.158.222.36:6107
 
-#EXTINF:0 group-title="НТВ",10. НТВ Мир
-#EXTGRP:НТВ
-http://s05.wsbof.com/ntv-mir/mpegts?token=a0ac444f
+#EXTINF:-1 group-title="НТВ" tvg-id="ntv-mir",10. НТВ‑Мир
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 
 #EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Первый канал",Первый канал
