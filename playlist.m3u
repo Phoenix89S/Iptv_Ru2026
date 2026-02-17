@@ -2245,34 +2245,34 @@ http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/gulli-girl.png" group-title="Детский расширенный",6: Gulli Girl
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/gulli-girl.png" group-title="Детские расширенный",6: Gulli Girl
 http://46.8.46.14/Gulli/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="Детский расширенный",7: Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="Детские расширенный",7: Cartoon Network
 http://46.8.46.14/Cartoon_Network/index.m3u8
 
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://iptvx.one/picons/cartoonito.png" group-title="Детский расширенный",8: Cartoonito
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://iptvx.one/picons/cartoonito.png" group-title="Детские расширенный",8: Cartoonito
 http://88.216.112.114/Cartoonito/index.m3u8
 
 
-#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="Детский расширенный",9: Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="Детские расширенный",9: Nickelodeon
 http://46.8.46.14/Nickelodeon/index.m3u8
 
 
-#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru-hd.png" group-title="Детский расширенный",10: Nickelodeon HD
+#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru-hd.png" group-title="Детские расширенный",10: Nickelodeon HD
 http://91.194.191.241:8081/chid401/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="nickelodeon-baltic" tvg-logo="https://iptvx.one/picons/nickelodeon-baltic.png" group-title="Детский расширенный",11: Nickelodeon Baltic
+#EXTINF:-1 tvg-id="nickelodeon-baltic" tvg-logo="https://iptvx.one/picons/nickelodeon-baltic.png" group-title="Детские расширенный",11: Nickelodeon Baltic
 http://tvip.btk.teleos.ru:8081/chid401/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://iptvx.one/picons/nick-jr.png" group-title="Детский расширенный",12: Nick Jr
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://iptvx.one/picons/nick-jr.png" group-title="Детские расширенный",12: Nick Jr
 http://46.8.46.14/nickjr/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/tiji.png" group-title="Детский расширенный",13: TiJi
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/tiji.png" group-title="Детские расширенный",13: TiJi
 http://193.27.209.122/tiji/index.m3u8
 
 
