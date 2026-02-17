@@ -2438,3 +2438,68 @@ http://192.162.64.99:5000/play/a030/index.m3u8
 #EXTINF:23 tvg-id="match-football3" tvg-logo="http://epg.it999.ru/logos/match-football3.png" group-title="Все на Матч!", №23 Матч! Футбол 3 HD
 https://mhd128.iptv2022.com/p/80P_qp3ZJkcN5wqMzTjKpQ,1760821223/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 
+
+# Рок и альтернатива
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png" group-title="Радио",ROCK-FM
+http://nashe1.hostingradio.ru/rock-64.mp3
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Радио",Ultra
+http://nashe1.hostingradio.ru/ultra-64.mp3
+#EXTINF:-1 tvg-logo="https://static.rustore.ru/imgproxy/SnFhQqCbJ3AznrTrDxfWy_NZyV6kmzE93hs6SbyIAF0/preset:vk_og_img/plain/https://static.rustore.ru/apk/2063585983/content/ICON/b6ff122e-15ef-402c-a291-cc5e4378648a.png@webp" group-title="Радио",Наше радио
+http://nashe1.hostingradio.ru/nashespb128.mp3
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-na7xolmax.png" group-title="Радио",Радио на семи холмах
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+#EXTINF:-1 tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/990b009f-8418-4e8c-8ed7-b441eb45a95d.jpg" group-title="Радио",Maximum
+http://maximum.hostingradio.ru/maximum96.aacp
+
+# Поп и хиты
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-dfm.png" group-title="Радио",Радио DFM
+http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png" group-title="Радио",Радио Европа Плюс
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png" group-title="Радио",Русское радио
+http://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 tvg-logo="https://rmg.ru/uploads/2a/f2/225b8111a3efc570844d9f2f5c07.png" group-title="Радио",Хит FM
+http://hitfm.hostingradio.ru/hitfm96.aacp
+#EXTINF:-1 tvg-logo="https://papik.pro/uploads/posts/2021-11/1636211742_65-papik-pro-p-logotipi-radiostantsii-foto-68.png" group-title="Радио",Новое Радио
+http://icecast-newradio.cdnvideo.ru/newradio3
+
+# В дорогу
+#EXTINF:-1  tvg-logo="https://i.podster.fm/img/73541/crop/yes/size/xlarge/73541.jpg" group-title="Радио",Авторадио
+http://ic7.101.ru:8000/v3_1
+#EXTINF:-1  tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-vania.png" group-title="Радио",Радио Ваня
+http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
+
+# Ретро
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=5b7b77d9383829e8e6a7e6ef9f85778f_l-4593053-images-thumbs&n=13" group-title="Радио",Ретро FM
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+
+# Шансон
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-shanson.png" group-title="Радио",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+
+# Новостные
+#EXTINF:-1  tvg-logo="https://топрадио.рф/files/seo_image/24/03/17/65f6ea8c8cc20/vesti-fm_65f6e9787e945.jpg" group-title="Радио",Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Radio_Mayak_logo.svg/1200px-Radio_Mayak_logo.svg.png" group-title="Радио",Радио Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-mir.png" group-title="Радио",Радио Мир
+http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
+
+# Юмор и развлечения
+#EXTINF:-1  tvg-logo="https://москва.рекламанащитах.рф/wp-content/uploads/sites/2/2021/01/jumor.jpg" group-title="Радио",Юмор FM
+#EXTINF:-1 tvg-logo="https://avatars.yandex.net/get-music-content/7548376/4fc124e4.a.18838876-2/m1000x1000?webp=false" group-title="Радио",Comedy Radio
+http://ic7.101.ru:8000/stream/air/mp3/256/99
+
+# Релакс и Джаз
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Radio_Jazz.png" group-title="Радио",Jazz
+http://jazz.streamr.ru/jazz-64.mp3
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=bf370f3289f1e5b37512ea16176fd8f4652c531f-12322312-images-thumbs&n=13" group-title="Радио",Relax FM
+http://ic6.101.ru:8000/stream/air/mp3/256/200
+
+# Детские
+#EXTINF:-1 tvg-logo="https://avatars.yandex.net/get-music-content/4404215/e0c9ebbd.a.10142222-2/m1000x1000" group-title="Радио",Классное радио РДШ
+https://schoolradio.hostingradio.ru:18026/schoolradio128.mp3
+
+
