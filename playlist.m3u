@@ -2255,6 +2255,22 @@ http://158.101.222.193:88/georgia_play.php?id=ctctv
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="СТС",СТС Love
 http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
 
+#EXTM3U
+
+#EXTINF:0 group-title="ТНТ",1 ТНТ
+#EXTGRP:ТНТ
+http://s05.wsbof.com/TNT/mpegts?token=a0ac444f
+#EXTINF:0 group-title="ТНТ",2 ТНТ HD
+#EXTGRP:ТНТ
+http://s05.wsbof.com/tnt-hd-orig/mpegts?token=a0ac444f
+
+
+#EXTINF:0 group-title="ТНТ",4 ТНТ4
+#EXTGRP:ТНТ
+http://s05.wsbof.com/tnt-4/mpegts?token=a0ac444f
+#EXTINF:0 group-title="ТНТ",5 ТНТ4 HD
+#EXTGRP:ТНТ
+http://s05.wsbof.com/tnt4-hd/mpegts?token=a0ac444f
 
 
 
