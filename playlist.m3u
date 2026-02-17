@@ -2257,20 +2257,25 @@ http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
 
 #EXTM3U
 
-#EXTINF:0 group-title="ТНТ",1 ТНТ
-#EXTGRP:ТНТ
-http://s05.wsbof.com/TNT/mpegts?token=a0ac444f
-#EXTINF:0 group-title="ТНТ",2 ТНТ HD
-#EXTGRP:ТНТ
-http://s05.wsbof.com/tnt-hd-orig/mpegts?token=a0ac444f
+#EXTM3U
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="ТНТ",1 ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="ТНТ",2 ТНТ HD
+https://mhd116.iptv2022.com/x/1AaeWgTkRpWO9irTvEp48g,1768334109/streaming/tntott/324/5/tracks-v5a1/mono.m3u8
 
 
-#EXTINF:0 group-title="ТНТ",4 ТНТ4
-#EXTGRP:ТНТ
-http://s05.wsbof.com/tnt-4/mpegts?token=a0ac444f
-#EXTINF:0 group-title="ТНТ",5 ТНТ4 HD
-#EXTGRP:ТНТ
-http://s05.wsbof.com/tnt4-hd/mpegts?token=a0ac444f
+#EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://iptvx.one/picons/tnt-int-eu.png" group-title="ТНТ",3 ТНТ Int.
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="ТНТ",4 ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="ТНТ",5 ТНТ4 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
 
 
