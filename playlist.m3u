@@ -2341,25 +2341,41 @@ http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI
 
 
 
-
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="СТС",СТС
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9)
+#EXTINF:0 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="СТС" tvg-position="1",№1 СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
-#EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="СТС",СТС Int.
+
+#EXTINF:1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="СТС" tvg-position="2",№2 СТС Int.
 http://158.101.222.193:88/georgia_play.php?id=ctctv
 
-#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="СТС",СТС Love
+
+#EXTINF:2 tvg-id="sts-archive" tvg-logo="https://iptvx.one/picons/sts.png" group-title="СТС" tvg-position="3",№3 СТС (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+
+
+#EXTINF:3 tvg-id="sts-pl7-archive" tvg-logo="https://iptvx.one/picons/sts.png" group-title="СТС" tvg-position="4",№4 СТС +7 (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+
+#EXTINF:4 tvg-id="sts-hd" tvg-logo="https://iptvx.one/picons/sts-hd.png" group-title="СТС" tvg-position="5",№5 СТС HD
+http://87.246.54.249:8085/CTC/index.m3u8
+
+
+#EXTINF:5 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="СТС" tvg-position="6",№6 СТС Love
 http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
 
-#EXTINF:3 tvg-id="STSkids.ru@SD" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="СТС" tvg-position="4",СТС Kids
-http://31.148.48.15/STS_Kids_HD/index.m3u8
 
-#EXTINF:4 tvg-id="STSkids" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="СТС" tvg-position="5",СТС Kids
+#EXTINF:6 tvg-id="sts-love-archive" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="СТС" tvg-position="7",№7 СТС Love (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+
+#EXTINF:7 tvg-id="sts-love-pl7-archive" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="СТС" tvg-position="8",№8 СТС Love +7 (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
+
+
+#EXTINF:8 tvg-id="sts-kids" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="СТС" tvg-position="9",№9 СТС Kids
 http://s01.wsbof.com/ctc-kids/mpegts?token=bc805980
 
 
-#EXTINF:5 tvg-id="STSkids-hd" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="СТС" tvg-position="6",СТС Kids HD
+#EXTINF:9 tvg-id="sts-kids-hd" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="СТС" tvg-position="10",№10 СТС Kids HD
 http://s01.wsbof.com/ctc-kids-hd/mpegts?token=bc805980
 
 
