@@ -2827,6 +2827,15 @@ http://dmitry-tv.ddns.net/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
 #EXTINF:-1 group-title="Региональные",tvg-logo="https://epg.one/logo/kaskad24.png", №2 Каскад-24 (Калининград)
 http://dmitry-tv.ddns.net/hls/zabava/region/KLGR/CH_KASKAD.m3u8
 
+#EXTINF:6 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="СТС TEST" tvg-position="7",№7 СТС Love
+http://178.212.71.253:8002/play/a00r/index.m3u8
+
+#EXTINF:7 tvg-id="sts-love-2" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="СТС TEST" tvg-position="8",№8 СТС Love
+http://178.210.3.167:4022/udp/239.192.1.30:1234
+
+
+#EXTINF:8 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="СТС TEST" tvg-position="9",№9 СТС International
+https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 
 
 
