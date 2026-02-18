@@ -2621,8 +2621,10 @@ http://192.162.64.99:5000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda-16" group-title="Живая природа", №16 NationalGeographic HD
 https://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
 
-
-
+#EXTINF:-1 group-title="СТС Детям", СТС Kids
+http://195.26.83.96:7006/play/a00z/index.m3u8
+#EXTINF:-1 group-title="СТС Детям", СТС Kids HD
+http://31.148.48.15/STS_Kids_HD/index.m3u8
 
 
 
