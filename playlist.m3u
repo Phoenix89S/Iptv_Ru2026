@@ -2797,6 +2797,12 @@ http://dmitry-tv.ddns.net/hls/zabava/region/YARL/CH_1YAROSLAVSKIYHD.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/YARL/CH_GTREG.m3u8
 
 
+#EXTINF:-1 group-title="Ярославская область",tvg-logo="https://epg.one/logo/gt_yaroslavl.png", №4 Городской телеканал ГТ
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GT/variant.m3u8
+
+
+
+
 #EXTGRP:Калининградская область
 
 #EXTINF:-1 group-title="Калининградская область",tvg-logo="https://epg.one/logo/zapad24.png", №1 Запад 24 (Калининград)
