@@ -2498,8 +2498,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:3 tvg-id="sts-pl7-archive" tvg-logo="https://iptvx.one/picons/sts.png" group-title="СТС" tvg-position="4",№4 СТС +7 (Архив)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 
-#EXTINF:4 tvg-id="sts-hd" tvg-logo="https://iptvx.one/picons/sts-hd.png" group-title="СТС" tvg-position="5",№5 СТС HD
-http://87.246.54.249:8085/CTC/index.m3u8
+#EXTINF:5 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="СТС" tvg-position="6",№6 СТС Love
+http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE.m3u8
 
 
 #EXTINF:5 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="СТС" tvg-position="6",№6 СТС Love
