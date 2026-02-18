@@ -2837,6 +2837,14 @@ http://178.210.3.167:4022/udp/239.192.1.30:1234
 #EXTINF:8 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="СТС TEST" tvg-position="9",№9 СТС International
 https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 
+#EXTINF:-1 tvg-id="GulliGirl.fr" tvg-name="Gulli Girl" tvg-logo="http://epg.one/logos/gulli_girl.png" group-title="Gulli test", №53 Gulli Girl
+http://185.70.108.136:81/gulli_girl/index.m3u8
+
+#EXTINF:-1 tvg-id="GulliGirl2.fr" tvg-name="Gulli Girl 2" tvg-logo="http://epg.one/logos/gulli_girl2.png" group-title="Gulli test", №54 Gulli Girl 2
+http://46.46.155.138:1234/udp/239.1.1.91:1234
+
+#EXTINF:-1 tvg-id="GulliGirl3.fr" tvg-name="Gulli Girl 3" tvg-logo="http://epg.one/logos/gulli_girl3.png" group-title="Gulli test", №55 Gulli Girl 3
+http://195.69.184.34:8081/gulli_girl/index.m3u8
 
 
 
