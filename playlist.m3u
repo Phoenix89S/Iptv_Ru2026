@@ -2907,6 +2907,88 @@ http://190.2.146.101:80/hls/ntv_america/index.m3u8
 http://82.209.243.10:80/hls/ntv.m3u8
 
 
+# 1. Первый канал (SD) — РТРС №1
+#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",1. Первый канал (SD)
+http://194.8.128.38:8080/ort/playlist.m3u8
+
+# 1.1 Первый канал (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy" group-title="Эфирные ТВ плюс",1.1 Первый канал (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+
+# 2. Россия 1 — РТРС №2
+#EXTINF:-1 tvg-id="2" tvg-logo="http://epg.it99.org/img/2.png" group-title="Эфирные ТВ плюс",2. Россия 1
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+
+# 2.1 Россия 1 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1" group-title="Эфирные ТВ плюс",2.1 Россия 1 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+
+# 3. Матч ТВ (SD) — РТРС №3
+#EXTINF:-1 tvg-id="10" tvg-logo="http://epg.it99.org/img/10.png" group-title="Эфирные ТВ плюс",3. Матч! (SD)
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+# 3.1 Матч ТВ (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="match-tv" group-title="Эфирные ТВ плюс",3.1 Матч! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
+# 4. НТВ — РТРС №4
+#EXTINF:-1 tvg-id="4" tvg-logo="http://epg.it99.org/img/4.png" group-title="Эфирные ТВ плюс",4. НТВ
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+
+# 4.1 НТВ (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ntv" group-title="Эфирные ТВ плюс",4.1 НТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+
+# 5. Пятый канал — РТРС №5
+#EXTINF:-1 tvg-id="5" tvg-logo="http://epg.it99.org/img/5.png" group-title="Эфирные ТВ плюс",5. Пятый канал
+https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+# 5.1 Пятый канал (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru" group-title="Эфирные ТВ плюс",5.1 Пятый канал (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+
+# 6. Россия К — РТРС №6
+#EXTINF:-1 tvg-id="russia-k" tvg-logo="http://epg.it99.org/img/6.png" group-title="Эфирные ТВ плюс",6. Россия К
+http://example.com/russia-k/index.m3u8
+
+# 7. Россия 24 — РТРС №7
+#EXTINF:-1 tvg-id="13" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",7. Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+
+# 7.1 Россия 24 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24" group-title="Эфирные ТВ плюс",7.1 Россия 24 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+
+# 11. Рен ТВ (SD) — РТРС №11
+#EXTINF:-1 tvg-id="11" tvg-logo="http://epg.it99.org/img/11.png" group-title="Эфирные ТВ плюс",11. Рен ТВ (SD)
+http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER
+
+# 21. Суббота! — РТРС №21
+#EXTINF:-1 tvg-id="super" tvg-logo="http://epg.it99.org/img/super.png" group-title="Эфирные ТВ плюс",21. Суббота!
+http://hls2.hd-tv.club/2_super/index.m3u8
+
+# 21.1 Суббота! (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="super" group-title="Эфирные ТВ плюс",21.1 Суббота! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
+# 45. Первый канал HD — РТРС №1 (HD)
+#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",45. Первый канал HD
+http://77.235.1.19:8000/play/a07r/index.m3u8
+
+# 46. Матч ТВ HD — РТРС №3 (HD)
+#EXTINF:-1 tvg-id="10" tvg-logo="http://epg.it99.org/img/10.png" group-title="Эфирные ТВ плюс",46. Матч! HD
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+# 51. Рен ТВ HD — РТРС №11 (HD)
+#EXTINF:-1 tvg-id="11" tvg-logo="http://epg.it99.org/img/11.png" group-title="Эфирные ТВ плюс",51. Рен ТВ HD
+http://178.217.72.66:8080/REN_TV/index.m3u8
+
 
 
 
