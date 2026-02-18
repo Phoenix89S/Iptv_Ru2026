@@ -2845,8 +2845,22 @@ http://46.46.155.138:1234/udp/239.1.1.91:1234
 
 #EXTINF:-1 tvg-id="GulliGirl3.fr" tvg-name="Gulli Girl 3" tvg-logo="http://epg.one/logos/gulli_girl3.png" group-title="Gulli test", №55 Gulli Girl 3
 http://195.69.184.34:8081/gulli_girl/index.m3u8
+---------тестовая врезка------
 
+#EXTINF:-1 tvg-id="kaskad-tv" group-title="ТЕСТ СИММЕТРИИ", [TEST] КАСКАД ТВ (Калининград - Магистраль)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 
+#EXTINF:-1 tvg-id="rybinsk-40" group-title="ТЕСТ СИММЕТРИИ", [TEST] РЫБИНСК-40 (Ярославль - Известия)
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+
+#EXTINF:-1 tvg-id="izvestia" group-title="ТЕСТ СИММЕТРИИ", [TEST] ИЗВЕСТИЯ (Федеральный поток)
+https://cdn-iz.iz.ru/live/iz/playlist.m3u8
+
+#EXTINF:-1 group-title="РЕЗЕРВ (LIME)", КАСКАД ТВ (Резервная линия)
+http://tonline.tv/hls/kaskad_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="РЕЗЕРВ (LIME)", РЫБИНСК-40 (Резервная линия)
+http://tonline.tv/hls/rybinsk_40/playlist.m3u8
 
 
 
