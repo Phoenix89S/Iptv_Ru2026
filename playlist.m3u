@@ -2785,6 +2785,16 @@ http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 group-title="СТС Детям", СТС Kids HD
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 
+#EXTGRP:Ярославская область
+
+#EXTINF:-1 group-title="Ярославская область",tvg-logo="https://epg.one/logo/rybinsk40hd.png", №1 Рыбинск 40 HD 1
+http://dmitry-tv.ddns.net/hls/zabava/region/RYB/CH_RYBINSK40HD.m3u8
+
+#EXTINF:-1 group-title="Ярославская область",tvg-logo="https://epg.one/logo/1yaroslavskiyhd.png", №2 Первый Ярославский HD (Ярославль)
+http://dmitry-tv.ddns.net/hls/zabava/region/YARL/CH_1YAROSLAVSKIYHD.m3u8
+
+#EXTINF:-1 group-title="Ярославская область",tvg-logo="https://epg.one/logo/gtregion.png", №3 ГТ‑Регион (Ярославль)
+http://dmitry-tv.ddns.net/hls/zabava/region/YARL/CH_GTREG.m3u8
 
 
 
