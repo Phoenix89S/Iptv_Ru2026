@@ -2796,14 +2796,29 @@ http://dmitry-tv.ddns.net/hls/zabava/region/YARL/CH_1YAROSLAVSKIYHD.m3u8
 #EXTINF:-1 group-title="Ярославская область",tvg-logo="https://epg.one/logo/gtregion.png", №3 ГТ‑Регион (Ярославль)
 http://dmitry-tv.ddns.net/hls/zabava/region/YARL/CH_GTREG.m3u8
 
-#EXTGRP:Калининградская область
 
+#EXTGRP:Калининградская область
 
 #EXTINF:-1 group-title="Калининградская область",tvg-logo="https://epg.one/logo/zapad24.png", №1 Запад 24 (Калининград)
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
 
 
 #EXTINF:-1 group-title="Калининградская область",tvg-logo="https://epg.one/logo/kaskad24.png", №2 Каскад-24 (Калининград)
+http://dmitry-tv.ddns.net/hls/zabava/region/KLGR/CH_KASKAD.m3u8
+
+#EXTINF:-1 group-title="Калининградская область",tvg-logo="https://epg.one/logo/kaskad24.png", №3 Каскад-24 (Калининград) — Основной поток
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+
+#EXTINF:-1 group-title="Калининградская область",tvg-logo="https://epg.one/logo/kaskad24.png", №4 Каскад-24 (Калининград) — Резервный поток
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KASKAD/bw2000000/variant.m3u8
+
+
+
+#EXTINF:-1 group-title="Региональные",tvg-logo="https://epg.one/logo/zapad24.png", №1 Запад 24 (Калининград)
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
+
+
+#EXTINF:-1 group-title="Региональные",tvg-logo="https://epg.one/logo/kaskad24.png", №2 Каскад-24 (Калининград)
 http://dmitry-tv.ddns.net/hls/zabava/region/KLGR/CH_KASKAD.m3u8
 
 
