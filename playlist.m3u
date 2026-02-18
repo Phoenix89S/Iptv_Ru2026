@@ -2874,6 +2874,30 @@ http://2.132.18.23:80/hls-live/livepkgr/_definst_/1tv_1/1tv_1.m3u8
 
 
 
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-name="RTR-Planeta" tvg-logo="https://vgtrk.ru/images/logo/rtr_planeta.png" group-title="РТР ПЛАНЕТА ЕВРОПА ТЕСТ", [TEST] РТР ПЛАНЕТА (Магистраль ngenix)
+http://rt-planet-htlive.cdn.ngenix.net/hls/CH_PLANET_RTR_EUR/variant.m3u8
+
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-name="RTR-Planeta" group-title="РТР ПЛАНЕТА ЕВРОПА ТЕСТ", [TEST] РТР ПЛАНЕТА (Зеркало VGTRK)
+http://vgtrk.cdnvideo.ru/vgtrk/rtr_planeta_eur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-name="RTR-Planeta" group-title="РТР ПЛАНЕТА ЕВРОПА ТЕСТ", [TEST] РТР ПЛАНЕТА (Адаптивный поток)
+http://hls-m001.cdnvideo.ru/vgtrk-rtr-planeta-eur/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
