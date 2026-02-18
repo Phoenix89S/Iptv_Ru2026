@@ -2900,7 +2900,11 @@ http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf
 #EXTINF:-1 tvg-id="rtr_planeta_cis" tvg-chno="6" tvg-name="RTR-Planeta-CIS" tvg-logo="https://raw.githubusercontent.com/OrbitX-TV/logos/main/rtr_planeta.png" group-title="Эфирные", РОССИЯ РТР HD720 (СНГ) (auto)
 http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
 
+#EXTINF:-1 tvg-id="ntv_america" tvg-logo="https://www.ntv.ru/images/ntv_logo_color.png"group-title="Эфирные", [TEST] НТВ-AMERICA (USA - OTT)
+http://190.2.146.101:80/hls/ntv_america/index.m3u8
 
+#EXTINF:-1 tvg-id="ntv_belarus" tvg-logo="https://www.tvr.by/upload/iblock/d7e/ntv_belarus.png" group-title="Эфирные", [TEST] НТВ-БЕЛАРУСЬ (Минск)
+http://82.209.243.10:80/hls/ntv.m3u8
 
 
 
