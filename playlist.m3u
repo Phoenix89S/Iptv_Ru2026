@@ -2862,7 +2862,15 @@ http://tonline.tv/hls/kaskad_tv/playlist.m3u8
 #EXTINF:-1 group-title="РЕЗЕРВ (LIME)", РЫБИНСК-40 (Резервная линия)
 http://tonline.tv/hls/rybinsk_40/playlist.m3u8
 
+ 
+#EXTINF:-1 tvg-id="1-kanal-evraziya" tvg-name="1-kanal-evraziya" tvg-logo="https://1tv.kz/favicon.ico" group-title="ПЕРВЫЙ ЕВРАЗИЯ ТЕСТ", [TEST] ПЕРВЫЙ КАНАЛ ЕВРАЗИЯ (Основной поток)
+http://31.171.196.25:1935/live/1evraziya/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1-kanal-evraziya" tvg-name="1-kanal-evraziya" group-title="ПЕРВЫЙ ЕВРАЗИЯ ТЕСТ", [TEST] ПЕРВЫЙ КАНАЛ ЕВРАЗИЯ (Резерв ITV)
+https://itv.com.kz/hls/101/index.m3u8
+
+#EXTINF:-1 tvg-id="1-kanal-evraziya" tvg-name="1-kanal-evraziya" group-title="ПЕРВЫЙ ЕВРАЗИЯ ТЕСТ", [TEST] ПЕРВЫЙ КАНАЛ ЕВРАЗИЯ (Адаптивный)
+http://2.132.18.23:80/hls-live/livepkgr/_definst_/1tv_1/1tv_1.m3u8
 
 
 
