@@ -2271,7 +2271,45 @@ http://tvip.btk.teleos.ru:8081/chid401/mono.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://iptvx.one/picons/nick-jr.png" group-title="Детские расширенный",12: Nick Jr
 http://46.8.46.14/nickjr/index.m3u8
 
+#EXTINF:-1 group-title="Детские расширенный", №13 В гостях у сказки
+http://178.217.72.66:8080/Black/index.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №14 Детский мир
+http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №15 Детский мир HD
+http://178.217.72.66:8080/Detskiy_Mir/index.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №16 Детское кино Int.
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №17 Капитан Фантастика HD
+http://178.163.117.7:4022/udp/234.0.0.152:2000
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские расширенный" tvg-id="karusel", №18 Карусель (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские расширенный" tvg-id="karusel-pl7", №19 Карусель +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №20 Карусель
+https://streaming.goodstream.cyou/live/232.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №21 Карусель Int.
+http://87.246.54.249:8085/Karusel/index.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №22 Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №23 Мамонтенок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №24 Мульт
+http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
+#EXTINF:-1 group-title="Детские расширенный", №25 Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №26 Мультиландия
+http://77.235.1.19:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №27 Мультиландия HD
+http://178.217.72.66:8080/multilandiya/index.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №28 Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские расширенный", №29 Мультимузыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 
+
+--- дубли---
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/tiji.png" group-title="Детские расширенный",13: TiJi
 http://193.27.209.122/tiji/index.m3u8
 
@@ -2322,7 +2360,7 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://epg.iptvx.one/picons/multimania-lv.png" group-title="Детский расширенный",25: Детский телеканал Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-
+------- 
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://epg.iptvx.one/picons/eralash.png" group-title="Детский расширенный",26: Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
