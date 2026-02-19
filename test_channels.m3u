@@ -240,13 +240,28 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KARUSEL_HD/variant.m3u8
 
-
-
-
-# 31. Карусель HD — РТРС №8 (HD)
-#EXTINF:-1 tvg-id="karusel" tvg-logo="http://epg.it99.org/img/8.png" group-title="Эфирные ТВ плюс",31. Карусель HD
+# 32. ОТР HD — HD-версия РТРС №9
+#EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr_hd.png" group-title="Эфирные ТВ плюс",32. ОТР HD
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KARUSEL_HD/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_OTR_HD/variant.m3u8
+
+# 33. ТВ Центр HD — HD-версия РТРС №10
+#EXTINF:-1 tvg-id="tvc" tvg-logo="https://iptvx.one/picons/tvc_hd.png" group-title="Эфирные ТВ плюс",33. ТВ Центр HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TVC_HD/variant.m3u8
+
+# 34. Рен ТВ HD — HD-версия РТРС №11
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv_hd.png" group-title="Эфирные ТВ плюс",34. Рен ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RENTV_HD/variant.m3u8
+
+# 34.1 Рен ТВ Int. — Международная версия
+#EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Эфирные ТВ плюс",34.1 Рен ТВ Int.
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+
+
+
+
 
 
 
