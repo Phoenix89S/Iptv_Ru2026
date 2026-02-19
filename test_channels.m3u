@@ -157,14 +157,24 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-logo="http://epg.it99.org/img/20.png" group-title="Эфирные ТВ плюс",20. Муз-ТВ
 http://5.180.182.79:80/play/Oc7vxL5V7t8lWGeeVlPNO8cEaChcdSMs4k4o0zzZ3mA/m3u8
 
-# 21. Суббота! — РТРС №21
-#EXTINF:-1 tvg-id="super" tvg-logo="http://epg.it99.org/img/super.png" group-title="Эфирные ТВ плюс",21. Суббота!
+# 21. Запад 24 (Калининград) — Кнопка 21
+#EXTINF:-1 tvg-id="zapad24" tvg-logo="https://epg.one/logo/zapad24.png" group-title="Эфирные ТВ плюс",21. Запад 24 (Калининград)
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
+
+# 22. Каскад-24 (Калининград) — Кнопка 22
+#EXTINF:-1 tvg-id="kaskad" tvg-logo="https://epg.one/logo/kaskad24.png" group-title="Эфирные ТВ плюс",22. Каскад-24 (Калининград)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+
+# 23. Суббота! — Кнопка 23
+#EXTINF:-1 tvg-id="super" tvg-logo="http://epg.it99.org/img/super.png" group-title="Эфирные ТВ плюс",23. Суббота!
 http://hls2.hd-tv.club/2_super/index.m3u8
 
-# 21.1 Суббота! (Архив)
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="super" tvg-logo="http://epg.it99.org/img/super.png" group-title="Эфирные ТВ плюс",21.1 Суббота! (Архив)
+# 23.1 Суббота! (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="super" tvg-logo="http://epg.it99.org/img/super.png" group-title="Эфирные ТВ плюс",23.1 Суббота! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
 
 # 45. Первый канал HD — РТРС №1 (HD)
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",45. Первый канал HD
