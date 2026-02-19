@@ -193,14 +193,14 @@ http://178.124.153.123:44400/stskids.m3u8
 
 #------Тестовый набор канала солнце 
 
-#EXTINF:-1 tvg-id="solntse-kld" tvg-logo="https://iptvx.one/picons/solntse.png" group-title="Солнце -тест", Солнце (Калининград -1)
-http://itv.rt.ru/hls/CH_SOLNTSE_MSK_MINUS_1/variant.m3u8
+#EXTINF:-1 tvg-id="solntse-kld" tvg-logo="https://iptvx.one/picons/solntse.png" group-title="Солнце -тест", Солнце (Alt-1)
+https://limehd.online/solntse_kld/index.m3u8
 
-#EXTINF:-1 tvg-id="solntse-kld" tvg-logo="https://iptvx.one/picons/solntse.png" group-title="Солнце -тест", Солнце 2(Калининград -1)
-http://otttv.msk.itv.rt.ru/hls/CH_SOLNTSE_MSK_MINUS_1/variant.m3u8
+#EXTINF:-1 tvg-id="solntse-kld" tvg-logo="https://iptvx.one/picons/solntse.png" group-title="Солнце -тест", Солнце (Alt-2)
+https://cdn-1.vsetv.com/hls/solntse/index.m3u8
 
-#EXTINF:-1 tvg-id="solntse-kld" tvg-logo="https://iptvx.one/picons/solntse.png" group-title="Солнце -тест", Солнце (Backup CDN)
-https://mhd.iptv2022.com/edge/solntse_kaliningrad/index.m3u8
+#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="Детские", СТС Kids HD (Public)
+https://hls.tv/stskids/index.m3u8
 
 
 
