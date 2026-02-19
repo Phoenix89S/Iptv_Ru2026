@@ -116,12 +116,13 @@ http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER
 # 12. Спас — РТРС №12
 #EXTINF:-1 tvg-id="spas" tvg-logo="http://epg.it99.org/img/12.png" group-title="Эфирные ТВ плюс",12. Спас
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_ZK/variant.m3u8
+https://hls-01-spbtv.media.itv.re/hls/spas/index.m3u8
 
 # 13. СТС — РТРС №13
 #EXTINF:-1 tvg-id="sts" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",13. СТС
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+https://ctc-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ctc/tracks-v1a1/mono.m3u8
+
 
 # 14. Домашний — РТРС №14
 #EXTINF:-1 tvg-id="domashniy" tvg-logo="http://epg.it99.org/img/14.png" group-title="Эфирные ТВ плюс",14. Домашний
