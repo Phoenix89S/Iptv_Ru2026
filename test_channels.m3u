@@ -203,6 +203,9 @@ https://cdn-1.vsetv.com/hls/solntse/index.m3u8
 https://hls.tv/stskids/index.m3u8
 
 
+#EXTINF:-1 tvg-id="solnce" tvg-name="Солнце" tvg-logo="https://www.epg.one/logo/solnce.png" group-title="Детские",Солнце
+https://vcdn.solnce.tv/hls/solnce/playlist.m3u8
+
 
 
 
