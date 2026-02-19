@@ -2796,6 +2796,9 @@ http://dmitry-tv.ddns.net/hls/zabava/region/YARL/CH_1YAROSLAVSKIYHD.m3u8
 #EXTINF:-1 group-title="Ярославская область",tvg-logo="https://epg.one/logo/gtregion.png", №3 ГТ‑Регион (Ярославль)
 http://dmitry-tv.ddns.net/hls/zabava/region/YARL/CH_GTREG.m3u8
 
+#EXTINF:-1,Городской телеканал (Ярославль)
+group-title="Ярославская область",tvg-logo="https://epg.one/logo/gtregion.png", №5 ГТ‑Регион (Ярославль)
+http://www.gtk.tv/hls/gtyar.m3u8
 
 #EXTINF:-1 group-title="Ярославская область",tvg-logo="https://epg.one/logo/gt_yaroslavl.png", №4 Городской телеканал ГТ
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GT/variant.m3u8
