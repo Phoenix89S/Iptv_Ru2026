@@ -206,8 +206,13 @@ https://hls.tv/stskids/index.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-name="Солнце" tvg-logo="https://www.epg.one/logo/solnce.png" group-title="Детские",Солнце
 https://vcdn.solnce.tv/hls/solnce/playlist.m3u8
 
+#--------третий мультиплекс тест----
 
+#EXTINF:-1 tvg-id="fan" tvg-name="FAN" tvg-logo="https://www.epg.one/logo/fan.png" group-title="3-й мультиплекс Москва",FAN
+https://otttv.msk.ru/hls/fan/index.m3u8
 
+#EXTINF:-1 tvg-id="fan" tvg-name="FAN" tvg-logo="https://www.epg.one/logo/fan.png" group-title="3-й мультиплекс Москва",FAN
+https://vcdn.24h.tv/v1/2/1/123/playlist.m3u8
 
 
 
