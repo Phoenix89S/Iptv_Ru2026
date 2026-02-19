@@ -177,3 +177,25 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 # 51. Рен ТВ HD — РТРС №11 (HD)
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it99.org/img/11.png" group-title="Эфирные ТВ плюс",51. Рен ТВ HD
 http://178.217.72.66:8080/REN_TV/index.m3u8
+
+
+#-----Тестовый набор СТС Кидс ---------
+
+#EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские", СТС Kids HD (Main)
+http://178.124.153.123:44400/stskidshd.m3u8
+
+#EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские", СТС Kids HD (Backup)
+http://cdn.itv.live/stskidshd/index.m3u8
+
+#EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские", СТС Kids (SD)
+http://178.124.153.123:44400/stskids.m3u8
+
+
+
+
+
+
+
+
+
+
