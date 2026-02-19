@@ -167,8 +167,9 @@ http://dmitry-tv.ddns.net/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 
 # 23. Суббота! — Кнопка 23
-#EXTINF:-1 tvg-id="super" tvg-logo="http://epg.it99.org/img/super.png" group-title="Эфирные ТВ плюс",23. Суббота!
-https://mhd116.iptv2022.com/x/TRPVpkfeVEygBwIzv_u-2w,1768334109/streaming/superott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Эфирные ТВ плюс",23. Суббота!
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
 # 23.1 Суббота! (Архив)
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="super" tvg-logo="http://epg.it99.org/img/super.png" group-title="Эфирные ТВ плюс",23.1 Суббота! (Архив)
