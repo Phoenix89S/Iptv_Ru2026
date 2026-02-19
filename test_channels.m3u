@@ -218,6 +218,37 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_HD/variant.m3u8
 
+# 28.1 Известия HD — Семейство Пятого канала
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Эфирные ТВ плюс",28.1 Известия HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_IZVESTIA_HD/variant.m3u8
+
+# 28.2 78 Канал HD — Семейство Пятого канала (СПб/Регионы)
+#EXTINF:-1 tvg-id="78" tvg-logo="https://iptvx.one/picons/78.png" group-title="Эфирные ТВ плюс",28.2 78 Канал HD
+http://78.ru/live/playlist.m3u8
+
+# 29. Россия К HD — РТРС №6 (HD)
+#EXTINF:-1 tvg-id="6" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Эфирные ТВ плюс",29. Россия К HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+
+# 30. Россия 24 HD — РТРС №7 (HD)
+#EXTINF:-1 tvg-id="russia24" tvg-logo="https://iptvx.one/picons/russia24.png" group-title="Эфирные ТВ плюс",30. Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+
+# 31. Карусель HD — РТРС №8 (HD)
+#EXTINF:-1 tvg-id="karusel" tvg-logo="http://epg.it99.org/img/8.png" group-title="Эфирные ТВ плюс",31. Карусель HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KARUSEL_HD/variant.m3u8
+
+
+
+
+# 31. Карусель HD — РТРС №8 (HD)
+#EXTINF:-1 tvg-id="karusel" tvg-logo="http://epg.it99.org/img/8.png" group-title="Эфирные ТВ плюс",31. Карусель HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KARUSEL_HD/variant.m3u8
+
+
 
 
 # 45. Первый канал HD — РТРС №1 (HD)
