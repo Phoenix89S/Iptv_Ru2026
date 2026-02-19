@@ -82,7 +82,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 # 6. Россия К — РТРС №6
 #EXTINF:-1 tvg-id="6" tvg-logo="http://epg.it99.org/img/6.png" group-title="Эфирные ТВ плюс",6. Россия К
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russiak-sd/index.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/21/index.m3u8
 
 # 7. Россия 24 — РТРС №7
 #EXTINF:-1 tvg-id="russia24" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",7. Россия 24
