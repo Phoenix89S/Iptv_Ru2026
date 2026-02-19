@@ -86,7 +86,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russiak-sd/index.m3u8
 
 # 7. Россия 24 — РТРС №7
 #EXTINF:-1 tvg-id="russia24" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",7. Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/21/index.m3u8
+
 
 # 7.1 Россия 24 (Архив)
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="russia24" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",7.1 Россия 24 (Архив)
