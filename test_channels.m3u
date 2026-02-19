@@ -30,3 +30,145 @@ http://free.iptv.video:8081/live/1ch_europe.m3u8
 #EXTINF:-1 tvg-id="1tv-ge" tvg-logo="https://epg.one/logo/1tv-ge.png" group-title="Общие", Первый канал Европа (Backup 3 - HLS)
 https://stream.free-iptv.com/live/111.m3u8
 
+
+# --- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС ---
+
+# 1. Первый канал (SD) — РТРС №1
+#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",1. Первый канал (SD)
+http://194.8.128.38:8080/ort/playlist.m3u8
+
+# 1.1 Первый канал (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy" group-title="Эфирные ТВ плюс",1.1 Первый канал (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+
+# 2. Россия 1 — РТРС №2
+#EXTINF:-1 tvg-id="2" tvg-logo="http://epg.it99.org/img/2.png" group-title="Эфирные ТВ плюс",2. Россия 1
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+
+# 2.1 Россия 1 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1" group-title="Эфирные ТВ плюс",2.1 Россия 1 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+
+# 3. Матч ТВ (SD) — РТРС №3
+#EXTINF:-1 tvg-id="10" tvg-logo="http://epg.it99.org/img/10.png" group-title="Эфирные ТВ плюс",3. Матч! (SD)
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+# 3.1 Матч ТВ (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="match-tv" group-title="Эфирные ТВ плюс",3.1 Матч! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
+# 4. НТВ — РТРС №4
+#EXTINF:-1 tvg-id="4" tvg-logo="http://epg.it99.org/img/4.png" group-title="Эфирные ТВ плюс",4. НТВ
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+
+# 4.1 НТВ (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ntv" group-title="Эфирные ТВ плюс",4.1 НТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+
+# 5. Пятый канал — РТРС №5
+#EXTINF:-1 tvg-id="5" tvg-logo="http://epg.it99.org/img/5.png" group-title="Эфирные ТВ плюс",5. Пятый канал
+https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+# 5.1 Пятый канал (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru" group-title="Эфирные ТВ плюс",5.1 Пятый канал (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+
+# 6. Россия К — РТРС №6
+#EXTINF:-1 tvg-id="russia-k" tvg-logo="http://epg.it99.org/img/6.png" group-title="Эфирные ТВ плюс",6. Россия К
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russiak-sd/index.m3u8
+
+# 7. Россия 24 — РТРС №7
+#EXTINF:-1 tvg-id="13" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",7. Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+
+# 7.1 Россия 24 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24" group-title="Эфирные ТВ плюс",7.1 Россия 24 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+
+# 8. Карусель — РТРС №8
+#EXTINF:-1 tvg-id="karusel" tvg-logo="http://epg.it99.org/img/8.png" group-title="Эфирные ТВ плюс",8. Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+
+# 9. ОТР — РТРС №9
+#EXTINF:-1 tvg-id="otr" tvg-logo="http://epg.it99.org/img/9.png" group-title="Эфирные ТВ плюс",9. ОТР
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+# 10. ТВ Центр — РТРС №10
+#EXTINF:-1 tvg-id="tvc" tvg-logo="http://epg.it99.org/img/10.png" group-title="Эфирные ТВ плюс",10. ТВ Центр
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+
+# 11. Рен ТВ (SD) — РТРС №11
+#EXTINF:-1 tvg-id="11" tvg-logo="http://epg.it99.org/img/11.png" group-title="Эфирные ТВ плюс",11. Рен ТВ (SD)
+http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER
+
+# 12. Спас — РТРС №12
+#EXTINF:-1 tvg-id="spas" tvg-logo="http://epg.it99.org/img/12.png" group-title="Эфирные ТВ плюс",12. Спас
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_ZK/variant.m3u8
+
+# 13. СТС — РТРС №13
+#EXTINF:-1 tvg-id="sts" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",13. СТС
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+
+# 14. Домашний — РТРС №14
+#EXTINF:-1 tvg-id="domashniy" tvg-logo="http://epg.it99.org/img/14.png" group-title="Эфирные ТВ плюс",14. Домашний
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+
+# 15. ТВ-3 — РТРС №15
+#EXTINF:-1 tvg-id="tv3" tvg-logo="http://epg.it99.org/img/15.png" group-title="Эфирные ТВ плюс",15. ТВ-3
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+
+# 16. Пятница! — РТРС №16
+#EXTINF:-1 tvg-id="pyatnica" tvg-logo="http://epg.it99.org/img/16.png" group-title="Эфирные ТВ плюс",16. Пятница!
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+
+# 17. Звезда — РТРС №17
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it99.org/img/17.png" group-title="Эфирные ТВ плюс",17. Звезда
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+
+# 18. Мир — РТРС №18
+#EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it99.org/img/18.png" group-title="Эфирные ТВ плюс",18. Мир
+http://5.180.182.79:80/play/Oc7vxL5V7t8lWGeeVlPNO02wKzsZudjG1yOrA61JDSA/m3u8
+
+# 19. ТНТ — РТРС №19
+#EXTINF:-1 tvg-id="tnt" tvg-logo="http://epg.it99.org/img/19.png" group-title="Эфирные ТВ плюс",19. ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+
+# 20. Муз-ТВ — РТРС №20
+#EXTINF:-1 tvg-id="muz-tv" tvg-logo="http://epg.it99.org/img/20.png" group-title="Эфирные ТВ плюс",20. Муз-ТВ
+http://5.180.182.79:80/play/Oc7vxL5V7t8lWGeeVlPNO8cEaChcdSMs4k4o0zzZ3mA/m3u8
+
+# 21. Суббота! — РТРС №21
+#EXTINF:-1 tvg-id="super" tvg-logo="http://epg.it99.org/img/super.png" group-title="Эфирные ТВ плюс",21. Суббота!
+http://hls2.hd-tv.club/2_super/index.m3u8
+
+# 21.1 Суббота! (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="super" group-title="Эфирные ТВ плюс",21.1 Суббота! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
+# 45. Первый канал HD — РТРС №1 (HD)
+#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",45. Первый канал HD
+http://77.235.1.19:8000/play/a07r/index.m3u8
+
+# 46. Матч ТВ HD — РТРС №3 (HD)
+#EXTINF:-1 tvg-id="10" tvg-logo="http://epg.it99.org/img/10.png" group-title="Эфирные ТВ плюс",46. Матч! HD
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+# 51. Рен ТВ HD — РТРС №11 (HD)
+#EXTINF:-1 tvg-id="11" tvg-logo="http://epg.it99.org/img/11.png" group-title="Эфирные ТВ плюс",51. Рен ТВ HD
+http://178.217.72.66:8080/REN_TV/index.m3u8
