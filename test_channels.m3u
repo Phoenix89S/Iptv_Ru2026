@@ -214,7 +214,8 @@ https://otttv.msk.ru/hls/fan/index.m3u8
 #EXTINF:-1 tvg-id="fan" tvg-name="FAN" tvg-logo="https://www.epg.one/logo/fan.png" group-title="3-й мультиплекс Москва",FAN
 https://vcdn.24h.tv/v1/2/1/123/playlist.m3u8
 
-
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg" group-title="General;Undefined",Мир,Мир HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
 
 
 
