@@ -73,7 +73,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 
 # 5. Пятый канал — РТРС №5
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.it99.org/img/5.png" group-title="Эфирные ТВ плюс",5. Пятый канал
-https://hls-01-spbtv.media.itv.re/hls/5tv_web/index.m3u8
+https://strm.yandex.ru/kal/pyatyi/pyatyi0_164.m3u8
 
 # 5.1 Пятый канал (Архив)
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5" tvg-logo="http://epg.it99.org/img/5.png" group-title="Эфирные ТВ плюс",5.1 Пятый канал (Архив)
