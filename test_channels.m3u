@@ -192,6 +192,27 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 #EXTINF:-1 tvg-id="4" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Эфирные ТВ плюс",27. НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 
+# 27.1 НТВ Стиль — Семейство НТВ
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Эфирные ТВ плюс",27.1 НТВ Стиль
+http://cdn2.ntv.ru/th_style/playlist.m3u8
+
+# 27.2 НТВ Хит — Семейство НТВ
+#EXTINF:-1 tvg-id="ntv-hit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Эфирные ТВ плюс",27.2 НТВ Хит
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
+
+# 27.3 НТВ Сериал — Семейство НТВ
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="Эфирные ТВ плюс",27.3 НТВ Сериал
+http://cdn2.ntv.ru/th_serial/playlist.m3u8
+
+# 27.4 НТВ Право — Семейство НТВ
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="Эфирные ТВ плюс",27.4 НТВ Право
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+
+# 27.5 Неизвестная Россия HD — Семейство НТВ
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="Эфирные ТВ плюс",27.5 Неизвестная Россия HD
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+
+
 # 28. Пятый канал HD — HD-версия РТРС №5
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.it99.org/img/5.png" group-title="Эфирные ТВ плюс",28. Пятый канал HD
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
