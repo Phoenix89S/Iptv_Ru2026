@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="1_kanal_evraziya" tvg-name="Первый канал Евразия" tvg-logo="https://raw.githubusercontent.com/frol-aleksan/IPTV/master/logo/1_kanal_evraziya.png" group-title="Test evrasia", Первый канал Евразия (Main Galam)
 https://cdn.galamtv.kz/hls/1_kanal_evraziya/index.m3u8
@@ -17,3 +17,16 @@ http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 
 #EXTINF:-1 tvg-id="1_kanal_evraziya" tvg-name="Первый канал Евразия" tvg-logo="https://raw.githubusercontent.com/frol-aleksan/IPTV/master/logo/1_kanal_evraziya.png" group-title="Test evrasia", Первый канал Евразия (Alt CDN)
 https://s1.idata.uz/stch_temp23/rewind-7200.m3u8
+
+#EXTINF:-1 tvg-id="1tv-ge" tvg-logo="https://epg.one/logo/1tv-ge.png" group-title="Общие", Первый канал Европа (Main)
+https://streaming.thestream.cyou/live/210.m3u8
+
+#EXTINF:-1 tvg-id="1tv-ge" tvg-logo="https://epg.one/logo/1tv-ge.png" group-title="Общие", Первый канал Европа (Backup 1)
+https://cdn.itv.live/1ch_eu/index.m3u8
+
+#EXTINF:-1 tvg-id="1tv-ge" tvg-logo="https://epg.one/logo/1tv-ge.png" group-title="Общие", Первый канал Европа (Backup 2)
+http://free.iptv.video:8081/live/1ch_europe.m3u8
+
+#EXTINF:-1 tvg-id="1tv-ge" tvg-logo="https://epg.one/logo/1tv-ge.png" group-title="Общие", Первый канал Европа (Backup 3 - HLS)
+https://stream.free-iptv.com/live/111.m3u8
+
