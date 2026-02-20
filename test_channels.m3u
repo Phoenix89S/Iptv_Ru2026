@@ -280,6 +280,21 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_OTR_HD/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TVC_HD/variant.m3u8
 
+# 33.1 ТВЦ (Международный) — SD Резерв (Минимальный битрейт)
+#EXTINF:-1 tvg-id="tvc-intl" tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="Эфирные ТВ плюс",33.1 ТВЦ (SD - 360p)
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b682100.m3u8
+
+# 33.2 ТВЦ (Международный) — HD (Оптимальный поток)
+#EXTINF:-1 tvg-id="tvc-intl" tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="Эфирные ТВ плюс",33.2 ТВЦ (HD - 720p)
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+
+# 33.3 ТВЦ (Международный) — FHD (Максимальное качество)
+#EXTINF:-1 tvg-id="tvc-intl" tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="Эфирные ТВ плюс",33.3 ТВЦ (FHD - 1080p)
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b2682100.m3u8
+
+
+
+
 # 34. Рен ТВ HD — HD-версия РТРС №11
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv_hd.png" group-title="Эфирные ТВ плюс",34. Рен ТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
