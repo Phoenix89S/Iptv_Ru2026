@@ -380,13 +380,14 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_U_HD/variant.m3u8
 #EXTINF:-1 tvg-id="u-tv" tvg-logo="https://iptvx.one/picons/u.png" group-title="Эфирные ТВ плюс",43.3 Ю МСК (Резерв)
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
-# 44. RU TV HD — Главный музыкальный (HD)
-#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/rutv_hd.png" group-title="Музыка",44. RU TV HD
+# 44. RU TV HD — Главный музыкальный (HD Полировка)
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/rutv_hd.png" group-title="Эфирные ТВ плюс",44. RU TV HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RUTV_HD/variant.m3u8
 
-# 44.1 RU TV — Основной поток (HQ/SD)
-#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/rutv.png" group-title="Музыка",44.1 RU TV
+# 44.1 RU TV — Основной поток (HQ/SD Резерв)
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/rutv.png" group-title="Эфирные ТВ плюс",44.1 RU TV
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RUTV/variant.m3u8
+
 
 # 45. ДОМ КИНО HD — Золотой фонд кино (HD)
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://iptvx.one/picons/dom_kino_hd.png" group-title="Семейка Первого",45. Дом кино HD
