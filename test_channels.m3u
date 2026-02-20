@@ -690,3 +690,10 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/522/index.m3u8
 
 
 
+#stress test-----
+
+
+#EXTINF:-1 tvg-id="STS" tvg-logo="https://raw.githubusercontent.com/pashazz/common-logos/master/logos/sts.png" group-title="Общие", CTC -mega
+http://87.248.160.8/edge/smil:sts/playlist.m3u8
+
+
