@@ -528,6 +528,22 @@ https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 #EXTINF:-1 tvg-id="rt-india" tvg-logo="https://iptvx.one/picons/rt_india.png" group-title="Эфирные ТВ плюс",47.1 RT India (Stream 2)
 http://103.78.149.54:8000/play/a01s/index.m3u8
 
+# 47.2 RT Russia HD — Основной эфир на русском (HD)
+#EXTINF:-1 tvg-id="rt-russian" tvg-logo="https://iptvx.one/picons/rt_russian_hd.png" group-title="Эфирные ТВ плюс",47.2 RT Russia HD
+https://rt-russian.rttv.com/dvr/rt_russian/playlist.m3u8
+
+# 47.3 RT Russia — Резервный поток (HQ)
+#EXTINF:-1 tvg-id="rt-russian" tvg-logo="https://iptvx.one/picons/rt_russian.png" group-title="Эфирные ТВ плюс",47.3 RT Russia (SD)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RT_RUSSIAN/variant.m3u8
+
+# 47.4 RT Doc Russian HD — Документальный на русском (HD)
+#EXTINF:-1 tvg-id="rt-doc-ru" tvg-logo="https://iptvx.one/picons/rtd_hd.png" group-title="Эфирные ТВ плюс",47.4 RT Doc Russian HD
+https://rt-doc.rttv.com/dvr/rt_doc_rus/playlist.m3u8
+
+# 47.5 RT Doc Russian — Резерв (HQ)
+#EXTINF:-1 tvg-id="rt-doc-ru" tvg-logo="https://iptvx.one/picons/rtd.png" group-title="Эфирные ТВ плюс",47.5 RT Doc Russian (SD)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RT_DOC_RUSSIAN/variant.m3u8
+
 
 
 
