@@ -284,29 +284,146 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_LOVE/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_INTERNATIONAL/variant.m3u8
 
+# 37. ДОМАШНИЙ HD — Основной поток (Полировка)
+#EXTINF:-1 tvg-id="domashniy" tvg-logo="https://iptvx.one/picons/domashniy_hd.png" group-title="Эфирные ТВ плюс",37. Домашний HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_HD/variant.m3u8
 
+# 37.1 Домашний International HD — Международная версия
+#EXTINF:-1 tvg-id="domashniy-international" tvg-logo="https://iptvx.one/picons/domashniy-international.png" group-title="Эфирные ТВ плюс",37.1 Домашний International HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_INT_HD/variant.m3u8
 
+# 38. ТВ-3 HD — Основной поток (Полировка)
+#EXTINF:-1 tvg-id="tv3" tvg-logo="https://iptvx.one/picons/tv3_hd.png" group-title="Эфирные ТВ плюс",38. ТВ-3 HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TV3_HD/variant.m3u8
 
+# 38.1 ТВ-3 — Резервный поток (HQ/SD)
+#EXTINF:-1 tvg-id="tv3" tvg-logo="https://iptvx.one/picons/tv3.png" group-title="Эфирные ТВ плюс",38.1 ТВ-3 (Резерв)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 
+# 38.2 ТВ-3 International — Международная версия
+#EXTINF:-1 tvg-id="tv3-international" tvg-logo="https://iptvx.one/picons/tv3-international.png" group-title="Эфирные ТВ плюс",38.2 ТВ-3 International
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TV3_INT/variant.m3u8
 
+# 39. ПЯТНИЦА! HD — Основной поток (Полировка)
+#EXTINF:-1 tvg-id="friday" tvg-logo="https://iptvx.one/picons/friday_hd.png" group-title="Эфирные ТВ плюс",39. Пятница! HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_PYATNICA_HD/variant.m3u8
 
-#готовится второй мп------
+# 39.1 Пятница! — Резервный поток (HQ/SD)
+#EXTINF:-1 tvg-id="friday" tvg-logo="https://iptvx.one/picons/friday.png" group-title="Эфирные ТВ плюс",39.1 Пятница! (Резерв)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_PYATNICA/variant.m3u8
 
+# 39.2 Пятница! International — Международная версия
+#EXTINF:-1 tvg-id="friday-international" tvg-logo="https://iptvx.one/picons/friday-international.png" group-title="Эфирные ТВ плюс",39.2 Пятница! International
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_PYATNICA_INT/variant.m3u8
 
+# 40. ЗВЕЗДА HD — Основной поток (Полировка)
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda_hd.png" group-title="Эфирные ТВ плюс",40. Звезда HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_HD/variant.m3u8
 
+# 40.1 Звезда Плюс HD — Тематический (История, оружие, техника)
+#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda_plus_hd.png" group-title="Эфирные ТВ плюс",40.1 Звезда Плюс HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_PLUS_HD/variant.m3u8
 
+# 40.2 Звезда Плюс — Резервный поток (HQ)
+#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda_plus.png" group-title="Эфирные ТВ плюс",40.2 Звезда Плюс (Резерв)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_PLUS/variant.m3u8
 
-# 45. Первый канал HD — РТРС №1 (HD)
-#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",45. Первый канал HD
-http://77.235.1.19:8000/play/a07r/index.m3u8
+# 41. МИР HD — Основной поток (Полировка)
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir_hd.png" group-title="Эфирные ТВ плюс",41. Мир HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MIR_HD/variant.m3u8
 
-# 46. Матч ТВ HD — РТРС №3 (HD)
-#EXTINF:-1 tvg-id="match" tvg-logo="http://epg.it99.org/img/10.png" group-title="Эфирные ТВ плюс",46. Матч! HD
-http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+# 41.1 Мир Premium HD — Развлекательный (Кино и шоу)
+#EXTINF:-1 tvg-id="mir-premium" tvg-logo="https://iptvx.one/picons/mir_premium_hd.png" group-title="Эфирные ТВ плюс",41.1 Мир Premium HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MIR_PREMIUM_HD/variant.m3u8
 
-# 51. Рен ТВ HD — РТРС №11 (HD)
-#EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it99.org/img/11.png" group-title="Эфирные ТВ плюс",51. Рен ТВ HD
-http://178.217.72.66:8080/REN_TV/index.m3u8
+# 41.2 Мир 24 HD — Новости СНГ (HD)
+#EXTINF:-1 tvg-id="mir24" tvg-logo="https://iptvx.one/picons/mir24_hd.png" group-title="Эфирные ТВ плюс",41.2 Мир 24 HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MIR24_HD/variant.m3u8
+
+# 41.3 Мир International — Международная версия (HQ)
+#EXTINF:-1 tvg-id="mir-international" tvg-logo="https://iptvx.one/picons/mir-international.png" group-title="Эфирные ТВ плюс",41.3 Мир International
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MIR_INT/variant.m3u8
+
+# 42. ТНТ HD — Основной поток (Полировка)
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt_hd.png" group-title="Эфирные ТВ плюс",42. ТНТ HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT_HD/variant.m3u8
+
+# 42.1 ТНТ International HD — Международная версия (HD)
+#EXTINF:-1 tvg-id="tnt-international" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Эфирные ТВ плюс",42.1 ТНТ International HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT_INT_HD/variant.m3u8
+
+# 42.2 ТНТ4 HD — Золотой фонд юмора (HD)
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4_hd.png" group-title="Эфирные ТВ плюс",42.2 ТНТ4 HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT4_HD/variant.m3u8
+
+# 42.3 ТНТ4 — Резервный поток (HQ)
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Эфирные ТВ плюс",42.3 ТНТ4 (Резерв)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+
+# 42.4 ТНТ International — Резерв (HQ/SD)
+#EXTINF:-1 tvg-id="tnt-international" tvg-logo="https://iptvx.one/picons/tnt_intl.png" group-title="Эфирные ТВ плюс",42.4 ТНТ International (Резерв)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT_INT/variant.m3u8
+
+# 43. МУЗ-ТВ HD — Основной поток (Полировка)
+#EXTINF:-1 tvg-id="muz-tv" tvg-logo="https://iptvx.one/picons/muztv_hd.png" group-title="Эфирные ТВ плюс",43. Муз-ТВ HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MUZ_TV_HD/variant.m3u8
+
+# 43.1 Муз-ТВ — Резервный поток (HQ)
+#EXTINF:-1 tvg-id="muz-tv" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="Эфирные ТВ плюс",43.1 Муз-ТВ (Резерв)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MUZ_TV/variant.m3u8
+
+# 43.2 Ю HD — Развлекательный (HD)
+#EXTINF:-1 tvg-id="u-tv" tvg-logo="https://iptvx.one/picons/u_hd.png" group-title="Эфирные ТВ плюс",43.2 Ю HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_U_HD/variant.m3u8
+
+# 43.3 Ю МСК — Эфир Москва (HQ)
+#EXTINF:-1 tvg-id="u-tv" tvg-logo="https://iptvx.one/picons/u.png" group-title="Эфирные ТВ плюс",43.3 Ю МСК (Резерв)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+
+# 44. RU TV HD — Главный музыкальный (HD)
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/rutv_hd.png" group-title="Музыка",44. RU TV HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RUTV_HD/variant.m3u8
+
+# 44.1 RU TV — Основной поток (HQ/SD)
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/rutv.png" group-title="Музыка",44.1 RU TV
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RUTV/variant.m3u8
+
+# 45. ДОМ КИНО HD — Золотой фонд кино (HD)
+#EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://iptvx.one/picons/dom_kino_hd.png" group-title="Семейка Первого",45. Дом кино HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_DOM_KINO_HD/variant.m3u8
+
+# 45.1 Дом кино Премиум HD — Новинки и хиты (HD)
+#EXTINF:-1 tvg-id="dom-kino-premium" tvg-logo="https://iptvx.one/picons/dom_kino_premium_hd.png" group-title="Семейка Первого",45.1 Дом кино Премиум HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_DOM_KINO_PREM_HD/variant.m3u8
+
+# 45.2 ПОБЕДА HD — Военное кино и история (HD)
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda_hd.png" group-title="Семейка Первого",45.2 Победа HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_POBEDA_HD/variant.m3u8
+
+# 45.3 Музыка Первого HD — Молодежный музыкальный (HD)
+#EXTINF:-1 tvg-id="muzika-pervogo" tvg-logo="https://iptvx.one/picons/muzika_pervogo_hd.png" group-title="Семейка Первого",45.3 Музыка Первого HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MUZIKA_1_HD/variant.m3u8
+
+# 45.4 ВРЕМЯ HD — Биографии и история (HD)
+#EXTINF:-1 tvg-id="vremya" tvg-logo="https://iptvx.one/picons/vremya_hd.png" group-title="Семейка Первого",45.4 Время HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_VREMYA_HD/variant.m3u8
+
+# 45.5 ТЕЛЕКАФЕ HD — Кулинарное искусство (HD)
+#EXTINF:-1 tvg-id="telekafe" tvg-logo="https://iptvx.one/picons/telekafe_hd.png" group-title="Семейка Первого",45.5 Телекафе HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TELEKAFE_HD/variant.m3u8
+
+# 45.6 БОБЕР HD — Ремонт и дизайн (HD)
+#EXTINF:-1 tvg-id="bober" tvg-logo="https://iptvx.one/picons/bober_hd.png" group-title="Семейка Первого",45.6 Бобер HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_BOBER_HD/variant.m3u8
+
+# 45.7 ПОЕХАЛИ! HD — Путешествия по России (HD)
+#EXTINF:-1 tvg-id="poehali" tvg-logo="https://iptvx.one/picons/poehali_hd.png" group-title="Семейка Первого",45.7 Поехали! HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_POEHALI_HD/variant.m3u8
+
+# 45.8 Телеканал О! HD — Детский познавательный (HD)
+#EXTINF:-1 tvg-id="kanal-o" tvg-logo="https://iptvx.one/picons/kanal_o_hd.png" group-title="Семейка Первого",45.8 Телеканал О! HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_O_HD/variant.m3u8
+
 
 
 #-----Тестовый набор СТС Кидс ---------
