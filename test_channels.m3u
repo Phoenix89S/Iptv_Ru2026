@@ -259,6 +259,36 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RENTV_HD/variant.m3u8
 #EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Эфирные ТВ плюс",34.1 Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
+# 35. СПАС HD — Православный телеканал (HD)
+#EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-title="Эфирные ТВ плюс",35. СПАС HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_SPAS_HD/variant.m3u8
+
+# 36. СТС HD — Основной поток (Полировка)
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts_hd.png" group-title="Эфирные ТВ плюс",36. СТС HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_HD/variant.m3u8
+
+# 36.1 СТС Kids HD — Детский (Премиальный фид)
+#EXTINF:-1 tvg-id="sts-kids" tvg-logo="https://iptvx.one/picons/stskids_hd.png" group-title="Эфирные ТВ плюс",36.1 СТС Kids HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_KIDS_HD/variant.m3u8
+
+# 36.2 СТС Love — Сериалы и шоу (HQ)
+#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Эфирные ТВ плюс",36.2 СТС Love
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_LOVE/variant.m3u8
+
+# 36.3 СТС International — Международная версия
+#EXTINF:-1 tvg-id="sts-international" tvg-logo="https://iptvx.one/picons/sts-international.png" group-title="Эфирные ТВ плюс",36.3 СТС International
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_INTERNATIONAL/variant.m3u8
+
+
+
+
+
+
 
 #готовится второй мп------
 
