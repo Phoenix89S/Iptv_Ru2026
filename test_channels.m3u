@@ -777,6 +777,42 @@ https://limehd-edge.cdnvideo.ru/ani/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.9 Ani TV (LIME-SD)
 https://limehd-edge.cdnvideo.ru/ani/tracks-v2a1/mono.m3u8
 
+# 50.10 Ani TV (Global Edge) — Адаптивный поток
+#EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.10 Ani TV (Global-AUTO)
+https://hls-ani-msk.cdnvideo.ru/ani/ani.smil/playlist.m3u8
+
+# 50.11 Ani TV (Alternative Mirror) — Прямой Full HD
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.11 Ani TV (Mirror-FHD)
+https://hls-ani-msk.cdnvideo.ru/ani/ani.smil/chunklist_b4800000.m3u8
+
+# 50.12 Ani TV (Backup Route) — Стабильный SD
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.12 Ani TV (Backup-SD)
+https://hls-ani-msk.cdnvideo.ru/ani/ani.smil/chunklist_b1600000.m3u8
+
+# 50.13 Ani TV (OTT-Platform Source) — Адаптивный
+#EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.13 Ani TV (OTT-AUTO)
+http://serv24.vintera.tv:8081/ani/ani/playlist.m3u8
+
+# 50.14 Ani TV (Mobile Edge) — Адаптивный поток
+#EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.14 Ani TV (Mobile-AUTO)
+https://hls-ani-vlc.cdnvideo.ru/ani/ani.smil/playlist.m3u8
+
+# 50.15 Ani TV (Direct Stream) — High Quality
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.15 Ani TV (Direct-HQ)
+https://hls-ani-vlc.cdnvideo.ru/ani/ani.smil/chunklist_b4800000.m3u8
+
+# 50.16 Ani TV (Mega-Smart) — Резервный поток
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.16 Ani TV (Smart-SD)
+http://smart.stb.sh/ani/index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
