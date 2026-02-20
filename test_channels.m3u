@@ -741,6 +741,21 @@ https://ctc-m-hls.cdnvideo.ru/ctc-m/ctc.smil/chunklist_b5000000.m3u8
 https://ctclove-m-hls.cdnvideo.ru/ctclove-m/ctclove.smil/playlist.m3u8
 
 
+# 50.1 Ani TV — Оригинальный адаптивный поток (AUTO)
+#EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.1 Ani TV (AUTO)
+https://livetv.mtrk-anitv.ru/hls/anitv.m3u8
+
+# 50.2 Ani TV — SD Резерв (Low Bandwidth)
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.2 Ani TV (SD)
+https://livetv.mtrk-anitv.ru/hls/anitv/tracks-v2a1/mono.m3u8
+
+# 50.3 Ani TV — High Definition (FHD)
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.3 Ani TV (FHD)
+https://livetv.mtrk-anitv.ru/hls/anitv/tracks-v1a1/mono.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="STS" tvg-logo="https://raw.githubusercontent.com/pashazz/common-logos/master/logos/sts.png" group-title="Общие", CTC -mega
 http://87.248.160.8/edge/smil:sts/playlist.m3u8
