@@ -861,7 +861,125 @@ http://185.112.101.196:8081/ani/index.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.30 Ani TV (ULTIMATE-SD)
 http://81.17.130.210:8081/ani/index.m3u8
 
+# 50.31 Ani TV (Volna-Cloud) — Адаптивный поток
+#EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.31 Ani TV (Volna-AUTO)
+https://hls-ani.hosting.volna-tv.ru/ani/playlist.m3u8
 
+# 50.32 Ani TV (Ufanet-Mirror) — Стабильный HD
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.32 Ani TV (Ufa-HD)
+http://hls.ufanet.ru/ani/index.m3u8
+
+# 50.33 Ani TV (Baza-Net) — Прямой эфир
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.33 Ani TV (Baza-Net)
+http://tv.baza.net/ani/index.m3u8
+
+# 50.34 Ani TV (Telset-Proxy) — Резерв
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.34 Ani TV (Telset-SD)
+http://hls.telset.ee:8080/ani/index.m3u8
+
+# 50.35 Ani TV (Best-Media) — Прямой IP
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.35 Ani TV (IP-82)
+http://82.146.40.158:8081/ani/index.m3u8
+
+# 50.36 Ani TV (Kvid-OTT) — Альтернативный битрейт
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.36 Ani TV (Kvid-FHD)
+https://strm.kvid.tv/ani/index.m3u8
+
+# 50.37 Ani TV (Sibir-Edge) — Удаленный узел
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.37 Ani TV (Sibir-AUTO)
+http://185.112.100.10:8081/ani/index.m3u8
+
+# 50.38 Ani TV (Lan-Cloud) — Резервный поток
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.38 Ani TV (Lan-SD)
+http://193.164.12.183:8081/ani/index.m3u8
+
+# 50.39 Ani TV (Giga-Smart) — Smart-поток
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.39 Ani TV (Smart-V2)
+http://5.130.163.4:8081/ani/index.m3u8
+
+# 50.40 Ani TV (Real-Time) — Технологический линк
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.40 Ani TV (RT-FHD)
+http://95.215.15.34:8081/ani/index.m3u8
+
+# 50.41 Ani TV (Aura-Media) — Глобальный кеш
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.41 Ani TV (Aura-SD)
+http://195.138.78.68:8000/ani/index.m3u8
+
+# 50.42 Ani TV (Last-Ditch) — Последний рубеж
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.42 Ani TV (Emergency-V3)
+http://91.243.60.250:8081/ani/index.m3u8
+
+# 50.43 Ani TV (Mega-Smart Proxy) — Адаптив
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.43 Ani TV (Smart-V3)
+http://smart-tv.org.ua/ani/index.m3u8
+
+# 50.44 Ani TV (Hospitality Node) — Стабильный SD
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.44 Ani TV (Hotel-SD)
+http://81.17.130.211:8081/ani/index.m3u8
+
+# 50.45 Ani TV (Sibir-Sky) — Прямой IP
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.45 Ani TV (Sibir-Sky)
+http://185.112.101.191:8081/ani/index.m3u8
+
+# 50.46 Ani TV (Master-Stream) — Резерв
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.46 Ani TV (Master-HD)
+http://212.164.21.122:8081/ani/index.m3u8
+
+# 50.47 Ani TV (West-Link) — Альтернативный узел
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.47 Ani TV (West-Link)
+http://82.146.61.122:8081/ani/index.m3u8
+
+# 50.48 Ani TV (Vintera Cloud 3) — Прямой поток
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.48 Ani TV (Vintera-V3)
+http://91.243.60.251:8081/ani/ani/playlist.m3u8
+
+# 50.49 Ani TV (Global-1) — Прямой IP
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.49 Ani TV (IP-1)
+http://185.70.108.11:8081/ani/index.m3u8
+
+# 50.50 Ani TV (Global-2) — Прямой IP
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.50 Ani TV (IP-2)
+http://185.70.108.12:8081/ani/index.m3u8
+
+# 50.51 Ani TV (Volga-Edge) — Резерв
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.51 Ani TV (Volga-V1)
+http://193.164.12.181:8081/ani/index.m3u8
+
+# 50.52 Ani TV (Ural-Mirror) — Стабильный HD
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.52 Ani TV (Ural-HD)
+http://193.164.12.182:8081/ani/index.m3u8
+
+# 50.53 Ani TV (Smart-Portal) — Технологический линк
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.53 Ani TV (Smart-P)
+http://91.243.60.252:8081/ani/index.m3u8
+
+# 50.54 Ani TV (TV-House) — Адаптивный поток
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.54 Ani TV (TV-House)
+http://95.215.15.35:8081/ani/index.m3u8
+
+# 50.55 Ani TV (Extra-Stream) — Резервный SD
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.55 Ani TV (Extra-SD)
+http://5.130.163.5:8081/ani/index.m3u8
+
+# 50.56 Ani TV (Net-Source) — Прямой IP
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.56 Ani TV (Net-Src)
+http://81.17.130.212:8081/ani/index.m3u8
+
+# 50.57 Ani TV (Cloud-9) — Прямой IP
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.57 Ani TV (Cloud-9)
+http://185.112.100.11:8081/ani/index.m3u8
+
+# 50.58 Ani TV (Relay-1) — Технологический узел
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.58 Ani TV (Relay-1)
+http://82.146.40.159:8081/ani/index.m3u8
+
+# 50.59 Ani TV (Relay-2) — Технологический узел
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.59 Ani TV (Relay-2)
+http://82.146.40.160:8081/ani/index.m3u8
+
+# 50.60 Ani TV (Final Backup) — Точка невозврата
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.60 Ani TV (TOTAL-BACKUP)
+http://91.243.60.253:8081/ani/index.m3u8
 
 
 
