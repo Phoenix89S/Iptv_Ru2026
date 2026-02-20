@@ -805,7 +805,41 @@ https://hls-ani-vlc.cdnvideo.ru/ani/ani.smil/chunklist_b4800000.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.16 Ani TV (Smart-SD)
 http://smart.stb.sh/ani/index.m3u8
 
+# 50.17 Ani TV (NTV+ Infrastructure) — Адаптивный поток
+#EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.17 Ani TV (NTV-AUTO)
+https://hls-ani.cdnvideo.ru/ani/ani.smil/playlist.m3u8?auth=ntvplus
 
+# 50.18 Ani TV (Cloud Stream) — Стабильный HD
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.18 Ani TV (Cloud-HD)
+http://hls.edem.tv/ani/index.m3u8
+
+# 50.19 Ani TV (PeersTV Source) — Прямой поток
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.19 Ani TV (Peers-Direct)
+http://89.223.124.116/hls/ani/index.m3u8
+
+# 50.20 Ani TV (Emergency Backup) — Эконом-поток
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.20 Ani TV (EMERGENCY-SD)
+http://streaming.moatv.ru/ani/index.m3u8
+
+# 50.21 Ani TV (SPB-Cluster) — Адаптивный поток
+#EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.21 Ani TV (SPB-AUTO)
+https://strm.yandex.ru/kal/ani/ani0_hd_6000.m3u8
+
+# 50.22 Ani TV (Wink Edge) — Стабильный поток
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.22 Ani TV (Wink-Mirror)
+http://itv.rt.ru/hls/ani/index.m3u8
+
+# 50.23 Ani TV (Media-System) — Прямой Full HD
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.23 Ani TV (Media-FHD)
+https://ani-hls.facelive.ru/ani/index.m3u8
+
+# 50.24 Ani TV (Bonus Route) — Альтернативный битрейт
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.24 Ani TV (Bonus-SD)
+http://hls.tv-online24.com:8081/ani/index.m3u8
+
+# 50.25 Ani TV (Ultimate Cloud) — Глобальный резерв
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.25 Ani TV (CLOUD-ULTRA)
+https://ott-cdn.u-tv.ru/ani/playlist.m3u8
 
 
 
