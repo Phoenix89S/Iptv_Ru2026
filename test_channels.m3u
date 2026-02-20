@@ -529,24 +529,23 @@ http://103.78.149.54:8000/play/a01s/index.m3u8
 https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 
 
-
-# # 47.6 RT News HD — Английская версия (HD Полировка)
+# 47.6 RT News HD — English (Полировка)
 #EXTINF:-1 tvg-id="rt-news" tvg-logo="https://iptvx.one/picons/rt_news_hd.png" group-title="Эфирные ТВ плюс",47.6 RT News HD
 https://rt-eng.rttv.com/dvr/rt_eng/playlist.m3u8
 
-# 47.7 RT News — Английская версия (HQ Резерв)
+# 47.7 RT News — English (HQ Резерв)
 #EXTINF:-1 tvg-id="rt-news" tvg-logo="https://iptvx.one/picons/rt_news.png" group-title="Эфирные ТВ плюс",47.7 RT News
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RT_NEWS/variant.m3u8
 
-# 47.8 RT Arabic HD — Арабская версия (HD)
+# 47.8 RT Arabic HD — Арабский
 #EXTINF:-1 tvg-id="rt-arabic" tvg-logo="https://iptvx.one/picons/rt_arabic_hd.png" group-title="Эфирные ТВ плюс",47.8 RT Arabic HD
 https://rt-ara.rttv.com/dvr/rt_arabic/playlist.m3u8
 
-# 47.9 RT Spanish HD — Испанская версия (HD)
+# 47.9 RT Spanish HD — Испанский
 #EXTINF:-1 tvg-id="rt-spanish" tvg-logo="https://iptvx.one/picons/rt_spanish_hd.png" group-title="Эфирные ТВ плюс",47.9 RT Spanish HD
 https://rt-esp.rttv.com/dvr/rt_spanish/playlist.m3u8
 
-# 47.10 RT Doc English HD — Документалка на английском (HD)
+# 47.10 RT Doc English HD — Документалка (EN)
 #EXTINF:-1 tvg-id="rt-doc-en" tvg-logo="https://iptvx.one/picons/rtd_en_hd.png" group-title="Эфирные ТВ плюс",47.10 RT Doc English HD
 https://rt-doc.rttv.com/dvr/rt_doc_eng/playlist.m3u8
 
