@@ -328,9 +328,10 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_PLUS_HD/variant.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda_plus.png" group-title="Эфирные ТВ плюс",40.2 Звезда Плюс (Резерв)
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_PLUS/variant.m3u8
 
-# 41. МИР HD — Основной поток (Полировка)
+
+# 41. МИР HD — Основной поток (Твоя прямая ссылка)
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir_hd.png" group-title="Эфирные ТВ плюс",41. Мир HD
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MIR_HD/variant.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 # 41.1 Мир Premium HD — Развлекательный (Кино и шоу)
 #EXTINF:-1 tvg-id="mir-premium" tvg-logo="https://iptvx.one/picons/mir_premium_hd.png" group-title="Эфирные ТВ плюс",41.1 Мир Premium HD
