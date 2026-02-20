@@ -456,6 +456,70 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_O/variant.m3u8
 #EXTINF:-1 tvg-id="kanal-o" tvg-logo="https://iptvx.one/picons/kanal-o_hd.png" group-title="Эфирные ТВ плюс",45.15 Телеканал О! HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_O_HD/variant.m3u8
 
+# 46. Россия 1 — Федеральный эфир (HQ)
+#EXTINF:-1 tvg-id="russia1" tvg-logo="https://iptvx.one/picons/rossiya1.png" group-title="Эфирные ТВ плюс",46. Россия 1
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+
+# 46.0 Россия 1 HD — Федеральная полировка
+#EXTINF:-1 tvg-id="russia1" tvg-logo="https://iptvx.one/picons/rossiya1_hd.png" group-title="Эфирные ТВ плюс",46.0 Россия 1 HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_HD/variant.m3u8
+
+# 46.1 Башкортостан 24 — ГТРК «Башкортостан»
+#EXTINF:-1 tvg-id="bashkortostan24" tvg-logo="https://iptvx.one/picons/bashkortostan24.png" group-title="Эфирные ТВ плюс",46.1 Башкортостан 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_BASHKORTOSTAN24/variant.m3u8
+
+# 46.2 Восток 24 — Дальний Восток
+#EXTINF:-1 tvg-id="vostok24" tvg-logo="https://iptvx.one/picons/vostok24.png" group-title="Эфирные ТВ плюс",46.2 Восток 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_VOSTOK_24/variant.m3u8
+
+# 46.3 Арктика 24 — Северные регионы
+#EXTINF:-1 tvg-id="arktika24" tvg-logo="https://iptvx.one/picons/arktika24.png" group-title="Эфирные ТВ плюс",46.3 Арктика 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_ARKTIKA_24/variant.m3u8
+
+# 46.4 Урал 24 — Уральский ФО
+#EXTINF:-1 tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="Эфирные ТВ плюс",46.4 Урал 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_URAL24/variant.m3u8
+
+# 46.5 Нижний Новгород 24 — ГТРК «Нижний Новгород»
+#EXTINF:-1 tvg-id="nizhniynovgorod24" tvg-logo="https://iptvx.one/picons/nizhniynovgorod24.png" group-title="Эфирные ТВ плюс",46.5 Нижний Новгород 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_NN24/variant.m3u8
+
+# 46.6 ЛенТВ 24 — Ленинградская область
+#EXTINF:-1 tvg-id="lentv24" tvg-logo="https://iptvx.one/picons/lentv24.png" group-title="Эфирные ТВ плюс",46.6 ЛенТВ 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_LENTV24/variant.m3u8
+
+# 46.7 СургутИнформТВ — Сургут
+#EXTINF:-1 tvg-id="surgutinformtv" tvg-logo="https://iptvx.one/picons/sitv.png" group-title="Эфирные ТВ плюс",46.7 СургутИнформТВ
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_SITV/variant.m3u8
+
+# 46.8 Краснодар — Региональный канал
+#EXTINF:-1 tvg-id="krasnodar-tv" tvg-logo="https://iptvx.one/picons/krasnodar.png" group-title="Эфирные ТВ плюс",46.8 Краснодар
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TV_KRASNODAR/variant.m3u8
+
+# 46.9 Волгоград 24 — ГТРК «Волгоград-ТРВ»
+#EXTINF:-1 tvg-id="volgograd24" tvg-logo="https://iptvx.one/picons/volgograd24.png" group-title="Эфирные ТВ плюс",46.9 Волгоград 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_VOLGOGRAD24/variant.m3u8
+
+# 46.10 Липецк 24 — Липецкое время
+#EXTINF:-1 tvg-id="lipeckoe-vremya" tvg-logo="https://iptvx.one/picons/lipetsk24.png" group-title="Эфирные ТВ плюс",46.10 Липецк 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_LIPETSK_TIME/variant.m3u8
+
+# 46.11 Лотос 24 — Астраханская область
+#EXTINF:-1 tvg-id="lotos24" tvg-logo="https://iptvx.one/picons/lotos24.png" group-title="Эфирные ТВ плюс",46.11 Лотос 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_LOTOS24/variant.m3u8
+
+# 46.12 Кавказ 24 — Северо-Кавказский ФО
+#EXTINF:-1 tvg-id="kavkaz24" tvg-logo="https://iptvx.one/picons/kavkaz24.png" group-title="Эфирные ТВ плюс",46.12 Кавказ 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KAVKAZ24/variant.m3u8
+
+# 46.13 Запад 24 — Северо-Западный ФО (Родной фид)
+#EXTINF:-1 tvg-id="zapad24" tvg-logo="https://iptvx.one/picons/zapad24.png" group-title="Эфирные ТВ плюс",46.13 Запад 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_ZAPAD24/variant.m3u8
+
+# 46.14 КАСКАД HD — Калининград (Главный региональный)
+#EXTINF:-1 tvg-id="kaskad-tv" tvg-logo="https://iptvx.one/picons/kaskad_hd.png" group-title="Эфирные ТВ плюс",46.14 Каскад HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KASKAD_HD/variant.m3u8
+
 
 
 
