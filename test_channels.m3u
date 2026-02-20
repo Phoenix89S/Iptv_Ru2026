@@ -333,9 +333,9 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_PLUS/variant.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir_hd.png" group-title="Эфирные ТВ плюс",41. Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-# 41.1 Мир Premium HD — Развлекательный (Кино и шоу)
+# 41.1 МИР PREMIUM HD — Развлекательный (Кино и шоу)
 #EXTINF:-1 tvg-id="mir-premium" tvg-logo="https://iptvx.one/picons/mir_premium_hd.png" group-title="Эфирные ТВ плюс",41.1 Мир Premium HD
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MIR_PREMIUM_HD/variant.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
 # 41.2 Мир 24 HD — Новости СНГ (HD)
 #EXTINF:-1 tvg-id="mir24" tvg-logo="https://iptvx.one/picons/mir24_hd.png" group-title="Эфирные ТВ плюс",41.2 Мир 24 HD
