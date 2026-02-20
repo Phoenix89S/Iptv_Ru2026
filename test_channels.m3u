@@ -628,6 +628,8 @@ https://tv-rain-hls.cdnvideo.ru/tvrain/playlist.m3u8
 https://limehd.online/playlist/fan_hd.m3u8
 
 
+#EXTINF:0 group-title="НТВ +",НТВ+ Футбол
+http://212.86.228.87:5027/udp/239.1.0.68:1234
 
 
 
