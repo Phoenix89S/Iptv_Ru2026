@@ -237,8 +237,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
 # 31. Карусель HD — РТРС №8 (HD)
 #EXTINF:-1 tvg-id="karusel" tvg-logo="http://epg.it99.org/img/8.png" group-title="Эфирные ТВ плюс",31. Карусель HD
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KARUSEL_HD/variant.m3u8
+https://live.smotrim.ru/hls/karusel_hd/index.m3u8
 
 # 32. ОТР HD — HD-версия РТРС №9
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr_hd.png" group-title="Эфирные ТВ плюс",32. ОТР HD
