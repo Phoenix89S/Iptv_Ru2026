@@ -672,6 +672,8 @@ https://strm.yandex.ru/kal/match_football_3/match_football_3_hd.m3u8
 
 -----тест тест тест-----
 
+#EXTINF:-1 id="4e75fcac41e07ffac12d48e046d6a30f" tvg-id="ZvezdaPlus.ru" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="Общие", Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 
 
 #EXTINF:-1 type="stream" tvg-id="match-planeta" group-title="спорт", Матч! Планета
