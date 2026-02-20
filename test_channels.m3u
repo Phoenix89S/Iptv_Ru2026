@@ -597,44 +597,36 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist
 
 
 
-#EXTINF:0 group-title="тест",Суббота
-#EXTGRP:тест
-http://s01.wsbof.com/super/mpegts?token=bc805980
-#EXTINF:0 group-title="тест",Суббота HD
-#EXTGRP:тест
-http://s01.wsbof.com/super-hd/mpegts?token=bc805980
+#EXTM3U
 
-#EXTINF:0 group-title="тест",Пятница
-#EXTGRP:тест
-http://s01.wsbof.com/piatnica/mpegts?token=bc805980
-#EXTINF:0 group-title="тест",Пятница HD
-#EXTGRP:тест
-http://s01.wsbof.com/piatnica-hd/mpegts?token=bc805980
+### --- ГРУППА ТЕСТ (ОБНОВЛЕННЫЕ ПОТОКИ) ---
 
-#EXTINF:0 group-title="тест",Мир
-#EXTGRP:тест
-http://s01.wsbof.com/mir/mpegts?token=bc805980
-#EXTINF:0 group-title="тест",Мир HD
-#EXTGRP:тест
-http://s01.wsbof.com/mir-hd/mpegts?token=bc805980
+#EXTINF:-1 group-title="тест" tvg-id="subbotatv",Суббота
+http://stream.mirtv.ru/hls/subbota/index.m3u8
+#EXTINF:-1 group-title="тест" tvg-id="subbotatv",Суббота HD
+http://otttv.msk.ru/hls/subbota_hd/index.m3u8
 
-#EXTINF:0 group-title="тест",Мир 24
-#EXTGRP:тест
-http://s01.wsbof.com/mir-24/mpegts?token=bc805980
-#EXTINF:0 group-title="тест",Мир 24 HD
-#EXTGRP:тест
-http://s01.wsbof.com/mir-24-hd/mpegts?token=bc805980
+#EXTINF:-1 group-title="тест" tvg-id="friday",Пятница
+http://stream.mirtv.ru/hls/friday/index.m3u8
+#EXTINF:-1 group-title="тест" tvg-id="friday",Пятница HD
+http://otttv.msk.ru/hls/friday_hd/index.m3u8
 
-#EXTINF:0 group-title="тест",Дождь
-#EXTGRP:тест
-http://s01.wsbof.com/dozhd/mpegts?token=bc805980
-#EXTINF:0 group-title="тест",Дождь HD
-#EXTGRP:тест
-http://s01.wsbof.com/dozhd-hd/mpegts?token=bc805980
+#EXTINF:-1 group-title="тест" tvg-id="mir",Мир
+http://mirtv-hls.cdnvideo.ru/mirtv-cluster/mir_high.sdp/playlist.m3u8
+#EXTINF:-1 group-title="тест" tvg-id="mir",Мир HD
+http://mirtv-hls.cdnvideo.ru/mirtv-cluster/mirhd_high.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="тест" ,FAN HD
-#EXTGRP:тест
-http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA3MDk4NTksImlhdCI6MTc3MDYyMzQ1OSwiY2lkIjo2LCJ1aWQiOjEwMDIwMjA1NjgsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.sw4xrMO3LvxvYbaZAV8JTo0ilohg6jXeW3WXjugYX0c&offset=10
+#EXTINF:-1 group-title="тест" tvg-id="mir24",Мир 24
+http://mirtv-hls.cdnvideo.ru/mirtv-cluster/mir24_high.sdp/playlist.m3u8
+#EXTINF:-1 group-title="тест" tvg-id="mir24",Мир 24 HD
+http://mirtv-hls.cdnvideo.ru/mirtv-cluster/mir24hd_high.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="тест" tvg-id="tv-rain",Дождь HD (Alt)
+https://tv-rain-hls.cdnvideo.ru/tvrain/playlist.m3u8
+
+#EXTINF:-1 group-title="тест" tvg-id="fanhd",FAN HD
+https://limehd.online/playlist/fan_hd.m3u8
+
 
 
 
