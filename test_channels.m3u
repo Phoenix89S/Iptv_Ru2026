@@ -218,10 +218,9 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_HD/variant.m3u8
 
-# 28.1 Известия HD — Семейство Пятого канала
-#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Эфирные ТВ плюс",28.1 Известия HD
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_IZVESTIA_HD/variant.m3u8
+# 28.1 Известия HD — Информационный (Твоя прямая ссылка)
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia_hd.png" group-title="Эфирные ТВ плюс",28.1 Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 # 28.2 78 Канал HD — Семейство Пятого канала (СПб/Регионы)
 #EXTINF:-1 tvg-id="78" tvg-logo="https://iptvx.one/picons/78.png" group-title="Эфирные ТВ плюс",28.2 78 Канал HD
