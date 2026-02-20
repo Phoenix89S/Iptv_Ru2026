@@ -547,6 +547,19 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RT_DOC_RUSSIAN/variant.m3u8
 
 
 
+
+
+
+
+# 47.11.1 RT France — Поток 1 (DVR)
+#EXTINF:-1 tvg-id="rt-france" tvg-logo="https://iptvx.one/picons/rt_france_hd.png" group-title="Эфирные ТВ плюс",47.11.1 RT France (DVR)
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+
+# 47.11.2 RT France — Поток 2 (Live)
+#EXTINF:-1 tvg-id="rt-france" tvg-logo="https://iptvx.one/picons/rt_france_hd.png" group-title="Эфирные ТВ плюс",47.11.2 RT France (Live)
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+
+
 #-----Тестовый набор СТС Кидс ---------
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские", СТС Kids HD (Main)
