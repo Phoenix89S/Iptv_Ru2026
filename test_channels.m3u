@@ -350,12 +350,18 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_PYATNICA_INT/variant.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda_hd.png" group-title="Эфирные ТВ плюс",40. Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-# 40.1 ЗВЕЗДА ПЛЮС HD — Официальный HD поток 
-#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda_plus_hd.png" group-title="Эфирные ТВ плюс",40.1 Звезда Плюс HD
-https://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-# 40.2 ЗВЕЗДА ПЛЮС — Стандартный поток (SD/HQ Резерв)
-#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda_plus.png" group-title="Эфирные ТВ плюс",40.2 Звезда Плюс (SD)
-https://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+# 40.1 ЗВЕЗДА ПЛЮС — SD Резерв (Минимальная нагрузка)
+#EXTINF:-1 id="zvezda_360" tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda_plus.png" group-title="Эфирные ТВ плюс",40.1 Звезда Плюс (SD - 360p)
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/tracks-v3a1/mono.m3u8
+
+# 40.2 ЗВЕЗДА ПЛЮС HD — Стабильный HD (Оптимально)
+#EXTINF:-1 id="zvezda_720" tvg-id="ZvezdaPlus.ru" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="Эфирные ТВ плюс",40.2 Звезда Плюс HD (720p)
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/tracks-v2a1/mono.m3u8
+
+# 40.3 ЗВЕЗДА ПЛЮС HD — Официальный Full HD (Максимум)
+#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda_plus_hd.png" group-title="Эфирные ТВ плюс",40.3 Звезда Плюс HD (1080p)
+https://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/tracks-v1a1/mono.m3u8
+
 
 # 41. МИР HD — Основной поток (Твоя прямая ссылка)
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir_hd.png" group-title="Эфирные ТВ плюс",41. Мир HD
