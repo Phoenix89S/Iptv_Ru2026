@@ -388,42 +388,75 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RUTV_HD/variant.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/rutv.png" group-title="Эфирные ТВ плюс",44.1 RU TV
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RUTV/variant.m3u8
 
+# 45.0 ПЕРВЫЙ КАНАЛ HD — Главная полировка
+#EXTINF:-1 tvg-id="1tv" tvg-logo="https://iptvx.one/picons/1tv_hd.png" group-title="Эфирные ТВ плюс",45.0 Первый канал HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_1TV_HD/variant.m3u8
 
-# 45. ДОМ КИНО HD — Золотой фонд кино (HD)
-#EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://iptvx.one/picons/dom_kino_hd.png" group-title="Семейка Первого",45. Дом кино HD
+# 45. Дом кино HD — Золотой фонд кинематографа
+#EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://iptvx.one/picons/dom-kino_hd.png" group-title="Эфирные ТВ плюс",45. Дом кино HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_DOM_KINO_HD/variant.m3u8
 
-# 45.1 Дом кино Премиум HD — Новинки и хиты (HD)
-#EXTINF:-1 tvg-id="dom-kino-premium" tvg-logo="https://iptvx.one/picons/dom_kino_premium_hd.png" group-title="Семейка Первого",45.1 Дом кино Премиум HD
+# 45.1 Дом кино Премиум HD — Новинки кино
+#EXTINF:-1 tvg-id="dom-kino-premium" tvg-logo="https://iptvx.one/picons/dom-kino-premium_hd.png" group-title="Эфирные ТВ плюс",45.1 Дом кино Премиум HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_DOM_KINO_PREM_HD/variant.m3u8
 
-# 45.2 ПОБЕДА HD — Военное кино и история (HD)
-#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda_hd.png" group-title="Семейка Первого",45.2 Победа HD
+# 45.2 Победа — Военно-патриотический (HQ)
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Эфирные ТВ плюс",45.2 Победа
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_POBEDA/variant.m3u8
+
+# 45.3 Победа HD — Военно-патриотический (HD)
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda_hd.png" group-title="Эфирные ТВ плюс",45.3 Победа HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_POBEDA_HD/variant.m3u8
 
-# 45.3 Музыка Первого HD — Молодежный музыкальный (HD)
-#EXTINF:-1 tvg-id="muzika-pervogo" tvg-logo="https://iptvx.one/picons/muzika_pervogo_hd.png" group-title="Семейка Первого",45.3 Музыка Первого HD
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MUZIKA_1_HD/variant.m3u8
+# 45.4 Музыка Первого — Молодежный (HQ)
+#EXTINF:-1 tvg-id="muzika-pervogo" tvg-logo="https://iptvx.one/picons/muzika-pervogo.png" group-title="Эфирные ТВ плюс",45.4 Музыка Первого
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MUZIKA_1TV/variant.m3u8
 
-# 45.4 ВРЕМЯ HD — Биографии и история (HD)
-#EXTINF:-1 tvg-id="vremya" tvg-logo="https://iptvx.one/picons/vremya_hd.png" group-title="Семейка Первого",45.4 Время HD
+# 45.5 Музыка Первого HD — Молодежный (HD)
+#EXTINF:-1 tvg-id="muzika-pervogo" tvg-logo="https://iptvx.one/picons/muzika-pervogo_hd.png" group-title="Эфирные ТВ плюс",45.5 Музыка Первого HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MUZIKA_1TV_HD/variant.m3u8
+
+# 45.6 Время — Историко-биографический (HQ)
+#EXTINF:-1 tvg-id="vremya" tvg-logo="https://iptvx.one/picons/vremya.png" group-title="Эфирные ТВ плюс",45.6 Время
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_VREMYA/variant.m3u8
+
+# 45.7 Время HD — Историко-биографический (HD)
+#EXTINF:-1 tvg-id="vremya" tvg-logo="https://iptvx.one/picons/vremya_hd.png" group-title="Эфирные ТВ плюс",45.7 Время HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_VREMYA_HD/variant.m3u8
 
-# 45.5 ТЕЛЕКАФЕ HD — Кулинарное искусство (HD)
-#EXTINF:-1 tvg-id="telekafe" tvg-logo="https://iptvx.one/picons/telekafe_hd.png" group-title="Семейка Первого",45.5 Телекафе HD
+# 45.8 Телекафе — Кулинарный (HQ)
+#EXTINF:-1 tvg-id="telekafe" tvg-logo="https://iptvx.one/picons/telekafe.png" group-title="Эфирные ТВ плюс",45.8 Телекафе
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TELEKAFE/variant.m3u8
+
+# 45.9 Телекафе HD — Кулинарный (HD)
+#EXTINF:-1 tvg-id="telekafe" tvg-logo="https://iptvx.one/picons/telekafe_hd.png" group-title="Эфирные ТВ плюс",45.9 Телекафе HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TELEKAFE_HD/variant.m3u8
 
-# 45.6 БОБЕР HD — Ремонт и дизайн (HD)
-#EXTINF:-1 tvg-id="bober" tvg-logo="https://iptvx.one/picons/bober_hd.png" group-title="Семейка Первого",45.6 Бобер HD
+# 45.10 Бобёр — Дизайн и ремонт (HQ)
+#EXTINF:-1 tvg-id="bober" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Эфирные ТВ плюс",45.10 Бобёр
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_BOBER/variant.m3u8
+
+# 45.11 Бобёр HD — Дизайн и ремонт (HD)
+#EXTINF:-1 tvg-id="bober" tvg-logo="https://iptvx.one/picons/bober_hd.png" group-title="Эфирные ТВ плюс",45.11 Бобёр HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_BOBER_HD/variant.m3u8
 
-# 45.7 ПОЕХАЛИ! HD — Путешествия по России (HD)
-#EXTINF:-1 tvg-id="poehali" tvg-logo="https://iptvx.one/picons/poehali_hd.png" group-title="Семейка Первого",45.7 Поехали! HD
+# 45.12 Поехали! — Путешествия (HQ)
+#EXTINF:-1 tvg-id="poehali" tvg-logo="https://iptvx.one/picons/poehali.png" group-title="Эфирные ТВ плюс",45.12 Поехали!
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_POEHALI/variant.m3u8
+
+# 45.13 Поехали! HD — Путешествия (HD)
+#EXTINF:-1 tvg-id="poehali" tvg-logo="https://iptvx.one/picons/poehali_hd.png" group-title="Эфирные ТВ плюс",45.13 Поехали! HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_POEHALI_HD/variant.m3u8
 
-# 45.8 Телеканал О! HD — Детский познавательный (HD)
-#EXTINF:-1 tvg-id="kanal-o" tvg-logo="https://iptvx.one/picons/kanal_o_hd.png" group-title="Семейка Первого",45.8 Телеканал О! HD
+# 45.14 О! — Детский познавательный (HQ)
+#EXTINF:-1 tvg-id="kanal-o" tvg-logo="https://iptvx.one/picons/kanal-o.png" group-title="Эфирные ТВ плюс",45.14 Телеканал О!
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_O/variant.m3u8
+
+# 45.15 О! HD — Детский познавательный (HD)
+#EXTINF:-1 tvg-id="kanal-o" tvg-logo="https://iptvx.one/picons/kanal-o_hd.png" group-title="Эфирные ТВ плюс",45.15 Телеканал О! HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_O_HD/variant.m3u8
+
+
 
 
 
