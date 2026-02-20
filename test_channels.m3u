@@ -765,6 +765,23 @@ https://hls-ani.cdnvideo.ru/ani/ani.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.6 Ani TV (ALT-FHD)
 https://hls-ani.cdnvideo.ru/ani/ani.smil/chunklist_b4800000.m3u8
 
+# 50.7 Ani TV (Резерв Lime) — Адаптивный поток (AUTO)
+#EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.7 Ani TV (LIME-AUTO)
+https://limehd-edge.cdnvideo.ru/ani/index.m3u8
+
+# 50.8 Ani TV (Резерв Lime) — Стабильный HD (720p)
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.8 Ani TV (LIME-HD)
+https://limehd-edge.cdnvideo.ru/ani/tracks-v1a1/mono.m3u8
+
+# 50.9 Ani TV (Резерв Lime) — Эконом SD (480p)
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.9 Ani TV (LIME-SD)
+https://limehd-edge.cdnvideo.ru/ani/tracks-v2a1/mono.m3u8
+
+
+
+
+
+
 
 
 
