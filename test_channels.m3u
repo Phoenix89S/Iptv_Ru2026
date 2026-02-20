@@ -708,6 +708,22 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/522/index.m3u8
 #stress test-----
 
 
+#EXTM3U
+
+# 18.1 МИР Premium — Оригинальный адаптивный поток (AUTO)
+#EXTINF:-1 tvg-id="Mir-Premium" tvg-name="МИР Premium" tvg-logo="https://iptvx.one/picons/mir_premium.png" group-title="Эфирные ТВ плюс",18.1 МИР Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+
+# 18.2 МИР Premium — SD Резерв
+#EXTINF:-1 tvg-id="Mir-Premium" tvg-logo="https://iptvx.one/picons/mir_premium.png" group-title="Эфирные ТВ плюс",18.2 МИР Premium (SD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist_b1100000.m3u8
+
+# 18.3 МИР Premium — Full HD (HQ)
+#EXTINF:-1 tvg-id="Mir-Premium" tvg-logo="https://iptvx.one/picons/mir_premium.png" group-title="Эфирные ТВ плюс",18.3 МИР Premium (FHD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist_b5500000.m3u8
+
+
+
 #EXTINF:-1 tvg-id="STS" tvg-logo="https://raw.githubusercontent.com/pashazz/common-logos/master/logos/sts.png" group-title="Общие", CTC -mega
 http://87.248.160.8/edge/smil:sts/playlist.m3u8
 
