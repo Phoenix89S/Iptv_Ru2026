@@ -184,9 +184,41 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="2" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Эфирные ТВ плюс",25. Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
-# 26. Матч! HD — HD-версия РТРС №3
-#EXTINF:-1 tvg-id="match" tvg-logo="http://epg.it99.org/img/10.png" group-title="Эфирные ТВ плюс",26. Матч! HD
-http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+# # 26.0 МАТЧ ТВ — Основной поток (Полировка)
+#EXTINF:-1 tvg-id="match" tvg-logo="https://iptvx.one/picons/match_hd.png" group-title="Эфирные ТВ плюс",26.0 Матч ТВ
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/535/index.m3u8
+
+# 26.1 Матч! Футбол 1 — Спортивная полировка
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match_football1_hd.png" group-title="Эфирные ТВ плюс",26.1 Матч! Футбол 1
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/124/index.m3u8
+
+# 26.2 Матч! Футбол 2 — Спортивная полировка
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://iptvx.one/picons/match_football2_hd.png" group-title="Эфирные ТВ плюс",26.2 Матч! Футбол 2
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/530/index.m3u8
+
+# 26.3 Матч! Футбол 3 — Спортивная полировка
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match_football3_hd.png" group-title="Эфирные ТВ плюс",26.3 Матч! Футбол 3
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/522/index.m3u8
+
+# 26.4 Матч! Планета — Спортивная полировка
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://iptvx.one/picons/match_planeta_hd.png" group-title="Эфирные ТВ плюс",26.4 Матч! Планета
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/123/index.m3u8
+
+# 26.5 Матч! Арена — Спортивная полировка
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://iptvx.one/picons/match_arena_hd.png" group-title="Эфирные ТВ плюс",26.5 Матч! Арена
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/528/index.m3u8
+
+# 26.6 Матч! Игра — Спортивная полировка
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://iptvx.one/picons/match_igra_hd.png" group-title="Эфирные ТВ плюс",26.6 Матч! Игра
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/529/index.m3u8
+
+# 26.7 Матч! Премьер — Спортивная полировка
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match_premier_hd.png" group-title="Эфирные ТВ плюс",26.7 Матч! Премьер
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/531/index.m3u8
+
+# 26.8 Матч! Боец — Спортивная полировка
+#EXTINF:-1 tvg-id="match-boec" tvg-logo="https://iptvx.one/picons/match_boec.png" group-title="Эфирные ТВ плюс",26.8 Матч! Боец
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/150/index.m3u8
 
 # 27. НТВ HD — HD-версия РТРС №4
 #EXTINF:-1 tvg-id="4" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Эфирные ТВ плюс",27. НТВ HD
