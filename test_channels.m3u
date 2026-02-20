@@ -530,28 +530,25 @@ https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 
 
 
-# 47.2 RT Russia HD — Основной эфир на русском (HD)
-#EXTINF:-1 tvg-id="rt-russian" tvg-logo="https://iptvx.one/picons/rt_russian_hd.png" group-title="Эфирные ТВ плюс",47.2 RT Russia HD
-https://rt-russian.rttv.com/dvr/rt_russian/playlist.m3u8
+# # 47.6 RT News HD — Английская версия (HD Полировка)
+#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://iptvx.one/picons/rt_news_hd.png" group-title="Эфирные ТВ плюс",47.6 RT News HD
+https://rt-eng.rttv.com/dvr/rt_eng/playlist.m3u8
 
-# 47.3 RT Russia — Резервный поток (HQ)
-#EXTINF:-1 tvg-id="rt-russian" tvg-logo="https://iptvx.one/picons/rt_russian.png" group-title="Эфирные ТВ плюс",47.3 RT Russia (SD)
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RT_RUSSIAN/variant.m3u8
+# 47.7 RT News — Английская версия (HQ Резерв)
+#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://iptvx.one/picons/rt_news.png" group-title="Эфирные ТВ плюс",47.7 RT News
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RT_NEWS/variant.m3u8
 
-# 47.4 RT Doc Russian HD — Документальный на русском (HD)
-#EXTINF:-1 tvg-id="rt-doc-ru" tvg-logo="https://iptvx.one/picons/rtd_hd.png" group-title="Эфирные ТВ плюс",47.4 RT Doc Russian HD
-https://rt-doc.rttv.com/dvr/rt_doc_rus/playlist.m3u8
+# 47.8 RT Arabic HD — Арабская версия (HD)
+#EXTINF:-1 tvg-id="rt-arabic" tvg-logo="https://iptvx.one/picons/rt_arabic_hd.png" group-title="Эфирные ТВ плюс",47.8 RT Arabic HD
+https://rt-ara.rttv.com/dvr/rt_arabic/playlist.m3u8
 
-# 47.5 RT Doc Russian — Резерв (HQ)
-#EXTINF:-1 tvg-id="rt-doc-ru" tvg-logo="https://iptvx.one/picons/rtd.png" group-title="Эфирные ТВ плюс",47.5 RT Doc Russian (SD)
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RT_DOC_RUSSIAN/variant.m3u8
+# 47.9 RT Spanish HD — Испанская версия (HD)
+#EXTINF:-1 tvg-id="rt-spanish" tvg-logo="https://iptvx.one/picons/rt_spanish_hd.png" group-title="Эфирные ТВ плюс",47.9 RT Spanish HD
+https://rt-esp.rttv.com/dvr/rt_spanish/playlist.m3u8
 
-
-
-
-
-
-
+# 47.10 RT Doc English HD — Документалка на английском (HD)
+#EXTINF:-1 tvg-id="rt-doc-en" tvg-logo="https://iptvx.one/picons/rtd_en_hd.png" group-title="Эфирные ТВ плюс",47.10 RT Doc English HD
+https://rt-doc.rttv.com/dvr/rt_doc_eng/playlist.m3u8
 
 # 47.11.1 RT France — Поток 1 (DVR)
 #EXTINF:-1 tvg-id="rt-france" tvg-logo="https://iptvx.one/picons/rt_france_hd.png" group-title="Эфирные ТВ плюс",47.11.1 RT France (DVR)
