@@ -728,6 +728,19 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist_b1100000.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist_b5500000.m3u8
 
 
+# 13.1 СТС — Оригинальный адаптивный поток (AUTO)
+#EXTINF:-1 tvg-id="ctc" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/ctc.png" group-title="Эфирные ТВ Плюс ТЕСТ",13.1 СТС (AUTO)
+https://ctc-m-hls.cdnvideo.ru/ctc-m/ctc.smil/playlist.m3u8
+
+# 13.2 СТС HD — Высокое качество (FHD 1080p)
+#EXTINF:-1 tvg-id="ctc" tvg-name="СТС HD" tvg-logo="https://iptvx.one/picons/ctc_hd.png" group-title="Эфирные ТВ Плюс ТЕСТ",13.2 СТС HD (1080p)
+https://ctc-m-hls.cdnvideo.ru/ctc-m/ctc.smil/chunklist_b5000000.m3u8
+
+# 13.3 СТС Love — Официальный поток
+#EXTINF:-1 tvg-id="ctc-love" tvg-name="СТС Love" tvg-logo="https://iptvx.one/picons/ctc_love.png" group-title="Эфирные ТВ Плюс ТЕСТ",13.3 СТС Love
+https://ctclove-m-hls.cdnvideo.ru/ctclove-m/ctclove.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="STS" tvg-logo="https://raw.githubusercontent.com/pashazz/common-logos/master/logos/sts.png" group-title="Общие", CTC -mega
 http://87.248.160.8/edge/smil:sts/playlist.m3u8
