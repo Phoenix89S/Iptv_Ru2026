@@ -520,6 +520,13 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_ZAPAD24/variant.m3u8
 #EXTINF:-1 tvg-id="kaskad-tv" tvg-logo="https://iptvx.one/picons/kaskad_hd.png" group-title="Эфирные ТВ плюс",46.14 Каскад HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KASKAD_HD/variant.m3u8
 
+# 47. RT India — Поток 1 (Официальный)
+#EXTINF:-1 tvg-id="rt-india" tvg-logo="https://iptvx.one/picons/rt_india_hd.png" group-title="Эфирные ТВ плюс",47. RT India (Stream 1)
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+
+# 47.1 RT India — Поток 2 (Прямой линк)
+#EXTINF:-1 tvg-id="rt-india" tvg-logo="https://iptvx.one/picons/rt_india.png" group-title="Эфирные ТВ плюс",47.1 RT India (Stream 2)
+http://103.78.149.54:8000/play/a01s/index.m3u8
 
 
 
