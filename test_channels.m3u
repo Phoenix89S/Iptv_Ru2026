@@ -841,6 +841,32 @@ http://hls.tv-online24.com:8081/ani/index.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.25 Ani TV (CLOUD-ULTRA)
 https://ott-cdn.u-tv.ru/ani/playlist.m3u8
 
+# 50.26 Ani TV (Vidicor Cloud) — Прямой поток
+#EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.26 Ani TV (Vidicor)
+https://hls-ani.hosting.vidicor.ru/ani/playlist.m3u8
+
+# 50.27 Ani TV (Micro-Smart) — Альтернативный узел
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.27 Ani TV (Smart-Mirror)
+http://tv.smart-stb.net/ani/index.m3u8
+
+# 50.28 Ani TV (Vintera Alternative) — OTT-Резерв
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.28 Ani TV (Vintera-ALT)
+http://91.243.60.250:8081/ani/ani/playlist.m3u8
+
+# 50.29 Ani TV (Global Streaming) — Резервный HD
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.29 Ani TV (Global-HD)
+http://185.112.101.196:8081/ani/index.m3u8
+
+# 50.30 Ani TV (Final Frontier) — Экстренный SD
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Эфирные ТВ Плюс ТЕСТ",50.30 Ani TV (ULTIMATE-SD)
+http://81.17.130.210:8081/ani/index.m3u8
+
+
+
+
+
+
+
 
 
 
