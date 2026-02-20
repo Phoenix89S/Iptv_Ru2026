@@ -638,8 +638,15 @@ https://strm.yandex.ru/kal/match_football_2/match_football_2_hd.m3u8
 #EXTINF:-1 group-title="НТВ +",Матч! Футбол 3 HD
 https://strm.yandex.ru/kal/match_football_3/match_football_3_hd.m3u8
 
+-----тест тест тест-----
 
 
+
+#EXTINF:-1 type="stream" tvg-id="match-planeta" group-title="спорт", Матч! Планета
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/123/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-id="match-football-3" group-title="спорт", Матч! Футбол 3
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/522/index.m3u8
 
 
 
