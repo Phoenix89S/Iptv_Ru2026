@@ -320,10 +320,9 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_PYATNICA_INT/variant.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda_hd.png" group-title="Эфирные ТВ плюс",40. Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-# 40.1 ЗВЕЗДА ПЛЮС HD — Официальный HD поток
+# 40.1 ЗВЕЗДА ПЛЮС HD — Официальный HD поток 
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda_plus_hd.png" group-title="Эфирные ТВ плюс",40.1 Звезда Плюс HD
 https://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-
 # 40.2 ЗВЕЗДА ПЛЮС — Стандартный поток (SD/HQ Резерв)
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda_plus.png" group-title="Эфирные ТВ плюс",40.2 Звезда Плюс (SD)
 https://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
