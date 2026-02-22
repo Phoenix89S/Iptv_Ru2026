@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTGRP:Леди Баг: Прямой эфир
+#EXTINF:-1 tvg-logo="https://p0.itc.cn/images01/20210517/28003632906e46599393148443916b0b.jpeg", 🔴 ПРЯМОЙ ЭФИР 24/7 (Global)
+https://www.youtube.com/watch?v=yX98j67OxHg
+
+#EXTGRP:Леди Баг: Все Сезоны (Сборники)
+#EXTINF:-1 group-title="Все Сезоны", 🐞 СЕЗОН 1 (Все серии подряд)
+https://www.youtube.com/watch?v=WqdwJ1K3bEg
+#EXTINF:-1 group-title="Все Сезоны", 🐾 СЕЗОН 2 (Лучшие моменты и серии)
+https://www.youtube.com/watch?v=V4kVVMOwOdI
+#EXTINF:-1 group-title="Все Сезоны", 🦊 СЕЗОН 3 (Большой сборник)
+https://www.youtube.com/watch?v=fKnFkwWcLAA
+#EXTINF:-1 group-title="Все Сезоны", 🐢 СЕЗОН 4 (Марафон серий)
+https://www.youtube.com/watch?v=HdKUV09LAHo
+#EXTINF:-1 group-title="Все Сезоны", 🐝 СЕЗОН 5 (Финал и развязка)
+https://www.youtube.com/watch?v=YHI5NI327LU
+
+#EXTGRP:Леди Баг: Полнометражки и Спешлы
+#EXTINF:-1 group-title="Полнометражки", 🗽 Спешл: НЬЮ-ЙОРК (Союз героев)
+https://www.youtube.com/watch?v=XhYlVv_H37M
+#EXTINF:-1 group-title="Полнометражки", 🐉 Спешл: ШАНХАЙ (Легенда о Драконе)
+https://www.youtube.com/watch?v=L2GkEogq838
+#EXTINF:-1 group-title="Полнометражки", 🇫🇷 Спешл: ПАРИЖ (Приключения Токсинель)
+https://www.youtube.com/watch?v=P4oTCDL3LhQ
+#EXTINF:-1 group-title="Полнометражки", ❄️ РОЖДЕСТВЕНСКАЯ ПЕСНЯ (Мюзикл)
+https://www.youtube.com/watch?v=cwk49uQ97Hg
+
+#EXTGRP:Леди Баг: Новинки 2025-2026
+#EXTINF:-1 group-title="Новинки", 🌈 Трейлеры и тизеры 6 СЕЗОНА
+https://www.youtube.com/watch?v=PjqXqhjuF04
