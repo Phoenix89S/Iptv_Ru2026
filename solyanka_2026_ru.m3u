@@ -84,3 +84,51 @@ https://hls-m015.vintera.tv/moya_planeta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zhivaya_priroda_hd" tvg-logo="https://iptvx.one/picons/zhivaya-priroda.png" group-title="Познавательный Test", 900.2 Живая Природа HD (Relax)
 https://ucdn.beetv.kz/btv/live/hls/000001187.m3u8
+
+
+# ==========================================================
+# ДОПОЛНИТЕЛЬНЫЕ РЕЗЕРВЫ (СЛОТЫ .20+)
+# ==========================================================
+
+# --- Леди Баг & Gulli (Доп. резерв) ---
+#EXTINF:-1 tvg-id="ladybug_200.20" group-title="Леди Баг Test", 200.20 Леди Баг: Резерв 2026 (Global CDN)
+https://okkotv-live.cdnvideo.ru/channel/LadyBug.m3u8
+
+#EXTINF:-1 tvg-id="gulli_200.21" group-title="Леди Баг Test", 200.21 Gulli Girl (Alt Mirror)
+http://stream.mms.ru/hls/gulli_girl/variant.m3u8
+
+# --- Немецкий блок (Доп. резерв) ---
+#EXTINF:-1 tvg-id="dw_200.22" group-title="Deutsche Welle Test", 200.22 DW Russian (Relay Mirror)
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1000_av-p.m3u8
+
+# --- СНГ & Мир (Доп. резерв) ---
+#EXTINF:-1 tvg-id="mir_200.23" group-title="СНГ Мир Test", 200.23 МИР Premium HD (Direct 2026)
+http://212.162.2.146:81/streams/mir_hd/playlist.m3u8
+
+# --- National Geographic & Discovery (Новые ключи) ---
+#EXTINF:-1 tvg-id="nat_geo_200.24" group-title="National Geographic Test", 200.24 Nat Geo (New Proxy RU)
+http://45.132.246.124/live/natgeo_ru/index.m3u8
+
+#EXTINF:-1 tvg-id="wild_200.25" group-title="National Geographic Test", 200.25 Nat Geo Wild (New Proxy RU)
+http://45.132.246.124/live/natgeowild_ru/index.m3u8
+
+#EXTINF:-1 tvg-id="disc_200.26" group-title="Discovery Test", 200.26 Discovery Channel (Alt Relay)
+http://82.146.40.183/hls/discovery/variant.m3u8
+
+# --- Познавательный блок (Доп. резерв) ---
+#EXTINF:-1 tvg-id="planeta_200.27" group-title="Познавательный Test", 200.27 Моя Планета (Mirror 2)
+http://itv.mms.ru/hls/moya_planeta/variant.m3u8
+
+#EXTINF:-1 tvg-id="nature_200.28" group-title="Познавательный Test", 200.28 Живая Природа (Backup HD)
+https://hls.lightcast.com/hls/60451/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
