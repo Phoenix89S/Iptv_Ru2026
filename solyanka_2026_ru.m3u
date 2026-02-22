@@ -122,6 +122,34 @@ http://itv.mms.ru/hls/moya_planeta/variant.m3u8
 #EXTINF:-1 tvg-id="nature_200.28" group-title="Познавательный Test", 200.28 Живая Природа (Backup HD)
 https://hls.lightcast.com/hls/60451/index.m3u8
 
+# ==========================================================
+# СТАБИЛЬНЫЕ ПОТОКИ (ВЫЖАТЫЕ ИЗ CDN)
+# ==========================================================
+
+# --- Леди Баг (Стабильный узел) ---
+#EXTINF:-1 tvg-id="ladybug_stable" group-title="Железный Резерв", 200.50 Леди Баг 24/7 (Official CDN)
+https://okkotv-live.cdnvideo.ru/channel/LadyBug.m3u8/index.m3u8
+
+# --- Discovery/NatGeo (Зеркала через провайдеров) ---
+#EXTINF:-1 tvg-id="natgeo_stable" group-title="Железный Резерв", 200.51 National Geographic (MegaLabs)
+https://live-01-02-04.cdn.itv.re/hls/CH_NATGEO/variant.m3u8
+
+#EXTINF:-1 tvg-id="wild_stable" group-title="Железный Резерв", 200.52 Nat Geo Wild (MegaLabs)
+https://live-01-02-04.cdn.itv.re/hls/CH_NATGEOWILD/variant.m3u8
+
+#EXTINF:-1 tvg-id="disc_stable" group-title="Железный Резерв", 200.53 Discovery Channel (Mirror)
+https://live-01-02-04.cdn.itv.re/hls/CH_DISCOVERY/variant.m3u8
+
+# --- Познавательные (Оригинальные фиды) ---
+#EXTINF:-1 tvg-id="moya_planeta_stable" group-title="Железный Резерв", 200.54 Моя Планета (Static URL)
+https://live-01-02-04.cdn.itv.re/hls/CH_MYPLANET/variant.m3u8
+
+#EXTINF:-1 tvg-id="nauka_stable" group-title="Железный Резерв", 200.55 Наука 2.0 (Static URL)
+https://live-01-02-04.cdn.itv.re/hls/CH_NAUKA/variant.m3u8
+
+# --- Мир Premium (Прямой поток вещателя) ---
+#EXTINF:-1 tvg-id="mir_hd_stable" group-title="Железный Резерв", 200.56 МИР Premium HD (Direct CDN)
+https://mir24tv.cdnvideo.ru/mir24/mirhd/playlist.m3u8
 
 
 
