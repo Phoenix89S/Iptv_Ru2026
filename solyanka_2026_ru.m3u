@@ -152,6 +152,37 @@ https://live-01-02-04.cdn.itv.re/hls/CH_NAUKA/variant.m3u8
 https://mir24tv.cdnvideo.ru/mir24/mirhd/playlist.m3u8
 
 
+# --- [НТВ-ПЛЮС ИНФОКАНАЛ - ТЕХНИЧЕСКИЙ МАЯК] ---
+
+# 3.50 НТВ-Плюс Инфо — Прямой поток (Wink/RT)
+#EXTINF:-1 tvg-id="ntv_plus_info" tvg-logo="https://ntvplus.ru/logo.png" group-title="НТВ ТЕХНИЧЕСКИЙ",3.50 НТВ+ Инфо (Wink Direct)
+https://itv.rt.ru/hls/CH_NTVPLUS_INFO/variant.m3u8
+
+# 3.51 НТВ-Плюс Инфо — Резерв (CDNvideo)
+#EXTINF:-1 tvg-id="ntv_plus_info" group-title="НТВ ТЕХНИЧЕСКИЙ",3.51 НТВ+ Инфо (Direct CDN)
+https://ntvplus-hls.cdnvideo.ru/ntvplus/infokanal.smil/playlist.m3u8
+
+# 3.52 НТВ-Плюс Инфо — Магистраль ТТК
+#EXTINF:-1 tvg-id="ntv_plus_info" group-title="НТВ ТЕХНИЧЕСКИЙ",3.52 НТВ+ Инфо (TTK Node)
+http://80.82.162.222/hls/ntv_plus_info/index.m3u8
+
+# --- [НТВ INTERNATIONAL - ВЕСЬ МИР] ---
+
+# 3.53 НТВ International — Официальный экспортный узел (GPM)
+#EXTINF:-1 tvg-id="ntv_world" tvg-logo="https://iptvx.one/picons/ntv_world.png" group-title="НТВ INTERNATIONAL",3.53 НТВ International (Direct)
+https://gpm-hls.cdnvideo.ru/gpmthls/ntv_world/playlist.m3u8
+
+# 3.54 НТВ International — Максимальное качество (FHD Fix)
+#EXTINF:-1 tvg-id="ntv_world" group-title="НТВ INTERNATIONAL",3.54 НТВ International (FHD 5Mbps)
+https://gpm-hls.cdnvideo.ru/gpmthls/ntv_world/chunklist_b5000000.m3u8
+
+# 3.55 НТВ International — Wink (Магистраль на Европу)
+#EXTINF:-1 tvg-id="ntv_world" group-title="НТВ INTERNATIONAL",3.55 НТВ International (Wink)
+https://itv.rt.ru/hls/CH_NTV_WORLD/variant.m3u8
+
+# 3.56 НТВ International — Зеркало Vintera
+#EXTINF:-1 tvg-id="ntv_world" group-title="НТВ INTERNATIONAL",3.56 НТВ International (Vintera)
+http://stream.vintera.tv:8081/ntv_world/ntv_world/playlist.m3u8
 
 
 
