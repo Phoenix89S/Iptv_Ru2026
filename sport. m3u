@@ -1,0 +1,59 @@
+#EXTM3U x-tvg-url="https://iptvx.one/epg.xml.gz"
+
+# --- ОСНОВНОЙ ПАКЕТ (DIRECT CDN) ---
+
+#EXTINF:-1 tvg-id="match" tvg-logo="https://iptvx.one/picons/match.png" group-title="Матч Пакет",26.0 Матч ТВ HD (Direct)
+https://matchtv-hls.cdnvideo.ru/matchtv/matchtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="match_premier_hd" tvg-logo="https://iptvx.one/picons/match_premier_hd.png" group-title="Матч Пакет",26.1 Матч! Премьер HD
+http://sknt.ru/iptv/m/match_premier_hd.m3u8
+
+#EXTINF:-1 tvg-id="match_football1_hd" tvg-logo="https://iptvx.one/picons/match_football1_hd.png" group-title="Матч Пакет",26.2 Матч! Футбол 1 HD
+http://sknt.ru/iptv/m/match_football1_hd.m3u8
+
+#EXTINF:-1 tvg-id="match_football2_hd" tvg-logo="https://iptvx.one/picons/match_football2_hd.png" group-title="Матч Пакет",26.3 Матч! Футбол 2 HD
+http://sknt.ru/iptv/m/match_football2_hd.m3u8
+
+#EXTINF:-1 tvg-id="match_football3_hd" tvg-logo="https://iptvx.one/picons/match_football3_hd.png" group-title="Матч Пакет",26.4 Матч! Футбол 3 HD
+http://sknt.ru/iptv/m/match_football3_hd.m3u8
+
+#EXTINF:-1 tvg-id="match_arena_hd" tvg-logo="https://iptvx.one/picons/match_arena_hd.png" group-title="Матч Пакет",26.5 Матч! Арена HD
+http://sknt.ru/iptv/m/match_arena_hd.m3u8
+
+#EXTINF:-1 tvg-id="match_igra_hd" tvg-logo="https://iptvx.one/picons/match_igra_hd.png" group-title="Матч Пакет",26.6 Матч! Игра HD
+http://sknt.ru/iptv/m/match_igra_hd.m3u8
+
+#EXTINF:-1 tvg-id="match_boets" tvg-logo="https://iptvx.one/picons/match_boets.png" group-title="Матч Пакет",26.7 Матч! Боец
+http://sknt.ru/iptv/m/match_boets.m3u8
+
+#EXTINF:-1 tvg-id="match_planeta_hd" tvg-logo="https://iptvx.one/picons/match_planeta_hd.png" group-title="Матч Пакет",26.8 Матч! Планета
+http://sknt.ru/iptv/m/match_planeta_hd.m3u8
+
+# --- РЕЗЕРВНЫЙ ПАКЕТ (WINK CDN) ---
+
+#EXTINF:-1 tvg-id="match" group-title="Матч Резерв Wink",26.10 Матч ТВ HD (Wink)
+https://itv.rt.ru/hls/CH_MATCH_TV_HD/variant.m3u8
+
+#EXTINF:-1 tvg-id="match_premier_hd" group-title="Матч Резерв Wink",26.11 Матч! Премьер HD (Wink)
+https://itv.rt.ru/hls/CH_MATCH_PREMIER_HD/variant.m3u8
+
+#EXTINF:-1 tvg-id="match_football1_hd" group-title="Матч Резерв Wink",26.12 Матч! Футбол 1 HD (Wink)
+https://itv.rt.ru/hls/CH_MATCH_FOOTBALL_1_HD/variant.m3u8
+
+#EXTINF:-1 tvg-id="match_football2_hd" group-title="Матч Резерв Wink",26.13 Матч! Футбол 2 HD (Wink)
+https://itv.rt.ru/hls/CH_MATCH_FOOTBALL_2_HD/variant.m3u8
+
+#EXTINF:-1 tvg-id="match_football3_hd" group-title="Матч Резерв Wink",26.14 Матч! Футбол 3 HD (Wink)
+https://itv.rt.ru/hls/CH_MATCH_FOOTBALL_3_HD/variant.m3u8
+
+#EXTINF:-1 tvg-id="match_arena_hd" group-title="Матч Резерв Wink",26.15 Матч! Арена HD (Wink)
+https://itv.rt.ru/hls/CH_MATCH_ARENA_HD/variant.m3u8
+
+#EXTINF:-1 tvg-id="match_igra_hd" group-title="Матч Резерв Wink",26.16 Матч! Игра HD (Wink)
+https://itv.rt.ru/hls/CH_MATCH_IGRA_HD/variant.m3u8
+
+#EXTINF:-1 tvg-id="match_boets" group-title="Матч Резерв Wink",26.17 Матч! Боец (Wink)
+https://itv.rt.ru/hls/CH_MATCH_BOETS/variant.m3u8
+
+#EXTINF:-1 tvg-id="match_strana" group-title="Матч Резерв Wink",26.18 Матч! Страна (Wink)
+https://itv.rt.ru/hls/CH_MATCH_STRANA/variant.m3u8
