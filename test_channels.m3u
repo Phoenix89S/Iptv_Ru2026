@@ -982,6 +982,28 @@ http://82.146.40.160:8081/ani/index.m3u8
 http://91.243.60.253:8081/ani/index.m3u8
 
 
+#EXTCONF:playlist_type=event
+
+# ГРУППА 1: ПРЯМОЙ ЭФИР (СИММЕТРИЧНЫЙ ТЕСТ)
+#EXTINF:-1 group-title="Ladybug Test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Miraculous_Logo.png", Леди Баг: Основной поток (HD)
+http://stream.miraculous.ru/live/master.m3u8
+
+# ГРУППА 2: РЕЗЕРВ (BACKUP)
+#EXTINF:-1 group-title="Ladybug Test", Леди Баг: Резервный канал (SD/Mirror)
+http://95.213.208.141/ladybug/index.m3u8
+
+# ГРУППА 3: АЛЬТЕРНАТИВА (YOUTUBE GATEWAY)
+#EXTINF:-1 group-title="Ladybug Test", Леди Баг: Live Stream (YouTube)
+https://www.youtube.com/watch?v=kY6V6x0K-S8
+
+
+
+#EXTINF:-1,Леди Баг и Супер-Кот (24/7 Stream)
+http://stream.fan-club-ladybug.ru/live/index.m3u8
+
+
+
+
 
 
 
