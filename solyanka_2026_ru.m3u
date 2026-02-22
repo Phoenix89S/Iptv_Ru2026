@@ -1,0 +1,86 @@
+#EXTM3U
+
+# ==========================================================
+# ГРУППА: Леди Баг Test (Дети & Резерв)
+# ==========================================================
+
+#EXTINF:-1 tvg-id="ladybug_200.0" tvg-logo="https://static.wikia.nocookie.net/lady-bug/images/d/d5/Logo_Season_4.png" group-title="Леди Баг Test", 200.0 Леди Баг и Супер-Кот: Вещание 24/7
+https://hls-m015.vintera.tv/ladybug/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ladybug_200.1" tvg-logo="https://static.wikia.nocookie.net/lady-bug/images/d/d5/Logo_Season_4.png" group-title="Леди Баг Test", 200.1 Леди Баг: Резерв (Vintera)
+http://82.146.40.183/hls/ladybug/variant.m3u8
+
+#EXTINF:-1 tvg-id="ladybug_200.3" tvg-logo="https://static.wikia.nocookie.net/lady-bug/images/d/d5/Logo_Season_4.png" group-title="Леди Баг Test", 200.3 Леди Баг: Сезон 1 (YX)
+https://strm.yandex.ru/kal/ladybug_s1/ladybug_s10.m3u8
+
+#EXTINF:-1 tvg-id="ladybug_200.4" tvg-logo="https://static.wikia.nocookie.net/lady-bug/images/d/d5/Logo_Season_4.png" group-title="Леди Баг Test", 200.4 Леди Баг: Сезон 2 (YX)
+https://strm.yandex.ru/kal/ladybug_s2/ladybug_s20.m3u8
+
+#EXTINF:-1 tvg-id="ladybug_200.5" tvg-logo="https://static.wikia.nocookie.net/lady-bug/images/d/d5/Logo_Season_4.png" group-title="Леди Баг Test", 200.5 Леди Баг: Сезон 3 (YX)
+https://strm.yandex.ru/kal/ladybug_s3/ladybug_s30.m3u8
+
+#EXTINF:-1 tvg-id="gulli_girl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gulli_Girl_logo.png/200px-Gulli_Girl_logo.png" group-title="Леди Баг Test", 200.8 Gulli Girl (Premium)
+https://okkotv-live.cdnvideo.ru/channel/GulliGirl.m3u8
+
+#EXTINF:-1 tvg-id="ani_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/e/e4/Ani_logo.png/200px-Ani_logo.png" group-title="Леди Баг Test", 200.10 Телеканал Ани (Stable)
+https://hls-m015.vintera.tv/ani/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/e/e0/Mult_Logo.png/300px-Mult_Logo.png" group-title="Леди Баг Test", 200.12 Телеканал МУЛЬТ
+https://hls-m015.vintera.tv/mult/playlist.m3u8
+
+# ==========================================================
+# ГРУППА: Deutsche Welle Test (Германия на русском)
+# ==========================================================
+
+#EXTINF:-1 tvg-id="dw_russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Deutsche_Welle_logo.svg/200px-Deutsche_Welle_logo.svg.png" group-title="Deutsche Welle Test", 200.14 Deutsche Welle Russian (HD)
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1.m3u8
+
+#EXTINF:-1 tvg-id="ostwest" tvg-logo="https://ostwest.tv/wp-content/uploads/2021/03/logo-ostwest.png" group-title="Deutsche Welle Test", 200.17 OstWest (Берлин)
+https://itv.mms.ru/hls/ostwest/variant.m3u8
+
+# ==========================================================
+# ГРУППА: Польша Test (Граничный Резерв)
+# ==========================================================
+
+#EXTINF:-1 tvg-id="belsat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Belsat_TV_logo.svg/200px-Belsat_TV_logo.svg.png" group-title="Польша Test", 300.0 Belsat TV (RU/BY)
+https://v-belsat.redefine.pl/rpc1/2/playlist.m3u8
+
+# ==========================================================
+# ГРУППА: Ретро-Поток Test (Без политики)
+# ==========================================================
+
+#EXTINF:-1 tvg-id="film_ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/FILM.UA_Group_logo.png" group-title="Ретро-Поток Test", 400.0 FILM.UA Drama (Сериалы)
+http://82.146.40.183/hls/filmuadrama/variant.m3u8
+
+#EXTINF:-1 tvg-id="bolt_tv" tvg-logo="https://bolt.tv/uploads/logo/logo_black.png" group-title="Ретро-Поток Test", 400.1 BOLT (Мужское кино)
+http://45.132.246.124/live/bolt/index.m3u8
+
+# ==========================================================
+# ГРУППА: СНГ & Мир Premium (Общий пакет)
+# ==========================================================
+
+#EXTINF:-1 tvg-id="mir_premium_hd" tvg-logo="https://mirtv.ru/i/logo.png" group-title="СНГ Мир Test", 600.3 МИР PREMIUM HD
+https://mir24tv.cdnvideo.ru/mir24/mirhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_safina" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/e/e2/TV_Safina_Logo.png/200px-TV_Safina_Logo.png" group-title="Таджикистан Test", 500.1 TV Safina (RU blocks)
+http://82.146.40.183/hls/safina/variant.m3u8
+
+# ==========================================================
+# ГРУППА: National Geographic & Discovery (Документалистика)
+# ==========================================================
+
+#EXTINF:-1 tvg-id="nat_geo_wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Nat_Geo_Wild_logo.svg/200px-Nat_Geo_Wild_logo.svg.png" group-title="National Geographic Test", 700.1 Nat Geo Wild (RU)
+https://hls-m015.vintera.tv/natgeowild/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discovery_ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Discovery_Channel_logo.svg/200px-Discovery_Channel_logo.svg.png" group-title="Discovery Test", 800.0 Discovery Channel (RU)
+https://hls-m015.vintera.tv/discovery/playlist.m3u8
+
+# ==========================================================
+# ГРУППА: Познавательный Test (Природа & Наука)
+# ==========================================================
+
+#EXTINF:-1 tvg-id="moya_planeta" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/3/30/My_Planet_logo.png/200px-My_Planet_logo.png" group-title="Познавательный Test", 900.0 Моя Планета
+https://hls-m015.vintera.tv/moya_planeta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zhivaya_priroda_hd" tvg-logo="https://iptvx.one/picons/zhivaya-priroda.png" group-title="Познавательный Test", 900.2 Живая Природа HD (Relax)
+https://ucdn.beetv.kz/btv/live/hls/000001187.m3u8
