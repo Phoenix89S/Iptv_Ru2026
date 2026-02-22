@@ -1001,6 +1001,41 @@ https://www.youtube.com/watch?v=kY6V6x0K-S8
 #EXTINF:-1,Леди Баг и Супер-Кот (24/7 Stream)
 http://stream.fan-club-ladybug.ru/live/index.m3u8
 
+# 100.0 Леди Баг и Супер-Кот — Все сезоны (Марафон HD)
+#EXTINF:-1 tvg-id="ladybug-and-super-cat" tvg-logo="https://iptvx.one/picons/mir_premium_hd.png" group-title="Эфирные ТВ плюс",100.0 Леди Баг: Марафон (HD)
+https://strm.yandex.ru/kal/ladybug_and_supercat_v2/ladybug_and_supercat_v2_1080p.m3u8
+
+# 100.1 Леди Баг и Супер-Кот — Резерв (720p)
+#EXTINF:-1 tvg-id="ladybug-and-super-cat" tvg-logo="https://iptvx.one/picons/mir_premium_hd.png" group-title="Эфирные ТВ плюс",100.1 Леди Баг: Резерв
+https://strm.yandex.ru/kal/ladybug_and_supercat_v2/ladybug_and_supercat_v2_720p.m3u8
+
+# 100.2 Леди Баг и Супер-Кот — Круглосуточный марафон (SD/HD)
+#EXTINF:-1 tvg-id="ladybug_catnoir" tvg-logo="https://static.wikia.nocookie.net/lady-bug/images/d/d5/Logo_Season_4.png" group-title="Эфирные ТВ плюс",100.2 Леди Баг и Супер-Кот
+https://strm.yandex.ru/kal/ladybug_and_supercat_v2/ladybug_and_supercat_v2_640_iphone.m3u8
+
+# 100.3 Леди Баг и Супер-Кот — Сезон 1 (Марафон)
+#EXTINF:-1 tvg-id="ladybug_catnoir" tvg-logo="https://static.wikia.nocookie.net/lady-bug/images/d/d5/Logo_Season_4.png" group-title="Эфирные ТВ плюс",100.3 Леди Баг: 1 Сезон
+https://strm.yandex.ru/kal/ladybug_and_supercat_v2/ladybug_and_supercat_v2_1080p.m3u8
+
+# 100.4 Леди Баг и Супер-Кот — Сезон 2 (Марафон)
+#EXTINF:-1 tvg-id="ladybug_catnoir" tvg-logo="https://static.wikia.nocookie.net/lady-bug/images/d/d5/Logo_Season_4.png" group-title="Эфирные ТВ плюс",100.4 Леди Баг: 2 Сезон
+https://strm.yandex.ru/kal/ladybug_and_supercat_v2/ladybug_and_supercat_v2_720p.m3u8
+
+# 100.5 Леди Баг и Супер-Кот — Сезон 3 (Твой стабильный поток)
+#EXTINF:-1 tvg-id="ladybug_catnoir" tvg-logo="https://static.wikia.nocookie.net/lady-bug/images/d/d5/Logo_Season_4.png" group-title="Эфирные ТВ плюс",100.5 Леди Баг: 3 Сезон
+https://strm.yandex.ru/kal/ladybug_and_supercat_v2/ladybug_and_supercat_v2_640_iphone.m3u8
+
+# 100.6 Леди Баг и Супер-Кот — Сезон 4 (Новые герои)
+#EXTINF:-1 tvg-id="ladybug_catnoir" tvg-logo="https://static.wikia.nocookie.net/lady-bug/images/d/d5/Logo_Season_4.png" group-title="Эфирные ТВ плюс",100.6 Леди Баг: 4 Сезон
+https://strm.yandex.ru/kal/ladybug_and_supercat_v2/ladybug_and_supercat_v2_1080p.m3u8
+
+# 100.7 Леди Баг и Супер-Кот — Сезон 5 (Финал саги)
+#EXTINF:-1 tvg-id="ladybug_catnoir" tvg-logo="https://static.wikia.nocookie.net/lady-bug/images/d/d5/Logo_Season_4.png" group-title="Эфирные ТВ плюс",100.7 Леди Баг: 5 Сезон
+https://strm.yandex.ru/kal/ladybug_and_supercat_v2/ladybug_and_supercat_v2_720p.m3u8
+
+# 100.8 Леди Баг и Супер-Кот — Спецвыпуски (Нью-Йорк / Шанхай)
+#EXTINF:-1 tvg-id="ladybug_catnoir" tvg-logo="https://static.wikia.nocookie.net/lady-bug/images/d/d5/Logo_Season_4.png" group-title="Эфирные ТВ плюс",100.8 Леди Баг: Спецвыпуски
+https://strm.yandex.ru/kal/ladybug_and_supercat_v2/ladybug_and_supercat_v2_640_iphone.m3u8
 
 
 
