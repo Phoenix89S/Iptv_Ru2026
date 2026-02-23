@@ -631,6 +631,9 @@ http://eda-hd.cdnvideo.ru/eda-hd/eda-hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="food-time" tvg-logo="https://www.tveda.ru/static/img/foodtime_logo.png" group-title="Эфирные ТВ плюс",48.2 FoodTime HD
 http://foodtime.cdnvideo.ru/foodtime/foodtime.sdp/playlist.m3u8
 
+# 49.0 VIVA RUSSIA HD — Музыкальная полировка
+#EXTINF:-1 tvg-id="viva-russia" tvg-logo="https://iptvx.one/picons/viva_russia.png" group-title="Эфирные ТВ плюс",49.0 VIVA Russia HD
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 
 
 #
