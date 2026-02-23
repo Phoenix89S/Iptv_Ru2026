@@ -635,9 +635,9 @@ http://foodtime.cdnvideo.ru/foodtime/foodtime.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="viva-russia" tvg-logo="https://iptvx.one/picons/viva_russia.png" group-title="Эфирные ТВ плюс",49.0 VIVA Russia HD
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 
-# 50.0 SCREAM — Чистый поток (No VPN)
-#EXTINF:-1 tvg-id="Scream" tvg-logo="https://iptvx.one/picons/scream.png" group-title="Эфирные ТВ плюс",50.0 Scream
-https://linear-402.vizio.rakuten.tv/vizio/Scream_TV_STIRR/playlist.m3u8
+# 50.0 SCREAM (RU) — Проверка на доступность
+#EXTINF:-1 tvg-id="Scream" tvg-logo="https://iptvx.one/picons/scream.png" group-title="Эфирные ТВ плюс",50.0 Scream (RU)
+https://okkotv-live.cdnvideo.ru/channel/Scream.m3u8
 
 # 50.1 SCREAM — Резервный поток (Direct CDN)
 #EXTINF:-1 tvg-id="Scream" tvg-logo="https://iptvx.one/picons/scream.png" group-title="Эфирные ТВ плюс",50.1 Scream (Alt)
