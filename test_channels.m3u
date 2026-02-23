@@ -658,9 +658,9 @@ https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://iptvx.one/picons/ntv_mir.png" group-title="Эфирные ТВ плюс",51.2 НТВ International
 https://cdn4.skygo.mn/live/disk1/NTV/HLSv3-FTA/NTV.m3u8
 
-# 51.3 ТВЦ INTERNATIONAL (SkyGo)
+# # 51.3 ТВЦ INTERNATIONAL (Рабочий Direct CDN)
 #EXTINF:-1 tvg-id="tvc-international" tvg-logo="https://iptvx.one/picons/tvc_international.png" group-title="Эфирные ТВ плюс",51.3 ТВЦ International
-https://cdn4.skygo.mn/live/disk1/TVC/HLSv3-FTA/TVC.m3u8
+https://tvc-distr.cdnvideo.ru/tvc/tvci.sdp/playlist.m3u8
 
 # 51.4 ПЯТЫЙ КАНАЛ INT (SkyGo)
 #EXTINF:-1 tvg-id="5-international" tvg-logo="https://iptvx.one/picons/5_international.png" group-title="Эфирные ТВ плюс",51.4 Пятый канал International
