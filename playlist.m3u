@@ -3185,7 +3185,91 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 
+# 16. Пятница! — РТРС №16
+#EXTINF:-1 tvg-id="friday" tvg-logo="http://epg.it99.org/img/16.png" group-title="Эфирные ТВ плюс",16. Пятница!
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
+# 17. Звезда — РТРС №17
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it99.org/img/17.png" group-title="Эфирные ТВ плюс",17. Звезда
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+
+# 18. Мир — РТРС №18
+#EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it99.org/img/18.png" group-title="Эфирные ТВ плюс",18. Мир
+http://5.180.182.79:80/play/Oc7vxL5V7t8lWGeeVlPNO02wKzsZudjG1yOrA61JDSA/m3u8
+
+# 19. ТНТ — РТРС №19
+#EXTINF:-1 tvg-id="tnt" tvg-logo="http://epg.it99.org/img/19.png" group-title="Эфирные ТВ плюс",19. ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+
+# 20. Муз-ТВ — РТРС №20
+#EXTINF:-1 tvg-id="muztv" tvg-logo="http://epg.it99.org/img/20.png" group-title="Эфирные ТВ плюс",20. Муз-ТВ
+http://5.180.182.79:80/play/Oc7vxL5V7t8lWGeeVlPNO8cEaChcdSMs4k4o0zzZ3mA/m3u8
+
+# 21. Запад 24 (Калининград) — Кнопка 21
+#EXTINF:-1 tvg-id="zapad24" tvg-logo="https://epg.one/logo/zapad24.png" group-title="Эфирные ТВ плюс",21. Запад 24 (Калининград)
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
+
+# 22. Каскад-24 (Калининград) — Кнопка 22
+#EXTINF:-1 tvg-id="kaskad" tvg-logo="https://epg.one/logo/kaskad24.png" group-title="Эфирные ТВ плюс",22. Каскад-24 (Калининград)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+
+# 23. Суббота! — Кнопка 23
+#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Эфирные ТВ плюс",23. Суббота!
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
+# 23.1 Суббота! (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="super" tvg-logo="http://epg.it99.org/img/super.png" group-title="Эфирные ТВ плюс",23.1 Суббота! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
+# 24. Первый канал HD — HD-версия РТРС №1
+#EXTINF:-1 tvg-id="1" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Эфирные ТВ плюс",24. Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+# 25. Россия 1 HD — HD-версия РТРС №2
+#EXTINF:-1 tvg-id="2" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Эфирные ТВ плюс",25. Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+# # 26.0 МАТЧ ТВ — Основной поток (Полировка)
+#EXTINF:-1 tvg-id="match" tvg-logo="https://iptvx.one/picons/match_hd.png" group-title="Эфирные ТВ плюс",26.0 Матч ТВ
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/535/index.m3u8
+
+# 26.1 Матч! Футбол 1 — Спортивная полировка
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match_football1_hd.png" group-title="Эфирные ТВ плюс",26.1 Матч! Футбол 1
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/124/index.m3u8
+
+# 26.2 Матч! Футбол 2 — Спортивная полировка
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://iptvx.one/picons/match_football2_hd.png" group-title="Эфирные ТВ плюс",26.2 Матч! Футбол 2
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/530/index.m3u8
+
+# 26.3 Матч! Футбол 3 — Спортивная полировка
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match_football3_hd.png" group-title="Эфирные ТВ плюс",26.3 Матч! Футбол 3
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/522/index.m3u8
+
+# 26.4 Матч! Планета — Спортивная полировка
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://iptvx.one/picons/match_planeta_hd.png" group-title="Эфирные ТВ плюс",26.4 Матч! Планета
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/123/index.m3u8
+
+# 26.5 Матч! Арена — Спортивная полировка
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://iptvx.one/picons/match_arena_hd.png" group-title="Эфирные ТВ плюс",26.5 Матч! Арена
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/528/index.m3u8
+
+# 26.6 Матч! Игра — Спортивная полировка
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://iptvx.one/picons/match_igra_hd.png" group-title="Эфирные ТВ плюс",26.6 Матч! Игра
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/529/index.m3u8
+
+# 26.7 Матч! Премьер — Спортивная полировка
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match_premier_hd.png" group-title="Эфирные ТВ плюс",26.7 Матч! Премьер
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/531/index.m3u8
+
+# 26.8 Матч! Боец — Спортивная полировка
+#EXTINF:-1 tvg-id="match-boec" tvg-logo="https://iptvx.one/picons/match_boec.png" group-title="Эфирные ТВ плюс",26.8 Матч! Боец
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/150/index.m3u8
 
 
 
