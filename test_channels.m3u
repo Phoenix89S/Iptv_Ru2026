@@ -612,35 +612,12 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="rt-france" tvg-logo="https://iptvx.one/picons/rt_france_hd.png" group-title="Эфирные ТВ плюс",47.11.2 RT France (Live)
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 
-
-#-----Тестовый набор СТС Кидс ---------
-
-#EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские", СТС Kids HD (Main)
-http://178.124.153.123:44400/stskidshd.m3u8
-
-#EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские", СТС Kids HD (Backup)
-http://cdn.itv.live/stskidshd/index.m3u8
-
-#EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские", СТС Kids (SD)
-http://178.124.153.123:44400/stskids.m3u8
+# 48.0 Телеканал Еда — Кулинарная полировка
+#EXTINF:-1 tvg-id="eda-tv" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Еда.png" group-title="Эфирные ТВ плюс",48.0 Телеканал Еда
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgxNDAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjVjZGJlOWM2IiwicCI6IjVjZGJlOWM2NjMxZTk1ZDUiLCJjIjoiMTMyIiwidCI6IjgyODQ3ZmI5MTEyYTZkYTY1ODBhNjc0YWM2ZmY5MjQ4IiwiZCI6IjQxMTIwMiIsInIiOiI0MjMxNzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MTQwL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 
-#------Тестовый набор канала солнце 
 
-#EXTINF:-1 tvg-id="solntse-kld" tvg-logo="https://iptvx.one/picons/solntse.png" group-title="Солнце -тест", Солнце (Alt-1)
-https://limehd.online/solntse_kld/index.m3u8
-
-#EXTINF:-1 tvg-id="solntse-kld" tvg-logo="https://iptvx.one/picons/solntse.png" group-title="Солнце -тест", Солнце (Alt-2)
-https://cdn-1.vsetv.com/hls/solntse/index.m3u8
-
-#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="Детские", СТС Kids HD (Public)
-https://hls.tv/stskids/index.m3u8
-
-
-#EXTINF:-1 tvg-id="solnce" tvg-name="Солнце" tvg-logo="https://www.epg.one/logo/solnce.png" group-title="Детские",Солнце
-https://vcdn.solnce.tv/hls/solnce/playlist.m3u8
-
-#--------третий мультиплекс тест----
 
 #EXTINF:-1 tvg-id="fan" tvg-name="FAN" tvg-logo="https://www.epg.one/logo/fan.png" group-title="3-й мультиплекс Москва",FAN
 https://otttv.msk.ru/hls/fan/index.m3u8
@@ -1039,7 +1016,6 @@ https://strm.yandex.ru/kal/ladybug_and_supercat_v2/ladybug_and_supercat_v2_640_i
 
 
 
-#EXTM3U
 
 #EXTINF:-1 tvg-id="Gulli Girl" tvg-name="Gulli Girl" tvg-logo="https://iptv-org.github.io/iptv/logos/GulliGirl.png" group-title="Эфирноые ТВ плюс", Gulli Girl
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwOTcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjVjZGJlOWM2IiwicCI6IjVjZGJlOWM2NjMxZTk1ZDUiLCJjIjoiOTMiLCJ0IjoiODI4NDdmYjkxMTJhNmRhNjU4MGE2NzRhYzZmZjkyNDgiLCJkIjoiNDExMjAyIiwiciI6IjQyMzE3MCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDk3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
