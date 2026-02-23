@@ -335,12 +335,16 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_LOVE/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_INTERNATIONAL/variant.m3u8
 
 # 37. ДОМАШНИЙ HD — Основной поток (Полировка)
-#EXTINF:-1 tvg-id="domashniy" tvg-logo="https://iptvx.one/picons/domashniy_hd.png" group-title="Эфирные ТВ плюс",37. Домашний HD
+#EXTINF:-1 tvg-id="domashniy" tvg-logo="https://iptvx.one/picons/domashniy_hd.png" group-title="Эфирные ТВ плюс",37.0 Домашний HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_HD/variant.m3u8
 
 # 37.1 Домашний International HD — Международная версия
-#EXTINF:-1 tvg-id="domashniy-international" tvg-logo="https://iptvx.one/picons/domashniy-international.png" group-title="Эфирные ТВ плюс",37.1 Домашний International HD
+#EXTINF:-1 tvg-id="domashniy-int" tvg-logo="https://iptvx.one/picons/domashniy-international.png" group-title="Эфирные ТВ плюс",37.1 Домашний International HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_INT_HD/variant.m3u8
+
+# 37.2 Домашний International — Доп. поток (SkyGo)
+#EXTINF:-1 tvg-id="domashniy-int" tvg-logo="https://iptvx.one/picons/domashniy-international.png" group-title="Эфирные ТВ плюс",37.2 Домашний International (Alt)
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 
 # 38. ТВ-3 HD — Основной поток (Полировка)
 #EXTINF:-1 tvg-id="tv3" tvg-logo="https://iptvx.one/picons/tv3_hd.png" group-title="Эфирные ТВ плюс",38. ТВ-3 HD
