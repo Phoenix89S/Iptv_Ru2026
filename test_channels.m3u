@@ -613,18 +613,19 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 
 
+
 # 48.0 Телеканал Еда — Прямой поток (SD)
 #EXTINF:-1 tvg-id="eda-tv" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Еда.png" group-title="Эфирные ТВ плюс",48.0 Телеканал Еда
-https://eda.cdnvideo.ru/eda/eda.sdp/playlist.m3u8
+http://eda.cdnvideo.ru/eda/eda.sdp/playlist.m3u8
 
 # 48.1 Телеканал Еда HD — Прямой поток (HD)
 #EXTINF:-1 tvg-id="eda-tv-hd" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Еда.png" group-title="Эфирные ТВ плюс",48.1 Телеканал Еда HD
-https://eda-hd.cdnvideo.ru/eda-hd/eda-hd.sdp/playlist.m3u8
+http://eda-hd.cdnvideo.ru/eda-hd/eda-hd.sdp/playlist.m3u8
+
 
 # 48.2 Телеканал FoodTime — Дочерний канал Еды
 #EXTINF:-1 tvg-id="food-time" tvg-logo="https://www.tveda.ru/static/img/foodtime_logo.png" group-title="Эфирные ТВ плюс",48.2 FoodTime HD
-https://foodtime.cdnvideo.ru/foodtime/foodtime.sdp/playlist.m3u8
-
+http://foodtime.cdnvideo.ru/foodtime/foodtime.sdp/playlist.m3u8
 
 
 
