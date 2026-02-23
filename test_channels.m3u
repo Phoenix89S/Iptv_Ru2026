@@ -644,6 +644,61 @@ https://linear-402.vizio.rakuten.tv/vizio/Scream_TV_STIRR/playlist.m3u8
 https://d2e1439re6087n.cloudfront.net/Scream_TV/playlist.m3u8
 
 
+# --- ПОЛНЫЙ ЦИКЛ SKYGO INTERNATIONAL (БЕЗ VPN) ---
+
+# 51.0 ПЕРЕЦ / ЧЕ INT (SkyGo)
+#EXTINF:-1 tvg-id="che-int" tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Эфирные ТВ плюс",51.0 Перец International
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+
+# 51.1 ПЯТНИЦА! INT (SkyGo)
+#EXTINF:-1 tvg-id="friday-int" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Эфирные ТВ плюс",51.1 Пятница! International
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+
+# 51.2 НТВ INTERNATIONAL (SkyGo)
+#EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://iptvx.one/picons/ntv_mir.png" group-title="Эфирные ТВ плюс",51.2 НТВ International
+https://cdn4.skygo.mn/live/disk1/NTV/HLSv3-FTA/NTV.m3u8
+
+# 51.3 ТВЦ INTERNATIONAL (SkyGo)
+#EXTINF:-1 tvg-id="tvc-international" tvg-logo="https://iptvx.one/picons/tvc_international.png" group-title="Эфирные ТВ плюс",51.3 ТВЦ International
+https://cdn4.skygo.mn/live/disk1/TVC/HLSv3-FTA/TVC.m3u8
+
+# 51.4 ПЯТЫЙ КАНАЛ INT (SkyGo)
+#EXTINF:-1 tvg-id="5-international" tvg-logo="https://iptvx.one/picons/5_international.png" group-title="Эфирные ТВ плюс",51.4 Пятый канал International
+https://cdn4.skygo.mn/live/disk1/5-TV/HLSv3-FTA/5-TV.m3u8
+
+# 51.5 ТНТ INTERNATIONAL (SkyGo)
+#EXTINF:-1 tvg-id="tnt-int" tvg-logo="https://iptvx.one/picons/tnt_int.png" group-title="Эфирные ТВ плюс",51.5 ТНТ International
+https://cdn4.skygo.mn/live/disk1/TNT/HLSv3-FTA/TNT.m3u8
+
+# 51.6 РЕН ТВ INTERNATIONAL (SkyGo)
+#EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv_international.png" group-title="Эфирные ТВ плюс",51.6 РЕН ТВ International
+https://cdn4.skygo.mn/live/disk1/REN/HLSv3-FTA/REN.m3u8
+
+# 51.7 СТС INTERNATIONAL (SkyGo)
+#EXTINF:-1 tvg-id="sts-international" tvg-logo="https://iptvx.one/picons/sts_international.png" group-title="Эфирные ТВ плюс",51.7 СТС International
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+
+# 51.8 ДОМАШНИЙ INTERNATIONAL (SkyGo)
+#EXTINF:-1 tvg-id="domashniy-int" tvg-logo="https://iptvx.one/picons/domashniy-international.png" group-title="Эфирные ТВ плюс",51.8 Домашний International
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+
+# 51.9 КАРУСЕЛЬ INTERNATIONAL (SkyGo)
+#EXTINF:-1 tvg-id="karusel-international" tvg-logo="https://iptvx.one/picons/karusel_international.png" group-title="Эфирные ТВ плюс",51.9 Карусель International
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+
+# 51.10 РОССИЯ 24 (SkyGo)
+#EXTINF:-1 tvg-id="russia24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="Эфирные ТВ плюс",51.10 Россия 24
+https://cdn4.skygo.mn/live/disk1/Russia24/HLSv3-FTA/Russia24.m3u8
+
+# --- ПОЛНЫЙ ЦИКЛ SKYGO INTERNATIONAL (БЕЗ VPN) ---
+
+# [Предыдущие каналы 51.0 - 51.10 ...]
+
+# 51.11 ТНТ4 INTERNATIONAL (SkyGo)
+#EXTINF:-1 tvg-id="tnt4-int" tvg-logo="https://iptvx.one/picons/tnt4_int.png" group-title="Эфирные ТВ плюс",51.11 ТНТ4 International
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+
+
 #
 
 
