@@ -986,6 +986,104 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 
 
+... [предыдущие каналы №1-18] ...
+
+#EXTINF:-1 tvg-name="Кинопремьера" tvg-id="Kinopremiera.ru" tvg-chno="19" tvg-logo="https://naggdd.github.io/iptv/logos/kinopremiera.png" group-title="Экстра ТВ плюс",Кинопремьера
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Кинохит" tvg-id="Kinohit.ru" tvg-chno="20" tvg-logo="https://naggdd.github.io/iptv/logos/kinohit.png" group-title="Экстра ТВ плюс",Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit.m3u8
+
+#EXTINF:-1 tvg-name="Киноужас" tvg-id="Kinoujas.ru" tvg-chno="21" tvg-logo="https://naggdd.github.io/iptv/logos/kinouzhas.png" group-title="Экстра ТВ плюс",Киноужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas.m3u8
+
+#EXTINF:-1 tvg-name="Киносерия" tvg-id="Kinoseriya.ru" tvg-chno="22" tvg-logo="https://naggdd.github.io/iptv/logos/kinoseria.png" group-title="Экстра ТВ плюс",Киносерия
+http://158.101.222.193:88/georgia_play.php?id=kinoseria.m3u8
+
+
+... [предыдущие каналы №1-22] ...
+
+#EXTINF:-1 tvg-name="Кинокомедия" tvg-id="Kinokomediya.ru" tvg-chno="23" tvg-logo="https://i.imgur.com/xsc0z7v.png" group-title="Экстра ТВ плюс",Кинокомедия
+http://176.118.197.101/Kinokomediya/index.m3u8
+
+
+... [предыдущие каналы №1-23] ...
+
+#EXTINF:-1 tvg-name="НСТ" tvg-id="NST.ru" tvg-chno="24" tvg-logo="https://i.imgur.com/8QzGv8b.png" group-title="Экстра ТВ плюс",НСТ
+http://vod.tuva.ru/nst/index.m3u8
+
+
+... [предыдущие каналы №1-24] ...
+
+#EXTINF:-1 tvg-name="Киномикс" tvg-id="Kinomiks.ru" tvg-chno="25" group-title="Экстра ТВ плюс",Киномикс
+http://93.170.254.17/Kinomiks/index.m3u8
+
+#EXTINF:-1 tvg-name="Киносвидание" tvg-id="Kinosvidanie.ru" tvg-chno="26" group-title="Экстра ТВ плюс",Киносвидание
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie.m3u8
+
+#EXTINF:-1 tvg-name="Киносемья" tvg-id="Kinosemya.ru" tvg-chno="27" group-title="Экстра ТВ плюс",Киносемья
+http://158.101.222.193:88/georgia_play.php?id=kinosemya.m3u8
+
+#EXTINF:-1 tvg-name="Кинопоказ" tvg-id="Kinopokaz.ru" tvg-chno="28" group-title="Экстра ТВ плюс",Кинопоказ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+
+#EXTINF:-1 tvg-name="Киноман" tvg-id="Kinoman.ru" tvg-chno="29" group-title="Экстра ТВ плюс",Киноман
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+
+
+
+... [предыдущие каналы №1-29] ...
+
+#EXTINF:-1 tvg-name="2x2" tvg-id="2x2.ru" tvg-chno="30" tvg-logo="https://naggdd.github.io/iptv/logos/2x2.png" group-title="Экстра ТВ плюс",2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Солнце" tvg-id="Solnce.ru" tvg-chno="31" tvg-logo="https://naggdd.github.io/iptv/logos/solnce.png" group-title="Экстра ТВ плюс",Солнце
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+
+#EXTINF:-1 tvg-name="Мульт" tvg-id="Mult.ru" tvg-chno="32" tvg-logo="https://naggdd.github.io/iptv/logos/mult.png" group-title="Экстра ТВ плюс",Мульт
+https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Ani" tvg-id="Ani.ru" tvg-chno="33" tvg-logo="https://naggdd.github.io/iptv/logos/ani.png" group-title="Экстра ТВ плюс",Ani
+http://176.118.197.125/Ani/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
