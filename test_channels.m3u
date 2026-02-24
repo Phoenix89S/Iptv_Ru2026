@@ -673,33 +673,74 @@ http://103.78.149.54:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="rt-india" tvg-logo="https://iptvx.one/picons/rt_india_hd.png" group-title="Эфирные ТВ плюс",47.1 RT India HD
 https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 
+# --- КНОПКА 47: RT NEWS & DOC (ПОЛИРОВКА 47.2+) ---
 
-# 47.6 RT News HD — English (Полировка)
-#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://iptvx.one/picons/rt_news_hd.png" group-title="Эфирные ТВ плюс",47.6 RT News HD
-https://rt-eng.rttv.com/dvr/rt_eng/playlist.m3u8
+# 47.2 RT ARABIC (DVR)
+#EXTINF:-1 tvg-id="RTArabic.ru@SD" group-title="Эфирные ТВ плюс",47.2 RT Arabic (1080p) [Geo-blocked] 
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8 
 
-# 47.7 RT News — English (HQ Резерв)
-#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://iptvx.one/picons/rt_news.png" group-title="Эфирные ТВ плюс",47.7 RT News
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RT_NEWS/variant.m3u8
+# 47.3 RT ARABIC (LIVE)
+#EXTINF:-1 tvg-id="RTArabic.ru@SD" group-title="Эфирные ТВ плюс",47.3 RT Arabic (1080p) [Geo-blocked] 
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8 
 
-# 47.8 RT Arabic HD — Арабский
-#EXTINF:-1 tvg-id="rt-arabic" tvg-logo="https://iptvx.one/picons/rt_arabic_hd.png" group-title="Эфирные ТВ плюс",47.8 RT Arabic HD
-https://rt-ara.rttv.com/dvr/rt_arabic/playlist.m3u8
+# 47.4 RT DOCUMENTARY ENGLISH (DVR)
+#EXTINF:-1 tvg-id="RTDocumentary.ru@English" group-title="Эфирные ТВ плюс",47.4 RT Documentary English (1080p) [Geo-blocked] 
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8 
 
-# 47.9 RT Spanish HD — Испанский
-#EXTINF:-1 tvg-id="rt-spanish" tvg-logo="https://iptvx.one/picons/rt_spanish_hd.png" group-title="Эфирные ТВ плюс",47.9 RT Spanish HD
-https://rt-esp.rttv.com/dvr/rt_spanish/playlist.m3u8
+# 47.5 RT DOCUMENTARY ENGLISH (LIVE)
+#EXTINF:-1 tvg-id="RTDocumentary.ru@English" group-title="Эфирные ТВ плюс",47.5 RT Documentary English (1080p) [Geo-blocked] 
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8 
 
-# 47.10 RT Doc English HD — Документалка (EN)
-#EXTINF:-1 tvg-id="rt-doc-en" tvg-logo="https://iptvx.one/picons/rtd_en_hd.png" group-title="Эфирные ТВ плюс",47.10 RT Doc English HD
-https://rt-doc.rttv.com/dvr/rt_doc_eng/playlist.m3u8
+# 47.6 RT DOCUMENTARY RUSSIAN
+#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" group-title="Эфирные ТВ плюс",47.6 RT Documentary Russian (1080p) 
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8 
 
-# 47.11.1 RT France — Поток 1 (DVR)
-#EXTINF:-1 tvg-id="rt-france" tvg-logo="https://iptvx.one/picons/rt_france_hd.png" group-title="Эфирные ТВ плюс",47.11.1 RT France (DVR)
+# 47.7 RT EN ESPAÑOL (DVR)
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="Эфирные ТВ плюс",47.7 RT en Español (1080p) [Geo-blocked] 
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8 
+
+# 47.8 RT EN ESPAÑOL (LIVE)
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="Эфирные ТВ плюс",47.8 RT en Español (1080p) [Geo-blocked] 
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8 
+
+# 47.9 RT EN ESPAÑOL (ODYSEE)
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="Эфирные ТВ плюс",47.9 RT en Español (1080p) 
+#EXTVLCOPT:http-referrer=https://odysee.com/ 
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8 
+
+# 47.10 RT FRANCE (DVR)
+#EXTINF:-1 tvg-id="RTFrance.fr@SD" group-title="Эфирные ТВ плюс",47.10 RT France (1080p) [Geo-blocked] 
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8 
+
+# 47.11 RT FRANCE (LIVE)
+#EXTINF:-1 tvg-id="RTFrance.fr@SD" group-title="Эфирные ТВ плюс",47.11 RT France (1080p) [Geo-blocked] 
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8 
+
+# 47.12 RT NEWS (LIVE)
+#EXTINF:-1 tvg-id="RT.ru@SD" group-title="Эфирные ТВ плюс",47.12 RT News (1080p) [Geo-blocked] 
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8 
+
+# 47.13 RT NEWS (ODYSEE)
+#EXTINF:-1 tvg-id="RT.ru@SD" group-title="Эфирные ТВ плюс",47.13 RT News (1080p) [Not 24/7] 
+#EXTVLCOPT:http-referrer=https://odysee.com/ 
+https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8 
+
+# 47.14 RT NEWS (DVR)
+#EXTINF:-1 tvg-id="RT.ru@SD" group-title="Эфирные ТВ плюс",47.14 RT News (1080p) [Not 24/7] 
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8 
+
+# 47.15 RT NEWS (RUMBLE)
+#EXTINF:-1 tvg-id="RT.ru@SD" group-title="Эфирные ТВ плюс",47.15 RT News (1080p) [Not 24/7] 
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
+
+
+
+# 47.16.1 RT France — Поток 1 (DVR)
+#EXTINF:-1 tvg-id="rt-france" tvg-logo="https://iptvx.one/picons/rt_france_hd.png" group-title="Эфирные ТВ плюс",47.16.1 RT France (DVR)
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 
-# 47.11.2 RT France — Поток 2 (Live)
-#EXTINF:-1 tvg-id="rt-france" tvg-logo="https://iptvx.one/picons/rt_france_hd.png" group-title="Эфирные ТВ плюс",47.11.2 RT France (Live)
+# 47.16.2 RT France — Поток 2 (Live)
+#EXTINF:-1 tvg-id="rt-france" tvg-logo="https://iptvx.one/picons/rt_france_hd.png" group-title="Эфирные ТВ плюс",47.16.2 RT France (Live)
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 
 
