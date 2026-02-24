@@ -37,13 +37,33 @@ https://stream.free-iptv.com/live/111.m3u8
 
 # --- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС ---
 
-# 1. Первый канал (SD) — РТРС №1
-#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",1. Первый канал (SD)
+#EXTM3U
+
+# 1.0 Первый канал (SD) — РТРС №1
+#EXTINF:-1 tvg-id="1" tvg-chno="1.0" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",1.0 Первый канал (SD)
 http://194.8.128.38:8080/ort/playlist.m3u8
 
-# 1.1 Первый канал (Архив)
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="1" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",1.1 Первый канал (Архив)
+# 1.0.1 Первый канал (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="1" tvg-chno="1.0.1" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",1.0.1 Первый канал (Архив)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+
+# 1.0.2 Первый канал (HD)
+#EXTINF:-1 tvg-id="1" tvg-chno="1.0.2" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",1.0.2 Первый канал (HD)
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
+
+# 1.0.3 Первый канал (+1)
+#EXTINF:-1 tvg-id="1" tvg-chno="1.0.3" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",1.0.3 Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
+
+# 1.0.4 Первый канал (+3)
+#EXTINF:-1 tvg-id="1" tvg-chno="1.0.4" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",1.0.4 Первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2
+
+# 1.0.5 Первый канал (+8)
+#EXTINF:-1 tvg-id="1" tvg-chno="1.0.5" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",1.0.5 Первый канал (+8)
+http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2
+
+
 
 # 2. Россия 1 — РТРС №2
 #EXTINF:-1 tvg-id="2" tvg-logo="http://epg.it99.org/img/2.png" group-title="Эфирные ТВ плюс",2. Россия 1
