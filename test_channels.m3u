@@ -776,28 +776,28 @@ https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="russia24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="Эфирные ТВ плюс",51.10 Россия 24
 https://cdn4.skygo.mn/live/disk1/Russia24/HLSv3-FTA/Russia24.m3u8
 
-# 51.16 ДЕТСКОЕ КИНО INTERNATIONAL
-#EXTINF:-1 tvg-id="Detskoekino.ru@International",51.16 Детское кино International [Not 24/7]
+# 51.11 ДЕТСКОЕ КИНО INTERNATIONAL
+#EXTINF:-1 tvg-id="Detskoekino.ru@International",51.11 Детское кино International [Not 24/7]
 https://autopilot.catcast.tv/content/38720/index.m3u8
 
-# 51.17 КИНО 1 INTERNATIONAL
-#EXTINF:-1 tvg-id="Kino1.ru@International",51.17 Кино 1 International [Not 24/7]
+# 51.12 КИНО 1 INTERNATIONAL
+#EXTINF:-1 tvg-id="Kino1.ru@International",51.12 Кино 1 International [Not 24/7]
 http://kino-1.catcast.tv/content/38617/index.m3u8
 
-# 51.18 КИНО 1 INTERNATIONAL (ДУБЛЬ)
-#EXTINF:-1 tvg-id="Kino1.ru@International",51.18 Кино 1 International [Not 24/7]
+# 51.13 КИНО 1 INTERNATIONAL (ДУБЛЬ)
+#EXTINF:-1 tvg-id="Kino1.ru@International",51.13 Кино 1 International [Not 24/7]
 https://autopilot.catcast.tv/content/38617/index.m3u8
 
-# 51.19 МУЗЫКА 1 INTERNATIONAL
-#EXTINF:-1 tvg-id="Muzyka1.ru@International",51.19 Музыка 1 International [Not 24/7]
+# 51.14 МУЗЫКА 1 INTERNATIONAL
+#EXTINF:-1 tvg-id="Muzyka1.ru@International",51.14 Музыка 1 International [Not 24/7]
 https://kino-1.catcast.tv/content/37745/index.m3u8
 
-# 51.20 МУЗЫКА 2 INTERNATIONAL
-#EXTINF:-1 tvg-id="Muzyka1.ru@International",51.20 Музыка 2 International [Not 24/7]
+# 51.15 МУЗЫКА 2 INTERNATIONAL
+#EXTINF:-1 tvg-id="Muzyka1.ru@International",51.25 Музыка 2 International [Not 24/7]
 https://kino-1.catcast.tv/content/37742/index.m3u8
 
-# 51.21 МУЗЫКА КИНО INTERNATIONAL
-#EXTINF:-1 tvg-id="MuzykaKino.ru@International",51.21 Музыка Кино International [Not 24/7]
+# 51.16 МУЗЫКА КИНО INTERNATIONAL
+#EXTINF:-1 tvg-id="MuzykaKino.ru@International",51.16 Музыка Кино International [Not 24/7]
 https://kino-1.catcast.tv/content/37739/index.m3u8
 
 
@@ -887,6 +887,22 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwO
 #EXTINF:-1 tvg-id="Gulli Girl" tvg-name="Gulli Girl" tvg-logo="https://iptv-org.github.io/iptv/logos/GulliGirl.png" group-title="Детские расширенные", Gulli Girl (Extra)
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwOTcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjVjZGJlOWM2IiwicCI6IjVjZGJlOWM2NjMxZTk1ZDUiLCJjIjoiOTMiLCJ0IjoiODI4NDdmYjkxMTJhNmRhNjU4MGE2NzRhYzZmZjkyNDgiLCJkIjoiNDExMjAyIiwiciI6IjQyMzE3MCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDk3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
+
+
+#EXTINF:-1 tvg-id="TVBRICSChinese.cn@SD" group-title="ТВ БРИКС",TV BRICS Chinese (1080p)
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBRICSEnglish.in@SD" group-title="ТВ БРИКС",TV BRICS English (1080p)
+https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.br@SD" group-title="ТВ БРИКС",TV BRICS Portuguese (1080p)
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBRICSRussian.ru@SD" group-title="ТВ БРИКС",TV BRICS Russian (1080p)
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBRICSSpanish.es@HD" group-title="ТВ БРИКС",TV BRICS Spanish (1080p)
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
 
 
