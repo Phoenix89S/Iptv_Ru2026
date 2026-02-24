@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz "catchup="default" catchup-days="7" catchup-source="?start={utc}&duration={duration}" timeshift="120"
+
 
 #EXTINF:-1 tvg-id="1_kanal_evraziya" tvg-name="Первый канал Евразия" tvg-logo="https://raw.githubusercontent.com/frol-aleksan/IPTV/master/logo/1_kanal_evraziya.png" group-title="Test evrasia", Первый канал Евразия (Main Galam)
 https://cdn.galamtv.kz/hls/1_kanal_evraziya/index.m3u8
@@ -314,15 +315,19 @@ http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_SPAS_HD/variant.m3u8
 
+#
 # 36. СТС HD — Основной поток (Полировка)
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts_hd.png" group-title="Эфирные ТВ плюс",36. СТС HD
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_HD/variant.m3u8
 
-# 36.1 СТС Kids HD — Детский (Премиальный фид)
-#EXTINF:-1 tvg-id="sts-kids" tvg-logo="https://iptvx.one/picons/stskids_hd.png" group-title="Эфирные ТВ плюс",36.1 СТС Kids HD
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_KIDS_HD/variant.m3u8
+# 36.0 СТС Kids HD — Москва (+3)
+#EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids (Москва)" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Эфирные ТВ плюс" tvg-shift="+3",36.0 СТС Kids HD (Msk)
+http://31.148.48.15/STS_Kids_HD/index.m3u8
+
+# 36.1 СТС Kids HD — Калининград (+2)
+#EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids (Калининград)" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Эфирные ТВ плюс" tvg-shift="+2",36.1 СТС Kids HD (Kgd)
+http://31.148.48.15/STS_Kids_HD/index.m3u8
 
 # 36.2 СТС Love — Сериалы и шоу (HQ)
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Эфирные ТВ плюс",36.2 СТС Love
@@ -333,6 +338,7 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_LOVE/variant.m3u8
 #EXTINF:-1 tvg-id="sts-international" tvg-logo="https://iptvx.one/picons/sts-international.png" group-title="Эфирные ТВ плюс",36.3 СТС International
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_INTERNATIONAL/variant.m3u8
+
 
 # 37. ДОМАШНИЙ HD — Основной поток (Полировка)
 #EXTINF:-1 tvg-id="domashniy" tvg-logo="https://iptvx.one/picons/domashniy_hd.png" group-title="Эфирные ТВ плюс",37.0 Домашний HD
