@@ -923,10 +923,77 @@ https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
 
 
+#------Экстра--------
+
+
+#EXTINF:-1 tvg-name="Еда" tvg-logo="https://www.tveda.ru/img/logo.png" tvg-id="Eda.ru" tvg-chno="1" group-title="Экстра ТВ плюс",Еда
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
+
+#EXTINF:-1 tvg-name="Перец" tvg-logo="https://i.imgur.com/vHq0A28.png" tvg-id="Peretz.ru" tvg-chno="2" group-title="Экстра ТВ плюс",Перец
+http://158.101.222.193:88/georgia_play.php?id=perec.m3u8
 
 
 
 
+... [№1 Еда, №2 Перец] ...
+
+#EXTINF:-1 tvg-name="Мама" tvg-chno="3" group-title="Экстра ТВ плюс",Мама
+http://176.118.197.125/Mama/index.m3u8
+
+#EXTINF:-1 tvg-name="JimJam" tvg-chno="4" group-title="Экстра ТВ плюс",JimJam
+http://158.160.149.81:8080/269/index.m3u8
+
+#EXTINF:-1 tvg-name="Смайл" tvg-chno="5" group-title="Экстра ТВ плюс",Смайл
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-chno="6" group-title="Экстра ТВ плюс",Cartoon Network
+http://176.118.197.101/Cartoon_Network/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Kids" tvg-chno="7" group-title="Экстра ТВ плюс",Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+
+#EXTINF:-1 tvg-name="Шаян" tvg-chno="8" group-title="Экстра ТВ плюс",Шаян
+http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Чип и Дейл" tvg-chno="9" group-title="Экстра ТВ плюс",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
+#EXTINF:-1 tvg-name="Пингвин" tvg-chno="10" group-title="Экстра ТВ плюс",Пингвин
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Мамонтёнок" tvg-chno="11" group-title="Экстра ТВ плюс",Мамонтёнок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Мультимания" tvg-chno="12" group-title="Экстра ТВ плюс",Мультимания
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Мультиландия" tvg-chno="13" group-title="Экстра ТВ плюс",Мультиландия
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Ералаш" tvg-chno="14" group-title="Экстра ТВ плюс",Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Da Vinci" tvg-chno="15" group-title="Экстра ТВ плюс",Da Vinci
+http://158.101.222.193:88/georgia_play.php?id=davinci
+
+#EXTINF:-1 tvg-name="Рыжий" tvg-chno="16" group-title="Экстра ТВ плюс",Рыжий
+http://31.148.48.15/Rizhiy/index.m3u8
+
+#EXTINF:-1 tvg-name="Союзмультфильмы" tvg-chno="17" group-title="Экстра ТВ плюс",Союзмультфильмы
+http://194.26.229.213/souzmultfilm/index.m3u8
+
+#EXTINF:-1 tvg-name="Радио Kids FM" tvg-chno="18" group-title="Экстра ТВ плюс",Радио Kids FM
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+---------
 
 
 
