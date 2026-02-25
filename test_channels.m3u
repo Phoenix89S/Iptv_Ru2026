@@ -923,6 +923,42 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwO
 #EXTINF:-1 tvg-id="Gulli Girl" tvg-name="Gulli Girl" tvg-logo="https://iptv-org.github.io/iptv/logos/GulliGirl.png" group-title="Детские расширенные", Gulli Girl (Extra)
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwOTcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjVjZGJlOWM2IiwicCI6IjVjZGJlOWM2NjMxZTk1ZDUiLCJjIjoiOTMiLCJ0IjoiODI4NDdmYjkxMTJhNmRhNjU4MGE2NzRhYzZmZjkyNDgiLCJkIjoiNDExMjAyIiwiciI6IjQyMzE3MCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDk3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
+# --- Детские расширенные ---
+
+# 1.1 Gulli Girl (Extra)
+#EXTINF:-1 tvg-id="Gulli Girl" tvg-name="Gulli Girl" tvg-logo="https://iptv-org.github.io/iptv/logos/GulliGirl.png" group-title="Детские расширенные",1.1 Gulli Girl (Extra)
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwOTcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjVjZGJlOWM2IiwicCI6IjVjZGJlOWM2NjMxZTk1ZDUiLCJjIjoiOTMiLCJ0IjoiODI4NDdmYjkxMTJhNmRhNjU4MGE2NzRhYzZmZjkyNDgiLCJkIjoiNDExMjAyIiwiciI6IjQyMzE3MCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDk3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+
+# 2. Ani
+#EXTINF:-1 tvg-id="Ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Детские расширенные",2. Ani
+http://176.118.197.125/Ani/index.m3u8
+
+# --- Детские расширенные (продолжение) ---
+
+# 3. Cartoon Classics
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img2/cartoon-classics.png" group-title="Детские расширенные",3. Cartoon Classics
+http://5.188.159.125:8070/Cartoon_Network/index.m3u8
+
+# 4. Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://iptvx.one/picons/boomerang.png" group-title="Детские расширенные",4. Cartoonito
+http://88.216.112.114/Cartoonito/index.m3u8
+
+# 5. Duck TV
+#EXTINF:-1 tvg-id="Duck TV" tvg-name="Duck TV" tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="Детские расширенные",5. Duck TV
+https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+
+# 6. JimJam
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" tvg-logo="http://epg.one/img2/jimjam.png" group-title="Детские расширенные",6. JimJam
+http://176.118.197.125/JimJam/index.m3u8
+
+# 7. Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="Детские расширенные",7. Nickelodeon
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+
+# 8. TiJi
+#EXTINF:-1 tvg-id="TiJi" tvg-name="TiJi" tvg-logo="https://iptvx.one/picons/tiji.png" group-title="Детские расширенные",8. TiJi
+http://45.145.32.13:20440/tiji/index.m3u8?token=test
+
 
 
 #EXTINF:-1 tvg-id="TVBRICSChinese.cn@SD" group-title="ТВ БРИКС",TV BRICS Chinese (1080p)
