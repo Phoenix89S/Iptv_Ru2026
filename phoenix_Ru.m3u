@@ -219,6 +219,85 @@ https://stream8.cinerama.uz/1300/tracks-v1a1/mono.m3u8
 
 
 
+# 31. Cartoon Classics (Классика на русском)
+#EXTINF:-1 tvg-id="Cartoon_Classics" group-title="Детские BeeTV",31. Cartoon Classics
+https://edge1.beetv.kz/hls/cartoon_classics/index.m3u8
+
+# 32. Лёва (Для самых маленьких, рус)
+#EXTINF:-1 tvg-id="Leva" group-title="Детские BeeTV",32. Лёва
+https://edge2.beetv.kz/hls/leva/index.m3u8
+
+# 33. TiJi (Русская дорожка)
+#EXTINF:-1 tvg-id="TiJi_RU" group-title="Детские BeeTV",33. TiJi RU
+https://edge1.beetv.kz/hls/tiji/index.m3u8
+
+# 34. Nick Jr. (Русская дорожка)
+#EXTINF:-1 tvg-id="Nick_Jr_RU" group-title="Детские BeeTV",34. Nick Jr RU
+https://edge2.beetv.kz/hls/nick_jr/index.m3u8
+
+# 35. Gulli Girl (Русская дорожка)
+#EXTINF:-1 tvg-id="Gulli_Girl_RU" group-title="Детские BeeTV",35. Gulli Girl RU
+https://edge1.beetv.kz/hls/gulli_girl/index.m3u8
+
+# 36. Мульт (RU Фид)
+#EXTINF:-1 tvg-id="Mult_RU" group-title="Детские BeeTV",36. Мульт RU
+https://edge1.beetv.kz/hls/mult/index.m3u8
+
+# 37. Карусель (RU Фид)
+#EXTINF:-1 tvg-id="Karusel_RU" group-title="Детские BeeTV",37. Карусель RU
+https://edge2.beetv.kz/hls/karusel/index.m3u8
+
+# 38. Смайлик (Для детей, рус)
+#EXTINF:-1 tvg-id="Smaylik" group-title="Детские BeeTV",38. Смайлик
+https://edge1.beetv.kz/hls/smile/index.m3u8
+
+# 39. Пятница International (Мультики по утрам, рус)
+#EXTINF:-1 tvg-id="Friday_Int" group-title="Детские BeeTV",39. Пятница Int
+https://edge1.beetv.kz/hls/friday_int/index.m3u8
+
+# 40. Jibek Joly (Есть блок мультиков на русском)
+#EXTINF:-1 tvg-id="Jibek_Joly" group-title="Детские BeeTV",40. Jibek Joly RU
+https://edge1.beetv.kz/hls/kazakh_tv_ru/index.m3u8
+
+# 41. Big Planet (Наука и природа, рус)
+#EXTINF:-1 tvg-id="Big_Planet" group-title="Познавательные BeeTV",41. Big Planet
+https://edge1.beetv.kz/hls/big_planet/index.m3u8
+
+# 42. Наука (RU версия)
+#EXTINF:-1 tvg-id="Nauka_RU" group-title="Познавательные BeeTV",42. Наука RU
+https://edge1.beetv.kz/hls/nauka/index.m3u8
+
+# 43. Моя Планета (RU версия)
+#EXTINF:-1 tvg-id="Moya_Planeta_RU" group-title="Познавательные BeeTV",43. Моя Планета RU
+https://edge2.beetv.kz/hls/moya_planeta/index.m3u8
+
+# 44. Наша Тема (Охота/Рыбалка, рус)
+#EXTINF:-1 tvg-id="Nasha_Tema" group-title="Познавательные BeeTV",44. Наша Тема
+https://edge2.beetv.kz/hls/nasha_tema/index.m3u8
+
+# 45. Усадьба (Для Зои, рус)
+#EXTINF:-1 tvg-id="Usadba_RU" group-title="Познавательные BeeTV",45. Усадьба
+https://edge2.beetv.kz/hls/usadba/index.m3u8
+
+# 46. Загородная жизнь (Для Зои, рус)
+#EXTINF:-1 tvg-id="Zagorod_Life" group-title="Познавательные BeeTV",46. Загородная жизнь
+https://edge1.beetv.kz/hls/zagorodnaya_zhizn/index.m3u8
+
+# 47. Драйв (Про машины, для тебя, рус)
+#EXTINF:-1 tvg-id="Drive" group-title="Познавательные BeeTV",47. Драйв
+https://edge2.beetv.kz/hls/drive/index.m3u8
+
+# 48. Тайны Галактики (Астрономия! Рус)
+#EXTINF:-1 tvg-id="Galaxy_Secrets" group-title="Познавательные BeeTV",48. Тайны Галактики
+https://edge1.beetv.kz/hls/tainy_galaktiki/index.m3u8
+
+# 49. Глазами Туриста (Путешествия, рус)
+#EXTINF:-1 tvg-id="Glazami_Turista" group-title="Познавательные BeeTV",49. Глазами Туриста
+https://edge1.beetv.kz/hls/glazami_turista/index.m3u8
+
+# 50. Домашний Очаг (Для всей семьи, рус)
+#EXTINF:-1 tvg-id="Dom_Ochag" group-title="Познавательные BeeTV",50. Домашний Очаг
+https://edge1.beetv.kz/hls/domashniy_ochag/index.m3u8
 
 
 
