@@ -1,1 +1,268 @@
-ithub.com/Phoenix89S/Iptv_Ru2026/blob/main/mir.m3u
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
+#PLAYLIST:mir
+
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-logo="http://epg.one/img2/0x0-fireplace-hd.png" group-title="Неопределённые", Горящий камин
+
+#EXTINF:-1 tvg-id="1-2" tvg-logo="http://epg.one/img2/1-2.png" group-title="Неопределённые", 1+2
+
+#EXTINF:-1 tvg-id="10-rentv" tvg-logo="http://epg.one/img2/10-rentv.png" group-title="Региональные" ,10 канал / РенТВ Саранск
+
+#EXTINF:-1 tvg-id="10kanal-novokuzneck" tvg-logo="http://epg.one/img2/10kanal-novokuzneck.png" group-title="Неопределённые", Десятка (Новокузнецк)
+
+#EXTINF:-1 tvg-id="11kanal-usole" tvg-logo="http://epg.one/img2/11kanal-usole.png" group-title="Региональные" ,11 канал (Усолье)
+
+#EXTINF:-1 tvg-id="12-omsk" tvg-logo="http://epg.one/img2/12-omsk.png" group-title="Региональные" ,12 канал Омск
+
+#EXTINF:-1 tvg-id="13-strt" tvg-logo="http://epg.one/img2/13-strt.png" group-title="Неопределённые", 13th Street HD
+
+#EXTINF:-1 tvg-id="13ulica-pl" tvg-logo="http://epg.one/img2/13ulica-pl.png" group-title="Неопределённые", 13 Ulica [PL]
+
+#EXTINF:-1 tvg-id="192tv" tvg-logo="http://epg.one/img2/192tv.png" group-title="Неопределённые", 192TV
+
+#EXTINF:-1 tvg-id="192tv-60s" tvg-logo="http://epg.one/img2/192tv-60s.png" group-title="Неопределённые", 192TV 60s
+
+#EXTINF:-1 tvg-id="192tv-70s" tvg-logo="http://epg.one/img2/192tv-70s.png" group-title="Неопределённые", 192TV 70s
+
+#EXTINF:-1 tvg-id="192tv-80s" tvg-logo="http://epg.one/img2/192tv-80s.png" group-title="Неопределённые", 192TV 80s
+
+#EXTINF:-1 tvg-id="1hd" tvg-logo="http://epg.one/img2/1hd.png" group-title="Музыкальные", 1HD Music
+
+#EXTINF:-1 tvg-id="1obl-blagoveschensk" tvg-logo="http://epg.one/img2/1obl-blagoveschensk.png" group-title="Региональные" ,Первый областной (Благовещенск)
+
+#EXTINF:-1 tvg-id="2-kanal-mogilev" tvg-logo="http://epg.one/img2/2-kanal-mogilev.png" group-title="Региональные" ,ТВ2 (Могилёв)
+
+#EXTINF:-1 tvg-id="25-region-vladik" tvg-logo="http://epg.one/img2/25-region-vladik.png" group-title="Региональные" ,25 регион (Владивосток)
+
+#EXTINF:-1 tvg-id="26-region" tvg-logo="http://epg.one/img2/26-region.png" group-title="Региональные" ,26 регион
+
+#EXTINF:-1 tvg-id="2na2" tvg-logo="http://epg.one/img2/2na2.png" group-title="Детские", 2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 tvg-id="2na2-pl2" tvg-logo="http://epg.one/img2/2na2-pl2.png" group-title="Детские", 2x2 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:-1 tvg-id="2na2-pl4" tvg-logo="http://epg.one/img2/2na2-pl4.png" group-title="Детские", 2x2 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:-1 tvg-id="2na2-pl7" tvg-logo="http://epg.one/img2/2na2-pl7.png" group-title="Детские", 2x2 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 tvg-id="3-plus-ee" tvg-logo="http://epg.one/img2/3-plus-ee.png" group-title="Неопределённые", TV3 Gold [EE]
+
+#EXTINF:-1 tvg-id="3-plus-latvia" tvg-logo="http://epg.one/img2/3-plus-latvia.png" group-title="Неопределённые", 3+ [LV]
+
+#EXTINF:-1 tvg-id="31-kanal-chelyabinsk" tvg-logo="http://epg.one/img2/31-kanal-chelyabinsk.png" group-title="Региональные" ,31 канал (Челябинск)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 tvg-id="31-kanal-kz" tvg-logo="http://epg.one/img2/31-kanal-kz.png" group-title="Региональные" ,31 канал (Казахстан)
+
+#EXTINF:-1 tvg-id="312-kino" tvg-logo="http://epg.one/img2/312-kino.png" group-title="Кино и сериалы", 312 Кино
+
+#EXTINF:-1 tvg-id="312-music" tvg-logo="http://epg.one/img2/312-music.png" group-title="Неопределённые", 312 Музыка
+
+#EXTINF:-1 tvg-id="312-serial" tvg-logo="http://epg.one/img2/312-serial.png" group-title="Неопределённые", 312 Сериал
+
+#EXTINF:-1 tvg-id="36-6-tv" tvg-logo="http://epg.one/img2/36-6-tv.png" group-title="Неопределённые", 36,6 TV
+
+#EXTINF:-1 tvg-id="360-int" tvg-logo="http://epg.one/img2/360-int.png" group-title="Общественные", 360° International
+
+#EXTINF:-1 tvg-id="360-lv" tvg-logo="http://epg.one/img2/360-lv.png" group-title="Неопределённые", 360TV [LV]
+
+#EXTINF:-1 tvg-id="360-news" tvg-logo="http://epg.one/img2/360-news.png" group-title="Информационные", 360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="http://epg.one/img2/360-podmoskovie.png" group-title="Общественные" ,360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360-tunebox" tvg-logo="http://epg.one/img2/360-tunebox.png" group-title="Неопределённые", 360TuneBox
+
+#EXTINF:-1 tvg-id="41region" tvg-logo="http://epg.one/img2/41region.png" group-title="Неопределённые", 41 регион (Петропавловск-Камчатский)
+
+#EXTINF:-1 tvg-id="49kanal" tvg-logo="http://epg.one/img2/49kanal.png" group-title="Неопределённые", 49 канал
+
+#EXTINF:-1 tvg-id="4ever-cinema" tvg-logo="http://epg.one/img2/4ever-cinema.png" group-title="Кино и сериалы", 4ever Cinema
+
+#EXTINF:-1 tvg-id="4ever-drama" tvg-logo="http://epg.one/img2/4ever-drama.png" group-title="Неопределённые", 4ever Drama
+
+#EXTINF:-1 tvg-id="4ever-music" tvg-logo="http://epg.one/img2/4ever-music.png" group-title="Неопределённые", 4ever Music
+
+#EXTINF:-1 tvg-id="4ever-theater" tvg-logo="http://epg.one/img2/4ever-theater.png" group-title="Неопределённые", 4ever Theater
+
+#EXTINF:-1 tvg-id="4fun" tvg-logo="http://epg.one/img2/4fun.png" group-title="Неопределённые", 4fun
+
+#EXTINF:-1 tvg-id="4fun-dance" tvg-logo="http://epg.one/img2/4fun-dance.png" group-title="Неопределённые", 4fun Fit&Dance
+
+#EXTINF:-1 tvg-id="4fun-gold" tvg-logo="http://epg.one/img2/4fun-gold.png" group-title="Неопределённые", 4fun Kids
+
+#EXTINF:-1 tvg-id="4k-ruskino" tvg-logo="http://epg.one/img2/4k-ruskino.png" group-title="Кино и сериалы" ,4K Русское кино
+
+#EXTINF:-1 tvg-id="4kanal-piatnica" tvg-logo="http://epg.one/img2/4kanal-piatnica.png" group-title="Неопределённые", 4 канал (Екатеринбург)
+
+#EXTINF:-1 tvg-id="5-am" tvg-logo="http://epg.one/img2/5-am.png" group-title="Неопределённые", 5 TV [AM]
+
+#EXTINF:-1 tvg-id="5-taganrog" tvg-logo="http://epg.one/img2/5-taganrog.png" group-title="Неопределённые", 5 канал (Таганрог)
+
+#EXTINF:-1 tvg-id="5kanal-karaganda" tvg-logo="http://epg.one/img2/5kanal-karaganda.png" group-title="Неопределённые", 5 канал [KZ]
+
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="http://epg.one/img2/5kanal-ru.png" group-title="Общественные", Пятый канал
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl2" tvg-logo="http://epg.one/img2/5kanal-ru-pl2.png" group-title="Общественные", Пятый канал +2
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_5TV_EKT/variant.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl4" tvg-logo="http://epg.one/img2/5kanal-ru-pl4.png" group-title="Общественные", Пятый канал +4
+
+#EXTINF:-1 tvg-id="5kanal-ru-pl7" tvg-logo="http://epg.one/img2/5kanal-ru-pl7.png" group-title="Общественные", Пятый канал +7
+
+#EXTINF:-1 tvg-id="5sport-gold-il" tvg-logo="http://epg.one/img2/5sport-gold-il.png" group-title="Неопределённые", 5Sport Gold
+
+#EXTINF:-1 tvg-id="5sport-live-il" tvg-logo="http://epg.one/img2/5sport-live-il.png" group-title="Неопределённые", 5Sport Live
+
+#EXTINF:-1 tvg-id="5sport-plus-il" tvg-logo="http://epg.one/img2/5sport-plus-il.png" group-title="Неопределённые", 5Sport Plus
+
+#EXTINF:-1 tvg-id="5sport-stars-il" tvg-logo="http://epg.one/img2/5sport-stars-il.png" group-title="Неопределённые", 5Sport Stars
+
+#EXTINF:-1 tvg-id="6kanal-vlad" tvg-logo="http://epg.one/img2/6kanal-vlad.png" group-title="Общественные", 6 канал (Владимир)
+
+#EXTINF:-1 tvg-id="6sotok" tvg-logo="http://epg.one/img2/6sotok.png" group-title="Неопределённые", 6 соток
+
+#EXTINF:-1 tvg-id="6tv" tvg-logo="http://epg.one/img2/6tv.png" group-title="Региональные" ,6 ТВ
+http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+#EXTINF:-1 tvg-id="7-nefteyugansk" tvg-logo="http://epg.one/img2/7-nefteyugansk.png" group-title="Развлекательные", 7 канал (Нефтеюганск)
+
+#EXTINF:-1 tvg-id="77tv-kz" tvg-logo="http://epg.one/img2/77tv-kz.png" group-title="Неопределённые", 77TV
+
+#EXTINF:-1 tvg-id="78kanal" tvg-logo="http://epg.one/img2/78kanal.png" group-title="Неопределённые", 78
+
+#EXTINF:-1 tvg-id="7d7" tvg-logo="http://epg.one/img2/7d7.png" group-title="Неопределённые", Just TV
+
+#EXTINF:-1 tvg-id="7kanal-krasnoyarsk" tvg-logo="http://epg.one/img2/7kanal-krasnoyarsk.png" group-title="Региональные" ,7 канал (Красноярск)
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="7kanal-kz" tvg-logo="http://epg.one/img2/7kanal-kz.png" group-title="Неопределённые", 7 канал (Казахстан)
+
+#EXTINF:-1 tvg-id="7tv" tvg-logo="http://epg.one/img2/7tv.png" group-title="Неопределённые", 7ТВ
+
+#EXTINF:-1 tvg-id="86-surgut" tvg-logo="http://epg.one/img2/86-surgut.png" group-title="Неопределённые", 86 Сургут
+
+#EXTINF:-1 tvg-id="8kanal-by" tvg-logo="http://epg.one/img2/8kanal-by.png" group-title="Неопределённые", 8 канал [BY]
+
+#EXTINF:-1 tvg-id="8kanal-eu" tvg-logo="http://epg.one/img2/8kanal-eu.png" group-title="Развлекательные" ,8 канал International
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+#EXTINF:-1 tvg-id="8kanal-krasnoyarsk" tvg-logo="http://epg.one/img2/8kanal-krasnoyarsk.png" group-title="Региональные" ,8 канал (Красноярский край)
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="8kanal-novosibirsk" tvg-logo="http://epg.one/img2/8kanal-novosibirsk.png" group-title="Региональные" ,8 канал (Новосибирск)
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="8kanal-ru" tvg-logo="http://epg.one/img2/8kanal-ru.png" group-title="Развлекательные" ,8 канал
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:-1 tvg-id="8tv-lv" tvg-logo="http://epg.one/img2/8tv-lv.png" group-title="Неопределённые", 8TV [LV]
+
+#EXTINF:-1 tvg-id="8vladik" tvg-logo="http://epg.one/img2/8vladik.png" group-title="Региональные" ,8 канал (Владивосток)
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="http://epg.one/img2/9kanal-israel.png" group-title="Неопределённые", 9 канал [IL]
+
+#EXTINF:-1 tvg-id="a-haber-tr" tvg-logo="http://epg.one/img2/a-haber-tr.png" group-title="Неопределённые", A Haber HD
+
+#EXTINF:-1 tvg-id="a-news-tr" tvg-logo="http://epg.one/img2/a-news-tr.png" group-title="Неопределённые", A News HD
+
+#EXTINF:-1 tvg-id="a-para-tr" tvg-logo="http://epg.one/img2/a-para-tr.png" group-title="Неопределённые", A Para HD
+
+#EXTINF:-1 tvg-id="a-plus-k" tvg-logo="http://epg.one/img2/a-plus-k.png" group-title="Неопределённые", Адриана+Кристиан
+
+#EXTINF:-1 tvg-id="a-spor-tr" tvg-logo="http://epg.one/img2/a-spor-tr.png" group-title="Неопределённые", A Spor HD
+
+#EXTINF:-1 tvg-id="a2-tr" tvg-logo="http://epg.one/img2/a2-tr.png" group-title="Неопределённые", A2 HD [TR]
+
+#EXTINF:-1 tvg-id="a3" tvg-logo="http://epg.one/img2/a3.png" group-title="Неопределённые", А3
+
+#EXTINF:-1 tvg-id="abaitv" tvg-logo="http://epg.one/img2/abaitv.png" group-title="Познавательные", Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="abakan24" tvg-logo="http://epg.one/img2/abakan24.png" group-title="Региональные" ,Абакан 24
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=lbRb3zr0EFJczX70hVvgfw&e=2070623508&scheme=https
+#EXTINF:-1 tvg-id="abc-news-live-us" tvg-logo="http://epg.one/img2/abc-news-live-us.png" group-title="Неопределённые", ABC News Live [US]
+
+#EXTINF:-1 tvg-id="acc-network-us" tvg-logo="http://epg.one/img2/acc-network-us.png" group-title="Неопределённые", ACC Network [US]
+
+#EXTINF:-1 tvg-id="achinskoetv" tvg-logo="http://epg.one/img2/achinskoetv.png" group-title="Неопределённые", Ачинское телевидение
+
+#EXTINF:-1 tvg-id="active-family-pl" tvg-logo="http://epg.one/img2/active-family-pl.png" group-title="Неопределённые", Active Family [PL]
+
+#EXTINF:-1 tvg-id="adventure-in-90-c" tvg-logo="http://epg.one/img2/adventure-in-90-c.png" group-title="Неопределённые", Adventure in 90's
+
+#EXTINF:-1 tvg-id="adventure-pl" tvg-logo="http://epg.one/img2/adventure-pl.png" group-title="Неопределённые", Adventure [PL]
+
+#EXTINF:-1 tvg-id="afontovo-kr" tvg-logo="http://epg.one/img2/afontovo-kr.png" group-title="Общественные", Афонтово Красноярск
+
+#EXTINF:-1 tvg-id="agro-tv-md" tvg-logo="http://epg.one/img2/agro-tv-md.png" group-title="Неопределённые", Agro TV [MD]
+
+#EXTINF:-1 tvg-id="aifak-kz" tvg-logo="http://epg.one/img2/aifak-kz.png" group-title="Неопределённые", Айғак
+
+#EXTINF:-1 tvg-id="aist" tvg-logo="http://epg.one/img2/aist.png" group-title="Региональные" ,Аист
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+#EXTINF:-1 tvg-id="aiva" tvg-logo="http://epg.one/img2/aiva.png" group-title="Неопределённые", AIVA
+
+#EXTINF:-1 tvg-id="ajara-tv" tvg-logo="http://epg.one/img2/ajara-tv.png" group-title="Неопределённые", Ajara TV
+
+#EXTINF:-1 tvg-id="aktis" tvg-logo="http://epg.one/img2/aktis.png" group-title="Неопределённые", Актис
+
+#EXTINF:-1 tvg-id="akwatv" tvg-logo="http://epg.one/img2/akwatv.png" group-title="Неопределённые", Аква ТВ
+
+#EXTINF:-1 tvg-id="al-jazeera-int" tvg-logo="http://epg.one/img2/al-jazeera-int.png" group-title="Неопределённые", Al Jazeera International
+
+#EXTINF:-1 tvg-id="alautv" tvg-logo="http://epg.one/img2/alautv.png" group-title="Региональные" ,Алау
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 tvg-id="ale-kino-plus" tvg-logo="http://epg.one/img2/ale-kino-plus.png" group-title="Неопределённые", Ale Kino+ HD
+
+#EXTINF:-1 tvg-id="almaty" tvg-logo="http://epg.one/img2/almaty.png" group-title="Неопределённые", Алматы
+
+#EXTINF:-1 tvg-id="almazny-kray" tvg-logo="http://epg.one/img2/almazny-kray.png" group-title="Региональные" ,Алмазный край
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:-1 tvg-id="alo-ee" tvg-logo="http://epg.one/img2/alo-ee.png" group-title="Неопределённые", ALO-TV [EE]
+
+#EXTINF:-1 tvg-id="altai-kz" tvg-logo="http://epg.one/img2/altai-kz.png" group-title="Неопределённые", Altai
+
+#EXTINF:-1 tvg-id="amc" tvg-logo="http://epg.one/img2/amc.png" group-title="Кинозал" ,AMC
+
+#EXTINF:-1 tvg-id="amedia-hit" tvg-logo="http://epg.one/img2/amedia-hit.png" group-title="Неопределённые", A HOME OF HBO 1
+
+#EXTINF:-1 tvg-id="amedia-premium" tvg-logo="http://epg.one/img2/amedia-premium.png" group-title="Неопределённые", A HOME OF HBO 2
+
+#EXTINF:-1 tvg-id="amedia1" tvg-logo="http://epg.one/img2/amedia1.png" group-title="Неопределённые", А1
+
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="http://epg.one/img2/amedia2.png" group-title="Неопределённые", А2
+
+#EXTINF:-1 tvg-id="anekdottv" tvg-logo="http://epg.one/img2/anekdottv.png" group-title="Неопределённые", Анекдот ТВ
+
+#EXTINF:-1 tvg-id="angel-tv" tvg-logo="http://epg.one/img2/angel-tv.png" group-title="Христианские", Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ani" tvg-logo="http://epg.one/img2/ani.png" group-title="Детские", Ani
+http://176.118.197.125/Ani/index.m3u8
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="http://epg.one/img2/animal-planet-eu.png" group-title="Детские", Animal Planet HD
+
+#EXTINF:-1 tvg-id="animal-planet-pl" tvg-logo="http://epg.one/img2/animal-planet-pl.png" group-title="Детские", Animal Planet [PL]
+
+#EXTINF:-1 tvg-id="animaux" tvg-logo="http://epg.one/img2/animaux.png" group-title="Детские", Animaux
+
+#EXTINF:-1 tvg-id="animekids" tvg-logo="http://epg.one/img2/animekids.png" group-title="Неопределённые", Funny Kids
+
+#EXTINF:-1 tvg-id="animetv" tvg-logo="http://epg.one/img2/animetv.png" group-title="Детские", Anime TV
+
+#EXTINF:-1 tvg-id="antena1hd-ro" tvg-logo="http://epg.one/img2/antena1hd-ro.png" group-title="Неопределённые", Antena 1 RO
+
+#EXTINF:-1 tvg-id="anzherskoetv" tvg-logo="http://epg.one/img2/anzherskoetv.png" group-title="Неопределённые", Анжерское ТВ
+
+#EXTINF:-1 tvg-id="appetitny" tvg-logo="http://epg.one/img2/appetitny.png" group-title="Хобби и увлечения", Аппетитный
+
+#EXTINF:-1 tvg-id="aqjaiyq" tvg-logo="http://epg.one/img2/aqjaiyq.png" group-title="Неопределённые", AQJAIYQ
+
+#EXTINF:-1 tvg-id="aqtobe" tvg-logo="http://epg.one/img2/aqtobe.png" group-title="Региональные", AQTOBE
+
+#EXTINF:-1 tvg-id="arena-adrenalin-rs" tvg-logo="http://epg.one/img2/arena-adrenalin-rs.png" group-title="Неопределённые", Arena Adrenalin [RS]
+
+#EXTINF:-1 tvg-id="arena-esport-rs" tvg-logo="http://epg.one/img2/arena-esport-rs.png" group-title="Неопределённые", Arena Esport [RS]
+
+#EXTINF:-1 tvg-id="arena-fight" tvg-logo="http://epg.one/img2/arena-fight.png" group-title="Неопределённые", Arena Fight HD
+
+#EXTINF:-1 tvg-id="arena-premium-1" tvg-logo="http://epg.one/img2/arena-premium-1.png" group-title="Неопределённые", Arena Premium 1 [RS]
+
+#EXTINF:-1 tvg-id="arena-premium-2" tvg-logo="http://epg.one/img2/arena-premium-2.png" group-title="Неопределённые", Arena Premium 2 [RS]
+
+#EXTINF:-1 tvg-id="arena-premium-3" tvg-logo="http://epg.one/img2/arena-premium-3.png" group-title="Неопределённые", Arena Premium 3 [RS]
+
+#EXTINF:-1 tvg-id="arena-premium-4-rs" tvg-logo="http://epg.one/img2/arena-premium-4-rs.png" group-title="Неопределённые", Arena Premium 4 [RS]
+
+#EXTINF:-1 tvg-id="arena-premium-5-rs" tvg-logo="http://epg.one/img2/arena-premium-5-rs.png" group-title="Неопределённые", Arena Premium 5 [RS]
+
+#EXTINF:-1 tvg-id="arena-sport-1" tvg-logo="http://epg.one/img2/arena-sport-1.png" group-title="Неопределённые", Arena Sport 1 HD [RS]
+
+#EXTINF:-1 tvg-id="arena-sport-1-hr" tvg-logo="http://epg.one/img2/arena-sport-1-hr.png" group-title="Неопределённые", Arena Sport 1 [HR]
