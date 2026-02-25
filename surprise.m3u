@@ -1,0 +1,211 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip,http://epg.it999.ru/edem.xml.gz,http://xmltv.tmsimg.com/gen/xmltv/last.xml.gz"
+
+#EXTINF:-1 tvg-id="1" tvg-name="Perviy_Kanal", 1. Первый канал
+https://cdn4.skygo.mn/live/disk1/Perviy_Kanal/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Rossiya_1", 2. Россия 1
+https://cdn4.skygo.mn/live/disk1/Rossiya_1/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="NTV", 3. НТВ
+https://cdn4.skygo.mn/live/disk2/NTV/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="Rossiya_24", 4. Россия 24
+https://cdn4.skygo.mn/live/disk1/Rossiya_24/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="Rossiya_K", 5. Россия К (Культура)
+https://cdn4.skygo.mn/live/disk1/Rossiya_K/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="Match_TV", 6. Матч ТВ
+https://cdn4.skygo.mn/live/disk2/Match_TV/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="TNT", 7. ТНТ
+https://cdn4.skygo.mn/live/disk1/TNT/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="STS", 8. СТС
+https://cdn4.skygo.mn/live/disk2/STS/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="REN_TV", 9. РЕН ТВ
+https://cdn4.skygo.mn/live/disk1/REN_TV/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="Pyatiy_Kanal", 10. Пятый канал
+https://cdn4.skygo.mn/live/disk2/Pyatiy_Kanal/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="TV_Center", 11. ТВ Центр
+https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="Domashniy", 12. Домашний (Для Заи)
+https://cdn4.skygo.mn/live/disk1/Domashniy/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="TV3", 13. ТВ-3 (Для Заи)
+https://cdn4.skygo.mn/live/disk2/TV3/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="Friday", 14. Пятница!
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="Zvezda", 15. Звезда
+https://cdn4.skygo.mn/live/disk1/Zvezda/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="Karusel", 16. Карусель (Для Владика)
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="OTR", 17. ОТР
+https://cdn4.skygo.mn/live/disk1/OTR/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="MIR", 18. Мир
+https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-name="MIR_24", 19. Мир 24
+https://cdn4.skygo.mn/live/disk2/MIR_24/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="Che", 20. Че
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="2x2", 21. 2x2
+https://cdn4.skygo.mn/live/disk2/2x2/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-name="Mult", 22. Мульт (Для Владика)
+https://cdn4.skygo.mn/live/disk1/Mult/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-name="Mama", 23. Мама
+https://cdn4.skygo.mn/live/disk2/Mama/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="Disney", 24. Disney (RU)
+https://cdn4.skygo.mn/live/disk1/Disney/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="Nickelodeon", 25. Nickelodeon
+https://cdn4.skygo.mn/live/disk2/Nickelodeon/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="Gulli_Girl", 26. Gulli Girl
+https://cdn4.skygo.mn/live/disk1/Gulli_Girl/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="TiJi", 27. TiJi
+https://cdn4.skygo.mn/live/disk2/TiJi/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="Cartoon_Network", 28. Cartoon Network
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="Boomerang", 29. Boomerang
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="Multimusic", 30. Мультимузыка
+https://cdn4.skygo.mn/live/disk2/Multimusic/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="Kinopremyera", 31. Кинопремьера
+https://cdn4.skygo.mn/live/disk2/Kinopremyera/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="Kinohit", 32. Кинохит
+https://cdn4.skygo.mn/live/disk1/Kinohit/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="Kinosemya", 33. Киносемья
+https://cdn4.skygo.mn/live/disk2/Kinosemya/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="Kinosvidanie", 34. Киносвидание
+https://cdn4.skygo.mn/live/disk1/Kinosvidanie/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="Nashe_Novoe_Kino", 35. Наше новое кино
+https://cdn4.skygo.mn/live/disk2/Nashe_Novoe_Kino/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="Rodnoe_Kino", 36. Родное кино
+https://cdn4.skygo.mn/live/disk1/Rodnoe_Kino/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="Kinokomediya", 37. Кинокомедия
+https://cdn4.skygo.mn/live/disk2/Kinokomediya/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Dom_Kino", 38. Дом кино
+https://cdn4.skygo.mn/live/disk1/Dom_Kino/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="Dom_Kino_Premium", 39. Дом кино Премиум
+https://cdn4.skygo.mn/live/disk2/Dom_Kino_Premium/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="Mosfilm", 40. Мосфильм. Золотая коллекция
+https://cdn4.skygo.mn/live/disk1/Mosfilm/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="Illuzion_Plus", 41. Иллюзион+
+https://cdn4.skygo.mn/live/disk2/Illuzion_Plus/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="Amedia_Premium", 42. Amedia Premium
+https://cdn4.skygo.mn/live/disk1/Amedia_Premium/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="Amedia_Hit", 43. Amedia Hit
+https://cdn4.skygo.mn/live/disk2/Amedia_Hit/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Nauka", 44. Наука 0+
+https://cdn4.skygo.mn/live/disk1/Nauka/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="Moya_Planeta", 45. Моя планета
+https://cdn4.skygo.mn/live/disk2/Moya_Planeta/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="Tehno_24", 46. Техно 24
+https://cdn4.skygo.mn/live/disk1/Tehno_24/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="Discovery", 47. Discovery Channel
+https://cdn4.skygo.mn/live/disk1/Discovery/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="Animal_Planet", 48. Animal Planet
+https://cdn4.skygo.mn/live/disk2/Animal_Planet/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-name="Nat_Geo", 49. National Geographic
+https://cdn4.skygo.mn/live/disk1/Nat_Geo/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="Viasat_History", 50. Viasat History
+https://cdn4.skygo.mn/live/disk2/Viasat_History/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-name="Viasat_Nature", 51. Viasat Nature
+https://cdn4.skygo.mn/live/disk1/Viasat_Nature/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="Usadba", 52. Усадьба (Огород Заи)
+https://cdn4.skygo.mn/live/disk1/Usadba/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="Zagorodnaya_Zhizn", 53. Загородная жизнь
+https://cdn4.skygo.mn/live/disk2/Zagorodnaya_Zhizn/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="Kukhnya_TV", 54. Кухня ТВ
+https://cdn4.skygo.mn/live/disk1/Kukhnya_TV/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="Avto_Plus", 55. Авто Плюс
+https://cdn4.skygo.mn/live/disk2/Avto_Plus/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="Drive", 56. Драйв
+https://cdn4.skygo.mn/live/disk1/Drive/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="Ohota_i_Rybalka", 57. Охота и рыбалка
+https://cdn4.skygo.mn/live/disk1/Ohota_i_Rybalka/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="58" tvg-name="Muz_TV", 58. Муз-ТВ
+https://cdn4.skygo.mn/live/disk1/Muz_TV/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="59" tvg-name="RU_TV", 59. RU.TV
+https://cdn4.skygo.mn/live/disk2/RU_TV/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-name="Zhara", 60. Жара
+https://cdn4.skygo.mn/live/disk1/Zhara/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="Bridge_TV", 61. Bridge TV
+https://cdn4.skygo.mn/live/disk2/Bridge_TV/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="62" tvg-name="Europa_Plus_TV", 62. Europa Plus TV
+https://cdn4.skygo.mn/live/disk1/Europa_Plus_TV/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="63" tvg-name="Shanson_TV", 63. Шансон ТВ
+https://cdn4.skygo.mn/live/disk2/Shanson_TV/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="64" tvg-name="RBK", 64. РБК
+https://cdn4.skygo.mn/live/disk1/RBK/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="65" tvg-name="Izvestiya", 65. Известия
+https://cdn4.skygo.mn/live/disk2/Izvestiya/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="66" tvg-name="Match_Planeta", 66. Матч Планета
+https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="67" tvg-name="Vremya", 67. Время
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="68" tvg-name="Pobeda", 68. Победа
+https://cdn4.skygo.mn/live/disk2/Pobeda/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="69" tvg-name="Istoriya", 69. История
+https://cdn4.skygo.mn/live/disk1/Istoriya/HLSv3-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="70" tvg-name="Zhivaya_Planeta", 70. Живая планета
+https://cdn4.skygo.mn/live/disk2/Zhivaya_Planeta/HLSv3-FTA/index.m3u8
