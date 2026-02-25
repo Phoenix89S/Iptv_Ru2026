@@ -946,8 +946,13 @@ https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 #------Экстра--------
 
 
-#EXTINF:-1 tvg-name="Еда" tvg-logo="https://www.tveda.ru/img/logo.png" tvg-id="Eda.ru" tvg-chno="1" group-title="Экстра ТВ плюс",Еда
+# 1. Еда — Основной поток
+#EXTINF:-1 tvg-name="Еда" tvg-logo="https://www.tveda.ru/img/logo.png" tvg-id="Eda.ru" tvg-chno="1" group-title="Экстра ТВ плюс",1. Еда
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
+
+# 1.1 Еда — Дополнительный поток (UDP)
+#EXTINF:-1 tvg-name="Eda" tvg-logo="https://www.tveda.ru/img/logo.png" tvg-id="Eda.ru" tvg-chno="1.1" group-title="Экстра ТВ плюс",1.1 Еда (UDP)
+http://5.137.4.212:1234/udp/225.54.225.197:5000
 
 #EXTINF:-1 tvg-name="Перец" tvg-logo="https://i.imgur.com/vHq0A28.png" tvg-id="Peretz.ru" tvg-chno="2" group-title="Экстра ТВ плюс",Перец
 http://158.101.222.193:88/georgia_play.php?id=perec.m3u8
