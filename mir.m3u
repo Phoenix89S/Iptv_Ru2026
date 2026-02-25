@@ -1,1 +1,176 @@
-###перезалив
+
+#EXTM3U
+#EXTINF:-1,Telekanal 360
+http://78.25.155.47:1309/channel/360.ts
+#EXTINF:-1,2x2 +0
+http://78.25.155.47:1309/channel/2x2.ts
+#EXTINF:-1,Boec
+http://78.25.155.47:1309/channel/Boec.ts
+#EXTINF:-1,05 ПЯТЫЙ КАНАЛ
+http://78.25.155.47:1309/channel/ch5.ts
+#EXTINF:-1,Che
+http://78.25.155.47:1309/channel/Che.ts
+#EXTINF:-1,Da Vinci Learning
+http://78.25.155.47:1309/channel/Davinci.ts
+#EXTINF:-1,Kanal Disney
+http://78.25.155.47:1309/channel/Disney.ts
+#EXTINF:-1,DOMASHNIE ZHIVOTNYE
+http://78.25.155.47:1309/channel/Dom_jiv.ts
+#EXTINF:-1,Dom Kino
+http://78.25.155.47:1309/channel/DOM_kino.ts
+#EXTINF:-1,14 Домашний
+http://78.25.155.47:1309/channel/Domash.ts
+#EXTINF:-1,DRIVE
+http://78.25.155.47:1309/channel/Drive.ts
+#EXTINF:-1,ЕГЭ
+http://78.25.155.47:1309/channel/EGE.ts
+#EXTINF:-1,Европа Плюс ТВ
+http://78.25.155.47:1309/channel/Evropa_plus.ts
+#EXTINF:-1,Fenix+Kino
+http://78.25.155.47:1309/channel/Feniks.ts
+#EXTINF:-1,FOX
+http://78.25.155.47:1309/channel/FOX.ts
+#EXTINF:-1,FOX_life
+http://78.25.155.47:1309/channel/FOX_life.ts
+#EXTINF:-1,Illuzion +
+http://78.25.155.47:1309/channel/Illuz_plus.ts
+#EXTINF:-1,ИНДИЙСКОЕ КИНО
+http://78.25.155.47:1309/channel/India.ts
+#EXTINF:-1,ISTORIA
+http://78.25.155.47:1309/channel/Istoria.ts
+#EXTINF:-1,08 КАРУСЕЛЬ
+http://78.25.155.47:1309/channel/Karusel.ts
+#EXTINF:-1,KHL
+http://78.25.155.47:1309/channel/KHL.ts
+#EXTINF:-1,КИНОМИКС
+http://78.25.155.47:1309/channel/Kino_plus.ts
+#EXTINF:-1,НАШЕ НОВОЕ КИНО
+http://78.25.155.47:1309/channel/Kinohit.ts
+#EXTINF:-1,KTV
+http://78.25.155.47:1309/channel/Kolomna.ts
+#EXTINF:-1,test ktvHD
+http://78.25.155.47:1309/channel/ktv.ts
+#EXTINF:-1,Lyubimoye kino
+http://78.25.155.47:1309/channel/lub_kino.ts
+#EXTINF:-1,Mama
+http://78.25.155.47:1309/channel/Mama.ts
+#EXTINF:-1,03 МАТЧ!
+http://78.25.155.47:1309/channel/Match.ts
+#EXTINF:-1,Матч ТВ HD
+http://78.25.155.47:1309/channel/Match_HD.ts
+#EXTINF:-1,18 МИР
+http://78.25.155.47:1309/channel/MIR.ts
+#EXTINF:-1,КИНОСЕРИЯ
+http://78.25.155.47:1309/channel/Mnogoser.ts
+#EXTINF:-1,MY PLANET
+http://78.25.155.47:1309/channel/Moya_pl.ts
+#EXTINF:-1,Mult
+http://78.25.155.47:1309/channel/Mult.ts
+#EXTINF:-1,РОДНОЕ КИНО
+http://78.25.155.47:1309/channel/Nashe_kino.ts
+#EXTINF:-1,Nat_geo
+http://78.25.155.47:1309/channel/Nat_geo.ts
+#EXTINF:-1,Nat_geo_HD
+http://78.25.155.47:1309/channel/Nat_geo_HD.ts
+#EXTINF:-1,Nat_geo_w
+http://78.25.155.47:1309/channel/Nat_geo_w.ts
+#EXTINF:-1,Nayka
+http://78.25.155.47:1309/channel/Nauka.ts
+#EXTINF:-1,04 НТВ
+http://78.25.155.47:1309/channel/NTV.ts
+#EXTINF:-1,OHOTA I RYBALKA
+http://78.25.155.47:1309/channel/Ohota_i_rib.ts
+#EXTINF:-1,Первый канал HD
+http://78.25.155.47:1309/channel/ORT_HD.ts
+#EXTINF:-1,09 ОТР
+http://78.25.155.47:1309/channel/OTR.ts
+#EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
+http://78.25.155.47:1309/channel/Perv_SD.ts
+#EXTINF:-1,Piatnica
+http://78.25.155.47:1309/channel/Piatnica.ts
+#EXTINF:-1,PSYCHOLOGY 21
+http://78.25.155.47:1309/channel/Psih_21.ts
+#EXTINF:-1,RBK HD
+http://78.25.155.47:1309/channel/RBK.ts
+#EXTINF:-1,11 РЕН ТВ
+http://78.25.155.47:1309/channel/REN.ts
+#EXTINF:-1,RETRO
+http://78.25.155.47:1309/channel/Retro.ts
+#EXTINF:-1,RING
+http://78.25.155.47:1309/channel/Ring.ts
+#EXTINF:-1,07 РОССИЯ-24
+http://78.25.155.47:1309/channel/Ros_24.ts
+#EXTINF:-1,ROSSIAHD
+http://78.25.155.47:1309/channel/Ros_HD.ts
+#EXTINF:-1,06 РОССИЯ-К
+http://78.25.155.47:1309/channel/Ros_K.ts
+#EXTINF:-1,02 РОССИЯ-1
+http://78.25.155.47:1309/channel/Ros1.ts
+#EXTINF:-1,RTG HD
+http://78.25.155.47:1309/channel/RTG.ts
+#EXTINF:-1,RTG HD
+http://78.25.155.47:1309/channel/RTGHD.ts
+#EXTINF:-1,Russkiy detectiv
+http://78.25.155.47:1309/channel/rus_d.ts
+#EXTINF:-1,Russian Extreme TV
+http://78.25.155.47:1309/channel/Rus_ext.ts
+#EXTINF:-1,Russkij illuzion
+http://78.25.155.47:1309/channel/Rus_illuz.ts
+#EXTINF:-1,Rysskiy roman
+http://78.25.155.47:1309/channel/Rus_rom.ts
+#EXTINF:-1,Sarafan
+http://78.25.155.47:1309/channel/Sarafan.ts
+#EXTINF:-1,CHANSON
+http://78.25.155.47:1309/channel/Shanson.ts
+#EXTINF:-1,Diskont TV
+http://78.25.155.47:1309/channel/Shop_life.ts
+#EXTINF:-1,12 Спас
+http://78.25.155.47:1309/channel/Spas.ts
+#EXTINF:-1,Sport_2
+http://78.25.155.47:1309/channel/Sport_2.ts
+#EXTINF:-1,Sport_plus
+http://78.25.155.47:1309/channel/Sport_plus.ts
+#EXTINF:-1,Shop24
+http://78.25.155.47:1309/channel/Stil.ts
+#EXTINF:-1,13 СТС
+http://78.25.155.47:1309/channel/STS.ts
+#EXTINF:-1,Telecafe
+http://78.25.155.47:1309/channel/Telecafe.ts
+#EXTINF:-1,19 ТНТ
+http://78.25.155.47:1309/channel/TNT.ts
+#EXTINF:-1,TPO
+http://78.25.155.47:1309/channel/TRO.ts
+#EXTINF:-1,TV1000 Action
+http://78.25.155.47:1309/channel/TV-1000_act.ts
+#EXTINF:-1,TV1000 Русское Кино
+http://78.25.155.47:1309/channel/TV-1000_ru.ts
+#EXTINF:-1,TV21
+http://78.25.155.47:1309/channel/TV-21.ts
+#EXTINF:-1,TV1000
+http://78.25.155.47:1309/channel/TV1000.ts
+#EXTINF:-1,15 ТВ3
+http://78.25.155.47:1309/channel/TV3.ts
+#EXTINF:-1,10 ТВ Центр
+http://78.25.155.47:1309/channel/TVC.ts
+#EXTINF:-1,U
+http://78.25.155.47:1309/channel/U.ts
+#EXTINF:-1,USADBA
+http://78.25.155.47:1309/channel/Usadba.ts
+#EXTINF:-1,Viasat Explore
+http://78.25.155.47:1309/channel/Viasat_exp.ts
+#EXTINF:-1,Viasat History
+http://78.25.155.47:1309/channel/Viasat_hist.ts
+#EXTINF:-1,Viasat Sport
+http://78.25.155.47:1309/channel/Viasat_sport.ts
+#EXTINF:-1,VOPROSY OTVETY
+http://78.25.155.47:1309/channel/Vopr_i_otv.ts
+#EXTINF:-1,Vremya
+http://78.25.155.47:1309/channel/Vremia.ts
+#EXTINF:-1,Загородная Жизнь
+http://78.25.155.47:1309/channel/Zagorod.ts
+#EXTINF:-1,Zdorovoe TV
+http://78.25.155.47:1309/channel/Zdorovoe.ts
+#EXTINF:-1,Zoopark
+http://78.25.155.47:1309/channel/zoo.ts
+#EXTINF:-1,17 Звезда
+http://78.25.155.47:1309/channel/Zvezda.ts
