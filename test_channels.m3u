@@ -960,6 +960,24 @@ http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 http://45.145.32.13:20440/tiji/index.m3u8?token=test
 
 
+#-----добавка-------
+
+# 9. Детское кино Int
+#EXTINF:-1 tvg-id="Detskoe_kino" tvg-name="Детское кино Int" tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" group-title="Детские расширенные",9. Детское кино Int
+https://v2.catcast.tv/content/38720/index.m3u8
+
+# 10. Gulli Girl (Альтернативный поток)
+#EXTINF:-1 tvg-id="Gulli Girl" tvg-name="Gulli Girl" tvg-logo="https://iptv-org.github.io/iptv/logos/GulliGirl.png" group-title="Детские расширенные",10. Gulli Girl (Alt)
+http://45.145.32.13:20440/gulligirl/index.m3u8?token=test
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="TVBRICSChinese.cn@SD" group-title="ТВ БРИКС",TV BRICS Chinese (1080p)
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
