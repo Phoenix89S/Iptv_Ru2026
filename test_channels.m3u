@@ -306,9 +306,13 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_OTR_HD/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TVC_HD/variant.m3u8
 
-# 33.1 ТВЦ (Международный) — Оригинальный адаптивный поток
-#EXTINF:-1 tvg-id="tvc-intl" tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="Эфирные ТВ плюс",33.1 ТВЦ (Международный) - AUTO
-http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/playlist.m3u8
+
+# --- Исправленный блок: ТВЦ International ---
+#EXTINF:-1 tvg-id="TV_Centr_International" tvg-name="ТВЦ International" tvg-logo="https://iptvx.one/picons/tvc_int.png" group-title="Эфирные ТВ плюс",33.1. ТВЦ International
+https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
+
+
+
 
 # 33.2 ТВЦ (Международный) — HD (Оптимальный поток)
 #EXTINF:-1 tvg-id="tvc-intl" tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="Эфирные ТВ плюс",33.2 ТВЦ (HD - 720p)
