@@ -300,6 +300,122 @@ https://edge1.beetv.kz/hls/glazami_turista/index.m3u8
 https://edge1.beetv.kz/hls/domashniy_ochag/index.m3u8
 
 
+# --- Детские (Vintera.TV) ---
+
+# 51. Детский Мир
+#EXTINF:-1 tvg-id="Detskiy_Mir" group-title="Детские Vintera",51. Детский Мир
+http://serv25.vintera.tv:8081/the_child_world/index.m3u8
+
+# 52. Мультимания
+#EXTINF:-1 tvg-id="Multimania" group-title="Детские Vintera",52. Мультимания
+http://serv25.vintera.tv:8081/multimania/index.m3u8
+
+# 53. Сказки Зайки (Для самых маленьких)
+#EXTINF:-1 tvg-id="Zayka" group-title="Детские Vintera",53. Сказки Зайки
+http://serv25.vintera.tv:8081/zayka/index.m3u8
+
+# 54. Кидс ТВ
+#EXTINF:-1 tvg-id="Kids_TV" group-title="Детские Vintera",54. Кидс ТВ
+http://serv25.vintera.tv:8081/kids_tv/index.m3u8
+
+# 55. Рыжий
+#EXTINF:-1 tvg-id="Ryzhij" group-title="Детские Vintera",55. Рыжий
+http://serv25.vintera.tv:8081/ryzhij/index.m3u8
+
+# 56. Улыбка Ребенка
+#EXTINF:-1 tvg-id="Ulybka" group-title="Детские Vintera",56. Улыбка Ребенка
+http://serv25.vintera.tv:8081/ulybka_rebenka/index.m3u8
+
+# 57. Мультсериал
+#EXTINF:-1 group-title="Детские Vintera",57. Мультсериал
+http://serv25.vintera.tv:8081/multserial/index.m3u8
+
+# 58. Капитан Фантастика (Vintera)
+#EXTINF:-1 group-title="Детские Vintera",58. Капитан Фантастика
+http://serv25.vintera.tv:8081/cap_fant/index.m3u8
+
+# 59. Duck TV (Для малышей)
+#EXTINF:-1 group-title="Детские Vintera",59. Duck TV
+http://serv25.vintera.tv:8081/duck_tv/index.m3u8
+
+# 60. Малыш (Vintera)
+#EXTINF:-1 group-title="Детские Vintera",60. Малыш
+http://serv25.vintera.tv:8081/malysh/index.m3u8
+
+# 61-70: (Потоки 11-20 в детском блоке Vintera часто дублируют региональные версии 'Карусели' или 'Мульта', рекомендуется использовать узбекские папки, так как сервер Vintera часто перегружен)
+
+# --- Познавательные (Vintera.TV) ---
+
+# 71. HD Media (Природа и наука)
+#EXTINF:-1 tvg-id="HD_Media" group-title="Познавательные Vintera",71. HD Media
+http://serv25.vintera.tv:8081/hd_media/index.m3u8
+
+# 72. Планета HD
+#EXTINF:-1 tvg-id="Planeta_HD" group-title="Познавательные Vintera",72. Планета HD
+http://serv25.vintera.tv:8081/planeta_hd/index.m3u8
+
+# 73. Наука 2.0 (Архивные выпуски)
+#EXTINF:-1 tvg-id="Nauka_2_0" group-title="Познавательные Vintera",73. Наука 2.0
+http://serv25.vintera.tv:8081/nauka_20/index.m3u8
+
+# 74. Моя Планета (Архив)
+#EXTINF:-1 tvg-id="Moya_Planeta_V" group-title="Познавательные Vintera",74. Моя Планета
+http://serv25.vintera.tv:8081/moya_planeta/index.m3u8
+
+# 75. Охотник и Рыболов
+#EXTINF:-1 tvg-id="Ohotnik" group-title="Познавательные Vintera",75. Охотник и Рыболов
+http://serv25.vintera.tv:8081/ohotnik_rybolov/index.m3u8
+
+# 76. Авто 24 (Для тебя, ремонт)
+#EXTINF:-1 tvg-id="Auto24" group-title="Познавательные Vintera",76. Авто 24
+http://serv25.vintera.tv:8081/auto24/index.m3u8
+
+# 77. Психология 21
+#EXTINF:-1 tvg-id="Psihologia21" group-title="Познавательные Vintera",77. Психология 21
+http://serv25.vintera.tv:8081/psihologia21/index.m3u8
+
+# 78. Вопросы и ответы
+#EXTINF:-1 group-title="Познавательные Vintera",78. Вопросы и ответы
+http://serv25.vintera.tv:8081/voprosy_otvety/index.m3u8
+
+# 79. Домашние животные
+#EXTINF:-1 group-title="Познавательные Vintera",79. Домашние животные
+http://serv25.vintera.tv:8081/pets/index.m3u8
+
+# 80. Драйв ТВ
+#EXTINF:-1 group-title="Познавательные Vintera",80. Драйв ТВ
+http://serv25.vintera.tv:8081/drive_tv/index.m3u8
+
+# 81-90: (Vintera часто подмешивает сюда рекламно-информационные каналы, поэтому для полной 20-ки познавательных лучше комбинировать с BeeTV или Cinerama)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
