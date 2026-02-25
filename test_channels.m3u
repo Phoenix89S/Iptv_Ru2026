@@ -1136,6 +1136,9 @@ https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Ani" tvg-id="Ani.ru" tvg-chno="33" tvg-logo="https://naggdd.github.io/iptv/logos/ani.png" group-title="Экстра ТВ плюс",Ani
 http://176.118.197.125/Ani/index.m3u8
 
+# --- Исправленный блок: Дорама ---
+#EXTINF:-1 tvg-id="Dorama" tvg-name="Дорама" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Экстра ТВ плюс",36. Дорама
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 
 
 
