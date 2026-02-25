@@ -964,12 +964,13 @@ http://176.118.197.125/Mama/index.m3u8
 http://158.160.149.81:8080/269/index.m3u8
 
 
-
 # 5. Смайл ТВ — Детский (Экстра)
 #EXTINF:-1 tvg-id="smile_tv" tvg-logo="https://iptvx.one/picons/smile-tv.png" group-title="Экстра ТВ плюс",5. Смайл ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_SMILE_TV/variant.m3u8
+http://dmi3y-tv.ru/hls/blrus/CH_SMAYLIKHD.m3u8
 
+# 5.1 Смайл — Адаптивный поток
+#EXTINF:-1 tvg-name="Смайл" tvg-chno="5.1" group-title="Экстра ТВ плюс",5.1 Смайл (Adaptive)
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-chno="6" group-title="Экстра ТВ плюс",Cartoon Network
