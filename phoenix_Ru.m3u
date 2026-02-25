@@ -1,0 +1,99 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://ottepg.ru/ottepg.xml.gz" refresh="24"
+
+
+# 9. Детское кино Int
+#EXTINF:-1 tvg-id="Detskoe_kino" tvg-name="Детское кино Int" tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" group-title="Детские расширенные",9. Детское кино Int
+https://v2.catcast.tv/content/38720/index.m3u8
+
+# 10. Gulli Girl (Альтернативный поток)
+#EXTINF:-1 tvg-id="Gulli Girl" tvg-name="Gulli Girl" tvg-logo="https://iptv-org.github.io/iptv/logos/GulliGirl.png" group-title="Детские расширенные",10. Gulli Girl (Alt)
+http://45.145.32.13:20440/gulligirl/index.m3u8?token=test
+
+# --- Детские расширенные (продолжение) ---
+
+# 11. Капитан Фантастика
+#EXTINF:-1 tvg-id="Kapitan_Fantastika" tvg-name="Капитан Фантастика" tvg-logo="https://iptvx.one/picons/capfantast.png" group-title="Детские расширенные",11. Капитан Фантастика
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+
+# 12. Карусель Int.
+#EXTINF:-1 tvg-id="Karusel_Int" tvg-name="Карусель Int." tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские расширенные",12. Карусель Int.
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+
+# 13. Мультиландия
+#EXTINF:-1 tvg-id="Multilandia" tvg-name="Мультиландия" tvg-logo="https://iptvx.one/picons/multilandia.png" group-title="Детские расширенные",13. Мультиландия
+https://stream8.cinerama.uz/1269/tracks-v1a1/mono.m3u8
+
+# 14. СТС Kids
+#EXTINF:-1 tvg-id="CTC_Kids" tvg-name="СТС Kids" tvg-logo="https://iptvx.one/picons/ctc-kids.png" group-title="Детские расширенные",14. СТС Kids
+https://stream8.cinerama.uz/1381/tracks-v1a1/mono.m3u8
+
+# 15. В гостях у сказки
+#EXTINF:-1 tvg-id="V_gostyah_u_skazki" tvg-name="В гостях у сказки" tvg-logo="https://iptvx.one/picons/vgostyahuskazki.png" group-title="Детские расширенные",15. В гостях у сказки
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+
+# 16. О!
+#EXTINF:-1 tvg-id="O!" tvg-name="О!" tvg-logo="https://iptvx.one/picons/o.png" group-title="Детские расширенные",16. О!
+https://stream8.cinerama.uz/1283/tracks-v1a1/mono.m3u8
+
+# 17. Мульт
+#EXTINF:-1 tvg-id="Mult" tvg-name="Мульт" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские расширенные",17. Мульт
+https://stream8.cinerama.uz/1392/tracks-v1a1/mono.m3u8
+
+# 18. Пингвин Лоло
+#EXTINF:-1 tvg-id="Pingvin_Lolo" tvg-name="Пингвин Лоло" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png" group-title="Детские расширенные",18. Пингвин Лоло
+https://stream8.cinerama.uz/1402/tracks-v1a1/mono.m3u8
+
+# 19. Ani
+#EXTINF:-1 tvg-id="Ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Детские расширенные",19. Ani
+https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
+
+# 20. КиноМульт
+#EXTINF:-1 tvg-id="KinoMult" tvg-name="КиноМульт" tvg-logo="https://iptvx.one/picons/kinomult.png" group-title="Детские расширенные",20. КиноМульт
+https://stream8.cinerama.uz/1389/tracks-v1a1/mono.m3u8
+
+# 21. Малыш ТВ
+#EXTINF:-1 tvg-id="Malysh_TV" tvg-name="Малыш ТВ" tvg-logo="https://iptvx.one/picons/malysh-tv.png" group-title="Детские расширенные",21. Малыш ТВ
+https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
+
+# 22. Советские мультфильмы
+#EXTINF:-1 tvg-id="Sovetskie_multfilmy" tvg-name="Советские мультфильмы" tvg-logo="https://iptvx.one/picons/ussr-mult.png" group-title="Детские расширенные",22. Советские мультфильмы
+https://stream8.cinerama.uz/1400/tracks-v1a1/mono.m3u8
+
+# 23. Disney (Русская озвучка)
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://iptvx.one/picons/disney.png" group-title="Детские расширенные",23. Disney
+https://stream8.cinerama.uz/1390/tracks-v1a1/mono.m3u8
+
+# 24. Nickelodeon (Русская озвучка)
+#EXTINF:-1 tvg-id="Nickelodeon_RU" tvg-name="Nickelodeon RU" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="Детские расширенные",24. Nickelodeon RU
+https://stream8.cinerama.uz/1276/tracks-v1a1/mono.m3u8
+
+# 25. Nick Jr.
+#EXTINF:-1 tvg-id="Nick_Jr" tvg-name="Nick Jr." tvg-logo="https://iptvx.one/picons/nick-jr.png" group-title="Детские расширенные",25. Nick Jr.
+https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
+
+# 26. ТипТоп
+#EXTINF:-1 tvg-id="TipTop" tvg-name="ТипТоп" tvg-logo="https://iptvx.one/picons/tiptop.png" group-title="Детские расширенные",26. ТипТоп
+https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
+
+# 27. Da Vinci Learning (Рус)
+#EXTINF:-1 tvg-id="Da_Vinci" tvg-name="Da Vinci" tvg-logo="https://iptvx.one/picons/davinci.png" group-title="Детские расширенные",27. Da Vinci
+https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
+
+# 28. Baby TV (Рус)
+#EXTINF:-1 tvg-id="Baby_TV" tvg-name="Baby TV" tvg-logo="https://iptvx.one/picons/babytv.png" group-title="Детские расширенные",28. Baby TV
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+
+# 29. Мульт и Музыка
+#EXTINF:-1 tvg-id="Mult_Music" tvg-name="Мульт и Музыка" tvg-logo="https://iptvx.one/picons/multimusic.png" group-title="Детские расширенные",29. Мульт и Музыка
+https://stream8.cinerama.uz/1393/tracks-v1a1/mono.m3u8
+
+# 30. Смайл ТВ
+#EXTINF:-1 tvg-id="Smile_TV" tvg-name="Смайл ТВ" tvg-logo="https://iptvx.one/picons/smile-tv.png" group-title="Детские расширенные",30. Смайл ТВ
+https://stream8.cinerama.uz/1396/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
