@@ -1,0 +1,23 @@
+#EXTM3U
+#PLAYLIST:Mir 2 Phoenix
+
+#EXTINF:-1 tvg-id="familyjam" tvg-logo="https://iptvx.one/picons/familyjam.png" group-title="Детские", FamilyJam (HD)
+http://88.218.242.237:8000/play/a00b
+
+#EXTINF:-1 tvg-id="baby-tv" tvg-logo="https://iptvx.one/picons/baby-tv.png" group-title="Детские", Baby TV
+http://178.219.128.68:64889/BABYTV
+
+#EXTINF:-1 group-title="Детские", Nickelodeon Poland
+http://178.219.128.68:64889/NICK
+
+#EXTINF:-1 group-title="Детские", Nick Jr. CEE
+http://178.219.128.68:64888/NICKJR
+
+#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="Детские", Nickelodeon (EDTV 576p)
+http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="Детские", Nickelodeon (HD)
+http://stream01.vnet.am/Channel_114/mono.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://iptvx.one/picons/nick-jr.png" group-title="Детские", Nick Jr (EDTV 576p)
+https://stream2.cinerama.uz/1271/tracks-v1a1/mono.m3u8
