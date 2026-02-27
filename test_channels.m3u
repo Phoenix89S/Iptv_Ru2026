@@ -1141,109 +1141,113 @@ http://176.118.197.125/Ani/index.m3u8
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 
 
+
 #EXTINF:0 tvg-chno="1" tvg-name="Tiji TV",Tiji TV
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/108/index.m3u8
+http://itv.mn/iptv/Tiji_TV/index.m3u8
 
 #EXTINF:0 tvg-chno="2" tvg-name="Gulli Girl",Gulli
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/109/index.m3u8
+http://itv.mn/iptv/Gulli/index.m3u8
 
 #EXTINF:0 tvg-chno="3" tvg-name="Nick Jr.",Nick Jr
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/114/index.m3u8
+http://itv.mn/iptv/Nick_Jr/index.m3u8
 
 #EXTINF:0 tvg-chno="4" tvg-name="Nickelodeon",Nickelodeon
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/541/index.m3u8
+http://itv.mn/iptv/Nickelodeon/index.m3u8
 
 #EXTINF:0 tvg-chno="5" tvg-name="Disney Channel",Disney
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/524/index.m3u8
+http://itv.mn/iptv/Disney/index.m3u8
 
 #EXTINF:0 tvg-chno="6" tvg-name="Детский мир",Детский мир
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/543/index.m3u8
+http://itv.mn/iptv/Detskiy_Mir/index.m3u8
 
 #EXTINF:0 tvg-chno="7" tvg-name="Jim Jam",Jim Jam
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/138/index.m3u8
+http://itv.mn/iptv/Jim_Jam/index.m3u8
 
 #EXTINF:0 tvg-chno="8" tvg-name="Cartoon Network",Cartoon Network
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/143/index.m3u8
+http://itv.mn/iptv/Cartoon_Network/index.m3u8
 
 #EXTINF:0 tvg-chno="9" tvg-name="Карусель",Карусель
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/156/index.m3u8
+http://itv.mn/iptv/Karusel/index.m3u8
 
 #EXTINF:0 tvg-chno="10" tvg-name="Ani",Ani
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/129/index.m3u8
+http://itv.mn/iptv/Ani/index.m3u8
 
 #EXTINF:0 tvg-chno="11" tvg-name="Мульт",Мульт
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/909/index.m3u8
+http://itv.mn/iptv/Mult/index.m3u8
 
 #EXTINF:0 tvg-chno="12" tvg-name="Тлум HD",Тлум HD
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/240/index.m3u8
+http://itv.mn/iptv/Tlum_HD/index.m3u8
 
 #EXTINF:0 tvg-chno="13" tvg-name="Boomerang",Boomerang
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/723/index.m3u8
+http://itv.mn/iptv/Boomerang/index.m3u8
 
 #EXTINF:0 tvg-chno="14" tvg-name="О!",О!
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/727/index.m3u8
+http://itv.mn/iptv/O/index.m3u8
 
 #EXTINF:0 tvg-chno="15" tvg-name="Детский",Детский
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/730/index.m3u8
+http://itv.mn/iptv/Detskiy/index.m3u8
 
 #EXTINF:0 tvg-chno="16" tvg-name="В гостях у сказки",В гостях у сказки
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/737/index.m3u8
+http://itv.mn/iptv/V_gostyah_u_skazki/index.m3u8
 
 #EXTINF:0 tvg-chno="17" tvg-name="Карусель (+3)",Карусель (+3)
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/740/index.m3u8
+http://itv.mn/iptv/Karusel_plus3/index.m3u8
 
 #EXTINF:0 tvg-chno="18" tvg-name="Мультимузыка",Мультимузыка
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/749/index.m3u8
+http://itv.mn/iptv/Multimusic/index.m3u8
 
 #EXTINF:0 tvg-chno="19" tvg-name="Мультик HD",Мультик HD
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/921/index.m3u8
+http://itv.mn/iptv/Multik_HD/index.m3u8
 
 #EXTINF:0 tvg-chno="20" tvg-name="Duck TV",Duck TV
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/1031/index.m3u8
+http://itv.mn/iptv/Duck_TV/index.m3u8
 
 #EXTINF:0 tvg-chno="21" tvg-name="Baby TV",BabyTV
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/2084/index.m3u8
+http://itv.mn/iptv/Baby_TV/index.m3u8
 
 #EXTINF:0 tvg-chno="22" tvg-name="Da Vinci Kids",Da Vinci Kids
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/1033/index.m3u8
+http://itv.mn/iptv/Da_Vinci_Kids/index.m3u8
 
 #EXTINF:0 tvg-chno="23" tvg-name="Da Vinci Kids PL",Da Vinci Kids PL
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/1034/index.m3u8
+http://itv.mn/iptv/Da_Vinci_Kids_PL/index.m3u8
 
 #EXTINF:0 tvg-chno="24" tvg-name="Малыш ТВ",Малыш
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/1041/index.m3u8
+http://itv.mn/iptv/Malysh/index.m3u8
 
 #EXTINF:0 tvg-chno="25" tvg-name="Nickelodeon EN",Nickelodeon EN
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/1069/index.m3u8
+http://itv.mn/iptv/Nickelodeon_EN/index.m3u8
 
 #EXTINF:0 tvg-chno="26" tvg-name="Радость моя",Радость моя
 #EXTGRP:Детские ТВ Экстра
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/853/index.m3u8
+http://itv.mn/iptv/Radost_moya/index.m3u8
+
+
+
 
 
 
