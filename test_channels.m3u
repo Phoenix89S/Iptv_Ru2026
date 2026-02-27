@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/guide.xml.gz,http://www.teleguide.info/download/new3/jtv.zip" catchup="default" catchup-days="7" catchup-source="?start={utc}&duration={duration}" timeshift="120"
+#EXTM3U url-tvg="https://epgservice.ru/xmltv.php,http://epg.one/guide.xml.gz,http://www.teleguide.info/download/new3/jtv.zip" catchup="default" catchup-days="7" catchup-source="?start={utc}&duration={duration}" timeshift="120"
 
 
 #EXTINF:-1 tvg-id="1_kanal_evraziya" tvg-name="Первый канал Евразия" tvg-logo="https://raw.githubusercontent.com/frol-aleksan/IPTV/master/logo/1_kanal_evraziya.png" group-title="Test evrasia", Первый канал Евразия (Main Galam)
