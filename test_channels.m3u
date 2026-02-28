@@ -1217,6 +1217,37 @@ https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 
 
+#------------ кнопка 58: МЕЖДУНАРОДНЫЕ НОВОСТИ ------------
+
+# 58.1 DW Russian (HD)
+#EXTINF:-1 tvg-id="dw-russian" tvg-name="DW Russian" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Эфирные ТВ плюс",58.1 DW Russian (1080p)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+
+# 58.2 Мир 24 (HD)
+#EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="Эфирные ТВ плюс",58.2 Мир 24 (1080p)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+# 58.3 360° Новости
+#EXTINF:-1 tvg-id="360-podmoskove" tvg-name="360 Новости" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="Эфирные ТВ плюс",58.3 360° Новости
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+
+# 58.4 Qazaqstan International (HD)
+#EXTINF:-1 tvg-id="qazaqstan-int" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=center" group-title="Эфирные ТВ плюс",58.4 Qazaqstan Int (1080p)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+
+# 58.5 Silk Way (Qazaq TV)
+#EXTINF:-1 tvg-id="silk-way" tvg-name="Silk Way" tvg-logo="https://i.imgur.com/SJNDksF.png" group-title="Эфирные ТВ плюс",58.5 Silk Way
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+
+# 58.6 РТР-Планета (Web-версия)
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-name="РТР Планета" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="Эфирные ТВ плюс",58.6 RTR-Planeta
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 
 
 
