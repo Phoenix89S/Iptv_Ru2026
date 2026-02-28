@@ -1157,6 +1157,54 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
 https://vgtrk-vfm.cdnvideo.ru/vfm/smil:vfm.smil/playlist.m3u8
 
+#------------ группа: Эфирные ТВ плюс (Блок: МУЗЫКА) ------------
+
+# 57.1 Europa Plus TV (HD)
+#EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="https://i.imgur.com/GLc4qrc.png" group-title="Эфирные ТВ плюс",57.1 Europa Plus TV
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+
+# 57.2 FON Music (TNT Music stream)
+#EXTINF:-1 tvg-id="tnt-music" tvg-name="TNT Music" tvg-logo="https://i.imgur.com/tXABQDE.png" group-title="Эфирные ТВ плюс",57.2 FON Music
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+
+# 57.3 SONGTV Russia
+#EXTINF:-1 tvg-id="songtv-russia" tvg-name="SONGTV Russia" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Эфирные ТВ плюс",57.3 SONGTV Russia
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+
+# 57.4 VIVA Russia (1080p)
+#EXTINF:-1 tvg-id="viva-russia" tvg-name="VIVA Russia" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="Эфирные ТВ плюс",57.4 VIVA Russia (1080p)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
+
+# 57.5 Музыка 1 International [Not 24/7]
+#EXTINF:-1 tvg-id="mus-1-int" tvg-name="Музыка 1 Int" tvg-logo="https://i.imgur.com/DIKe5vA.png" group-title="Эфирные ТВ плюс",57.5 Музыка 1 International
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://kino-1.catcast.tv/content/37745/index.m3u8
+
+# 57.6 Музыка Кино International [Not 24/7]
+#EXTINF:-1 tvg-id="mus-kino-int" tvg-name="Музыка Кино Int" tvg-logo="https://i.imgur.com/2SG0Swa.png" group-title="Эфирные ТВ плюс",57.6 Музыка Кино International
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://kino-1.catcast.tv/content/37739/index.m3u8
+
+#------------ группа: Эфирные ТВ плюс (Блок: МУЗЫКА Продолжение) ------------
+
+# 57.7 УТРК Музыка (Кыргызстан) [Not 24/7]
+#EXTINF:-1 tvg-id="ktrk-muzyka" tvg-name="УТРК Музыка" tvg-logo="https://www.utrk.kg/img/stream/45.png" group-title="Эфирные ТВ плюс",57.7 УТРК Музыка (Поток 1)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+
+# 57.8 УТРК Музыка (Резерв) [Not 24/7]
+#EXTINF:-1 tvg-id="ktrk-muzyka" tvg-name="УТРК Музыка" tvg-logo="https://www.utrk.kg/img/stream/45.png" group-title="Эфирные ТВ плюс",57.8 УТРК Музыка (Поток 2)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+
+# 57.9 Шансон ТВ (576p)
+#EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон ТВ" tvg-logo="https://i.imgur.com/Fk4sd8t.png" group-title="Эфирные ТВ плюс",57.9 Шансон ТВ
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 
 
 
