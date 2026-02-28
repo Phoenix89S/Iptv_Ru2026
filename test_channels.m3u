@@ -150,6 +150,21 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?profile=4
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 
+#------------ кнопка 8: Карусель (Часовые пояса + EPG) ------------
+
+# 8.1 Карусель (+2) [Урал/Екатеринбург]
+#EXTINF:-1 tvg-id="Karusel_2" tvg-name="Карусель (+2)" tvg-logo="https://picon.su/img/channels/logos/karusel.png" group-title="Эфирные ТВ плюс",8.1 Карусель +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8?version=2
+
+# 8.2 Карусель (+4) [Красноярск/Новосибирск]
+#EXTINF:-1 tvg-id="Karusel_4" tvg-name="Карусель (+4)" tvg-logo="https://picon.su/img/channels/logos/karusel.png" group-title="Эфирные ТВ плюс",8.2 Карусель +4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+
+# 8.3 Карусель (+7) [Владивосток/Хабаровск]
+#EXTINF:-1 tvg-id="Karusel_7" tvg-name="Карусель (+7)" tvg-logo="https://picon.su/img/channels/logos/karusel.png" group-title="Эфирные ТВ плюс",8.3 Карусель +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?version=2
+
+
 #------------кнопка 9: ОТР -----------
 
 # 9. ОТР — РТРС №9
