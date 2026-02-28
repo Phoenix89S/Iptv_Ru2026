@@ -125,9 +125,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?profile=5
 
 #------------кнопка 7: Россия 24 ----------
 
-# 7. Россия 24 — РТРС №7 (Стандарт SD)
+
+# 7. Россия 24 — РТРС №7 (HQ 6.5 Mbps)
 #EXTINF:-1 tvg-id="Rossiya_24" tvg-name="Россия 24" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",7. Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?profile=5
 
 # 7.1 Россия 24 (Архив / 360p @ 3.3 Mbps)
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Rossiya_24" tvg-name="Россия 24" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",7.1 Россия 24 (Архив)
