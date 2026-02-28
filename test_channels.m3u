@@ -118,12 +118,14 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwM
 #EXTINF:-1 tvg-id="6" tvg-logo="http://epg.it99.org/img/6.png" group-title="Эфирные ТВ плюс",6. Россия К
 https://player.smotrim.ru/iframe/stream/live_id/21/index.m3u8
 
+
+#------------кнопка 7: Россия 24 ----------
+
+
 # 7. Россия 24 — РТРС №7
 #EXTINF:-1 tvg-id="russia24" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",7. Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
  
-#------------кнопка 7: Россия 24 ----------
-
 
 # 7.1 Россия 24 (Архив)
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="russia24" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",7.1 Россия 24 (Архив)
@@ -242,6 +244,9 @@ http://dmitry-tv.ddns.net/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 
+#-------------кнопка 23: Суббота! ------------
+
+
 # 23. Суббота! — Кнопка 23
 #EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Эфирные ТВ плюс",23. Суббота!
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -252,17 +257,27 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
+#-------------кнопка 25: ПЕРВЫЙ канал HD------------
+
+
 # 24. Первый канал HD — HD-версия РТРС №1
 #EXTINF:-1 tvg-id="1" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Эфирные ТВ плюс",24. Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#-------------кнопка 22: Каскад 24 ------------
+
 
 # 25. Россия 1 HD — HD-версия РТРС №2
 #EXTINF:-1 tvg-id="2" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Эфирные ТВ плюс",25. Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
+#-------------кнопка 26.0 -26.8: Группа МАТЧ! ------------
+
+
 # # 26.0 МАТЧ ТВ — Основной поток (Полировка)
 #EXTINF:-1 tvg-id="match" tvg-logo="https://iptvx.one/picons/match_hd.png" group-title="Эфирные ТВ плюс",26.0 Матч ТВ
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/535/index.m3u8
+
 
 # 26.1 Матч! Футбол 1 — Спортивная полировка
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match_football1_hd.png" group-title="Эфирные ТВ плюс",26.1 Матч! Футбол 1
@@ -275,6 +290,7 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/530/index.m3u8
 # 26.3 Матч! Футбол 3 — Спортивная полировка
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match_football3_hd.png" group-title="Эфирные ТВ плюс",26.3 Матч! Футбол 3
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/522/index.m3u8
+
 
 # 26.4 Матч! Планета — Спортивная полировка
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://iptvx.one/picons/match_planeta_hd.png" group-title="Эфирные ТВ плюс",26.4 Матч! Планета
@@ -295,6 +311,8 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/531/index.m3u8
 # 26.8 Матч! Боец — Спортивная полировка
 #EXTINF:-1 tvg-id="match-boec" tvg-logo="https://iptvx.one/picons/match_boec.png" group-title="Эфирные ТВ плюс",26.8 Матч! Боец
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/150/index.m3u8
+
+#-------------кнопка 27-27.5: Группа НТВ -----------
 
 # 27. НТВ HD — HD-версия РТРС №4
 #EXTINF:-1 tvg-id="4" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Эфирные ТВ плюс",27. НТВ HD
@@ -320,6 +338,7 @@ http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="Эфирные ТВ плюс",27.5 Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
+#-------------кнопка 28-28.2: Группа 5 канал ------------
 
 # 28. Пятый канал HD — HD-версия РТРС №5
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.it99.org/img/5.png" group-title="Эфирные ТВ плюс",28. Пятый канал HD
@@ -334,9 +353,13 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="78" tvg-logo="https://iptvx.one/picons/78.png" group-title="Эфирные ТВ плюс",28.2 78 Канал HD
 http://78.ru/live/playlist.m3u8
 
+#-------------кнопка 29 - 29.5: Россия К(HD +"орбита")
+
 # 29. Россия К HD — РТРС №6 (HD)
 #EXTINF:-1 tvg-id="6" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Эфирные ТВ плюс",29. Россия К HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+
+#-------------кнопка 30-30.7: Россия 24 HD + ("Орбита") и вести FM------------
 
 # 30 РОССИЯ 24 HD (Smotrim Direct) — Адаптивный поток
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24 HD" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Эфирные ТВ плюс",30 Россия 24 HD (AUTO)
@@ -346,15 +369,20 @@ https://live.smotrim.ru/playlist/russia24_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Эфирные ТВ плюс",30.1 Россия 24 HD (FHD)
 https://live.smotrim.ru/playlist/russia24_hd/1080p/playlist.m3u8
 
+#-------------кнопка 31: Карусель  ------------
 
 # 31. Карусель HD — РТРС №8 (HD)
 #EXTINF:-1 tvg-id="karusel" tvg-logo="http://epg.it99.org/img/8.png" group-title="Эфирные ТВ плюс",31. Карусель HD
 https://live.smotrim.ru/hls/karusel_hd/index.m3u8
 
+#-------------кнопка 32: ОТР HD ------------
+
 # 32. ОТР HD — HD-версия РТРС №9
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr_hd.png" group-title="Эфирные ТВ плюс",32. ОТР HD
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_OTR_HD/variant.m3u8
+
+#-------------кнопка 33 - 33.4: ТВЦ HD +TVC International ------------
 
 # 33. ТВ Центр HD — HD-версия РТРС №10
 #EXTINF:-1 tvg-id="tvc" tvg-logo="https://iptvx.one/picons/tvc_hd.png" group-title="Эфирные ТВ плюс",33. ТВ Центр HD
@@ -378,6 +406,7 @@ http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
 http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b2682100.m3u8
 
 
+#-------------кнопка 34: Рен ТВ HD/REN TV HD------------
 
 
 # 34. Рен ТВ HD — HD-версия РТРС №11
@@ -388,6 +417,8 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_RENTV_HD/variant.m3u8
 # 34.1 Рен ТВ Int. — Международная версия
 #EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Эфирные ТВ плюс",34.1 Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+
+#-------------кнопка 35: СПАС HD ------------
 
 # 35. СПАС HD — Православный телеканал (HD)
 #EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-title="Эфирные ТВ плюс",35. СПАС HD
