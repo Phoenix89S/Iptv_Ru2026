@@ -982,6 +982,11 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVI" tvg-name="RTVi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Эфирные ТВ плюс",52.1 RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
 
+# 52.2 RTVi (Проверка / CDN)
+#EXTINF:-1 tvg-id="RTVI" tvg-name="RTVi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Эфирные ТВ плюс",52.2 RTVi (Test)
+https://rtvi-live.cdnvideo.ru/rtvi/rtvi_640x360_1500.m3u8
+
+
 #-----вроде 52 кнопка готова -----
 
 #------------ кнопка 53: Viva Russia ------------
