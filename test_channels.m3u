@@ -1001,6 +1001,39 @@ https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 #EXTINF:-1 tvg-id="K16" tvg-name="К16 (Саров)" tvg-logo="https://i.imgur.com/7tNDKHe.png" group-title="Эфирные ТВ плюс",54.0 К16 (Саров)
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 
+#------------ кнопка 55: BRIDGE Media ------------
+
+# 55.1 BRIDGE Classic
+#EXTINF:-1 tvg-id="Bridge_TV_Classic" tvg-name="BRIDGE Classic" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Эфирные ТВ плюс",55.1 BRIDGE Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+
+# 55.2 BRIDGE
+#EXTINF:-1 tvg-id="Bridge_TV" tvg-name="BRIDGE" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="Эфирные ТВ плюс",55.2 BRIDGE
+http://31.148.48.15/Bridge_TV/index.m3u8
+
+# 55.3 BRIDGE Deluxe (HD)
+#EXTINF:-1 tvg-id="Bridge_TV_HD" tvg-name="BRIDGE Deluxe" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Эфирные ТВ плюс",55.3 BRIDGE Deluxe
+http://31.148.48.15/Bridge_TV_HD/index.m3u8
+
+# 55.4 BRIDGE Hits
+#EXTINF:-1 tvg-id="Bridge_TV_Dance" tvg-name="BRIDGE Hits" tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="Эфирные ТВ плюс",55.4 BRIDGE Hits
+http://31.148.48.15/Bridge_TV_Dance/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
