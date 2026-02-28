@@ -1131,6 +1131,14 @@ http://31.148.48.15/Baby_Time/index.m3u8
 #EXTINF:-1 tvg-id="echo-tv" tvg-name="Эхо TV" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="Эфирные ТВ плюс",56.1 Эхо TV (Рязань)
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 
+#------------ кнопка 56: ИНФО-ПОТОК (Адаптивный + iPhone) ------------
+
+# 56.1.1 Эхо TV (Рязань) — Multi-Bitrate (SD/HQ/HD)
+#EXTINF:-1 tvg-id="echo-tv" tvg-name="Эхо TV" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="Эфирные ТВ плюс",56.1.1 Эхо TV (Auto-Quality)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+
+
 # 56.2.1 Вести ФМ (Плеер Смотрим) — Оригинал
 #EXTINF:-1 tvg-id="vesti-fm" tvg-name="Вести ФМ (Web)" tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="Эфирные ТВ плюс",56.2.1 Вести ФМ (Смотрим)
 https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
