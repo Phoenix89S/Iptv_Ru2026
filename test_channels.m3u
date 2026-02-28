@@ -681,7 +681,6 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_O/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_O_HD/variant.m3u8
 
  
-#EXTM3U
 
 #EXTINF:-1 tvg-id="Volgograd24.ru@SD" tvg-chno="46" group-title="Эфирные ТВ плюс",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
@@ -896,6 +895,7 @@ https://kino-1.catcast.tv/content/37742/index.m3u8
 https://kino-1.catcast.tv/content/37739/index.m3u8
 
 
+
 # --- ПОЛНЫЙ ЦИКЛ SKYGO INTERNATIONAL (БЕЗ VPN) ---
 
 # [Предыдущие каналы 51.0 - 51.10 ...]
@@ -903,6 +903,18 @@ https://kino-1.catcast.tv/content/37739/index.m3u8
 # 51.11 ТНТ4 INTERNATIONAL (SkyGo)
 #EXTINF:-1 tvg-id="tnt4-int" tvg-logo="https://iptvx.one/picons/tnt4_int.png" group-title="Эфирные ТВ плюс",51.11 ТНТ4 International
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+
+
+#-------- кнопка 52: Дождь -------
+
+# 52.0 Дождь (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Dozhd" tvg-name="Дождь" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="Эфирные ТВ плюс",52.0 Дождь (1080p)
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+
+
+
+
 
 
 #
