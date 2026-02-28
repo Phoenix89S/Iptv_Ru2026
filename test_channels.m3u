@@ -227,6 +227,29 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it99.org/img/18.png" group-title="Эфирные ТВ плюс",18. Мир
 http://5.180.182.79:80/play/Oc7vxL5V7t8lWGeeVlPNO02wKzsZudjG1yOrA61JDSA/m3u8
 
+#------------ кнопка 18: Мир (Часовые пояса) ------------
+
+# 18.1 Мир +7 (540p)
+#EXTINF:-1 tvg-id="Mir_7" tvg-name="Мир (+7)" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Эфирные ТВ плюс",18.1 Мир +7
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+
+# 18.2 Мир +4 (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="Mir_4" tvg-name="Мир (+4)" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Эфирные ТВ плюс",18.2 Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+# 18.3 Мир +2 (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="Mir_2" tvg-name="Мир (+2)" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Эфирные ТВ плюс",18.3 Мир +2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+
+#------------ кнопка 18.4: Мир 24 ------------
+
+# 18.4 Мир 24 (1080p)
+#EXTINF:-1 tvg-id="Mir_24" tvg-name="Мир 24" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="Эфирные ТВ плюс",18.4 Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+
+
+
 #-------------кнопка 19:  ТНТ ------------
 
 
