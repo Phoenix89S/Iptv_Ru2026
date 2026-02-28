@@ -1549,14 +1549,35 @@ http://itv.mn/iptv/Radost_moya/index.m3u8
 
 #------------ группа: САНКТ-ПЕТЕРБУРГ ------------
 
-# 78 Канал (Основной / IP)
-#EXTINF:-1 tvg-id="78-kanal" tvg-name="78 канал" tvg-logo="https://i.imgur.com/uG9Xm6Z.png" group-title="Санкт-Петербург",78 Канал (СПб)
-https://81.177.143.166/78/playlist.m3u8
+# 78.1.1 78 Канал (СПб) — SD
+#EXTINF:-1 tvg-id="78-kanal" tvg-name="78 канал" tvg-logo="https://i.imgur.com/uG9Xm6Z.png" group-title="Санкт-Петербург",78.1.1 78 Канал (Wink)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_78/variant.m3u8
 
-# 78 Канал (Резерв / 720p)
-#EXTINF:-1 tvg-id="78-kanal" tvg-name="78 канал" tvg-logo="https://i.imgur.com/uG9Xm6Z.png" group-title="Санкт-Петербург",78 Канал (СПб) HD
-https://v-78.hosting.regru.ru/hls/78_720p.m3u8
+# 78.1.2 ЛенТВ 24 (Область) — SD
+#EXTINF:-1 tvg-id="lentv24" tvg-name="ЛенТВ24" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Санкт-Петербург",78.1.2 ЛенТВ 24
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LENTV24/variant.m3u8
 
+# 78.1.3 Телеканал Санкт-Петербург — SD
+#EXTINF:-1 tvg-id="spb" tvg-name="Санкт-Петербург" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="Санкт-Петербург",78.1.3 ТК Санкт-Петербург
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPB/variant.m3u8
+
+# 78.1.4 78 Канал HD
+#EXTINF:-1 tvg-id="78-kanal" tvg-name="78 канал HD" tvg-logo="https://i.imgur.com/uG9Xm6Z.png" group-title="Санкт-Петербург",78.1.4 78 Канал HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_78_HD/variant.m3u8
+
+# 78.1.5 ЛенТВ 24 HD
+#EXTINF:-1 tvg-id="lentv24" tvg-name="ЛенТВ24 HD" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Санкт-Петербург",78.1.5 ЛенТВ 24 HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LENTV24_HD/variant.m3u8
+
+# 78.1.6 Телеканал Санкт-Петербург HD
+#EXTINF:-1 tvg-id="spb" tvg-name="Санкт-Петербург HD" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="Санкт-Петербург",78.1.6 ТК Санкт-Петербург HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPB_HD/variant.m3u8
 
 
 
