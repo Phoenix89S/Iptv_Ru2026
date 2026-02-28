@@ -63,14 +63,15 @@ http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?versio
 
 #--------Кнопка 2: Россия 1--------
 
-# 2. Россия 1 — РТРС №2
-#EXTINF:-1 tvg-id="2" tvg-logo="http://epg.it99.org/img/2.png" group-title="Эфирные ТВ плюс",2. Россия 1
+
+# 2. Россия 1
+#EXTINF:-1 tvg-id="Rossiya_1" tvg-name="Россия 1" tvg-logo="http://epg.it99.org/img/2.png" group-title="Эфирные ТВ плюс",2. Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
 
 # 2.1 Россия 1 (Архив)
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2" tvg-logo="http://epg.it99.org/img/2.png" group-title="Эфирные ТВ плюс",2.1 Россия 1 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Rossiya_1" tvg-name="Россия 1" tvg-logo="http://epg.it99.org/img/2.png" group-title="Эфирные ТВ плюс",2.1 Россия 1 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8 
 
 #----------Кнопка 3: Матч ТВ-----
 
