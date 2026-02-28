@@ -112,10 +112,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-id="5_kanal" tvg-name="Пятый канал" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Пятый канал.png" group-title="Эфирные ТВ плюс",5.2 Пятый канал (Резерв)
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwMDkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjVjZGJlOWM2IiwicCI6IjVjZGJlOWM2NjMxZTk1ZDUiLCJjIjoiOSIsInQiOiJjYjE2OGQ3ZTdlNWI3OGFkNzE4MDlmZDg4MjgxYzJjMiIsImQiOiI0MTEyMDIiLCJyIjoiNDIzMTcwIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDA5L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
-# ----------Кномка 6: Культура ----------
+#-------- кнопка 6: Россия К -------
 
 # 6. Россия К — РТРС №6
-#EXTINF:-1 tvg-id="6" tvg-logo="http://epg.it99.org/img/6.png" group-title="Эфирные ТВ плюс",6. Россия К
+#EXTINF:-1 tvg-id="Rossiya_K" tvg-name="Россия К" tvg-logo="http://epg.it99.org/img/6.png" group-title="Эфирные ТВ плюс",6. Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+
+# 6.1 Россия К (Резерв)
+#EXTINF:-1 tvg-id="Rossiya_K" tvg-name="Россия К" tvg-logo="http://epg.it99.org/img/6.png" group-title="Эфирные ТВ плюс",6.1 Россия К (Резерв)
 https://player.smotrim.ru/iframe/stream/live_id/21/index.m3u8
 
 
