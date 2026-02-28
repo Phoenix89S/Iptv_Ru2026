@@ -35,6 +35,15 @@ https://stream.free-iptv.com/live/111.m3u8
 
 # --- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС ---
 
+
+#------------ кнопка 0.0.0: ГЛАВНЫЙ ЭТАЛОН (Европа) ------------
+
+# 0.0.0 Первый канал Европа
+#EXTINF:-1 tvg-id="1tv-int" tvg-name="Первый канал (Европа)" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Эфирные ТВ плюс",0.0.0 Первый канал (Европа)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+https://streaming.thestream.cyou/live/210.m3u8
+
+
 #--------- Кнопка 1: Первый канал------------
 
 # 1.0 Первый канал (SD)
