@@ -1157,6 +1157,16 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
 https://vgtrk-vfm.cdnvideo.ru/vfm/smil:vfm.smil/playlist.m3u8
 
+#------------ группа: Эфирные ТВ плюс (ИНФО) ------------
+
+# 56.3 Дождь (1080p) [Адаптивный обход]
+#EXTINF:-1 tvg-id="tv-rain" tvg-name="Дождь" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="Эфирные ТВ плюс",56.3 Телеканал Дождь HD
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+#EXTVLCOPT:http-referrer=https://tvrain.tv/
+#EXTVLCOPT:http-origin=https://tvrain.tv/
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+
 #------------ группа: Эфирные ТВ плюс (Блок: МУЗЫКА) ------------
 
 # 57.1 Europa Plus TV (HD)
