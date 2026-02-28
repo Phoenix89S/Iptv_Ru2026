@@ -1019,6 +1019,33 @@ http://31.148.48.15/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="Bridge_TV_Dance" tvg-name="BRIDGE Hits" tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="Эфирные ТВ плюс",55.4 BRIDGE Hits
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 
+# 55.5 BRIDGE Шлягер
+#EXTINF:-1 tvg-id="Bridge_TV_Shlyager" tvg-name="BRIDGE Шлягер" tvg-logo="https://i.imgur.com/uSnoD90.png" group-title="Эфирные ТВ плюс",55.5 BRIDGE Шлягер
+http://31.148.48.15/Bridge_TV_Shlyager/index.m3u8
+
+# 55.6 BRIDGE Rock
+#EXTINF:-1 tvg-id="Bridge_TV_Rock" tvg-name="BRIDGE Rock" tvg-logo="https://i.imgur.com/yU4E7p1.png" group-title="Эфирные ТВ плюс",55.6 BRIDGE Rock
+http://31.148.48.15/Bridge_TV_Rock/index.m3u8
+
+# 55.7 BRIDGE Фреш
+#EXTINF:-1 tvg-id="Bridge_TV_Fresh" tvg-name="BRIDGE Фреш" tvg-logo="https://i.imgur.com/7T2Lh8v.png" group-title="Эфирные ТВ плюс",55.7 BRIDGE Фреш
+http://31.148.48.15/Bridge_TV_Fresh/index.m3u8
+
+# 55.8 BRIDGE Русский хит
+#EXTINF:-1 tvg-id="Bridge_TV_Russkiy_Hit" tvg-name="BRIDGE Русский хит" tvg-logo="https://i.imgur.com/8pA6f1S.png" group-title="Эфирные ТВ плюс",55.8 BRIDGE Русский хит
+http://31.148.48.15/Bridge_TV_Russian_Hit/index.m3u8
+
+# 55.9 BRIDGE Gold
+#EXTINF:-1 tvg-id="Bridge_TV_Gold" tvg-name="BRIDGE Gold" tvg-logo="https://i.imgur.com/7YfW6yD.png" group-title="Эфирные ТВ плюс",55.9 BRIDGE Gold
+http://31.148.48.15/Bridge_TV_Gold/index.m3u8
+
+# 55.10 BRIDGE Питер
+#EXTINF:-1 tvg-id="Bridge_TV_Piter" tvg-name="BRIDGE Питер" tvg-logo="https://i.imgur.com/uG9Xm6Z.png" group-title="Эфирные ТВ плюс",55.10 BRIDGE Питер
+http://31.148.48.15/Bridge_TV_Piter/index.m3u8
+
+# 55.11 BABY TIME
+#EXTINF:-1 tvg-id="Baby_Time" tvg-name="Baby Time" tvg-logo="https://i.imgur.com/7YfW6yD.png" group-title="Эфирные ТВ плюс",55.11 Baby Time
+http://31.148.48.15/Baby_Time/index.m3u8
 
 
 
