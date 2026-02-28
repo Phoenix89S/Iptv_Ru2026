@@ -1547,7 +1547,15 @@ http://itv.mn/iptv/Nickelodeon_EN/index.m3u8
 http://itv.mn/iptv/Radost_moya/index.m3u8
 
 
+#------------ группа: САНКТ-ПЕТЕРБУРГ ------------
 
+# 78 Канал (Основной / IP)
+#EXTINF:-1 tvg-id="78-kanal" tvg-name="78 канал" tvg-logo="https://i.imgur.com/uG9Xm6Z.png" group-title="Санкт-Петербург",78 Канал (СПб)
+https://81.177.143.166/78/playlist.m3u8
+
+# 78 Канал (Резерв / 720p)
+#EXTINF:-1 tvg-id="78-kanal" tvg-name="78 канал" tvg-logo="https://i.imgur.com/uG9Xm6Z.png" group-title="Санкт-Петербург",78 Канал (СПб) HD
+https://v-78.hosting.regru.ru/hls/78_720p.m3u8
 
 
 
