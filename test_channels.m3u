@@ -1111,57 +1111,58 @@ http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 
 
 
-#------------ кнопка 55: BRIDGE Media (Алфавитный порядок / HD) ------------
+#------------ кнопка 55: BRIDGE Media (Алфавитный порядок / Прямой эфир БЕЗ VPN) ------------
 
 # 55.1 BRIDGE (Основной)
 #EXTINF:-1 tvg-id="Bridge_TV" tvg-name="BRIDGE" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Bridge.png" group-title="Эфирные ТВ плюс",55.1 BRIDGE
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiNWNkYmU5YzYiLCJwIjoiNWNkYmU5YzY2MzFlOTVkNSIsImMiOiIzMDkiLCJ0IjoiZGM2NTM1ZTllNTMxOGRhMmY1NDU4MGFmMzlhYjUwMmIiLCJkIjoiNDExMjAyIiwiciI6IjQyMzE3MCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NTI3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9)
+http://213.226.101.171:8080/br_bridge/index.m3u8
 
 # 55.2 BRIDGE Classic
 #EXTINF:-1 tvg-id="Bridge_TV_Classic" tvg-name="BRIDGE Classic" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Bridge Classic.png" group-title="Эфирные ТВ плюс",55.2 BRIDGE Classic
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiNWNkYmU5YzYiLCJwIjoiNWNkYmU5YzY2MzFlOTVkNSIsImMiOiIzODIiLCJ0IjoiZGM2NTM1ZTllNTMxOGRhMmY1NDU4MGFmMzlhYjUwMmIiLCJkIjoiNDExMjAyIiwiciI6IjQyMzE3MCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NDUwL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9)
+http://213.226.101.171:8080/br_classic/index.m3u8
 
 # 55.3 BRIDGE Deluxe (HD)
 #EXTINF:-1 tvg-id="Bridge_TV_HD" tvg-name="BRIDGE Deluxe" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Bridge TV DELUXE HD.png" group-title="Эфирные ТВ плюс",55.3 BRIDGE Deluxe HD
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiNWNkYmU5YzYiLCJwIjoiNWNkYmU5YzY2MzFlOTVkNSIsImMiOiIxOTQyIiwidCI6ImRjNjUzNWU5ZTUzMThkYTJmNTQ1ODBhZjM5YWI1MDJiIiwiZCI6IjQxMTIwMiIsInIiOiI0MjMxNzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MjAzL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9)
+http://213.226.101.171:8080/br_deluxe/index.m3u8
 
 # 55.4 BRIDGE Hits (HD)
 #EXTINF:-1 tvg-id="Bridge_TV_Dance" tvg-name="BRIDGE Hits" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Bridge TV HITS HD.png" group-title="Эфирные ТВ плюс",55.4 BRIDGE Hits HD
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiNWNkYmU5YzYiLCJwIjoiNWNkYmU5YzY2MzFlOTVkNSIsImMiOiIxOTQxIiwidCI6ImRjNjUzNWU5ZTUzMThkYTJmNTQ1ODBhZjM5YWI1MDJiIiwiZCI6IjQxMTIwMiIsInIiOiI0MjMxNzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MjAyL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9)
+http://213.226.101.171:8080/br_hits/index.m3u8
 
 # 55.5 BRIDGE Rock (HD)
 #EXTINF:-1 tvg-id="Bridge_TV_Rock" tvg-name="BRIDGE Rock" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Bridge TV ROCK HD.png" group-title="Эфирные ТВ плюс",55.5 BRIDGE Rock HD
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiNWNkYmU5YzYiLCJwIjoiNWNkYmU5YzY2MzFlOTVkNSIsImMiOiIxOTQ1IiwidCI6ImRjNjUzNWU5ZTUzMThkYTJmNTQ1ODBhZjM5YWI1MDJiIiwiZCI6IjQxMTIwMiIsInIiOiI0MjMxNzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MjI5L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9)
+http://213.226.101.171:8080/br_rock/index.m3u8
 
 # 55.6 BRIDGE Русский хит
 #EXTINF:-1 tvg-id="Bridge_TV_Russian_Hit" tvg-name="BRIDGE Русский хит" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Bridge TV РУССКИЙ ХИТ.png" group-title="Эфирные ТВ плюс",55.6 BRIDGE Русский хит
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiNWNkYmU5YzYiLCJwIjoiNWNkYmU5YzY2MzFlOTVkNSIsImMiOiIxOTQzIiwidCI6ImRjNjUzNWU5ZTUzMThkYTJmNTQ1ODBhZjM5YWI1MDJiIiwiZCI6IjQxMTIwMiIsInIiOiI0MjMxNzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MjI3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9)
+http://213.226.101.171:8080/br_russian/index.m3u8
 
 # 55.7 BRIDGE Фрэш (HD)
 #EXTINF:-1 tvg-id="Bridge_TV_Fresh" tvg-name="BRIDGE Фрэш" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Bridge TV ФРЭШ HD.png" group-title="Эфирные ТВ плюс",55.7 BRIDGE Фрэш HD
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiNWNkYmU5YzYiLCJwIjoiNWNkYmU5YzY2MzFlOTVkNSIsImMiOiIxOTQ2IiwidCI6ImRjNjUzNWU5ZTUzMThkYTJmNTQ1ODBhZjM5YWI1MDJiIiwiZCI6IjQxMTIwMiIsInIiOiI0MjMxNzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MjMwL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9)
+http://213.226.101.171:8080/br_fresh/index.m3u8
 
 # 55.8 BRIDGE Шлягер
 #EXTINF:-1 tvg-id="Bridge_TV_Shlyager" tvg-name="BRIDGE Шлягер" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Bridge TV ШЛЯГЕР.png" group-title="Эфирные ТВ плюс",55.8 BRIDGE Шлягер
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiNWNkYmU5YzYiLCJwIjoiNWNkYmU5YzY2MzFlOTVkNSIsImMiOiIxOTQ0IiwidCI6ImRjNjUzNWU5ZTUzMThkYTJmNTQ1ODBhZjM5YWI1MDJiIiwiZCI6IjQxMTIwMiIsInIiOiI0MjMxNzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MjI4L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9)
+http://213.226.101.171:8080/br_shlyager/index.m3u8
 
 # 55.9 BRIDGE Этно (HD)
 #EXTINF:-1 tvg-id="Bridge_TV_Etno" tvg-name="BRIDGE Этно" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Bridge TV ЭТНО HD.png" group-title="Эфирные ТВ плюс",55.9 BRIDGE Этно HD
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiNWNkYmU5YzYiLCJwIjoiNWNkYmU5YzY2MzFlOTVkNSIsImMiOiIxOTQ3IiwidCI6ImRjNjUzNWU5ZTUzMThkYTJmNTQ1ODBhZjM5YWI1MDJiIiwiZCI6IjQxMTIwMiIsInIiOiI0MjMxNzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MjExL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9)
+http://213.226.101.171:8080/br_etno/index.m3u8
 
 # 55.10 BABY TIME
 #EXTINF:-1 tvg-id="Baby_Time" tvg-name="Baby Time" tvg-logo="https://i.imgur.com/7YfW6yD.png" group-title="Эфирные ТВ плюс",55.10 Baby Time
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9)
 http://31.148.48.15/Baby_Time/index.m3u8
+
 
 
 
