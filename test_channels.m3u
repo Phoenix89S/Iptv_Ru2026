@@ -1080,9 +1080,17 @@ https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 
 #-------- кнопка 52: Дождь -------
 
+#------------ кнопка 52: ДОЖДЬ (Спец-потоки) ------------
+
 # 52.0 Дождь (1080p) [Geo-blocked]
 #EXTINF:-1 tvg-id="Dozhd" tvg-name="Дождь" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="Эфирные ТВ плюс",52.0 Дождь (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X)
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+# 52.0.1 Дождь (Прямой поток)
+#EXTINF:-1 tvg-id="Dozhd" tvg-name="Дождь" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="Эфирные ТВ плюс",52.0.1 Дождь (Direct)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X)
+http://5.180.182.79:80/play/Oc7vxL5V7t8lWGeeVlPNO451N2Na03RANaLHo5ZvD6M/m3u8
 
 #------------ кнопка 52.1: RTVi ------------
 
