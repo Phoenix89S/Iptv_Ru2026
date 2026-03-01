@@ -1307,6 +1307,54 @@ https://edatv-hls.cdnvideo.ru/edatv/playlist.m3u8
 https://edatv-hls.cdnvideo.ru/edapremium/playlist.m3u8
 
 
+#------------ кнопка 63: КИНО ДЛЯ ЗАИ (Русское кино) ------------
+
+# 63.1 Русский роман (Архив/Токен)
+#EXTINF:-1 tvg-id="russkij-roman" tvg-name="Русский роман" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="Эфирные ТВ плюс",63.1 Русский роман (T)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwMTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjVjZGJlOWM2IiwicCI6IjVjZGJlOWM2NjMxZTk1ZDUiLCJjIjoiMTAiLCJ0IjoiZGM2NTM1ZTllNTMxOGRhMmY1NDU4MGFmMzlhYjUwMmIiLCJkIjoiNDExMjAyIiwiciI6IjQyMzE3MCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDEwL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+
+# 63.2 Русский детектив (Архив/Токен)
+#EXTINF:-1 tvg-id="russkiy-detektiv" tvg-name="Русский детектив" tvg-logo="https://i.imgur.com/H3qhN8S.png" group-title="Эфирные ТВ плюс",63.2 Русский детектив (T)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgxNjEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjVjZGJlOWM2IiwicCI6IjVjZGJlOWM2NjMxZTk1ZDUiLCJjIjoiMTUxIiwidCI6ImRjNjUzNWU5ZTUzMThkYTJmNTQ1ODBhZjM5YWI1MDJiIiwiZCI6IjQxMTIwMiIsInIiOiI0MjMxNzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MTYxL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+
+# 63.3 Русский бестселлер (Архив/Токен)
+#EXTINF:-1 tvg-id="russkij-bestseller" tvg-name="Русский бестселлер" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" group-title="Эфирные ТВ плюс",63.3 Русский бестселлер (T)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgxNjIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjVjZGJlOWM2IiwicCI6IjVjZGJlOWM2NjMxZTk1ZDUiLCJjIjoiMTUyIiwidCI6ImRjNjUzNWU5ZTUzMThkYTJmNTQ1ODBhZjM5YWI1MDJiIiwiZCI6IjQxMTIwMiIsInIiOiI0MjMxNzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MTYyL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+
+# 63.4 Русский роман (Прямой/БЕЗ VPN)
+#EXTINF:-1 tvg-id="russkij-roman" tvg-name="Русский роман" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="Эфирные ТВ плюс",63.4 Русский роман (Direct)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+
+# 63.5 Русский детектив (Прямой/БЕЗ VPN)
+#EXTINF:-1 tvg-id="russkiy-detektiv" tvg-name="Русский детектив" tvg-logo="https://i.imgur.com/H3qhN8S.png" group-title="Эфирные ТВ плюс",63.5 Русский детектив (Direct)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+
+# 63.6 Русский бестселлер (Прямой/БЕЗ VPN)
+#EXTINF:-1 tvg-id="russkij-bestseller" tvg-name="Русский бестселлер" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" group-title="Эфирные ТВ плюс",63.6 Русский бестселлер (Direct)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8
+
+#------------ ГРУППА: Женские ТВ каналы (Персональная подборка) ------------
+
+# 1.1 Русский роман
+#EXTINF:-1 tvg-id="russkij-roman" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="Женские ТВ каналы",1.1 Русский роман
+#EXTVLCOPT:http-user-agent=WINK/1.40.1
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+
+# 1.2 Русский детектив
+#EXTINF:-1 tvg-id="russkiy-detektiv" tvg-logo="https://i.imgur.com/H3qhN8S.png" group-title="Женские ТВ каналы",1.2 Русский детектив
+#EXTVLCOPT:http-user-agent=WINK/1.40.1
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+
+# 1.3 Русский бестселлер
+#EXTINF:-1 tvg-id="russkij-bestseller" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" group-title="Женские ТВ каналы",1.3 Русский бестселлер
+#EXTVLCOPT:http-user-agent=WINK/1.40.1
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 
 
 
