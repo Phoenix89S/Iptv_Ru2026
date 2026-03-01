@@ -204,27 +204,33 @@ http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://hls-01-spbtv.media.itv.re/hls/spas/index.m3u8
 
-#------------ кнопка 13: СТС (Орбиты: от Мск до Дальнего Востока) ------------
+#------------ кнопка 13: СТС (Федеральные орбиты + Регион) ------------
 
-# 13.0 СТС (Москва/Калининград)
+# 13.0 СТС (Москва / Калининград) — Эталон
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",13. СТС
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://ctc-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ctc/tracks-v1a1/mono.m3u8
 
 # 13.1 СТС (+2) [Урал]
-#EXTINF:-1 tvg-id="sts-2" tvg-name="СТС (+2)" tvg-logo="https://picon.su/img/channels/logos/ctc.png" group-title="Эфирные ТВ плюс",13.1 СТС +2
+#EXTINF:-1 tvg-id="sts-2" tvg-name="СТС (+2)" tvg-logo="https://picon.su/img/channels/logos/ctc.png" group-title="Эфирные ТВ плюс",13.1 СТС +2 (Урал)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 
-# 13.2 СТС (+4) [Сибирь / Прима]
-#EXTINF:-1 tvg-id="sts-4" tvg-name="СТС (+4)" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="Эфирные ТВ плюс",13.2 СТС Прима (+4)
+# 13.2 СТС (+4) [Сибирь] — Чистая орбита
+#EXTINF:-1 tvg-id="sts-4" tvg-name="СТС (+4)" tvg-logo="https://picon.su/img/channels/logos/ctc.png" group-title="Эфирные ТВ плюс",13.2 СТС +4 (Сибирь)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+
+# 13.3 СТС Прима [Красноярск] — Региональный (+4)
+#EXTINF:-1 tvg-id="sts-prima" tvg-name="СТС Прима" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="Эфирные ТВ плюс",13.3 СТС Прима (Регион +4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
 
-# 13.3 СТС (+7) [Владивосток]
-#EXTINF:-1 tvg-id="sts-7" tvg-name="СТС (+7)" tvg-logo="https://picon.su/img/channels/logos/ctc.png" group-title="Эфирные ТВ плюс",13.3 СТС +7
+# 13.4 СТС (+7) [Владивосток]
+#EXTINF:-1 tvg-id="sts-7" tvg-name="СТС (+7)" tvg-logo="https://picon.su/img/channels/logos/ctc.png" group-title="Эфирные ТВ плюс",13.4 СТС +7 (Восток)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+
 
 
 #-------------кнопка 14: Домашний ------------
