@@ -236,10 +236,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #-------------кнопка 14: Домашний ------------
 
 
-# 14. Домашний — РТРС №14
-#EXTINF:-1 tvg-id="domashniy" tvg-logo="http://epg.it99.org/img/14.png" group-title="Эфирные ТВ плюс",14. Домашний
+# --- КНОПКА 14: ДОМАШНИЙ ---
+
+# 14.0 ДОМАШНИЙ — РТРС №14 (WINK AGENT)
+#EXTINF:-1 tvg-id="domashniy" tvg-logo="http://epg.it99.org/img/14.png" group-title="Эфирные ТВ плюс",14.0 Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+https://rt-nw-spb-htlive.cdn-ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+
+# 14.1 ДОМАШНИЙ HD (DASH/OTT)
+#EXTINF:-1 tvg-id="domashniy-hd" tvg-logo="https://iptvx.one/picons/domashniy_hd.png" group-title="Эфирные ТВ плюс",14.1 Домашний HD
+https://s25617.cdn.ngenix.net/mdrm/CH_DOMASHNIYHD_OTT/manifest.mpd?token=r4NDEyYzcwMzk1ZDEyMTY0NDA4YjJjNzhhZTRkZDQwMDE=
+
+
 
 #-------------кнопка 15: ТВ3 ------------
 
