@@ -7,6 +7,7 @@ https://cdn.galamtv.kz/hls/1_kanal_evraziya/index.m3u8
 #EXTINF:-1 tvg-id="1_kanal_evraziya" tvg-name="Первый канал Евразия" tvg-logo="https://raw.githubusercontent.com/frol-aleksan/IPTV/master/logo/1_kanal_evraziya.png" group-title="Test evrasia", Первый канал Евразия (LifeStream Cloud)
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 
+
 #EXTINF:-1 tvg-id="1_kanal_evraziya" tvg-name="Первый канал Евразия" tvg-logo="https://raw.githubusercontent.com/frol-aleksan/IPTV/master/logo/1_kanal_evraziya.png" group-title="Test evrasia", Первый канал Евразия (Beeline Edge)
 https://edge1-kz.beeline.kz/hls/1_kanal_evraziya/index.m3u8
 
