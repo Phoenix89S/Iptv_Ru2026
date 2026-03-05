@@ -1234,16 +1234,16 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 # --- КНОПКА 59: СЕМЕЙСТВО 360 ---
 
-# 59.4.0 360
-#EXTINF:-1 tvg-id="tv360" tvg-logo="https://iptvx.one/picons/360.png" group-title="Эфирные ТВ плюс",59.4.0 360
+# 56.4.0 360
+#EXTINF:-1 tvg-id="tv360" tvg-logo="https://iptvx.one/picons/360.png" group-title="Эфирные ТВ плюс",56.4.0 360
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 
-# 59.4.1 360 HD
-#EXTINF:-1 tvg-id="tv360-hd" tvg-logo="https://iptvx.one/picons/360_hd.png" group-title="Эфирные ТВ плюс",59.4.1 360 HD
+# 56.4.1 360 HD
+#EXTINF:-1 tvg-id="tv360-hd" tvg-logo="https://iptvx.one/picons/360_hd.png" group-title="Эфирные ТВ плюс",56.4.1 360 HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 
-# 59.4.2 360 НОВОСТИ
-#EXTINF:-1 tvg-id="tv360-news" tvg-logo="https://iptvx.one/picons/360_novosti.png" group-title="Эфирные ТВ плюс",59.4.2 360 Новости
+# 56.4.2 360 НОВОСТИ
+#EXTINF:-1 tvg-id="tv360-news" tvg-logo="https://iptvx.one/picons/360_novosti.png" group-title="Эфирные ТВ плюс",56.4.2 360 Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 
 
