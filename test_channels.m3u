@@ -1645,6 +1645,20 @@ https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923a
 
 #---------------------------------------
 
+#-----продолжение-----
+# 13. Чип и Дейл
+#EXTINF:-1 tvg-id="chip-i-deyl" tvg-name="Чип и Дейл" tvg-logo="https://iptvx.one/picons/chip_n_dale.png" group-title="Детские расширенные",13. Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
+# 14. Детский мир
+#EXTINF:-1 tvg-id="detskiy-mir" tvg-name="Детский мир" tvg-logo="https://iptvx.one/picons/detskiy_mir.png" group-title="Детские расширенные",14. Детский мир
+http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
+
+# 15. Лёва
+#EXTINF:-1 tvg-id="lelya-i-lyova" tvg-name="Лёва" tvg-logo="https://iptvx.one/picons/leva.png" group-title="Детские расширенные",15. Лёва
+http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
+
+#---------------------------------------
 
 
 
