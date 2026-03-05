@@ -1,4 +1,4 @@
-то#EXTM3U url-tvg="https://epgservice.ru/xmltv.php,http://epg.one/guide.xml.gz,http://www.teleguide.info/download/new3/jtv.zip" catchup="default" catchup-days="7" catchup-source="?start={utc}&duration={duration}" timeshift="120"
+#EXTM3U url-tvg="https://epgservice.ru/xmltv.php,http://epg.one/guide.xml.gz,http://www.teleguide.info/download/new3/jtv.zip" catchup="default" catchup-days="7" catchup-source="?start={utc}&duration={duration}" timeshift="120"
 
 
 #EXTINF:-1 tvg-id="1_kanal_evraziya" tvg-name="Первый канал Евразия" tvg-logo="https://raw.githubusercontent.com/frol-aleksan/IPTV/master/logo/1_kanal_evraziya.png" group-title="Test evrasia", Первый канал Евразия (Main Galam)
@@ -1560,13 +1560,10 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="Gulli Girl" tvg-name="Gulli Girl" tvg-logo="https://iptv-org.github.io/iptv/logos/GulliGirl.png" group-title="Детские расширенные",10. Gulli Girl (Alt)
 http://45.145.32.13:20440/gulligirl/index.m3u8?token=test
 
-
-# --- КНОПКА 11: ДЕТСКИЕ РАСШИРЕННЫЕ ---
-
-# 11.0.0 КЛЮЧ
+# 11. КЛЮЧ
 #EXTINF:-1 tvg-id="kluch"
 tvg-logo="https://iptvx.one/picons/kluch.png"
-group-title="Детские расширенные",11.0.0 Ключ
+group-title="Детские расширенные",11.Ключ
 http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
 
 #---------------------------------------
