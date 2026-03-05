@@ -1658,7 +1658,21 @@ http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
 #EXTINF:-1 tvg-id="lelya-i-lyova" tvg-name="Лёва" tvg-logo="https://iptvx.one/picons/leva.png" group-title="Детские расширенные",15. Лёва
 http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
 
+
+# 16. Ani
+#EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Детские расширенные",16. Ani
+http://176.118.197.125/Ani/index.m3u8
+
+# 17. Карусель Int.
+#EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель Int." tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские расширенные",17. Карусель Int.
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+
+# 18. Мульт
+#EXTINF:-1 tvg-id="mult" tvg-name="Мульт" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские расширенные",18. Мульт
+http://87.76.32.36:8001/mult.m3u8
+
 #---------------------------------------
+
 
 
 
