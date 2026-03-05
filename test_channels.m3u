@@ -1671,12 +1671,31 @@ https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-name="Мульт" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские расширенные",18. Мульт
 http://87.76.32.36:8001/mult.m3u8
 
+# 19. Ani
+#EXTINF:-1 tvg-id="Ani.ru@SD" tvg-name="Ani" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="Детские расширенные",19. Ani
+http://31.148.48.15/Ani/index.m3u8
+
+# 20. BabyFirst
+#EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Детские расширенные",20. BabyFirst
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
+# 21. STS kids
+#EXTINF:-1 tvg-id="STSkids.ru@SD" tvg-name="STS kids" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Детские расширенные",21. STS kids
+http://31.148.48.15/STS_Kids_HD/index.m3u8
+
+# 22. Мульт
+#EXTINF:-1 tvg-id="Mult.ru@SD" tvg-name="Мульт" tvg-logo="https://i.imgur.com/xi351Fx.png" group-title="Детские расширенные",22. Мульт
+http://31.148.48.15/Mult/index.m3u8
+
+# 23. Мульт и Музыка
+#EXTINF:-1 tvg-id="Multimuzyka.ru@SD" tvg-name="Мульт и Музыка" tvg-logo="https://i.imgur.com/SYt6BZP.png" group-title="Детские расширенные",23. Мульт и Музыка
+http://31.148.48.15/Multimuzika/index.m3u8
+
+# 24. Радость моя
+#EXTINF:-1 tvg-id="radost-moya" tvg-name="Радость моя" tvg-logo="https://i.imgur.com/B5FA62o.png" group-title="Детские расширенные",24. Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+
 #---------------------------------------
-
-
-
-
-
 
 
 
