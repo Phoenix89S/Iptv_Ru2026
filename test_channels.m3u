@@ -1370,6 +1370,75 @@ https://edatv-hls.cdnvideo.ru/edapremium/playlist.m3u8
 
 #--------------
 
+# --- КНОПКА 61: ЭФИРНЫЕ ТВ ПЛЮС ---
+
+# 61.1.1 National Geographic
+#EXTINF:-1 tvg-id="National-Geographic" tvg-name="National Geographic" tvg-logo="https://iptvx.one/picons/national_geographic.png" group-title="Эфирные ТВ плюс",61.1.1 National Geographic
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+
+# 61.1.2 National Geographic Wild
+#EXTINF:-1 tvg-id="National-Geographic-Wild" tvg-name="National Geographic Wild" tvg-logo="https://iptvx.one/picons/nat_geo_wild.png" group-title="Эфирные ТВ плюс",61.1.2 National Geographic Wild
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+
+# 61.1.3 National Geographic Wild HD
+#EXTINF:-1 tvg-id="National-Geographic-Wild-HD" tvg-name="National Geographic Wild HD" tvg-logo="https://iptvx.one/picons/nat_geo_wild_hd.png" group-title="Эфирные ТВ плюс",61.1.3 National Geographic Wild HD
+http://iptv46.mcx-ix.ru:8077/natgeo_wild_hd/index.m3u8
+
+# 61.2 ZooПарк
+#EXTINF:-1 tvg-id="zoopark" tvg-name="ZooПарк" tvg-logo="https://iptvx.one/picons/zoopark.png" group-title="Эфирные ТВ плюс",61.2 ZooПарк
+http://46.8.46.14/zoo/index.m3u8
+
+# 61.3 Big Planet
+#EXTINF:-1 tvg-id="big-planet" tvg-name="Big Planet" tvg-logo="https://iptvx.one/picons/big_planet.png" group-title="Эфирные ТВ плюс",61.3 Big Planet
+http://109.75.59.241:8017/BigPlanet/index.m3u8
+
+# 61.4 Живая Планета
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-name="Живая Планета" tvg-logo="https://iptvx.one/picons/zhivaya_planeta.png" group-title="Эфирные ТВ плюс",61.4 Живая Планета
+http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
+
+
+# 61.5 Открытый мир
+#EXTINF:-1 tvg-id="otkrytyi-mir" tvg-name="Открытый мир" tvg-logo="https://iptvx.one/picons/otkrytyj_mir.png" group-title="Эфирные ТВ плюс",61.5 Открытый мир
+http://v4.proofix.ru/0mir/index.m3u8
+
+# 61.6 Телепутешествия
+#EXTINF:-1 tvg-id="teleputeshestviya" tvg-name="Телепутешествия" tvg-logo="https://iptvx.one/picons/teleputeshestviya.png" group-title="Эфирные ТВ плюс",61.6 Телепутешествия
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+
+# 61.7 Моя планета
+#EXTINF:-1 tvg-id="moya-planeta" tvg-name="Моя планета" tvg-logo="https://iptvx.one/picons/moya_planeta.png" group-title="Эфирные ТВ плюс",61.7 Моя планета
+http://vod.tuva.ru/myplanet/index.m3u8
+
+# 61.8 В мире животных
+#EXTINF:-1 tvg-id="v-mire-zhivotnyh" tvg-name="В мире животных" tvg-logo="https://iptvx.one/picons/v_mire_zhivotnyh.png" group-title="Эфирные ТВ плюс",61.8 В мире животных
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+
+# 61.9 Зоо ТВ
+#EXTINF:-1 tvg-id="zoo-tv" tvg-name="Зоо ТВ" tvg-logo="https://iptvx.one/picons/zoo_tv.png" group-title="Эфирные ТВ плюс",61.9 Зоо ТВ
+http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
+
+# 61.10 Неизвестная Планета
+#EXTINF:-1 tvg-id="neizvestnaya-planeta" tvg-name="Неизвестная Планета" tvg-logo="https://iptvx.one/picons/neizvestnaya_planeta.png" group-title="Эфирные ТВ плюс",61.10 Неизвестная Планета
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+
+# 61.11 Viju Nature
+#EXTINF:-1 tvg-id="viju-nature-hd" tvg-name="Viju Nature" tvg-logo="https://iptvx.one/picons/viju_nature_hd.png" group-title="Эфирные ТВ плюс",61.11 Viju Nature
+http://iptv46.mcx-ix.ru:8077/viju_nature_hd/index.m3u8
+
+#---------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 #------------ кнопка 63: КИНО ДЛЯ ЗАИ (Русское кино) ------------
 
 # 63.1 Русский роман (Архив/Токен)
