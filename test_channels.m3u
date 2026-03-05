@@ -667,10 +667,24 @@ http://31.148.48.15/STS_Kids_HD/index.m3u8
 
 # --- ДОПОЛНИТЕЛЬНЫЕ КАНАЛЫ СТС ---
 
-# 36.16 СТС Love
-#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Эфирные ТВ плюс",36.16 СТС Love
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_STS_LOVE/variant.m3u8
+# --- КНОПКА 36: СТС LOVE (ПОЯСА) ---
+
+# 36.16.0 СТС LOVE (+0)
+#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://naggdd.github.io/iptv/logos/sts_love.png" group-title="Эфирные ТВ плюс",36.16.0 СТС Love
+#EXTVLCOPT:http-user-agent=WINK/1.50.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+
+# 36.16.1 СТС LOVE (+2)
+#EXTINF:-1 tvg-id="sts-love-2" tvg-logo="https://naggdd.github.io/iptv/logos/sts_love.png" group-title="Эфирные ТВ плюс",36.16.1 СТС Love (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.50.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+
+# 36.16.2 СТС LOVE (+4)
+#EXTINF:-1 tvg-id="sts-love-4" tvg-logo="https://naggdd.github.io/iptv/logos/sts_love.png" group-title="Эфирные ТВ плюс",36.16.2 СТС Love (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.50.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+
+
 
 # 36.17 СТС International
 #EXTINF:-1 tvg-id="sts-international" tvg-logo="https://iptvx.one/picons/sts-international.png" group-title="Эфирные ТВ плюс",36.17 СТС International
