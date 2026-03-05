@@ -1568,7 +1568,14 @@ http://45.145.32.13:20440/gulligirl/index.m3u8?token=test
 #EXTINF:-1 tvg-id="kluch" tvg-name="Ключ" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="Детские расширенные",11. Ключ
 Http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
 
+# --- КНОПКА 12: ДЕТСКИЕ РАСШИРЕННЫЕ ---
+
+# 12. 100% детское
+#EXTINF:-1 tvg-id="100-procentov-detskoe" tvg-name="100% детское" tvg-logo="https://iptvx.one/picons/100_detskoe.png" group-title="Детские расширенные",12. 100% детское
+https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+
 #---------------------------------------
+
 
 
 
