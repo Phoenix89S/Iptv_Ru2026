@@ -1300,6 +1300,26 @@ https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 
+# --- КНОПКА 59: ИНФОРМАЦИОННЫЕ (ПОЛНЫЙ ЦИКЛ) ---
+
+# 59.0 СОЛОВЬЕВ.LIVE HD
+#EXTINF:-1 tvg-id="soloviev-live" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Эфирные ТВ плюс",59.0 Соловьев.Live HD
+https://live.soloviev.live/hls/live.m3u8
+
+# 59.1 ЦЕНТРАЛЬНОЕ ТЕЛЕВИДЕНИЕ
+#EXTINF:-1 tvg-id="Центральное телевидение" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Центральное телевидение.png" group-title="Эфирные ТВ плюс",59.1 Центральное телевидение
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzg1NzUvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGF_cnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiI1Y2RiZTljNiIsInAiOiI1Y2RiZTljNjYzMWU5NWQ1IiwiYyI6IjE0MzMiLCJ0IjoiMDQ2MzQ4NmQ2MmY3ZGZlN2Y5MTJhNWYxYjA4NTA2ZGEiLCJkIjoiNDExMjAyIiwiciI6IjQyMzE3MCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84NTc1L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
+
+# 59.2 EURONEWS
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Euronews1.png" group-title="Эфирные ТВ плюс",59.2 Euronews
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwODQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGF_cnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiI1Y2RiZTljNiIsInAiOiI1Y2RiZTljNjYzMWU5NWQ1IiwiYyI6IjgyIiwidCI6IjA0NjM0ODZkNjJmN2RmZTdmOTEyYTVmMWIwODUwNmRhIiwiZCI6IjQxMTIwMiIsInIiOiI0MjMxNzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDg0L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
+
+# 59.3 ИЗВЕСТИЯ
+#EXTINF:-1 tvg-id="Izvestia" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Известия.png" group-title="Эфирные ТВ плюс",59.3 Известия
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJsIjoiNWNkYmU5YzYiLCJwIjoiNWNkYmU5YzY2MzFlOTVkNSIsImMiOiIxMzUxIiwidCI6IjA0NjM0ODZkNjJmN2RmZTdmOTEyYTVmMWIwODUwNmRhIiwiZCI6IjQxMTIwMiIsInIiOiI0MjMxNzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MjIxL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
+
+
+#------------------------------
 
 #------------ кнопка 60: КУЛИНАРИЯ (Для Заи) ------------
 
@@ -1315,6 +1335,7 @@ https://edatv-hls.cdnvideo.ru/edatv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X)
 https://edatv-hls.cdnvideo.ru/edapremium/playlist.m3u8
 
+#--------------
 
 #------------ кнопка 63: КИНО ДЛЯ ЗАИ (Русское кино) ------------
 
