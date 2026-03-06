@@ -1635,8 +1635,8 @@ http://45.145.32.13:20440/gulligirl/index.m3u8?token=test
 # --- КНОПКА 11: ДЕТСКИЕ РАСШИРЕННЫЕ ---
 
 # 11. Ключ
-#EXTINF:-1 tvg-id="kluch" tvg-name="Ключ" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="Детские расширенные",11. Ключ
-Http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:-1 tvg-id="id/kluch" tvg-name="Ключ" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="Детские расширенные",11. Ключ
+http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
 
 # --- КНОПКА 12: ДЕТСКИЕ РАСШИРЕННЫЕ ---
 
