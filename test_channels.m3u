@@ -2014,11 +2014,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SPB_HD/variant.m3u8
 
 # 1. Еда
 #EXTINF:-1 tvg-id="eda" tvg-name="Еда" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Проба",1. Еда
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
+http://list.onlinetv-sochi.ru:8080/hls/Eda/index.m3u8
 
 #---------------------------------------
-
-
 
 
 
