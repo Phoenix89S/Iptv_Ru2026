@@ -190,27 +190,46 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
-#-------------кнопка 11: Рен ТВ/Ren TV ------------
+# --- КНОПКА 11: РЕН ТВ ---
+
+# 11.1 РЕН ТВ
+#EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ" tvg-logo="http://epg.it99.org/img/11.png" group-title="Эфирные ТВ плюс",11.1 РЕН ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+# 11.2 РЕН ТВ (+2)
+#EXTINF:-1 tvg-id="rentv-pl2" tvg-name="РЕН ТВ (+2)" tvg-logo="http://epg.it99.org/img/11.png" group-title="Эфирные ТВ плюс",11.2 РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+
+#---------------------------------------
 
 
-# 11. Рен ТВ (SD) — РТРС №11
-#EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it99.org/img/11.png" group-title="Эфирные ТВ плюс",11. Рен ТВ (SD)
-http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER
+# --- КНОПКА 12: СПАС ---
 
-#-------------кнопка 12: ТВЦ ------------
+# 12.1 Спас
+#EXTINF:-1 tvg-id="spas" tvg-name="Спас" tvg-logo="http://epg.it99.org/img/12.png" group-title="Эфирные ТВ плюс",12.1 Спас
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 
+# 12.2 Спас (+2)
+#EXTINF:-1 tvg-id="spas-pl2" tvg-name="Спас (+2)" tvg-logo="http://epg.it99.org/img/12.png" group-title="Эфирные ТВ плюс",12.2 Спас (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
 
-# 12. Спас — РТРС №12
-#EXTINF:-1 tvg-id="spas" tvg-logo="http://epg.it99.org/img/12.png" group-title="Эфирные ТВ плюс",12. Спас
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://hls-01-spbtv.media.itv.re/hls/spas/index.m3u8
+#---------------------------------------
+
 
 #------------ кнопка 13: СТС (Федеральные орбиты + Регион) ------------
 
+# --- КНОПКА 13: СТС ---
+
 # 13.0 СТС (Москва / Калининград) — Эталон
-#EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",13. СТС
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://ctc-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ctc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.it99.org/img/13.png" group-title="Эфирные ТВ плюс",13.0 СТС (Москва / Калининград) — Эталон
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+
+#---------------------------------------
 
 # 13.1 СТС (+2) [Урал]
 #EXTINF:-1 tvg-id="sts-2" tvg-name="СТС (+2)" tvg-logo="https://picon.su/img/channels/logos/ctc.png" group-title="Эфирные ТВ плюс",13.1 СТС +2 (Урал)
