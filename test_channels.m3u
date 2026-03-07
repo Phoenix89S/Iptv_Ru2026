@@ -2079,94 +2079,94 @@ http://s1.tv-nano.com/Nano_rec/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
 
+Справедливо. Исправляю нумерацию — сделал сквозной список от 0 до 15, чтобы всё шло по порядку без скачков и путаницы.
+Блок: СПОРТ (Edition 2.8.780)
 # --- КНОПКА: СПОРТ ---
 
-# 0. Матч! (Wink)
-#EXTINF:-1 tvg-id="match" tvg-name="Матч!" tvg-logo="https://naggdd.github.io/iptv/logos/match.png" group-title="Спорт",0. Матч! (Wink)
+# 0. Матч!
+#EXTINF:-1 tvg-id="match-tv" tvg-name="Матч!" tvg-logo="https://naggdd.github.io/iptv/logos/match.png" group-title="Спорт",0. Матч! (Wink)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
-# 1. Матч ТВ
-#EXTINF:-1 tvg-id="match" tvg-name="Матч ТВ" tvg-logo="https://naggdd.github.io/iptv/logos/match.png" group-title="Спорт",1. Матч ТВ
-http://s05.wsbof.com/match/mpegts?token=a0ac444f
+# 1. Матч! Премьер
+#EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="https://iptvx.one/picons/match_premier.png" group-title="Спорт",1. Матч! Премьер (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHPREMIER/variant.m3u8
 
-# 2. Матч! HD (ilook.tv)
-#EXTINF:-1 tvg-id="match-hd" tvg-name="Матч! HD" tvg-logo="https://naggdd.github.io/iptv/logos/match.png" group-title="Спорт",2. Матч! HD (ilook.tv)
-http://31hmi9qv.megogo.xyz/iptv/A7ZADWAZMHRMEQ/212/index.m3u8
+# 2. Матч! Футбол 1
+#EXTINF:-1 tvg-id="match-football-1" tvg-name="Матч! Футбол 1" tvg-logo="https://iptvx.one/picons/match_futbol_1.png" group-title="Спорт",2. Матч! Футбол 1 (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_FOOTBALL_1/variant.m3u8
 
-# 3. Матч Премьер
-#EXTINF:-1 tvg-id="match-premier" tvg-name="Матч Премьер" tvg-logo="https://iptvx.one/picons/match_premier.png" group-title="Спорт",3. Матч Премьер
-http://s05.wsbof.com/nash-futbol/mpegts?token=a0ac444f
+# 3. Матч! Футбол 2
+#EXTINF:-1 tvg-id="match-football-2" tvg-name="Матч! Футбол 2" tvg-logo="https://iptvx.one/picons/match_futbol_2.png" group-title="Спорт",3. Матч! Футбол 2 (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_FOOTBALL_2/variant.m3u8
 
-# 4. МАТЧ ПРЕМЬЕР HD (ilook.tv)
-#EXTINF:-1 tvg-id="match-premier-hd" tvg-name="Матч Премьер HD" tvg-logo="https://iptvx.one/picons/match_premier.png" group-title="Спорт",4. МАТЧ ПРЕМЬЕР HD (ilook.tv)
-http://31hmi9qv.megogo.xyz/iptv/A7ZADWAZMHRMEQ/220/index.m3u8
+# 4. Матч! Футбол 3
+#EXTINF:-1 tvg-id="match-football-3" tvg-name="Матч! Футбол 3" tvg-logo="https://iptvx.one/picons/match_futbol_3.png" group-title="Спорт",4. Матч! Футбол 3 (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_FOOTBALL_3/variant.m3u8
 
-# 5. МАТЧ! Футбол 1
-#EXTINF:-1 tvg-id="match-futbol-1" tvg-name="МАТЧ! Футбол 1" tvg-logo="https://iptvx.one/picons/match_futbol_1.png" group-title="Спорт",5. МАТЧ! Футбол 1
-http://s05.wsbof.com/match-futbol-1/mpegts?token=a0ac444f
+# 5. Матч! Арена
+#EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="https://iptvx.one/picons/match_arena.png" group-title="Спорт",5. Матч! Арена (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_ARENA/variant.m3u8
 
-# 6. Матч! Футбол 1 HD (ilook.tv)
-#EXTINF:-1 tvg-id="match-futbol-1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="https://iptvx.one/picons/match_futbol_1.png" group-title="Спорт",6. Матч! Футбол 1 HD (ilook.tv)
-http://31hmi9qv.megogo.xyz/iptv/A7ZADWAZMHRMEQ/222/index.m3u8
+# 6. Матч! Игра
+#EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="https://iptvx.one/picons/match_igra.png" group-title="Спорт",6. Матч! Игра (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_IGRA/variant.m3u8
 
-# 7. МАТЧ! Футбол 2
-#EXTINF:-1 tvg-id="match-futbol-2" tvg-name="МАТЧ! Футбол 2" tvg-logo="https://iptvx.one/picons/match_futbol_2.png" group-title="Спорт",7. МАТЧ! Футбол 2
-http://s05.wsbof.com/match-futbol-2/mpegts?token=a0ac444f
+# 7. Матч! Страна
+#EXTINF:-1 tvg-id="match-strana" tvg-name="Матч! Страна" tvg-logo="https://iptvx.one/picons/match_strana.png" group-title="Спорт",7. Матч! Страна (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_STRANA/variant.m3u8
 
-# 8. Матч! Футбол 2 HD (ilook.tv)
-#EXTINF:-1 tvg-id="match-futbol-2-hd" tvg-name="МАТЧ! Футбол 2 HD" tvg-logo="https://iptvx.one/picons/match_futbol_2.png" group-title="Спорт",8. Матч! Футбол 2 HD (ilook.tv)
-http://31hmi9qv.megogo.xyz/iptv/A7ZADWAZMHRMEQ/211/index.m3u8
+# 8. Матч! Планета
+#EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="https://iptvx.one/picons/match_planeta.png" group-title="Спорт",8. Матч! Планета (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_PLANETA/variant.m3u8
 
-# 9. МАТЧ! Футбол 3
-#EXTINF:-1 tvg-id="match-futbol-3" tvg-name="МАТЧ! Футбол 3" tvg-logo="https://iptvx.one/picons/match_futbol_3.png" group-title="Спорт",9. МАТЧ! Футбол 3
-http://s05.wsbof.com/match-futbol-3/mpegts?token=a0ac444f
+# 9. Матч! HD
+#EXTINF:-1 tvg-id="match-hd" tvg-name="Матч! HD" tvg-logo="https://naggdd.github.io/iptv/logos/match.png" group-title="Спорт",9. Матч! HD (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_MATCHHD/variant.m3u8
 
-# 10. Матч! Футбол 3 HD (ilook.tv)
-#EXTINF:-1 tvg-id="match-futbol-3-hd" tvg-name="МАТЧ! Футбол 3 HD" tvg-logo="https://iptvx.one/picons/match_futbol_3.png" group-title="Спорт",10. Матч! Футбол 3 HD (ilook.tv)
-http://31hmi9qv.megogo.xyz/iptv/A7ZADWAZMHRMEQ/206/index.m3u8
+# 10. Матч! Премьер HD
+#EXTINF:-1 tvg-id="match-premier-hd" tvg-name="Матч! Премьер HD" tvg-logo="https://iptvx.one/picons/match_premier.png" group-title="Спорт",10. Матч! Премьер HD (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHPREMIERHD/variant.m3u8
 
-# 11. Футбол (SD)
-#EXTINF:-1 tvg-id="futbol" tvg-name="Футбол" tvg-logo="https://iptvx.one/picons/futbol.png" group-title="Спорт",11. Футбол
-http://s05.wsbof.com/futbol/mpegts?token=a0ac444f
+# 11. Матч! Футбол 1 HD
+#EXTINF:-1 tvg-id="match-football-1-hd" tvg-name="Матч! Футбол 1 HD" tvg-logo="https://iptvx.one/picons/match_futbol_1.png" group-title="Спорт",11. Матч! Футбол 1 HD (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_FOOTBALL_1_HD/variant.m3u8
 
-# 12. Футбол HD
-#EXTINF:-1 tvg-id="futbol-hd" tvg-name="Футбол HD" tvg-logo="https://iptvx.one/picons/futbol.png" group-title="Спорт",12. Футбол HD
-http://s05.wsbof.com/futbol-hd-orig/mpegts?token=a0ac444f
+# 12. Матч! Футбол 2 HD
+#EXTINF:-1 tvg-id="match-football-2-hd" tvg-name="Матч! Футбол 2 HD" tvg-logo="https://iptvx.one/picons/match_futbol_2.png" group-title="Спорт",12. Матч! Футбол 2 HD (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_FOOTBALL_2_HD/variant.m3u8
 
-# 13. Матч! Игра
-#EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="https://iptvx.one/picons/match_igra.png" group-title="Спорт",13. Матч! Игра
-http://s05.wsbof.com/match-igra/mpegts?token=a0ac444f
+# 13. Матч! Футбол 3 HD
+#EXTINF:-1 tvg-id="match-football-3-hd" tvg-name="Матч! Футбол 3 HD" tvg-logo="https://iptvx.one/picons/match_futbol_3.png" group-title="Спорт",13. Матч! Футбол 3 HD (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_FOOTBALL_3_HD/variant.m3u8
 
-# 14. Матч! Игра HD (ilook.tv)
-#EXTINF:-1 tvg-id="match-igra-hd" tvg-name="Матч! Игра HD" tvg-logo="https://iptvx.one/picons/match_igra.png" group-title="Спорт",14. Матч! Игра HD (ilook.tv)
-http://31hmi9qv.megogo.xyz/iptv/A7ZADWAZMHRMEQ/225/index.m3u8
+# 14. Матч! Арена HD
+#EXTINF:-1 tvg-id="match-arena-hd" tvg-name="Матч! Арена HD" tvg-logo="https://iptvx.one/picons/match_arena.png" group-title="Спорт",14. Матч! Арена HD (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_ARENA_HD/variant.m3u8
 
-# 15. Матч! Арена
-#EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="https://iptvx.one/picons/match_arena.png" group-title="Спорт",15. Матч! Арена
-http://s05.wsbof.com/match-arena/mpegts?token=a0ac444f
-
-# 16. Матч! Арена HD (ilook.tv)
-#EXTINF:-1 tvg-id="match-arena-hd" tvg-name="Матч! Арена HD" tvg-logo="https://iptvx.one/picons/match_arena.png" group-title="Спорт",16. Матч! Арена HD (ilook.tv)
-http://31hmi9qv.megogo.xyz/iptv/A7ZADWAZMHRMEQ/207/index.m3u8
-
-# [ ... далее по списку 17-19 ... ]
-
-#---------------------------------------
-
-# 17. Матч! Страна
-#EXTINF:-1 tvg-id="match-strana" tvg-name="Матч! Страна" tvg-logo="https://iptvx.one/picons/match_strana.png" group-title="Спорт",17. Матч! Страна
-http://s05.wsbof.com/match-nash-sport/mpegts?token=a0ac444f
-
-# 18. Матч! Страна HD
-#EXTINF:-1 tvg-id="match-strana-hd" tvg-name="Матч! Страна HD" tvg-logo="https://iptvx.one/picons/match_strana.png" group-title="Спорт",18. Матч! Страна HD
-http://s05.wsbof.com/match-strana-hd/mpegts?token=a0ac444f
-
-# 19. Матч! Планета
-#EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="https://iptvx.one/picons/match_planeta.png" group-title="Спорт",19. Матч! Планета
-http://s05.wsbof.com/match-planeta/mpegts?token=a0ac444f
+# 15. Матч! Игра HD
+#EXTINF:-1 tvg-id="match-igra-hd" tvg-name="Матч! Игра HD" tvg-logo="https://iptvx.one/picons/match_igra.png" group-title="Спорт",15. Матч! Игра HD (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_IGRA_HD/variant.m3u8
 
 #---------------------------------------
+
+
+
 
 
 
