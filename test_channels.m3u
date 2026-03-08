@@ -537,9 +537,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_HD/variant.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia_hd.png" group-title="Эфирные ТВ плюс",28.1 Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
-# 28.2 78 Канал HD — Семейство Пятого канала (СПб/Регионы)
+# 28.2 78 Канал HD — Обновлена ссылка (Ngenix)
 #EXTINF:-1 tvg-id="78" tvg-logo="https://iptvx.one/picons/78.png" group-title="Эфирные ТВ плюс",28.2 78 Канал HD
-http://78.ru/live/playlist.m3u8
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
 
 #-------------кнопка 29 - 29.5: Россия К(HD +"орбита")
 
@@ -2022,10 +2023,10 @@ http://itv.mn/iptv/Radost_moya/index.m3u8
 
 # --- КНОПКА 78: САНКТ-ПЕТЕРБУРГ ---
 
-# 78.1.1 78 Канал (СПб)
-#EXTINF:-1 tvg-id="78kanal" tvg-name="78 канал" tvg-logo="https://i.imgur.com/uG9Xm6Z.png" group-title="Санкт-Петербург",78.1.1 78 Канал (СПб)
+# 78.1.1 78 Канал (СПб) — Обновлен логотип
+#EXTINF:-1 tvg-id="78kanal" tvg-name="78 канал" tvg-logo="https://iptvx.one/picons/78.png" group-title="Санкт-Петербург",78.1.1 78 Канал (СПб)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8 
 
 # 78.1.2 Санкт-Петербург
 #EXTINF:-1 tvg-id="sankt-peterburg" tvg-name="Санкт-Петербург" tvg-logo="https://iptvx.one/picons/spb.png" group-title="Санкт-Петербург",78.1.2 Санкт-Петербург
