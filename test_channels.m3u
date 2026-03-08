@@ -2165,6 +2165,54 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_IGRA_HD/variant.m3u8
 
 #---------------------------------------
 
+# --- ГРУППА: DISNEY (RU) ---
+
+# 0. Disney Channel (Русская озвучка / СНГ фид)
+#EXTINF:-1 tvg-id="disney-ru" group-title="Детские",0. Disney Channel (RU)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+
+# 1. Disney Junior (Русская озвучка / СНГ фид)
+#EXTINF:-1 tvg-id="disney-junior-ru" group-title="Детские",1. Disney Junior (RU)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEYJUNIOR/variant.m3u8
+
+# 2. Disney Channel (Зеркало из Ташкента - RU)
+#EXTINF:-1 tvg-id="disney-uz" group-title="Детские",2. Disney (RU Alt)
+http://213.230.91.71:8888/live/disney/playlist.m3u8
+
+# 3. Капитан Фантастика (Часто крутит Диснеевский контент - RU)
+#EXTINF:-1 tvg-id="kapitan-fantastika" group-title="Детские",3. Капитан Фантастика HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KAPITAN_FANTASTIKA_HD/variant.m3u8
+
+# --- ГРУППА: ДЕТСКИЕ (DISNEY) ---
+
+# 0. Disney Channel (СНГ/РФ Резерв) — работает через Wink UA
+#EXTINF:-1 tvg-id="disney-ru" group-title="Детские",0. Disney Channel (CIS)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+
+# 1. Disney Channel HD (International / English)
+# Свежий поток с GitHub, картинка супер
+#EXTINF:-1 tvg-id="disney-hd" group-title="Детские",1. Disney Channel HD
+http://66.102.120.18:8000/play/a013/index.m3u8
+
+# 2. Disney Junior (Для мелких - СНГ фид)
+#EXTINF:-1 tvg-id="disney-junior" group-title="Детские",2. Disney Junior
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEYJUNIOR/variant.m3u8
+
+# 3. Disney Channel (Latin America / US - для фанатов)
+# Очень стабильный поток с GitHub Gist
+#EXTINF:-1 tvg-id="disney-us" group-title="Детские",3. Disney Channel (Global)
+https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95XgI8UhySeZgp7szKj3V/m3u8
+
+# 4. Солнце (То, что вместо Диснея в РФ - SD)
+#EXTINF:-1 tvg-id="solntse" group-title="Детские",4. Солнце (Ex-Disney)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SOLNCE/variant.m3u8
+
 
 
 
