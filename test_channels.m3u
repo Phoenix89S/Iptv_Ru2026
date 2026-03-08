@@ -1648,36 +1648,42 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
 #---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 65) ----------------
 
-# --- Сектор 65.0: Резервный Слот (Заглушка) ---
-# 65. [НАЗВАНИЕ КАНАЛА] HD
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Эфирные ТВ плюс",65. 
+# --- Сектор 65.0: 2x2 Флагман и Резерв ---
+# 65. 2x2 HD
+#EXTINF:-1 tvg-id="2x2" tvg-logo="https://iptvx.one/picons/2x2_hd.png" group-title="Эфирные ТВ плюс",65. 2x2 HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
+# 65.1 2x2 (Резерв)
+#EXTINF:-1 tvg-id="2x2" tvg-logo="https://iptvx.one/picons/2x2.png" group-title="Эфирные ТВ плюс",65.1 2x2 (Резерв)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 
-# 65.1 [НАЗВАНИЕ КАНАЛА] (Резерв)
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Эфирные ТВ плюс",65.1 
+# --- Сектор 65.2: Орбиты 2x2 ---
+# 65.2.1 2x2 (Мск)
+#EXTINF:-1 tvg-id="2na2" group-title="Эфирные ТВ плюс",65.2.1 2x2
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
+# 65.2.2 2x2 (+2)
+#EXTINF:-1 tvg-id="2na2-pl2" group-title="Эфирные ТВ плюс",65.2.2 2x2 (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 
-# --- Сектор 65.2: Орбиты ---
-# 65.2.1 
-#EXTINF:-1 group-title="Эфирные ТВ плюс",65.2.1 
+# 65.2.3 2x2 (+4)
+#EXTINF:-1 tvg-id="2na2-pl4" group-title="Эфирные ТВ плюс",65.2.3 2x2 (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 
-
-# 65.2.2 
-#EXTINF:-1 group-title="Эфирные ТВ плюс",65.2.2 
-
-
-# 65.2.3 
-#EXTINF:-1 group-title="Эфирные ТВ плюс",65.2.3 
-
-
-# 65.2.4 
-#EXTINF:-1 group-title="Эфирные ТВ плюс",65.2.4 
-
+# 65.2.4 2x2 (+7)
+#EXTINF:-1 tvg-id="2na2-pl7" group-title="Эфирные ТВ плюс",65.2.4 2x2 (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 
 #
 # --------------------------------------------------------------------
 #
-
 
 
 
