@@ -870,14 +870,26 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PREMIER/variant.m3u8
 
-# --- Сектор SkyGo MN (International) ---
-# 42.3 ТНТ International (SkyGo ch44)
-#EXTINF:-1 tvg-id="tnt-international" group-title="Эфирные ТВ плюс",42.3 ТНТ International
-http://edge1.skymedia.mn/live/ch44/playlist.m3u8
+# --- Сектор 42.3: International (Те самые от Ростелекома) ---
+# 42.3 ТНТ International HD (Ngenix)
+#EXTINF:-1 tvg-id="tnt-international" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Эфирные ТВ плюс",42.3 ТНТ International HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT_INT_HD/variant.m3u8
 
-# 42.4 ТНТ4 International (SkyGo ch71)
-#EXTINF:-1 tvg-id="tnt4-international" group-title="Эфирные ТВ плюс",42.4 ТНТ4 International
-http://edge1.skymedia.mn/live/ch71/playlist.m3u8
+# 42.4 ТНТ International (Резерв SD/HQ)
+#EXTINF:-1 tvg-id="tnt-international" tvg-logo="https://iptvx.one/picons/tnt_intl.png" group-title="Эфирные ТВ плюс",42.4 ТНТ International (Резерв)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT_INT/variant.m3u8
+
+# 42.5 ТНТ4 International HD (Ngenix)
+#EXTINF:-1 tvg-id="tnt4-international" group-title="Эфирные ТВ плюс",42.5 ТНТ4 International HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT4_INT_HD/variant.m3u8
+
+# 42.6 ТНТ4 International (SD)
+#EXTINF:-1 tvg-id="tnt4-international" group-title="Эфирные ТВ плюс",42.6 ТНТ4 International (SD)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT4_INT/variant.m3u8
+
+#
+# --------------------------------------------------------------------
+#
 
 
 #------------------------
