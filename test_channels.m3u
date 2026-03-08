@@ -1685,6 +1685,34 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 # --------------------------------------------------------------------
 #
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 66) ----------------
+
+# --- Сектор 66.0: Всё ТВ Флагман и Резерв ---
+# 66. Всё ТВ HD
+#EXTINF:-1 tvg-id="vsetv" tvg-logo="https://iptvx.one/picons/vsetv_hd.png" group-title="Эфирные ТВ плюс",66. Всё ТВ HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+
+# 66.1 Всё ТВ HD (Резерв)
+#EXTINF:-1 tvg-id="vsetv" group-title="Эфирные ТВ плюс",66.1 Всё ТВ HD (Резерв)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+
+#
+# --------------------------------------------------------------------
+#
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
