@@ -894,6 +894,9 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT4_INT/variant.m3u8
 
 #------------------------
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 43) ----------------
+
+# --- Сектор 43.0: МУЗ-ТВ Флагман и Резерв ---
 # 43. МУЗ-ТВ HD — Основной поток (Полировка)
 #EXTINF:-1 tvg-id="muz-tv" tvg-logo="https://iptvx.one/picons/muztv_hd.png" group-title="Эфирные ТВ плюс",43. Муз-ТВ HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MUZ_TV_HD/variant.m3u8
@@ -902,9 +905,30 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MUZ_TV_HD/variant.m3u8
 #EXTINF:-1 tvg-id="muz-tv" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="Эфирные ТВ плюс",43.1 Муз-ТВ (Резерв)
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MUZ_TV/variant.m3u8
 
-# 43.2 Ю HD — Развлекательный (HD)
-#EXTINF:-1 tvg-id="u-tv" tvg-logo="https://iptvx.one/picons/u_hd.png" group-title="Эфирные ТВ плюс",43.2 Ю HD
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_U_HD/variant.m3u8
+# --- Сектор 43.2: Орбиты МУЗ-ТВ ---
+# 43.2.1 МУЗ-ТВ (Мск)
+#EXTINF:-1 tvg-id="muztv" group-title="Эфирные ТВ плюс",43.2.1 МУЗ-ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+# 43.2.2 МУЗ-ТВ (+2)
+#EXTINF:-1 tvg-id="muztv-pl2" group-title="Эфирные ТВ плюс",43.2.2 МУЗ-ТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+
+# 43.2.3 МУЗ-ТВ (+4)
+#EXTINF:-1 tvg-id="muztv-pl4" group-title="Эфирные ТВ плюс",43.2.3 МУЗ-ТВ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+
+# 43.2.4 МУЗ-ТВ (+7)
+#EXTINF:-1 tvg-id="muztv-pl7" group-title="Эфирные ТВ плюс",43.2.4 МУЗ-ТВ (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+
+#
+# --------------------------------------------------------------------
+#
 
 # 43.3 Ю МСК — Эфир Москва (HQ)
 #EXTINF:-1 tvg-id="u-tv" tvg-logo="https://iptvx.one/picons/u.png" group-title="Эфирные ТВ плюс",43.3 Ю МСК (Резерв)
