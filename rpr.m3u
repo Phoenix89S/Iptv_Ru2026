@@ -196,6 +196,94 @@ http://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 
 #---------------- КОНЕЦ ТЕСТОВОГО КЛАСТЕРА SD -----------
 
+#---------------- КЛАСТЕР 65: НАСТРОЙ КИНО HD (МАКСИМУМ) -----------
+
+# 65.1 Кинопремьера HD
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="РЕЗЕРВ HD",65.1 Кинопремьера HD
+http://178.49.155.6:5000/udp/239.1.1.201:5000
+
+# 65.2 Кинохит HD
+#EXTINF:-1 tvg-id="kinohit-hd" tvg-logo="https://iptvx.one/picons/kinohit.png" group-title="РЕЗЕРВ HD",65.2 Кинохит HD
+http://178.49.155.6:5000/udp/239.1.1.139:5000
+
+# 65.3 Киносемья HD
+#EXTINF:-1 tvg-id="kinosemya-hd" tvg-logo="https://iptvx.one/picons/kinosemya.png" group-title="РЕЗЕРВ HD",65.3 Киносемья HD
+http://178.49.155.6:5000/udp/239.1.1.202:5000
+
+# 65.4 Киносвидание HD
+#EXTINF:-1 tvg-id="kinosvidanie-hd" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="РЕЗЕРВ HD",65.4 Киносвидание HD
+http://178.49.155.6:5000/udp/239.1.1.203:5000
+
+# 65.5 Киномужское HD
+#EXTINF:-1 tvg-id="kinomuzhskoe-hd" tvg-logo="https://iptvx.one/picons/kinomuzhskoe.png" group-title="РЕЗЕРВ HD",65.5 Киномужское HD
+http://178.49.155.6:5000/udp/239.1.1.161:5000
+
+# 65.6 Киноужас HD
+#EXTINF:-1 tvg-id="kinoujas-hd" tvg-logo="https://iptvx.one/picons/kinoujas.png" group-title="РЕЗЕРВ HD",65.6 Киноужас HD
+http://178.49.155.6:5000/udp/239.1.1.163:5000
+
+# 65.7 Кинокомедия HD
+#EXTINF:-1 tvg-id="kinokomediya-hd" tvg-logo="https://iptvx.one/picons/kinokomediya.png" group-title="РЕЗЕРВ HD",65.7 Кинокомедия HD
+http://178.49.155.6:5000/udp/239.1.1.162:5000
+
+# 65.8 Киномикс HD
+#EXTINF:-1 tvg-id="kinomix-hd" tvg-logo="https://iptvx.one/picons/kinomix.png" group-title="РЕЗЕРВ HD",65.8 Киномикс HD
+http://178.49.155.6:5000/udp/239.1.1.138:5000
+
+# 65.9 Киносерия HD
+#EXTINF:-1 tvg-id="kinoseriya-hd" tvg-logo="https://iptvx.one/picons/kinoseriya.png" group-title="РЕЗЕРВ HD",65.9 Киносерия HD
+http://178.49.155.6:5000/udp/239.1.1.164:5000
+
+# 65.10 Мужское кино HD
+#EXTINF:-1 tvg-id="muzhskoe-kino-hd" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="РЕЗЕРВ HD",65.10 Мужское кино HD
+http://178.49.155.6:5000/udp/239.1.1.160:5000
+
+#---------------- КЛАСТЕР 66: НАСТРОЙ КИНО SD (МАКСИМУМ) -----------
+
+# 66.1 Кинопремьера
+#EXTINF:-1 tvg-id="kinopremiera" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="РЕЗЕРВ SD",66.1 Кинопремьера
+http://91.241.172.115:8000/play/a020
+
+# 66.2 Кинохит
+#EXTINF:-1 tvg-id="kinohit-red" tvg-logo="https://iptvx.one/picons/kinohit.png" group-title="РЕЗЕРВ SD",66.2 Кинохит
+http://91.241.172.115:8000/play/a01t
+
+# 66.3 Киносемья
+#EXTINF:-1 tvg-id="kinosemya" tvg-logo="https://iptvx.one/picons/kinosemya.png" group-title="РЕЗЕРВ SD",66.3 Киносемья
+http://91.241.172.115:8000/play/a01u
+
+# 66.4 Киносвидание
+#EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="РЕЗЕРВ SD",66.4 Киносвидание
+http://91.241.172.115:8000/play/a01v
+
+# 66.5 Киномужское
+#EXTINF:-1 tvg-id="kinomuzhskoe" tvg-logo="https://iptvx.one/picons/kinomuzhskoe.png" group-title="РЕЗЕРВ SD",66.5 Киномужское
+http://91.241.172.115:8000/play/a01w
+
+# 66.6 Киноужас
+#EXTINF:-1 tvg-id="kinoujas" tvg-logo="https://iptvx.one/picons/kinoujas.png" group-title="РЕЗЕРВ SD",66.6 Киноужас
+http://91.241.172.115:8000/play/a01x
+
+# 66.7 Кинокомедия
+#EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://iptvx.one/picons/kinokomediya.png" group-title="РЕЗЕРВ SD",66.7 Кинокомедия
+http://91.241.172.115:8000/play/a01z
+
+# 66.8 Киномикс
+#EXTINF:-1 tvg-id="kinomix" tvg-logo="https://iptvx.one/picons/kinomix.png" group-title="РЕЗЕРВ SD",66.8 Киномикс
+http://91.241.172.115:8000/play/a01s
+
+# 66.9 Киносерия
+#EXTINF:-1 tvg-id="kinoseriya" tvg-logo="https://iptvx.one/picons/kinoseriya.png" group-title="РЕЗЕРВ SD",66.9 Киносерия
+http://91.241.172.115:8000/play/a021
+
+# 66.10 Мужское кино
+#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="РЕЗЕРВ SD",66.10 Мужское кино
+http://91.241.172.115:8000/play/a01r
+
+# 66.11 Родное Кино
+#EXTINF:-1 tvg-id="rodnoe-kino" tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-title="РЕЗЕРВ SD",66.11 Родное Кино
+http://91.241.172.115:8000/play/a01y
+
 
 
 
