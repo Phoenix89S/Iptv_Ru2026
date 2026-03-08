@@ -1,0 +1,69 @@
+#---------------- ГРУППА: НАСТРОЙ КИНО (SD + HD КЛАСТЕР) -----------
+
+# 64.1 Родное Кино — Настрой кино! (SD)
+#EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="https://i.imgur.com/H70LxoZ.png" group-title="Эфирные ТВ плюс",64.1 Родное Кино
+http://31.148.48.15/Rodnoe_kino/index.m3u8
+
+# 64.2 Кинопремьера — Новинки кино
+#EXTINF:-1 tvg-id="kinopremiera" tvg-name="Кинопремьера" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Эфирные ТВ плюс",64.2 Кинопремьера
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOPREMIERA/variant.m3u8
+
+# 64.3 Кинохит — Золотой фонд
+#EXTINF:-1 tvg-id="kinohit-red" tvg-name="Кинохит" tvg-logo="https://iptvx.one/picons/kinohit.png" group-title="Эфирные ТВ плюс",64.3 Кинохит
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOHIT/variant.m3u8
+
+# 64.4 Киносемья — Для всей семьи
+#EXTINF:-1 tvg-id="kinosemya" tvg-name="Киносемья" tvg-logo="https://iptvx.one/picons/kinosemya.png" group-title="Эфирные ТВ плюс",64.4 Киносемья
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOSEMYA/variant.m3u8
+
+# 64.5 Киносвидание — Романтика и комедии
+#EXTINF:-1 tvg-id="kinosvidanie" tvg-name="Киносвидание" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="Эфирные ТВ плюс",64.5 Киносвидание
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOSVIDANIE/variant.m3u8
+
+# 64.6 Киномужское — Боевики и триллеры
+#EXTINF:-1 tvg-id="kinomuzhskoe" tvg-name="Киномужское" tvg-logo="https://iptvx.one/picons/kinomuzhskoe.png" group-title="Эфирные ТВ плюс",64.6 Киномужское
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOMUZHSKOE/variant.m3u8
+
+# 64.7 Киноужас — SD версия
+#EXTINF:-1 tvg-id="kinoujas" tvg-name="Киноужас" tvg-logo="https://iptvx.one/picons/kinoujas.png" group-title="Эфирные ТВ плюс",64.7 Киноужас
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOUJAS/variant.m3u8
+
+# --- ПЕРЕХОД НА HD ВЕРСИИ ---
+
+# 64.8 Кинопремьера HD — Главные новинки HD
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера HD" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Эфирные ТВ плюс",64.8 Кинопремьера HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOPREMIERA_HD/variant.m3u8
+
+# 64.9 Кинохит HD — Золотой фонд HD
+#EXTINF:-1 tvg-id="kinohit-hd" tvg-name="Кинохит HD" tvg-logo="https://iptvx.one/picons/kinohit.png" group-title="Эфирные ТВ плюс",64.9 Кинохит HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOHIT_HD/variant.m3u8
+
+# 64.10 Киносемья HD — Для всей семьи HD
+#EXTINF:-1 tvg-id="kinosemya-hd" tvg-name="Киносемья HD" tvg-logo="https://iptvx.one/picons/kinosemya.png" group-title="Эфирные ТВ плюс",64.10 Киносемья HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOSEMYA_HD/variant.m3u8
+
+# 64.11 Киносвидание HD — Романтика HD
+#EXTINF:-1 tvg-id="kinosvidanie-hd" tvg-name="Киносвидание HD" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="Эфирные ТВ плюс",64.11 Киносвидание HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOSVIDANIE_HD/variant.m3u8
+
+# 64.12 Киномужское HD — Боевики HD
+#EXTINF:-1 tvg-id="kinomuzhskoe-hd" tvg-name="Киномужское HD" tvg-logo="https://iptvx.one/picons/kinomuzhskoe.png" group-title="Эфирные ТВ плюс",64.12 Киномужское HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOMUZHSKOE_HD/variant.m3u8
+
+# 64.13 Киноужас HD — Хорроры HD
+#EXTINF:-1 tvg-id="kinoujas-hd" tvg-name="Киноужас HD" tvg-logo="https://iptvx.one/picons/kinoujas.png" group-title="Эфирные ТВ плюс",64.13 Киноужас HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOUJAS_HD/variant.m3u8
+
+#---------------- КОНЕЦ КЛАСТЕРА НАСТРОЙ КИНО -----------
