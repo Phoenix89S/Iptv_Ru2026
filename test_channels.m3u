@@ -2246,6 +2246,65 @@ https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SOLNCE/variant.m3u8
 
 
+#---------------- ГРУППА НТВ & НТВ ПЛЮС (КЛАСТЕР 1.X) -----------
+
+# 1.1 НТВ HD — Прямой эфир (Первоисточник)
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Эфирные ТВ плюс",1.1 НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+
+# 1.2 НТВ Стиль — Семейство НТВ
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Эфирные ТВ плюс",1.2 НТВ Стиль
+http://cdn2.ntv.ru/th_style/playlist.m3u8
+
+# 1.3 НТВ Хит — Семейство НТВ
+#EXTINF:-1 tvg-id="ntv-hit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Эфирные ТВ плюс",1.3 НТВ Хит
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
+
+# 1.4 НТВ Сериал — Семейство НТВ
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="Эфирные ТВ плюс",1.4 НТВ Сериал
+http://cdn2.ntv.ru/th_serial/playlist.m3u8
+
+# 1.5 НТВ Право — Семейство НТВ
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="Эфирные ТВ плюс",1.5 НТВ Право
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+
+# 1.6 Неизвестная Россия HD — Семейство НТВ
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="Эфирные ТВ плюс",1.6 Неизвестная Россия HD
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+
+# 1.7 НТВ+ Киноклуб
+#EXTINF:-1 tvg-id="kinoklub" tvg-logo="https://iptvx.one/picons/ntv-plus-kinoklub.png" group-title="НТВ+",1.7 НТВ+ Киноклуб
+http://212.86.228.87:5027/udp/239.1.0.73:1234
+
+# 1.8 НТВ+ Кинохит
+#EXTINF:-1 tvg-id="kinohit" tvg-logo="https://iptvx.one/picons/ntv-plus-kinohit.png" group-title="НТВ+",1.8 НТВ+ Кинохит
+http://212.86.228.87:5027/udp/239.1.0.74:1234
+
+# 1.9 НТВ+ Премьера
+#EXTINF:-1 tvg-id="premyera" tvg-logo="https://iptvx.one/picons/ntv-plus-premyera.png" group-title="НТВ+",1.9 НТВ+ Премьера
+http://212.86.228.87:5027/udp/239.1.0.75:1234
+
+# 1.10 НТВ+ Кино Плюс
+#EXTINF:-1 tvg-id="kinoplus" tvg-logo="https://iptvx.one/picons/ntv-plus-kinoplus.png" group-title="НТВ+",1.10 НТВ+ Кино Плюс
+http://212.86.228.87:5027/udp/239.1.0.76:1234
+
+# 1.11 НТВ+ Наше кино
+#EXTINF:-1 tvg-id="nashekino" tvg-logo="https://iptvx.one/picons/ntv-plus-nashe-kino.png" group-title="НТВ+",1.11 НТВ+ Наше кино
+http://212.86.228.87:5027/udp/239.1.0.21:1234
+
+# 1.12 НТВ+ Теннис
+#EXTINF:-1 tvg-id="tennis" tvg-logo="https://iptvx.one/picons/ntv-plus-tennis.png" group-title="НТВ+",1.12 НТВ+ Теннис
+http://212.86.228.87:5027/udp/239.1.0.66:1234
+
+# 1.13 НТВ+ Спорт
+#EXTINF:-1 tvg-id="sport" tvg-logo="https://iptvx.one/picons/ntv-plus-sport.png" group-title="НТВ+",1.13 НТВ+ Спорт
+http://212.86.228.87:5027/udp/239.1.0.67:1234
+
+# 1.14 НТВ+ Футбол
+#EXTINF:-1 tvg-id="football" tvg-logo="https://iptvx.one/picons/ntv-plus-football.png" group-title="НТВ+",1.14 НТВ+ Футбол
+http://212.86.228.87:5027/udp/239.1.0.68:1234
+
+#---------------- КОНЕЦ КЛАСТЕРА НТВ -----------
 
 
 
