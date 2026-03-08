@@ -78,3 +78,156 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOMUZHSKOE_HD/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_KINOUJAS_HD/variant.m3u8
 
 #---------------- КОНЕЦ КЛАСТЕРА НАСТРОЙ КИНО -----------
+
+#---------------- ТЕСТОВЫЙ КЛАСТЕР: НАСТРОЙ КИНО (КНОПКА 65) -----------
+
+# 65.1 Кинопремьера HD (Дубль 1: KZ)
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="ТЕСТ КИНО",65.1 Кинопремьера HD (KZ)
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+
+# 65.2 Кинопремьера HD (Дубль 2: UZ)
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="ТЕСТ КИНО",65.2 Кинопремьера HD (UZ)
+http://s83.rafail1982.uz/1055/tracks-v1a1a1/mono.m3u8
+
+# 65.3 Кинохит HD (Дубль 1: KZ)
+#EXTINF:-1 tvg-id="kinohit-hd" tvg-logo="https://iptvx.one/picons/kinohit.png" group-title="ТЕСТ КИНО",65.3 Кинохит HD (KZ)
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+
+# 65.4 Кинохит HD (Дубль 2: Alternate)
+#EXTINF:-1 tvg-id="kinohit-hd" tvg-logo="https://iptvx.one/picons/kinohit.png" group-title="ТЕСТ КИНО",65.4 Кинохит HD (ALT)
+http://188.113.190.15/229/index.m3u8
+
+# 65.5 Киносемья HD (Дубль 1: KZ)
+#EXTINF:-1 tvg-id="kinosemya-hd" tvg-logo="https://iptvx.one/picons/kinosemya.png" group-title="ТЕСТ КИНО",65.5 Киносемья HD (KZ)
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+
+# 65.6 Киносемья HD (Дубль 2: UZ)
+#EXTINF:-1 tvg-id="kinosemya-hd" tvg-logo="https://iptvx.one/picons/kinosemya.png" group-title="ТЕСТ КИНО",65.6 Киносемья HD (UZ)
+http://s83.rafail1982.uz/1054/index.m3u8
+
+# 65.7 Киносвидание HD (Дубль 1: KZ)
+#EXTINF:-1 tvg-id="kinosvidanie-hd" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="ТЕСТ КИНО",65.7 Киносвидание HD (KZ)
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+
+# 65.8 Киносвидание HD (Дубль 2: Alternate)
+#EXTINF:-1 tvg-id="kinosvidanie-hd" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="ТЕСТ КИНО",65.8 Киносвидание HD (ALT)
+http://188.113.190.15/230/index.m3u8
+
+# 65.9 Киномужское HD (Дубль 1: KZ)
+#EXTINF:-1 tvg-id="muzhskoe-kino-hd" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="ТЕСТ КИНО",65.9 Киномужское HD (KZ)
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+
+# 65.10 Киномужское HD (Дубль 2: UZ)
+#EXTINF:-1 tvg-id="muzhskoe-kino-hd" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="ТЕСТ КИНО",65.10 Киномужское HD (UZ)
+http://s83.rafail1982.uz/1052/index.m3u8
+
+# 65.11 Киноужас HD (Дубль 1: Alternate)
+#EXTINF:-1 tvg-id="kinoujas-hd" tvg-logo="https://iptvx.one/picons/kinoujas.png" group-title="ТЕСТ КИНО",65.11 Киноужас HD (ALT)
+http://188.113.190.15/233/index.m3u8
+
+# 65.12 Киноужас HD (Дубль 2: UZ)
+#EXTINF:-1 tvg-id="kinoujas-hd" tvg-logo="https://iptvx.one/picons/kinoujas.png" group-title="ТЕСТ КИНО",65.12 Киноужас HD (UZ)
+http://s83.rafail1982.uz/1053/index.m3u8
+
+# 65.13 Киномикс HD (Дубль 1: KZ)
+#EXTINF:-1 tvg-id="kinomix-hd" tvg-logo="https://iptvx.one/picons/kinomix.png" group-title="ТЕСТ КИНО",65.13 Киномикс HD (KZ)
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+
+# 65.14 Кинокомедия HD (Дубль 1: KZ)
+#EXTINF:-1 tvg-id="kinokomediya-hd" tvg-logo="https://iptvx.one/picons/kinokomediya.png" group-title="ТЕСТ КИНО",65.14 Кинокомедия HD (KZ)
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+
+#---------------- КОНЕЦ ТЕСТОВОГО КЛАСТЕРА -----------
+
+
+#---------------- ТЕСТОВЫЙ КЛАСТЕР: НАСТРОЙ КИНО SD (КНОПКА 66) -----------
+
+# 66.1 Кинопремьера (Дубль 1: KZ SD)
+#EXTINF:-1 tvg-id="kinopremiera" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="ТЕСТ КИНО SD",66.1 Кинопремьера (KZ)
+http://sc.id-tv.kz/Kinopremiera_34_35.m3u8
+
+# 66.2 Кинопремьера (Дубль 2: UZ Mono)
+#EXTINF:-1 tvg-id="kinopremiera" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="ТЕСТ КИНО SD",66.2 Кинопремьера (UZ-M)
+http://s83.rafail1982.uz/1055/tracks-v1a1/mono.m3u8
+
+# 66.3 Кинохит (Дубль 1: KZ SD)
+#EXTINF:-1 tvg-id="kinohit-red" tvg-logo="https://iptvx.one/picons/kinohit.png" group-title="ТЕСТ КИНО SD",66.3 Кинохит (KZ)
+http://sc.id-tv.kz/Kinohit_34_35.m3u8
+
+# 66.4 Кинохит (Дубль 2: UZ Mono)
+#EXTINF:-1 tvg-id="kinohit-red" tvg-logo="https://iptvx.one/picons/kinohit.png" group-title="ТЕСТ КИНО SD",66.4 Кинохит (UZ-M)
+http://s83.rafail1982.uz/1055/tracks-v2a1/mono.m3u8
+
+# 66.5 Киносемья (Дубль 1: KZ SD)
+#EXTINF:-1 tvg-id="kinosemya" tvg-logo="https://iptvx.one/picons/kinosemya.png" group-title="ТЕСТ КИНО SD",66.5 Киносемья (KZ)
+http://sc.id-tv.kz/Kinosemiya_34_35.m3u8
+
+# 66.6 Киносемья (Дубль 2: UZ SD)
+#EXTINF:-1 tvg-id="kinosemya" tvg-logo="https://iptvx.one/picons/kinosemya.png" group-title="ТЕСТ КИНО SD",66.6 Киносемья (UZ)
+http://s83.rafail1982.uz/1054/tracks-v1a1/mono.m3u8
+
+# 66.7 Киносвидание (Дубль 1: KZ SD)
+#EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="ТЕСТ КИНО SD",66.7 Киносвидание (KZ)
+http://sc.id-tv.kz/Kinosvidanie_34_35.m3u8
+
+# 66.8 Киносвидание (Дубль 2: IP-Alt)
+#EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="ТЕСТ КИНО SD",66.8 Киносвидание (ALT)
+http://188.113.190.15/230/tracks-v1a1/index.m3u8
+
+# 66.9 Киномужское (Дубль 1: KZ SD)
+#EXTINF:-1 tvg-id="kinomuzhskoe" tvg-logo="https://iptvx.one/picons/kinomuzhskoe.png" group-title="ТЕСТ КИНО SD",66.9 Киномужское (KZ)
+http://sc.id-tv.kz/Mujskoe_kino_38_39.m3u8
+
+# 66.10 Киномужское (Дубль 2: UZ Mono)
+#EXTINF:-1 tvg-id="kinomuzhskoe" tvg-logo="https://iptvx.one/picons/kinomuzhskoe.png" group-title="ТЕСТ КИНО SD",66.10 Киномужское (UZ-M)
+http://s83.rafail1982.uz/1052/tracks-v1a1/mono.m3u8
+
+# 66.11 Киноужас (Дубль 1: IP-Alt)
+#EXTINF:-1 tvg-id="kinoujas" tvg-logo="https://iptvx.one/picons/kinoujas.png" group-title="ТЕСТ КИНО SD",66.11 Киноужас (ALT)
+http://188.113.190.15/233/tracks-v1a1/index.m3u8
+
+# 66.12 Киноужас (Дубль 2: UZ Mono)
+#EXTINF:-1 tvg-id="kinoujas" tvg-logo="https://iptvx.one/picons/kinoujas.png" group-title="ТЕСТ КИНО SD",66.12 Киноужас (UZ-M)
+http://s83.rafail1982.uz/1053/tracks-v1a1/mono.m3u8
+
+# 66.13 Родное Кино (Резервный дубль KZ)
+#EXTINF:-1 tvg-id="rodnoe-kino" tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-title="ТЕСТ КИНО SD",66.13 Родное Кино (KZ)
+http://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+
+#---------------- КОНЕЦ ТЕСТОВОГО КЛАСТЕРА SD -----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
