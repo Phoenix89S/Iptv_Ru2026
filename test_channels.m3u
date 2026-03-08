@@ -256,20 +256,38 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #-------------кнопка 14: Домашний ------------
 
 
-# --- КНОПКА 14: ДОМАШНИЙ ---
+# # --- КНОПКА 14: ДОМАШНИЙ ---
 
-# --- КНОПКА 14: ДОМАШНИЙ (РАБОЧИЙ HLS) ---
+# 14. Домашний (Основной)
+#EXTINF:-1 group-title="Основные" tvg-id="domashny",Домашний
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
-# 14.0 ДОМАШНИЙ — РТРС №14 (WINK DIRECT)
-#EXTINF:-1 tvg-id="domashniy" tvg-logo="http://epg.it99.org/img/14.png" group-title="Эфирные ТВ плюс",14.0 Домашний
-#EXTVLCOPT:http-user-agent=WINK/1.50.1 (AndroidTV/9) HlsWinkPlayer
-https://itv.rt.ru/hls/CH_DOMASHNY/variant.m3u8
+# 14.1 Домашний (SPB Feed - Твой эталон)
+#EXTINF:-1 group-title="Основные",Домашний (SPB)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 
-# 14.1 ДОМАШНИЙ HD (HLS ALTERNATIVE)
-#EXTINF:-1 tvg-id="domashniy-hd" tvg-logo="https://iptvx.one/picons/domashniy_hd.png" group-title="Эфирные ТВ плюс",14.1 Домашний HD
-https://cdn.iptv-online.ru/live/domashniy_hd/index.m3u8
+# 14.2 Домашний (+2)
+#EXTINF:-1 group-title="Основные" tvg-id="domashny-pl2",Домашний (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+
+# 14.3 Домашний (+4)
+#EXTINF:-1 group-title="Основные" tvg-id="domashny-pl4",Домашний (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+
+# 14.4 Домашний (+7)
+#EXTINF:-1 group-title="Основные" tvg-id="domashny-pl7",Домашний (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 
 
+
+
+
+
+#--------------------------------
 #-------------кнопка 15: ТВ3 ------------
 
 
