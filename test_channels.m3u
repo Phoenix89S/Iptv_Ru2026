@@ -816,25 +816,71 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MIR24_HD/variant.m3u8
 #EXTINF:-1 tvg-id="mir-international" tvg-logo="https://iptvx.one/picons/mir-international.png" group-title="Эфирные ТВ плюс",41.3 Мир International
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_MIR_INT/variant.m3u8
 
-# 42. ТНТ HD — Основной поток (Полировка)
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt_hd.png" group-title="Эфирные ТВ плюс",42. ТНТ HD
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 42) ----------------
+
+# --- Сектор 42.0: ТНТ и Орбиты ---
+# 42.0 ТНТ HD — Флагман
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt_hd.png" group-title="Эфирные ТВ плюс",42.0 ТНТ HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT_HD/variant.m3u8
 
-# 42.1 ТНТ International HD — Международная версия (HD)
-#EXTINF:-1 tvg-id="tnt-international" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Эфирные ТВ плюс",42.1 ТНТ International HD
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT_INT_HD/variant.m3u8
+# 42.0.0 ТНТ (Мск)
+#EXTINF:-1 tvg-id="tnt" group-title="Эфирные ТВ плюс",42.0.0 ТНТ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 
-# 42.2 ТНТ4 HD — Золотой фонд юмора (HD)
-#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4_hd.png" group-title="Эфирные ТВ плюс",42.2 ТНТ4 HD
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT4_HD/variant.m3u8
+# 42.0.1 ТНТ (+2)
+#EXTINF:-1 tvg-id="tnt-pl2" group-title="Эфирные ТВ плюс",42.0.1 ТНТ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 
-# 42.3 ТНТ4 — Резервный поток (HQ)
-#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Эфирные ТВ плюс",42.3 ТНТ4 (Резерв)
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+# 42.0.2 ТНТ (+4)
+#EXTINF:-1 tvg-id="tnt-pl4" group-title="Эфирные ТВ плюс",42.0.2 ТНТ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 
-# 42.4 ТНТ International — Резерв (HQ/SD)
-#EXTINF:-1 tvg-id="tnt-international" tvg-logo="https://iptvx.one/picons/tnt_intl.png" group-title="Эфирные ТВ плюс",42.4 ТНТ International (Резерв)
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TNT_INT/variant.m3u8
+# 42.0.3 ТНТ (+7)
+#EXTINF:-1 tvg-id="tnt-pl7" group-title="Эфирные ТВ плюс",42.0.3 ТНТ (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+
+# --- Сектор 42.1: ТНТ4 и Орбиты ---
+# 42.1.0 ТНТ4 (Мск)
+#EXTINF:-1 tvg-id="tnt4" group-title="Эфирные ТВ плюс",42.1.0 ТНТ4
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+
+# 42.1.1 ТНТ4 (+2)
+#EXTINF:-1 tvg-id="tnt4-pl2" group-title="Эфирные ТВ плюс",42.1.1 ТНТ4 (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+
+# 42.1.2 ТНТ4 (+4)
+#EXTINF:-1 tvg-id="tnt4-pl4" group-title="Эфирные ТВ плюс",42.1.2 ТНТ4 (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+
+# 42.1.3 ТНТ4 (+7)
+#EXTINF:-1 tvg-id="tnt4-pl7" group-title="Эфирные ТВ плюс",42.1.3 ТНТ4 (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+
+# --- Сектор 42.2: Premier ---
+# 42.2 PREMIER
+#EXTINF:-1 tvg-id="premier" group-title="Эфирные ТВ плюс",42.2 PREMIER
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PREMIER/variant.m3u8
+
+# --- Сектор SkyGo MN (International) ---
+# 42.3 ТНТ International (SkyGo ch44)
+#EXTINF:-1 tvg-id="tnt-international" group-title="Эфирные ТВ плюс",42.3 ТНТ International
+http://edge1.skymedia.mn/live/ch44/playlist.m3u8
+
+# 42.4 ТНТ4 International (SkyGo ch71)
+#EXTINF:-1 tvg-id="tnt4-international" group-title="Эфирные ТВ плюс",42.4 ТНТ4 International
+http://edge1.skymedia.mn/live/ch71/playlist.m3u8
+
+
+#------------------------
 
 # 43. МУЗ-ТВ HD — Основной поток (Полировка)
 #EXTINF:-1 tvg-id="muz-tv" tvg-logo="https://iptvx.one/picons/muztv_hd.png" group-title="Эфирные ТВ плюс",43. Муз-ТВ HD
