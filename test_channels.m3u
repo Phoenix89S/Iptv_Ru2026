@@ -533,8 +533,13 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_HD/variant.m3u8
 
-# 28.1 Известия HD — Информационный эталон (Ngenix)
+# 28.1 Известия HD — Основной поток (Ngenix)
 #EXTINF:-1 tvg-id="izvestia" tvg-name="Известия HD" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Эфирные ТВ плюс",28.1 Известия HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
+
+# 28.1.1 Известия HD — Дублирующий канал (Master)
+#EXTINF:-1 tvg-id="izvestia" tvg-name="Известия HD" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Эфирные ТВ плюс",28.1.1 Известия HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
 
