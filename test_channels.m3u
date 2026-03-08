@@ -1609,34 +1609,42 @@ http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 #---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 64) ----------------
 
 # --- Сектор 64.0: Ю Флагман и Резерв ---
-# 64. Ю HD — Основной поток (ТЕСТ: ТАБЛИЦА)
+# 64. Ю HD
 #EXTINF:-1 tvg-id="u-tv" tvg-logo="https://iptvx.one/picons/u_hd.png" group-title="Эфирные ТВ плюс",64. Ю HD
-https://archive.org/download/rtrs-test-pattern/uit-0322-loop.mp4
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
-# 64.1 Ю — Резервный поток (ТЕСТ: ТАБЛИЦА)
+# 64.1 Ю (Резерв)
 #EXTINF:-1 tvg-id="u-tv" tvg-logo="https://iptvx.one/picons/utv.png" group-title="Эфирные ТВ плюс",64.1 Ю (Резерв)
-https://archive.org/download/rtrs-test-pattern/uit-0322-loop.mp4
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+
 
 # --- Сектор 64.2: Орбиты Ю ---
 # 64.2.1 Ю (Мск)
-#EXTINF:-1 tvg-id="u-tv" group-title="Эфирные ТВ плюс",64.2.1 Ю
-
+#EXTINF:-1 tvg-id="yu" group-title="Эфирные ТВ плюс",64.2.1 Ю
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
 # 64.2.2 Ю (+2)
-#EXTINF:-1 tvg-id="u-tv-pl2" group-title="Эфирные ТВ плюс",64.2.2 Ю (+2)
-
+#EXTINF:-1 tvg-id="yu-pl2" group-title="Эфирные ТВ плюс",64.2.2 Ю (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 
 # 64.2.3 Ю (+4)
-#EXTINF:-1 tvg-id="u-tv-pl4" group-title="Эфирные ТВ плюс",64.2.3 Ю (+4)
-
+#EXTINF:-1 tvg-id="yu-pl4" group-title="Эфирные ТВ плюс",64.2.3 Ю (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 
 # 64.2.4 Ю (+7)
-#EXTINF:-1 tvg-id="u-tv-pl7" group-title="Эфирные ТВ плюс",64.2.4 Ю (+7)
-
+#EXTINF:-1 tvg-id="yu-pl7" group-title="Эфирные ТВ плюс",64.2.4 Ю (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
 #
 # --------------------------------------------------------------------
 #
+
 
 #---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 65) ----------------
 
