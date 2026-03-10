@@ -563,6 +563,11 @@ http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
 
+# --- Сектор 28.1: Информационные (Резерв/Доп) ---
+# 28.1.2 Известия HD
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Эфирные ТВ плюс",28.1.2 Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
 
 # 28.2 78 Канал HD — Обновлена ссылка (Ngenix)
 #EXTINF:-1 tvg-id="78" tvg-logo="https://iptvx.one/picons/78.png" group-title="Эфирные ТВ плюс",28.2 78 Канал HD
