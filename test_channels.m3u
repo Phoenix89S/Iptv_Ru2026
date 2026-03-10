@@ -192,6 +192,17 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 # --- КНОПКА 11: РЕН ТВ ---
 
+
+# --- Сектор 11.0: Рен ТВ Int Флагман и Резерв ---
+
+# 11.0.0 Рен ТВ Int HD (Источник)
+#EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Эфирные ТВ плюс",11.0.0 Рен ТВ Int HD
+https://cdn2.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+
+# 11.0.1 Рен ТВ Int HD (Дополнение)
+#EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Эфирные ТВ плюс",11.0.1 Рен ТВ Int HD
+https://cdn2.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+
 # 11.1 РЕН ТВ
 #EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ" tvg-logo="http://epg.it99.org/img/11.png" group-title="Эфирные ТВ плюс",11.1 РЕН ТВ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
