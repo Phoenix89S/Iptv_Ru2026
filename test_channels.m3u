@@ -202,6 +202,26 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 
+# 11.3 РЕН ТВ
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="rentv",11.3 РЕН ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+# 11.4 РЕН ТВ (+2)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="rentv-pl2",11.4 РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+
+# 11.5 РЕН ТВ (+4)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="rentv-pl4",11.5 РЕН ТВ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+
+# 11.6 РЕН ТВ (+7)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="rentv-pl7",11.6 РЕН ТВ (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+
 #---------------------------------------
 
 
