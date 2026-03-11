@@ -1861,6 +1861,49 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILM/variant.m3u8
 #
 
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 71) ----------------
+
+# --- Сектор 71.0: 8 канал (Региональная сеть) ---
+
+# 71.0.1 8 канал (Владивосток)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="8 канал (Владивосток)" tvg-logo="https://karnei4.github.io/convert/logo-z/fb369ca3d5068ed3237c00f5aaf144fe.png",71.0.1 8 канал (Владивосток)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+
+# 71.0.2 8 канал (Красноярск)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="8 канал (Красноярск)" tvg-logo="https://karnei4.github.io/convert/logo-z/32b9b79f5a4e002c6e101e950d4394ac.png",71.0.2 8 канал (Красноярск)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+
+# 71.0.3 8 канал (Новосибирск)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="8 канал (Новосибирск)" tvg-logo="https://karnei4.github.io/convert/logo-z/6bfe595a0ced7fa919459b37a0874354.png",71.0.3 8 канал (Новосибирск)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+
+#
+# --------------------------------------------------------------------
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
