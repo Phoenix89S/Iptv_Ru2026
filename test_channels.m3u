@@ -2829,6 +2829,106 @@ https://listen2.myradio24.com/8118
 
 # ----------------------------------------------
 
+#---------------- ГРУППА: РАДИО ----------------
+
+# --- Сектор: ТАНЦЫ-КЛУБ ---
+# 110. Dance One
+#EXTINF:-1 group-title="РАДИО" tvg-id="dance-one",110. Dance One
+https://strm112.1.fm/dance_mobile_mp3?aw_0_req.gdpr=true&listenerid=1743001209878_0.01621769389726002&awparams=companionAds%3Atrue
+
+# 111. Trance Hits
+#EXTINF:-1 group-title="РАДИО" tvg-id="trance-hits",111. Trance Hits
+https://radiorecord.hostingradio.ru/trancehits96.aacp
+
+# 112. Супердискотека 90-х
+#EXTINF:-1 group-title="РАДИО" tvg-id="sd90",112. Супердискотека 90-х
+https://radiorecord.hostingradio.ru/sd9096.aacp
+
+# 113. Relax FM Gold
+#EXTINF:-1 group-title="РАДИО" tvg-id="relax-gold",113. Relax FM Gold
+https://pub0201.101.ru/stream/trust/mp3/128/266
+
+
+# --- Сектор: РЕТРО ---
+# 114. Ретро FM
+#EXTINF:-1 group-title="РАДИО" tvg-id="retro-fm",114. Ретро FM
+https://hls-01-regions.emgsound.ru/12_msk/playlist.m3u8
+
+# 115. Радио Кассета
+#EXTINF:-1 group-title="РАДИО" tvg-id="kasseta",115. Радио Кассета
+https://ppr90.status-media.ru/kasseta.mp3
+
+# 116. Радио Ваня
+#EXTINF:-1 group-title="РАДИО" tvg-id="vanya",116. Радио Ваня
+https://icecast-radiovanya.cdnvideo.ru/radiovanya?60f0
+
+
+# --- Сектор: HIP-HOP ---
+# 117. 00s Hip Hop
+#EXTINF:-1 group-title="РАДИО" tvg-id="00s-hip-hop",117. 00s Hip Hop
+https://strm112.1.fm/club_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
+
+# 118. Urban - Европа Плюс
+#EXTINF:-1 group-title="РАДИО" tvg-id="urban-ep",118. Urban - Европа Плюс
+https://epdop.hostingradio.ru:8033/ep-urban128.mp3
+
+# 119. Rap Hits
+#EXTINF:-1 group-title="РАДИО" tvg-id="rap-hits",119. Rap Hits
+https://radiorecord.hostingradio.ru/rap96.aacp
+
+
+# --- Сектор: PSYTRANCE ---
+# 120. BOM Psytrance
+#EXTINF:-1 group-title="РАДИО" tvg-id="psytrance",120. BOM Psytrance
+https://strm112.1.fm/psytrance_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
+
+# 121. Relax FM
+#EXTINF:-1 group-title="РАДИО" tvg-id="relax-fm",121. Relax FM
+https://pub0302.101.ru:8000/stream/air/mp3/256/200
+
+
+# --- Сектор: РОК-МУЗЫКА ---
+# 122. Радио 13
+#EXTINF:-1 group-title="РАДИО" tvg-id="radio-13",122. Радио 13
+http://play.radio13.ru/96
+
+# 123. Metallica - Радио Maximum
+#EXTINF:-1 group-title="РАДИО" tvg-id="metallica-max",123. Metallica - Радио Maximum
+https://metallica.hostingradio.ru/metallica96.aacp
+
+
+# --- Сектор: ЮМОР ---
+# 124. Comedy Radio
+#EXTINF:-1 group-title="РАДИО" tvg-id="comedy-radio",124. Comedy Radio
+https://pub0202.101.ru:8443/stream/reg/mp3/128/region_comedy_31
+
+
+# --- Сектор: НОВОСТИ ---
+# 125. Радио Маяк
+#EXTINF:-1 group-title="РАДИО" tvg-id="mayak",125. Радио Маяк
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+
+
+# --- Сектор: РАЗНОЕ ---
+# 126. Радио Радонеж
+#EXTINF:-1 group-title="РАДИО" tvg-id="radonezh",126. Радио Радонеж
+https://icecast-radonezh.cdnvideo.ru/rad128
+
+# 127. Воскресение
+#EXTINF:-1 group-title="РАДИО" tvg-id="voskresenie",127. Воскресение
+https://inra3.pravradio.ru/stream.mp3
+
+
+# --- Сектор: ДЕТСКОЕ ---
+# 128. СКАЗКА FM
+#EXTINF:-1 group-title="РАДИО" tvg-id="skazka-fm",128. СКАЗКА FM
+http://skazka.amgradio.ru/Skazka
+
+# 129. KIDS
+#EXTINF:-1 group-title="РАДИО" tvg-id="kids-fm",129. KIDS
+https://strm112.1.fm/kidsfm_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
+
+# ----------------------------------------------
 
 
 
