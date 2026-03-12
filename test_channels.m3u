@@ -2789,3 +2789,48 @@ http://212.86.228.87:5027/udp/239.1.0.68:1234
 http://87.248.160.8/edge/smil:sts/playlist.m3u8
 
 
+#---------------- ГРУППА: РАДИО ----------------
+
+# 101. Radio Fresh
+#EXTINF:-1 group-title="РАДИО" tvg-id="radio-fresh",101. Radio Fresh
+https://fresh.amgradio.ru/Fresh?nc=624857
+
+# 102. MUSIC BOX RADIO
+#EXTINF:-1 group-title="РАДИО" tvg-id="music-box-radio",102. MUSIC BOX RADIO
+https://musicbox.amgradio.ru/musicbox?nc=26572
+
+# 103. Радио ENERGY
+#EXTINF:-1 group-title="РАДИО" tvg-id="energy",103. Радио ENERGY
+https://pub0101.101.ru:8000/stream/air/mp3/256/99
+
+# 104. Джем FM
+#EXTINF:-1 group-title="РАДИО" tvg-id="jam-fm",104. Джем FM
+https://online.jamfm.ru/jam_aacplus?v=1743007755223
+
+# 105. Дорожное радио
+#EXTINF:-1 group-title="РАДИО" tvg-id="dorognoe",105. Дорожное радио
+https://dorognoe.hostingradio.ru/radio
+
+# 106. Радио Дача
+#EXTINF:-1 group-title="РАДИО" tvg-id="dacha",106. Радио Дача
+https://ic1.radiosignal.one/vanya
+
+# 107. Пионер FM
+#EXTINF:-1 group-title="РАДИО" tvg-id="pioner-fm",107. Пионер FM
+https://listen10.myradio24.com/pionerfm
+
+# 108. Гоп FM
+#EXTINF:-1 group-title="РАДИО" tvg-id="gop-fm",108. Гоп FM
+https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8
+
+# 109. PriMuzFM
+#EXTINF:-1 group-title="РАДИО" tvg-id="primuz-fm",109. PriMuzFM
+https://listen2.myradio24.com/8118
+
+# ----------------------------------------------
+
+
+
+
+
+
