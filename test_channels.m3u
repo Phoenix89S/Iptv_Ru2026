@@ -183,6 +183,62 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?version=2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 
+
+# --- Сектор 9.2: Региональное вещание ОТР ---
+
+# 9.2.1 ОТР (Белгород)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="otr",9.2.1 ОТР (Белгород)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+# 9.2.2 ОТР (Барнаул)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="otr-pl4",9.2.2 ОТР (Барнаул)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+# 9.2.3 ОТР (Чита)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="otr-pl6",9.2.3 ОТР (Чита)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTR_CHTA/variant.m3u8
+
+# 9.2.4 ОТР (Забайкальский край)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="otr-pl6",9.2.4 ОТР (Забайкальский КР)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTR_ZK/variant.m3u8
+
+# 9.2.5 ОТР (Забайкальский край - Резерв)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="otr-pl6",9.2.5 ОТР (Забайкальский КР)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_OTR_ZK/variant.m3u8
+
+# 9.2.6 ОТР (Иркутская обл)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="otr-pl4",9.2.6 ОТР (Иркутская ОБЛ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTR_IRKOBL/variant.m3u8
+
+# 9.2.7 ОТР (Кемеровская обл)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="otr-pl4",9.2.7 ОТР (Кемеровская ОБЛ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KEMOBL/variant.m3u8
+
+# 9.2.8 ОТР (Новосибирская обл)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="otr-pl4",9.2.8 ОТР (Новосибирская ОБЛ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_OTR_NSO/variant.m3u8
+
+# 9.2.9 ОТР (Республика Бурятия)
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="otr-pl4",9.2.9 ОТР (Республика Бурятия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTR_BURAT/variant.m3u8
+
+#
+# --------------------------------------------------------------------
+#
+
+
+
+
+
 #-------------кнопка 10: ТВЦ ------------
 
 # 10. ТВ Центр — РТРС №10
