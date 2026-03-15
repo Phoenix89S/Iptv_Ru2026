@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/newch/jtv.zip" refresh="3600" catchup="append" catchup-days="7" catchup-source="?utc={utc}&lutc={lutc}"
-
+##EXTM3U url-tvg="http://epg.one/epg2.xml.gz" catchup="default" catchup-days="16" catchup-source="?start={utc}&duration={duration}" timeshift="120" x-recording="true" x-timeshift="true"
 
 
 
