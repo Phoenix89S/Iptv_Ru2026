@@ -1,0 +1,23 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/newch/jtv.zip" refresh="3600" catchup="append" catchup-days="7" catchup-source="?utc={utc}&lutc={lutc}"
+
+
+
+
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 100) ----------------
+
+# --- Сектор 100.0: RTVi & Дождь (Каркас) ---
+# 100. RTVi
+#EXTINF:-1 tvg-id="rtvi" group-title="Эфирные ТВ плюс",100. RTVi
+http://s02.wsbof.com/rtvi/mpegts?token=019cf228
+
+# 100.1 Дождь HD
+#EXTINF:-1 tvg-id="tv-rain" group-title="Эфирные ТВ плюс",100.1 Дождь HD
+http://s02.wsbof.com/dozhd-hd/mpegts?token=019cf228
+
+# 100.2 Дождь (Резерв)
+#EXTINF:-1 tvg-id="tv-rain" group-title="Эфирные ТВ плюс",100.2 Дождь (Резерв)
+http://s02.wsbof.com/dozhd/mpegts?token=019cf228
+
+#
+# --------------------------------------------------------------------
+#
