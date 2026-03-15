@@ -21,3 +21,94 @@ http://s02.wsbof.com/dozhd/mpegts?token=019cf228
 #
 # --------------------------------------------------------------------
 #
+
+
+
+
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 101) ----------------
+
+# --- Сектор 101.0: Домашний & Перец ---
+# 101. Домашний HD
+#EXTINF:-1 tvg-id="domashny" group-title="Эфирные ТВ плюс",101. Домашний HD
+http://s02.wsbof.com/domashnij-hd/mpegts?token=019cf228
+
+# 101.1 Домашний (Резерв)
+#EXTINF:-1 tvg-id="domashny" group-title="Efirnye",101.1 Домашний (Резерв)
+http://s02.wsbof.com/domashnij/mpegts?token=019cf228
+
+# 101.2 Перец
+#EXTINF:-1 tvg-id="peretz" group-title="Эфирные ТВ плюс",101.2 Перец
+http://s02.wsbof.com/perec/mpegts?token=019cf228
+
+
+# --- Сектор 101.3: РЕН ТВ & ТВ3 ---
+# 101.3 РЕН ТВ HD
+#EXTINF:-1 tvg-id="ren-tv" group-title="Эфирные ТВ плюс",101.3 РЕН ТВ HD
+http://s02.wsbof.com/ren-tv-hd/mpegts?token=019cf228
+
+# 101.4 РЕН ТВ (Резерв)
+#EXTINF:-1 tvg-id="ren-tv" group-title="Эфирные ТВ плюс",101.4 РЕН ТВ (Резерв)
+http://s02.wsbof.com/ren-tv/mpegts?token=019cf228
+
+# 101.5 ТВ3 HD
+#EXTINF:-1 tvg-id="tv3" group-title="Эфирные ТВ плюс",101.5 ТВ3 HD
+http://s02.wsbof.com/tv3-hd/mpegts?token=019cf228
+
+# 101.6 ТВ3 (Резерв)
+#EXTINF:-1 tvg-id="tv3" group-title="Эфирные ТВ плюс",101.6 ТВ3 (Резерв)
+http://s02.wsbof.com/tv-3/mpegts?token=019cf228
+
+
+# --- Сектор 101.7: Че & Звезда ---
+# 101.7 Че
+#EXTINF:-1 tvg-id="che" group-title="Эфирные ТВ плюс",101.7 Че
+http://s02.wsbof.com/4e/mpegts?token=019cf228
+
+# 101.8 Звезда HD
+#EXTINF:-1 tvg-id="zvezda" group-title="Эфирные ТВ плюс",101.8 Звезда HD
+http://s02.wsbof.com/zvezda-hd/mpegts?token=019cf228
+
+# 101.9 Звезда (Резерв)
+#EXTINF:-1 tvg-id="zvezda" group-title="Эфирные ТВ плюс",101.9 Звезда (Резерв)
+http://s02.wsbof.com/zvezda/mpegts?token=019cf228
+
+
+# --- Сектор 101.10: Звезда Плюс & ТВЦ ---
+# 101.10 Звезда Плюс HD
+#EXTINF:-1 tvg-id="zvezda-plus" group-title="Эфирные ТВ плюс",101.10 Звезда Плюс HD
+http://s02.wsbof.com/zvezda-plus-hd/mpegts?token=019cf228
+
+# 101.11 Звезда Плюс (Резерв)
+#EXTINF:-1 tvg-id="zvezda-plus" group-title="Эфирные ТВ плюс",101.11 Звезда Плюс (Резерв)
+http://s02.wsbof.com/zvezda-plus/mpegts?token=019cf228
+
+# 101.12 ТВЦ HD
+#EXTINF:-1 tvg-id="tvc" group-title="Эфирные ТВ плюс",101.12 ТВЦ HD
+http://s02.wsbof.com/tvc-hd/mpegts?token=019cf228
+
+# 101.13 ТВЦ (Резерв)
+#EXTINF:-1 tvg-id="tvc" group-title="Эфирные ТВ плюс",101.13 ТВЦ (Резерв)
+http://s02.wsbof.com/tvc/mpegts?token=019cf228
+
+#
+# --------------------------------------------------------------------
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
