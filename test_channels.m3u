@@ -2096,6 +2096,46 @@ http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 #  
 
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 99) ----------------
+
+# --- Сектор 99.0: Региональные и Образовательные ---
+
+# 99.0.1 ТВ Харьков Z
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="kharkov-z" tvg-logo="http://kharkov-z.ru/z-logo-line.png",99.0.1 ТВ Харьков Z
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://212.193.53.254/app/potok/playlist.m3u8
+
+# 99.0.2 Известия Приосколья
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="izvestiya-prioskolya" tvg-logo="https://i.okcdn.ru/videoPreview?id=3976082754233&type=37&idx=13&tkn=1FjeHKFXomixlD3m7CW3V6gjhCs&fn=external_8",99.0.2 Известия Приосколья
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://tvbelgorod.ru:90/izvestiya/index.m3u8
+
+# 99.0.3 Белгород 24
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="belgorod24" tvg-logo="https://iptvx.one/picons/belgorod24.png",99.0.3 Белгород 24
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+
+# 99.0.4 Краснодар HD
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="krasnodar" tvg-logo="https://iptvx.one/picons/krasnodar.png",99.0.4 Краснодар HD
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+
+# 99.0.5 Мособр TV HD
+#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="moskovsky-obrazovatelny" tvg-logo="https://iptvx.one/picons/moskovsky-obrazovatelny.png",99.0.5 Мособр TV HD
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+
+#
+# --------------------------------------------------------------------
+#
+
+
+
+
+
+
+
+
 
 
 # ГРУППА 1: ПРЯМОЙ ЭФИР (СИММЕТРИЧНЫЙ ТЕСТ)
@@ -2109,6 +2149,7 @@ http://95.213.208.141/ladybug/index.m3u8
 # ГРУППА 3: АЛЬТЕРНАТИВА (YOUTUBE GATEWAY)
 #EXTINF:-1 group-title="Ladybug Test", Леди Баг: Live Stream (YouTube)
 https://www.youtube.com/watch?v=kY6V6x0K-S8
+
 
 
 
