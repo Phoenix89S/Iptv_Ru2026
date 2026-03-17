@@ -20,7 +20,6 @@ http://31.148.48.15/Match_Nash_Sport/index.m3u8
 
 
 
-#EXTM3U
 
 #EXTINF:-1 tvg-id="Terra.ru" tvg-logo="https://iptvx.one/picons/terra.png" group-title="Познавательные",Terra
 http://31.148.48.15/Terra/index.m3u8
