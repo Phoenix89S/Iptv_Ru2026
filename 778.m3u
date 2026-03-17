@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-arena.png" group-title="Спорт",МАТЧ! Арена
+http://31.148.48.15/Match_Arena/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-arena.png" group-title="Спорт",МАТЧ! Арена HD
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-boets.png" group-title="Спорт",МАТЧ! Боец
+http://31.148.48.15/Match_Boec/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-igra.png" group-title="Спорт",МАТЧ! Игра
+http://31.148.48.15/Match_Igra/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-igra.png" group-title="Спорт",МАТЧ! Игра HD
+http://31.148.48.15/Match_Igra_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-strana.png" group-title="Спорт",МАТЧ! Страна
+http://31.148.48.15/Match_Nash_Sport/index.m3u8
