@@ -51,3 +51,40 @@ http://31.148.48.15/Match_Igra_HD/index.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-strana.png" group-title="Спорт",МАТЧ! Страна
 http://31.148.48.15/Match_Strana/index.m3u8
 
+
+
+#---------------- ГРУППА: МУЗЫКАЛЬНЫЕ (BRIDGE MEDIA) ----------------
+
+#EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://iptvx.one/picons/bridgetv.png" group-title="Музыка",BRIDGE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://lime.itv.ltd/bridgetv/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv-russian-hit" tvg-logo="https://iptvx.one/picons/bridgetvrussianhit.png" group-title="Музыка",BRIDGE TV РУССКИЙ ХИТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://lime.itv.ltd/bridgetvrushit/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="https://iptvx.one/picons/bridgetvclassic.png" group-title="Музыка",BRIDGE TV CLASSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://lime.itv.ltd/bridgetvclassic/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv-hits" tvg-logo="https://iptvx.one/picons/bridgetvhits.png" group-title="Музыка",BRIDGE TV HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://lime.itv.ltd/bridgetvhits/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv-shlyager" tvg-logo="https://iptvx.one/picons/bridgetvshlyager.png" group-title="Музыка",BRIDGE TV ШЛЯГЕР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://lime.itv.ltd/bridgetvshlyager/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv-deluxe" tvg-logo="https://iptvx.one/picons/bridgetvdeluxe.png" group-title="Музыка",BRIDGE TV DELUXE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://lime.itv.ltd/bridgetvdeluxe/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv-rock" group-title="Музыка",BRIDGE TV ROCK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://lime.itv.ltd/bridgetvrock/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-time" group-title="Музыка",BABY TIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://lime.itv.ltd/babytime/index.m3u8
+
+
