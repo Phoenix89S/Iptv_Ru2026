@@ -2085,20 +2085,32 @@ http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 
 #
 
+
 #---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 95) ----------------
 
 # --- Сектор 95.0: Успех ---
-# 95. Успех
+# 95. Успех (Основной, Альтернативный HLS)
 #EXTINF:-1 tvg-id="uspeh" tvg-logo="https://iptvx.one/picons/uspeh.png" group-title="Эфирные ТВ плюс",95. Успех
+http://live-uspeh.pms.cdnng.net/uspeh/if_uspeh.sd.m3u8
+
+# 95.1 Успех (Пример закрытого потока Ростелеком/Wink - НЕ БУДЕТ РАБОТАТЬ БЕЗ DRM)
+#EXTINF:-1 tvg-id="uspeh" tvg-logo="https://iptvx.one/picons/uspeh.png" group-title="Эфирные ТВ плюс",95.1 Успех (Wink DRM)
+# ЗАГЛУШКА: Этот поток требует DRM ключа. Прямая ссылка бесполезна.
+# http://m7-1-epg.stb.rt.ru/hls/CH_USPEH/variant.m3u8?session_id=...&drm_token=...
+
+# 95.2 Успех (Старый UDP - как Резерв)
+#EXTINF:-1 tvg-id="uspeh" tvg-logo="https://iptvx.one/picons/uspeh.png" group-title="Эфирные ТВ плюс",95.2 Успех (Резерв)
 http://91.198.104.13:8001/udp/237.0.11.4:10000
 
-# --- Сектор 95.1: Красная линия ---
-# 95.1 Красная линия
-#EXTINF:-1 tvg-id="krasnaya-liniya" tvg-logo="https://iptvx.one/picons/rline.png" group-title="Эфирные ТВ плюс",95.1 Красная линия
+# --- Сектор 95.3: Красная линия ---
+# 95.3 Красная линия
+#EXTINF:-1 tvg-id="krasnaya-liniya" tvg-logo="https://iptvx.one/picons/rline.png" group-title="Эфирные ТВ плюс",95.3 Красная линия
 http://91.198.104.13:8001/udp/237.0.13.57:10000
 
 #
 # --------------------------------------------------------------------
+#
+
 #
 
 
