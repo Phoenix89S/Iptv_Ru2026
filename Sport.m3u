@@ -1,0 +1,129 @@
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz" catchup="default" catchup-days="16" catchup-source="?start={utc}&duration={duration}" timeshift="120" x-recording="true" x-timeshift="true"
+
+#-------------------------- 26. ГРУППА МАТЧ! (ПОЛНЫЙ СПИСОК) --------------------------
+
+# 26.0 МАТЧ ТВ — Основной поток (Полировка)
+#EXTINF:-1 tvg-id="match" tvg-logo="https://iptvx.one/picons/match_hd.png" group-title="Эфирные ТВ плюс",26.0 Матч ТВ
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/535/index.m3u8
+
+# 26.1 Матч! Футбол 1 — Спортивная полировка
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match_football1_hd.png" group-title="Эфирные ТВ плюс",26.1 Матч! Футбол 1
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/124/index.m3u8
+
+# 26.2 Матч! Футбол 2 — Спортивная полировка
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://iptvx.one/picons/match_football2_hd.png" group-title="Эфирные ТВ плюс",26.2 Матч! Футбол 2
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/530/index.m3u8
+
+# 26.3 Матч! Футбол 3 — Спортивная полировка
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match_football3_hd.png" group-title="Эфирные ТВ плюс",26.3 Матч! Футбол 3
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/522/index.m3u8
+
+# 26.4 Матч! Планета — Спортивная полировка
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://iptvx.one/picons/match_planeta_hd.png" group-title="Эфирные ТВ плюс",26.4 Матч! Планета
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/123/index.m3u8
+
+# 26.5 Матч! Арена — Спортивная полировка
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://iptvx.one/picons/match_arena_hd.png" group-title="Эфирные ТВ плюс",26.5 Матч! Арена
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/528/index.m3u8
+
+# 26.6 Матч! Игра — Спортивная полировка
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://iptvx.one/picons/match_igra_hd.png" group-title="Эфирные ТВ плюс",26.6 Матч! Игра
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/529/index.m3u8
+
+# 26.7 Матч! Премьер — Спортивная полировка
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match_premier_hd.png" group-title="Эфирные ТВ плюс",26.7 Матч! Премьер
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/531/index.m3u8
+
+# 26.8 Матч! Боец — Спортивная полировка
+#EXTINF:-1 tvg-id="match-boec" tvg-logo="https://iptvx.one/picons/match_boec.png" group-title="Эфирные ТВ плюс",26.8 Матч! Боец
+http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/125/index.m3u8
+
+# 26.9 МАТЧ! Премьер HD (Источник 2)
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-premier.png" group-title="Эфирные ТВ плюс",26.9 МАТЧ! Премьер HD
+http://31.148.48.15/Match_Premier_HD/index.m3u8
+
+# 26.10 МАТЧ! Футбол 1 HD (Источник 2)
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-football1.png" group-title="Эфирные ТВ плюс",26.10 МАТЧ! Футбол 1 HD
+http://31.148.48.15/Match_Futbol1_HD/index.m3u8
+
+# 26.11 МАТЧ! Футбол 2 HD (Источник 2)
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-football2.png" group-title="Эфирные ТВ плюс",26.11 МАТЧ! Футбол 2 HD
+http://31.148.48.15/Match_Futbol2_HD/index.m3u8
+
+# 26.12 МАТЧ! Футбол 3 HD (Источник 2)
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-football3.png" group-title="Эфирные ТВ плюс",26.12 МАТЧ! Футбол 3 HD
+http://31.148.48.15/Match_Futbol3_HD/index.m3u8
+
+# 26.13 МАТЧ! Арена HD (Источник 2)
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-arena.png" group-title="Эфирные ТВ плюс",26.13 МАТЧ! Арена HD
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+
+# 26.14 МАТЧ! Игра HD (Источник 2)
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-igra.png" group-title="Эфирные ТВ плюс",26.14 МАТЧ! Игра HD
+http://31.148.48.15/Match_Igra_HD/index.m3u8
+
+# 26.15 МАТЧ! Страна
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://naggdd.github.io/iptv/logos/match-strana.png" group-title="Эфирные ТВ плюс",26.15 МАТЧ! Страна
+http://31.148.48.15/Match_Nash_Sport/index.m3u8
+
+# 26.16 КХЛ Prime HD
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://naggdd.github.io/iptv/logos/khl-prime.png" group-title="Эфирные ТВ плюс",26.16 КХЛ Prime HD
+http://31.148.48.15/KHL_Prime_HD/index.m3u8
+
+# 26.17 Eurosport 1 HD
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://naggdd.github.io/iptv/logos/eurosport-1.png" group-title="Эфирные ТВ плюс",26.17 Eurosport 1 HD
+http://31.148.48.15/Eurosport_1_HD/index.m3u8
+
+# 26.18 Viasat Sport HD
+#EXTINF:-1 tvg-id="ViasatSport.ru" tvg-logo="https://naggdd.github.io/iptv/logos/viasat-sport.png" group-title="Эфирные ТВ плюс",26.18 Viasat Sport HD
+http://31.148.48.15/Viasat_Sport_HD/index.m3u8
+
+# 26.19 МАТЧ! ТВ HD (KG-IX)
+#EXTINF:-1 tvg-id="match" tvg-logo="https://iptvx.one/picons/match_hd.png" group-title="Эфирные ТВ плюс",26.19 МАТЧ! ТВ HD (KG)
+http://iptv.aknet.kg/hls/match_tv_hd.m3u8
+
+# 26.20 МАТЧ! Премьер HD (KG-IX)
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match_premier_hd.png" group-title="Эфирные ТВ плюс",26.20 МАТЧ! Премьер HD (KG)
+http://iptv.aknet.kg/hls/match_premier_hd.m3u8
+
+# 26.21 МАТЧ! Футбол 1 HD (KG-IX)
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match_football1_hd.png" group-title="Эфирные ТВ плюс",26.21 МАТЧ! Футбол 1 HD (KG)
+http://iptv.aknet.kg/hls/match_football_1_hd.m3u8
+
+# 26.22 МАТЧ! Футбол 2 HD (KG-IX)
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://iptvx.one/picons/match_football2_hd.png" group-title="Эфирные ТВ плюс",26.22 МАТЧ! Футбол 2 HD (KG)
+http://iptv.aknet.kg/hls/match_football_2_hd.m3u8
+
+# 26.23 МАТЧ! Футбол 3 HD (KG-IX)
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match_football3_hd.png" group-title="Эфирные ТВ плюс",26.23 МАТЧ! Футбол 3 HD (KG)
+http://iptv.aknet.kg/hls/match_football_3_hd.m3u8
+
+# 26.24 МАТЧ! Арена HD (Kyrgyzstan)
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://iptvx.one/picons/match_arena_hd.png" group-title="Эфирные ТВ плюс",26.24 МАТЧ! Арена HD (KG)
+http://212.112.126.177:8000/match_arena_hd/index.m3u8
+
+# 26.25 МАТЧ! Игра HD (Kyrgyzstan)
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://iptvx.one/picons/match_igra_hd.png" group-title="Эфирные ТВ плюс",26.25 МАТЧ! Игра HD (KG)
+http://212.112.126.177:8000/match_igra_hd/index.m3u8
+
+# 26.26 МАТЧ! Боец (Kyrgyzstan)
+#EXTINF:-1 tvg-id="match-boec" tvg-logo="https://iptvx.one/picons/match_boec.png" group-title="Эфирные ТВ плюс",26.26 МАТЧ! Боец (KG)
+http://212.112.126.177:8000/match_boec/index.m3u8
+
+# 26.27 МАТЧ! Страна (Kyrgyzstan)
+#EXTINF:-1 tvg-id="match-strana" tvg-logo="https://iptvx.one/picons/match_strana.png" group-title="Эфирные ТВ плюс",26.27 МАТЧ! Страна (KG)
+http://212.112.126.177:8000/match_strana/index.m3u8
+
+# 26.28 МАТЧ! Планета (International)
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://iptvx.one/picons/match_planeta.png" group-title="Эфирные ТВ плюс",26.28 МАТЧ! Планета (Int)
+http://176.126.164.195:8000/match_planeta/index.m3u8
+
+# 26.29 МАТЧ! Планета (MN Feed)
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://iptvx.one/picons/match_planeta.png" group-title="Эфирные ТВ плюс",26.29 МАТЧ! Планета (MN)
+https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
+
+# 26.30 Setanta Sports 1 HD (MN Feed)
+#EXTINF:-1 tvg-id="setanta-sports-1" tvg-logo="https://iptvx.one/picons/setanta_sports1_hd.png" group-title="Эфирные ТВ плюс",26.30 Setanta Sports 1 HD
+https://cdn4.skygo.mn/live/disk1/Setanta_Sports_1/HLSv3-FTA/Setanta_Sports_1.m3u8
+
+#-----------------------------------------------------------------------------
