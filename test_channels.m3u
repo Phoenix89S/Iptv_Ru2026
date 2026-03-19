@@ -2203,6 +2203,13 @@ https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychan
 
 #-------------------------------------------------------------------------
 
+#-------------------------- 101.1 ДЕТСКИЕ: DISNEY RU --------------------------
+
+# 101.1 Disney Channel (RU/CIS) — Русская озвучка
+#EXTINF:-1 tvg-id="disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Эфирные ТВ плюс",101.1 Disney Channel (RU)
+http://45.144.30.222:8000/Disney_Channel/index.m3u8
+
+#------------------------------------------------------------------------------
 
 
 
