@@ -2346,6 +2346,29 @@ http://176.118.197.101/Cartoon_Network/index.m3u8
 
 #---------------------------------------
 
+#-------------------------- ГРУППА: ДЕТСКИЕ РАСШИРЕННЫЕ --------------------------
+
+# 26 Мамонтёнок
+#EXTINF:-1 tvg-id="mamontenok" tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" group-title="Детские расширенные",26 Мамонтёнок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+
+# 27 Пингвин Лоло
+#EXTINF:-1 tvg-id="pingvin-lolo" tvg-logo="https://www.cableman.ru/sites/default/files/pingvin_lolo_obychnyy_0_0.png" group-title="Детские расширенные",27 Пингвин Лоло
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+
+# 28 Радио Kids FM
+#EXTINF:-1 tvg-id="radio-kids-fm" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png" group-title="Детские расширенные",28 Радио Kids FM
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+
+# 29 Смайлик ТВ
+#EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://iptvx.one/picons/smilik_tv.png" group-title="Детские расширенные",29 Смайлик ТВ
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+
+# 30 СуперГерои
+#EXTINF:-1 tvg-id="supergeroi" tvg-logo="https://iptvx.one/picons/superheroes.png" group-title="Детские расширенные",30 СуперГерои
+http://109.94.1.3:8080/132/index.m3u8
+
+#---------------------------------------------------------------------------------
 
 
 
