@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz" catchup="default" catchup-days="16" catchup-source="?start={utc}&duration={duration}" timeshift="120" x-recording="true" x-timeshift="true"
+то#EXTM3U url-tvg="http://epg.one/epg2.xml.gz" catchup="default" catchup-days="16" catchup-source="?start={utc}&duration={duration}" timeshift="120" x-recording="true" x-timeshift="true"
 
 
 
@@ -315,6 +315,33 @@ http://193.107.228.170:4014/udp/239.1.1.179:5000
 # --------------------------------------------------------------------
 
 
+#---------------- ГРУППА: МАТЧ ПАКЕТ (SIRIUS) ----------------
+
+#EXTINF:-1 tvg-id="match-tv-premier" tvg-logo="https://iptvx.one/picons/match_premier.png" group-title="Спорт",Матч! Премьер
+http://sirius.greenhosting.ru/MatchPremier/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-tv-football-1" tvg-logo="https://iptvx.one/picons/match_football_1.png" group-title="Спорт",Матч! Футбол 1
+http://sirius.greenhosting.ru/MatchFutbol1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-tv-football-2" tvg-logo="https://iptvx.one/picons/match_football_2.png" group-title="Спорт",Матч! Футбол 2
+http://sirius.greenhosting.ru/MatchFutbol2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-tv-football-3" tvg-logo="https://iptvx.one/picons/match_football_3.png" group-title="Спорт",Матч! Футбол 3
+http://sirius.greenhosting.ru/MatchFutbol3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-tv-arena" tvg-logo="https://iptvx.one/picons/match_arena.png" group-title="Спорт",Матч! Арена
+http://sirius.greenhosting.ru/MatchArena/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-tv-igra" tvg-logo="https://iptvx.one/picons/match_igra.png" group-title="Спорт",Матч! Игра
+http://sirius.greenhosting.ru/MatchIgra/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-tv-boets" tvg-logo="https://iptvx.one/picons/match_boets.png" group-title="Спорт",Матч! Боец
+http://sirius.greenhosting.ru/MatchBoets/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-tv-strana" tvg-logo="https://iptvx.one/picons/match_strana.png" group-title="Спорт",Матч! Страна
+http://sirius.greenhosting.ru/MatchStrana/tracks-v1a1/mono.m3u8
+
+#------------------------------------------------------------
 
 
 
