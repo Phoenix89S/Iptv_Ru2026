@@ -3133,35 +3133,25 @@ https://strm112.1.fm/kidsfm_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd373
 
 #-------------------------- ГРУППА: УЖАСЫ ЭКСПЕРИМЕНТАЛЬНЫЕ --------------------------
 
-# 1. НСТ (Основной — 31.148.48.15)
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы экспериментальные",1. НСТ (№1)
-http://31.148.48.15/NST/index.m3u8
+# 1 Настоящее Страшное ТВ (Wink)
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы экспериментальные",1 Настоящее Страшное ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NST/variant.m3u8
 
-# 2. НСТ (Резерв — Aknet KG)
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы экспериментальные",2. НСТ (KG)
-http://iptv.aknet.kg/hls/nst.m3u8
+# 2 НСТ (M9com)
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы экспериментальные",2 НСТ (M9com)
+http://itv.m9com.ru/playlist/ch127/index.m3u8
 
-# 3. НСТ (Резерв — Edmonst)
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы экспериментальные",3. НСТ (Alt)
-http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/145/index.m3u8
+# 3 НСТ (LimeHD)
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы экспериментальные",3 НСТ (LimeHD)
+https://limehd.vcdn.biz/hls/nst/index.m3u8
 
-#-------------------------------------------------------------------------------------
-
-#-------------------------- ГРУППА: УЖАСЫ ЭКСПЕРИМЕНТАЛЬНЫЕ --------------------------
-
-# 3.2 НСТ (Настоящее Страшное Телевидение)
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы экспериментальные",3.2 НСТ
-http://193.25.8.59:8000/nst.m3u8
+# 4 НСТ (UDP-PROXY Резерв)
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы экспериментальные",4 НСТ (Резерв)
+http://212.86.228.87:5027/udp/239.1.0.125:1234
 
 #-------------------------------------------------------------------------------------
 
-#-------------------------- ГРУППА: УЖАСЫ ЭКСПЕРИМЕНТАЛЬНЫЕ --------------------------
-
-# 4. Киноужас HD
-#EXTINF:-1 tvg-id="kinoujas" tvg-logo="https://iptvx.one/picons/kinoujas_hd.png" group-title="Ужасы экспериментальные",4. Киноужас HD
-http://31.148.48.15/Kinoujas_HD/index.m3u8
-
-#-------------------------------------------------------------------------------------
 
 
 
