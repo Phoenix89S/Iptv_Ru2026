@@ -3131,26 +3131,41 @@ https://strm112.1.fm/kidsfm_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd373
 # ----------------------------------------------
 
 
-#-------------------------- ГРУППА: УЖАСЫ ЭКСПЕРИМЕНТАЛЬНЫЕ --------------------------
+# 1. Horror HD
+#EXTINF:-1 tvg-id="horror-hd" group-title="Ужасы",Horror HD
+#EXTVLCOPT:http-referrer=https://smotret.tv/
+https://stream.smotret.tv/hls/horror_hd/index.m3u8
 
-# 1 Настоящее Страшное ТВ (Wink)
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы экспериментальные",1 Настоящее Страшное ТВ
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NST/variant.m3u8
+# 2. Ужас ТВ
+#EXTINF:-1 tvg-id="uzhas-tv" group-title="Ужасы",Ужас ТВ
+#EXTVLCOPT:http-referrer=https://smotret.tv/
+https://stream.smotret.tv/hls/uzhas_tv/index.m3u8
 
-# 2 НСТ (M9com)
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы экспериментальные",2 НСТ (M9com)
-http://itv.m9com.ru/playlist/ch127/index.m3u8
+# 3. Жесть ТВ
+#EXTINF:-1 tvg-id="zhest-tv" group-title="Ужасы",Жесть ТВ
+#EXTVLCOPT:http-referrer=https://smotret.tv/
+https://stream.smotret.tv/hls/zhest_tv/index.m3u8
 
-# 3 НСТ (LimeHD)
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы экспериментальные",3 НСТ (LimeHD)
-https://limehd.vcdn.biz/hls/nst/index.m3u8
+# 4. Scream
+#EXTINF:-1 tvg-id="scream" group-title="Ужасы",Scream
+#EXTVLCOPT:http-referrer=https://smotret.tv/
+https://stream.smotret.tv/hls/scream/index.m3u8
 
-# 4 НСТ (UDP-PROXY Резерв)
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы экспериментальные",4 НСТ (Резерв)
-http://212.86.228.87:5027/udp/239.1.0.125:1234
+# 5. Кошмар HD
+#EXTINF:-1 tvg-id="koshmar-hd" group-title="Ужасы",Кошмар HD
+#EXTVLCOPT:http-referrer=https://smotret.tv/
+https://stream.smotret.tv/hls/koshmar_hd/index.m3u8
 
-#-------------------------------------------------------------------------------------
+# 6. Devil TV
+#EXTINF:-1 tvg-id="devil-tv" group-title="Ужасы",Devil TV
+#EXTVLCOPT:http-referrer=https://smotret.tv/
+https://stream.smotret.tv/hls/devil_tv/index.m3u8
+
+# 7. MIX FILMS
+#EXTINF:-1 tvg-id="mix-films" group-title="Ужасы",MIX FILMS
+#EXTVLCOPT:http-referrer=https://smotret.tv/
+https://stream.smotret.tv/hls/mix_films/index.m3u8
+
 
 
 
