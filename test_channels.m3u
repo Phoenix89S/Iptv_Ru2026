@@ -697,6 +697,58 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
 
+# --- Сектор 28.3: Известия и Региональные (Эфирные ТВ плюс) ---
+
+# 28.3.1 Известия Приосколья (Старый Оскол)
+#EXTINF:-1 tvg-id="izvestia" group-title="Эфирные ТВ плюс",28.3.1 Известия Приосколья (Белгород)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_OSKOL/variant.m3u8
+
+# 28.3.2 Известия (Кострома)
+#EXTINF:-1 tvg-id="izvestia" group-title="Эфирные ТВ плюс",28.3.2 Известия (Кострома)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_KST/variant.m3u8
+
+# 28.3.3 Известия-Владимир (Владимир)
+#EXTINF:-1 tvg-id="izvestia" group-title="Эфирные ТВ плюс",28.3.3 Известия-Владимир (Владимир)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_VLD/variant.m3u8
+
+# 28.3.4 Известия-Воронеж (Воронеж)
+#EXTINF:-1 tvg-id="izvestia" group-title="Эфирные ТВ плюс",28.3.4 Известия-Воронеж (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+
+# 28.3.5 Рыбинск-40 (Рыбинск)
+#EXTINF:-1 tvg-id="rybinsk40" group-title="Эфирные ТВ плюс",28.3.5 Рыбинск-40 (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+
+# 28.3.6 Каскад (Калининград)
+#EXTINF:-1 tvg-id="kaskad24" group-title="Эфирные ТВ плюс",28.3.6 Каскад (Калининград)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+
+# 28.3.7 78 (Санкт-Петербург)
+#EXTINF:-1 tvg-id="78-kanal" group-title="Эфирные ТВ плюс",28.3.7 78 (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
+
+# 28.3.8 Известия-Кемерово (Кемерово)
+#EXTINF:-1 tvg-id="izvestia" group-title="Эфирные ТВ плюс",28.3.8 Известия-Кемерово (Кемерово)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_IZVEST_KEMR/variant.m3u8
+
+# 28.3.9 Известия-Магадан (Магадан)
+#EXTINF:-1 tvg-id="izvestia" group-title="Эфирные ТВ плюс",28.3.9 Известия-Магадан (Магадан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
+
+#-----------------------------
+
+
+
+
 #-------------кнопка 29 - 29.5: Россия К(HD +"орбита")
 
 # 29. Россия К HD — РТРС №6 (HD)
