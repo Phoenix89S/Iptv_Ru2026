@@ -3251,6 +3251,14 @@ http://31.148.48.15/Multimuzika/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="kinohit" tvg-logo="https://iptvx.one/picons/kinohit.png" group-title="Супер Тест",Кинохит
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="gulli-girl" tvg-logo="https://iptvx.one/picons/gulli_girl.png" group-title="Супер Тест",Gulli Girl
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Супер Тест",Euronews
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 
 
 
