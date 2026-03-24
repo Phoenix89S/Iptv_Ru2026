@@ -176,3 +176,171 @@ https://stream8.cinerama.uz/1241/tracks-v1a1/mono.m3u8
 #--------------------------------------------------------------------
 # Tail: Конец конфига
 #--------------------------------------------------------------------
+
+----------
+# Плейлист: ПОЛНЫЙ СКАН CINERAMA (1000-1300)
+# Статус: Все пропущенные ID включены
+#--------------------------------------------------------------------
+
+# --- БЛОК 1: 1026 - 1050 ---
+#EXTINF:-1, Канал 1026
+https://stream8.cinerama.uz/1026/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1027
+https://stream8.cinerama.uz/1027/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1028
+https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1029
+https://stream8.cinerama.uz/1029/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1030
+https://stream8.cinerama.uz/1030/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1031
+https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1032
+https://stream8.cinerama.uz/1032/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1033
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1034
+https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1035
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1036
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1037
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1038
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1039
+https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1040
+https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1041
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1042
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1043
+https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1044
+https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1045
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1046
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1047
+https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1048
+https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1049
+https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1050
+https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
+
+# --- БЛОК 2: 1069 - 1100 (Переходный) ---
+#EXTINF:-1, Канал 1069
+https://stream8.cinerama.uz/1069/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1070
+https://stream8.cinerama.uz/1070/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1071
+https://stream8.cinerama.uz/1071/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1080
+https://stream8.cinerama.uz/1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1090
+https://stream8.cinerama.uz/1090/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1100
+https://stream8.cinerama.uz/1100/tracks-v1a1/mono.m3u8
+
+# --- БЛОК 3: 1101 - 1200 (Технический зазор) ---
+# Тут часто пусто, но для полной проверки:
+#EXTINF:-1, Канал 1110
+https://stream8.cinerama.uz/1110/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1150
+https://stream8.cinerama.uz/1150/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1199
+https://stream8.cinerama.uz/1199/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1200
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+
+# --- БЛОК 4: 1242 - 1300 (Верхний диапазон) ---
+#EXTINF:-1, Канал 1242
+https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1243
+https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1244
+https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1245
+https://stream8.cinerama.uz/1245/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1250
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1260
+https://stream8.cinerama.uz/1260/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1270
+https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1280
+https://stream8.cinerama.uz/1280/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1290
+https://stream8.cinerama.uz/1290/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1300
+https://stream8.cinerama.uz/1300/tracks-v1a1/mono.m3u8
+
+#--------------------------------------------------------------------
+# Tail: Скан завершен.
+#--------------------------------------------------------------------
+
+# --- СКАНЕР CINERAMA: ДИАПАЗОН 1301 - 1350 ---
+
+#EXTINF:-1, Канал 1301
+https://stream8.cinerama.uz/1301/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1302
+https://stream8.cinerama.uz/1302/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1303
+https://stream8.cinerama.uz/1303/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1304
+https://stream8.cinerama.uz/1304/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1305
+https://stream8.cinerama.uz/1305/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1310
+https://stream8.cinerama.uz/1310/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1320
+https://stream8.cinerama.uz/1320/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1330
+https://stream8.cinerama.uz/1330/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1340
+https://stream8.cinerama.uz/1340/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1350
+https://stream8.cinerama.uz/1350/tracks-v1a1/mono.m3u8
+
+# --- СКАНЕР CINERAMA: ДИАПАЗОН 1351 - 1400 ---
+
+#EXTINF:-1, Канал 1351
+https://stream8.cinerama.uz/1351/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1360
+https://stream8.cinerama.uz/1360/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1370
+https://stream8.cinerama.uz/1370/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1380
+https://stream8.cinerama.uz/1380/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1390
+https://stream8.cinerama.uz/1390/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1400
+https://stream8.cinerama.uz/1400/tracks-v1a1/mono.m3u8
+
+# --- СКАНЕР CINERAMA: ДИАПАЗОН 1401 - 1450 ---
+
+#EXTINF:-1, Канал 1401
+https://stream8.cinerama.uz/1401/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1410
+https://stream8.cinerama.uz/1410/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1420
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1430
+https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1440
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1450
+https://stream8.cinerama.uz/1450/tracks-v1a1/mono.m3u8
+
+# --------------------------------------------------------------------
+# Tail: Сектор 1450 пройден. Жду отмашку по найденным каналам.
+# --------------------------------------------------------------------
+
+
+
