@@ -1,4 +1,4 @@
-то#EXTM3U url-tvg="http://epg.one/epg2.xml.gz" catchup="default" catchup-days="16" catchup-source="?start={utc}&duration={duration}" timeshift="120" x-recording="true" x-timeshift="true"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz" catchup="default" catchup-days="16" catchup-source="?start={utc}&duration={duration}" timeshift="120" x-recording="true" x-timeshift="true"
 
 #EXTINF:-1 tvg-id="1_kanal_evraziya" tvg-name="Первый канал Евразия" tvg-logo="https://raw.githubusercontent.com/frol-aleksan/IPTV/master/logo/1_kanal_evraziya.png" group-title="Test evrasia", Первый канал Евразия (Main Galam)
 https://cdn.galamtv.kz/hls/1_kanal_evraziya/index.m3u8
@@ -3338,6 +3338,19 @@ https://stream8.cinerama.uz/1086/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1097/tracks-v1a1/mono.m3u8
 
 
+# --- ГРУППА: ДЕТСКИЕ ТЕСТ ---
+
+# 001. Nickelodeon HD
+#EXTINF:-1 tvg-id="nickelodeon_hd" tvg-logo="https://itv.uz/logos/nick_hd.png" group-title="Детские тест",001. Nickelodeon HD
+https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
+
+# 002. Nick Jr.
+#EXTINF:-1 tvg-id="nick_jr" tvg-logo="https://itv.uz/logos/nickjr.png" group-title="Детские тест",002. Nick Jr.
+https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
+
+# 003. Nicktoons
+#EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://itv.uz/logos/nicktoons.png" group-title="Детские тест",003. Nicktoons
+https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
 
 
 
