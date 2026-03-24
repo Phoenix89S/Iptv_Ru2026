@@ -341,6 +341,58 @@ https://stream8.cinerama.uz/1450/tracks-v1a1/mono.m3u8
 # --------------------------------------------------------------------
 # Tail: Сектор 1450 пройден. Жду отмашку по найденным каналам.
 # --------------------------------------------------------------------
+# --- СКАНЕР CINERAMA: ДИАПАЗОН 1451 - 1500 ---
+
+#EXTINF:-1, Канал 1451
+https://stream8.cinerama.uz/1451/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1452
+https://stream8.cinerama.uz/1452/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1455
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1460
+https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1470
+https://stream8.cinerama.uz/1470/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1480
+https://stream8.cinerama.uz/1480/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1490
+https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1500
+https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
+
+# --- СКАНЕР CINERAMA: ДИАПАЗОН 1501 - 1550 ---
+
+#EXTINF:-1, Канал 1501
+https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1510
+https://stream8.cinerama.uz/1510/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1520
+https://stream8.cinerama.uz/1520/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1530
+https://stream8.cinerama.uz/1530/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1540
+https://stream8.cinerama.uz/1540/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1550
+https://stream8.cinerama.uz/1550/tracks-v1a1/mono.m3u8
+
+# --- СКАНЕР CINERAMA: ДИАПАЗОН 1551 - 1600 ---
+
+#EXTINF:-1, Канал 1551
+https://stream8.cinerama.uz/1551/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1560
+https://stream8.cinerama.uz/1560/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1570
+https://stream8.cinerama.uz/1570/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1580
+https://stream8.cinerama.uz/1580/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1590
+https://stream8.cinerama.uz/1590/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1600
+https://stream8.cinerama.uz/1600/tracks-v1a1/mono.m3u8
+
+# --------------------------------------------------------------------
+# Tail: Сектор 1600 пройден. Жду твой отчет по «улову».
+# --------------------------------------------------------------------
 
 
 
