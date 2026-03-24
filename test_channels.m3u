@@ -1973,52 +1973,84 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 
 #---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 70) ----------------
 
-# --- Сектор 70.0: Кино и Ужасы ---
 
-# 70.0.1 Киноужас
-#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="kinoujas" tvg-logo="https://iptvx.one/picons/kinoujas.png",70.0.1 Киноужас
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUZHAS/variant.m3u8
+# #---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 70) ----------------
 
-# 70.0.2 Киносвидание
-#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="kinosvidanie" tvg-logo="https://iptvx.one/picons/kinosvidanie.png",70.0.2 Киносвидание
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOSVIDANIE/variant.m3u8
+# --- Сектор 70.0: Кино (Cinerama UZ) ---
 
-# 70.0.3 Кинопремьера
-#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="kinopremiera" tvg-logo="https://iptvx.one/picons/kinopremiera.png",70.0.3 Кинопремьера
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIERA/variant.m3u8
+# 70. TV1000 Русское Кино
+#EXTINF:-1 tvg-id="tv1000-rus-kino" tvg-logo="https://iptvx.one/picons/tv1000_rus_kino.png" group-title="Эфирные ТВ плюс",70. TV1000 Русское Кино
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 
-# 70.0.4 Кинохит
-#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="kinohit" tvg-logo="https://iptvx.one/picons/kinohit.png",70.0.4 Кинохит
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHIT/variant.m3u8
+# 70.1 TV1000 ACTION HD
+#EXTINF:-1 tvg-id="tv1000-action-hd" tvg-logo="https://iptvx.one/picons/tv1000_action_hd.png" group-title="Эфирные ТВ плюс",70.1 TV1000 ACTION HD
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 
-# 70.0.5 Киносемья
-#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="kinosemya" tvg-logo="https://iptvx.one/picons/kinosemya.png",70.0.5 Киносемья
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOSEMYA/variant.m3u8
+# 70.2 Кинопоказ
+#EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Эфирные ТВ плюс",70.2 Кинопоказ
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 
-# 70.0.6 Мужское кино
-#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="mujskoekino" tvg-logo="https://iptvx.one/picons/mujskoekino.png",70.0.6 Мужское кино
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUJSKOEKINO/variant.m3u8
+# 70.3 Наше Новое Кино
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://iptvx.one/picons/nashe_novoe_kino.png" group-title="Эфирные ТВ плюс",70.3 Наше Новое Кино
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 
-# 70.0.7 Родное кино
-#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="rodnoekino" tvg-logo="https://iptvx.one/picons/rodnoekino.png",70.0.7 Родное кино
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RODNOEKINO/variant.m3u8
+# 70.4 Родное Кино
+#EXTINF:-1 tvg-id="rodnoe-kino" tvg-logo="https://iptvx.one/picons/rodnoe_kino.png" group-title="Эфирные ТВ плюс",70.4 Родное Кино
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 
-# 70.0.8 Наше новое кино
-#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="nashenovoekino" tvg-logo="https://iptvx.one/picons/nashenovoekino.png",70.0.8 Наше новое кино
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHENOVOEKINO/variant.m3u8
+# 70.5 Кинохит
+#EXTINF:-1 tvg-id="kinohit" tvg-logo="https://iptvx.one/picons/kinohit.png" group-title="Эфирные ТВ плюс",70.5 Кинохит
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 
-# 70.0.9 Мосфильм. Золотая коллекция
-#EXTINF:-1 group-title="Эфирные ТВ плюс" tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png",70.0.9 Мосфильм. Золотая коллекция
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILM/variant.m3u8
+# 70.6 Киносерия
+#EXTINF:-1 tvg-id="kinoseriya" tvg-logo="https://iptvx.one/picons/kinoseriya.png" group-title="Эфирные ТВ плюс",70.6 Киносерия
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+
+# 70.7 Киносемья
+#EXTINF:-1 tvg-id="kinosemya" tvg-logo="https://iptvx.one/picons/kinosemya.png" group-title="Эфирные ТВ плюс",70.7 Киносемья
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+
+# 70.8 Киносвидание
+#EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="Эфирные ТВ плюс",70.8 Киносвидание
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+
+# 70.9 Кинопремьера
+#EXTINF:-1 tvg-id="kinopremiera" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Эфирные ТВ плюс",70.9 Кинопремьера
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+
+# 70.10 Киномикс
+#EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="Эфирные ТВ плюс",70.10 Киномикс
+https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+
+# 70.11 Кинокомедия
+#EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://iptvx.one/picons/kinokomediya.png" group-title="Эфирные ТВ плюс",70.11 Кинокомедия
+https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+
+# 70.12 Индийское Кино
+#EXTINF:-1 tvg-id="indiiskoe-kino" tvg-logo="https://iptvx.one/picons/indiiskoe_kino.png" group-title="Эфирные ТВ плюс",70.12 Индийское Кино
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+
+# 70.13 Киноужас
+#EXTINF:-1 tvg-id="kinouzhastv" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="Эфирные ТВ плюс",70.13 Киноужас
+https://stream8.cinerama.uz/1206/tracks-v1a1/mono.m3u8
+
+# 70.14 НСТ (Настоящее Страшное Телевидение)
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Эфирные ТВ плюс",70.14 НСТ
+https://stream8.cinerama.uz/1056/tracks-v1a1/mono.m3u8
+
+# 70.15 Scream
+#EXTINF:-1 tvg-id="scream" tvg-logo="https://iptvx.one/picons/scream.png" group-title="Эфирные ТВ плюс",70.15 Scream
+https://stream8.cinerama.uz/1241/tracks-v1a1/mono.m3u8
+
+# 70.16 Страшное HD
+#EXTINF:-1 tvg-id="strashnoe-hd" tvg-logo="https://iptvx.one/picons/strashnoe_hd.png" group-title="Эфирные ТВ плюс",70.16 Страшное HD
+https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+
+# 70.17 Шокирующее
+#EXTINF:-1 tvg-id="shokiruyushee" tvg-logo="https://iptvx.one/picons/shokiruushee.png" group-title="Эфирные ТВ плюс",70.17 Шокирующее
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+
+# --------------------------------------------------------------------
 
 #
 # --------------------------------------------------------------------
