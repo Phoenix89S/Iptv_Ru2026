@@ -464,4 +464,103 @@ https://stream8.cinerama.uz/1600/tracks-v1a1/mono.m3u8
 # --------------------------------------------------------------------
 
 
+# --- ТЕСТОВЫЙ ДИАПАЗОН: ПОИСК FAN (1122-1131) ---
+
+#EXTINF:-1, [TEST] 1122
+https://stream8.cinerama.uz/1122/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1123
+https://stream8.cinerama.uz/1123/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1124
+https://stream8.cinerama.uz/1124/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1125
+https://stream8.cinerama.uz/1125/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1126
+https://stream8.cinerama.uz/1126/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1127
+https://stream8.cinerama.uz/1127/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1128
+https://stream8.cinerama.uz/1128/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1129
+https://stream8.cinerama.uz/1129/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1130
+https://stream8.cinerama.uz/1130/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1131
+https://stream8.cinerama.uz/1131/tracks-v1a1/mono.m3u8
+
+# --- ПОИСК FAN В ВЫСОКОМ ДИАПАЗОНЕ (1500-1510) ---
+
+#EXTINF:-1, [TEST] 1500
+https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1501
+https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1502
+https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1503
+https://stream8.cinerama.uz/1503/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1504
+https://stream8.cinerama.uz/1504/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1505
+https://stream8.cinerama.uz/1505/tracks-v1a1/mono.m3u8
+
+# --- СЕКТОР 1500+: В ПОИСКАХ FAN ---
+
+#EXTINF:-1, [TEST] 1500
+https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1505
+https://stream8.cinerama.uz/1505/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1510
+https://stream8.cinerama.uz/1510/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1521
+https://stream8.cinerama.uz/1521/tracks-v1a1/mono.m3u8
+
+
+# --- МОНГОЛЬСКИЙ СЕРВЕР (SkyGo MN) ---
+
+# Прямая проверка на FAN (если он у них в сетке)
+#EXTINF:-1, FAN (Mongolia Feed?)
+https://cdn4.skygo.mn/live/disk1/FAN/HLSv3-FTA/FAN.m3u8
+
+# Проверка на аниме-соседей (Ani или подобное)
+#EXTINF:-1, ANI (Mongolia Feed)
+https://cdn4.skygo.mn/live/disk1/Ani/HLSv3-FTA/Ani.m3u8
+
+# Резервный блок (часто там же)
+#EXTINF:-1, WAKU WAKU JAPAN (Аниме/Дорамы)
+https://cdn4.skygo.mn/live/disk1/WakuWaku_Japan/HLSv3-FTA/WakuWaku_Japan.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
