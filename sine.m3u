@@ -4,6 +4,75 @@
 # Версия: 3.0 (Cinerama/ITV/Wink Hybrid)
 #--------------------------------------------------------------------
 
+
+# --- СКАНЕР CINERAMA: ДИАПАЗОН 800 - 850 ---
+
+#EXTINF:-1, Канал 800
+https://stream8.cinerama.uz/800/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 810
+https://stream8.cinerama.uz/810/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 820
+https://stream8.cinerama.uz/820/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 830
+https://stream8.cinerama.uz/830/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 840
+https://stream8.cinerama.uz/840/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 850
+https://stream8.cinerama.uz/850/tracks-v1a1/mono.m3u8
+
+# --- СКАНЕР CINERAMA: ДИАПАЗОН 851 - 900 ---
+
+#EXTINF:-1, Канал 851
+https://stream8.cinerama.uz/851/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 860
+https://stream8.cinerama.uz/860/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 870
+https://stream8.cinerama.uz/870/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 880
+https://stream8.cinerama.uz/880/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 890
+https://stream8.cinerama.uz/890/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 900
+https://stream8.cinerama.uz/900/tracks-v1a1/mono.m3u8
+
+# --- СКАНЕР CINERAMA: ДИАПАЗОН 901 - 950 ---
+
+#EXTINF:-1, Канал 901
+https://stream8.cinerama.uz/901/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 910
+https://stream8.cinerama.uz/910/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 920
+https://stream8.cinerama.uz/920/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 930
+https://stream8.cinerama.uz/930/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 940
+https://stream8.cinerama.uz/940/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 950
+https://stream8.cinerama.uz/950/tracks-v1a1/mono.m3u8
+
+# --- СКАНЕР CINERAMA: ДИАПАЗОН 951 - 1000 ---
+
+#EXTINF:-1, Канал 951
+https://stream8.cinerama.uz/951/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 960
+https://stream8.cinerama.uz/960/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 970
+https://stream8.cinerama.uz/970/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 980
+https://stream8.cinerama.uz/980/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 990
+https://stream8.cinerama.uz/990/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Канал 1000
+https://stream8.cinerama.uz/1000/tracks-v1a1/mono.m3u8
+
+# --------------------------------------------------------------------
+# Tail: Глубинное сканирование (800-1000) завершено.
+# --------------------------------------------------------------------
+
+
+
+
+
 #EXTINF:-1, Канал 1001
 https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Канал 1002
