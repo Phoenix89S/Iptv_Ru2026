@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz" catchup="default" catchup-days="16" catchup-source="?start={utc}&duration={duration}" timeshift="120" x-recording="true" x-timeshift="true"
+то#EXTM3U url-tvg="http://epg.one/epg2.xml.gz" catchup="default" catchup-days="16" catchup-source="?start={utc}&duration={duration}" timeshift="120" x-recording="true" x-timeshift="true"
 
 #EXTINF:-1 tvg-id="1_kanal_evraziya" tvg-name="Первый канал Евразия" tvg-logo="https://raw.githubusercontent.com/frol-aleksan/IPTV/master/logo/1_kanal_evraziya.png" group-title="Test evrasia", Первый канал Евразия (Main Galam)
 https://cdn.galamtv.kz/hls/1_kanal_evraziya/index.m3u8
