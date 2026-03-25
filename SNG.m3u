@@ -67,3 +67,78 @@ https://cdn.sinerama.uz/hls/trash/index.m3u8
 https://cdn.sinerama.uz/hls/scream/index.m3u8
 
 # --------------------------------------------------------------------
+
+
+#---------------- ГРУППА: АРМЕНИЯ - ПОЛНЫЙ ПАКЕТ ----------------
+
+# --- СЕКТОР 1: Ucom (Media Room / uTV) ---
+# Самые стабильные HD-потоки в регионе.
+# 01. НСТ (Ucom)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="7" group-title="AM-Ucom",01. НСТ (Ucom)
+#EXTVLCOPT:http-user-agent=Ucom-OTT-Armenia
+http://live.ucom.am/nst/playlist.m3u8
+
+# 02. Киноужас HD (Ucom)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="7" group-title="AM-Ucom",02. Киноужас HD (Ucom)
+#EXTVLCOPT:http-user-agent=Ucom-OTT-Armenia
+http://live.ucom.am/kinouzas/playlist.m3u8
+
+# 03. Trash (Ucom)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="7" group-title="AM-Ucom",03. Trash (Ucom)
+#EXTVLCOPT:http-user-agent=Ucom-OTT-Armenia
+http://live.ucom.am/trash/playlist.m3u8
+
+# 04. Scream (Ucom)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="7" group-title="AM-Ucom",04. Scream (Ucom)
+#EXTVLCOPT:http-user-agent=Ucom-OTT-Armenia
+http://live.ucom.am/scream/playlist.m3u8
+
+
+# --- СЕКТОР 2: Gals.am (Галактика ТВ) ---
+# Часто транслируют потоки без жестких токенов.
+# 05. НСТ (Gals)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="5" group-title="AM-Gals",05. НСТ (Gals)
+#EXTVLCOPT:http-user-agent=Gals-TV-Box
+http://81.16.0.211:8000/play/nst/index.m3u8
+
+# 06. Киноужас HD (Gals)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="5" group-title="AM-Gals",06. Киноужас HD (Gals)
+#EXTVLCOPT:http-user-agent=Gals-TV-Box
+http://81.16.0.211:8000/play/kinouzas/index.m3u8
+
+# 07. Trash (Gals)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="5" group-title="AM-Gals",07. Trash (Gals)
+#EXTVLCOPT:http-user-agent=Gals-TV-Box
+http://81.16.0.211:8000/play/trash/index.m3u8
+
+# 08. Scream (Gals)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="5" group-title="AM-Gals",08. Scream (Gals)
+#EXTVLCOPT:http-user-agent=Gals-TV-Box
+http://81.16.0.211:8000/play/scream/index.m3u8
+
+
+# --- СЕКТОР 3: Fnet.am (F-TV) ---
+# Используют современные CDN-узлы.
+# 09. НСТ (Fnet)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="3" group-title="AM-Fnet",09. НСТ (Fnet)
+#EXTVLCOPT:http-user-agent=Fnet-OTT-Player
+http://212.115.244.130:8000/nst/index.m3u8
+
+# 10. Киноужас HD (Fnet)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="3" group-title="AM-Fnet",10. Киноужас HD (Fnet)
+#EXTVLCOPT:http-user-agent=Fnet-OTT-Player
+http://212.115.244.130:8000/kinouzas/index.m3u8
+
+# 11. Trash (Fnet)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="3" group-title="AM-Fnet",11. Trash (Fnet)
+#EXTVLCOPT:http-user-agent=Fnet-OTT-Player
+http://212.115.244.130:8000/trash/index.m3u8
+
+# 12. Scream (Fnet)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="3" group-title="AM-Fnet",12. Scream (Fnet)
+#EXTVLCOPT:http-user-agent=Fnet-OTT-Player
+http://212.115.244.130:8000/scream/index.m3u8
+
+# --------------------------------------------------------------------
+
+
