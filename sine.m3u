@@ -721,6 +721,32 @@ https://stream8.cinerama.uz/1580/tracks-v1a1/mono.m3u8
 
 
 
+# 70.1 НСТ (Основной)
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Хоррор и Трэш",70.1 НСТ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NST/variant.m3u8
+
+# 70.1.1 НСТ (Резерв Kineskop)
+#EXTINF:-1 tvg-id="nst" group-title="Хоррор и Трэш",70.1.1 НСТ (Резерв)
+http://stream.kineskop.tv:8080/live/nst/playlist.m3u8
+
+# 70.2 Киноужас HD
+#EXTINF:-1 tvg-id="kinouzas" tvg-logo="https://iptvx.one/picons/kinouzas.png" group-title="Хоррор и Трэш",70.2 Киноужас HD
+http://45.136.204.18:8081/kinouzas/index.m3u8
+
+# 70.3 Scream (Horror Factory)
+#EXTINF:-1 tvg-id="scream" group-title="Хоррор и Трэш",70.3 Scream
+https://b1570a6919f94bcfa2f061daee64c70f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_ScreamFactoryTV/playlist.m3u8
+
+# 70.4 Trash (Трэш)
+#EXTINF:-1 tvg-id="trash" group-title="Хоррор и Трэш",70.4 Trash
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77
+http://185.156.173.136:80/trash/index.m3u8
+
+#
+# --------------------------------------------------------------------
+# 
+# КОНЕЦ СЕКЦИИ ХОРРОР
 
 
 
