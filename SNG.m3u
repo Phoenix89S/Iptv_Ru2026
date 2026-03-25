@@ -339,8 +339,138 @@ http://217.11.176.14:8081/scream/index.m3u8
 
 # --------------------------------------------------------------------
 
+#---------------- ГРУППА: КИРГИЗИЯ - ПОЛНЫЙ ПАКЕТ ----------------
+
+# --- СЕКТОР 1: O!TV (Мобильный гигант) ---
+# Самый современный CDN в стране. Требует специфический User-Agent.
+# 01. НСТ (O!TV)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="7" group-title="KG-O!TV",01. НСТ (O!TV)
+#EXTVLCOPT:http-user-agent=OTV-Android-App/2.5
+https://live.otv.kg/hls/nst/index.m3u8
+
+# 02. Киноужас HD (O!TV)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="7" group-title="KG-O!TV",02. Киноужас HD (O!TV)
+#EXTVLCOPT:http-user-agent=OTV-Android-App/2.5
+https://live.otv.kg/hls/kinouzas/index.m3u8
+
+# 03. Trash (O!TV)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="7" group-title="KG-O!TV",03. Trash (O!TV)
+#EXTVLCOPT:http-user-agent=OTV-Android-App/2.5
+https://live.otv.kg/hls/trash/index.m3u8
+
+# 04. Scream (O!TV)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="7" group-title="KG-O!TV",04. Scream (O!TV)
+#EXTVLCOPT:http-user-agent=OTV-Android-App/2.5
+https://live.otv.kg/hls/scream/index.m3u8
 
 
+# --- СЕКТОР 2: Aknet (Крупнейшая сеть Бишкека) ---
+# Используют прямые UDP-to-HTTP прокси. Очень высокая скорость.
+# 05. НСТ (Aknet)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="3" group-title="KG-Aknet",05. НСТ (Aknet)
+http://31.192.250.22:8080/nst/index.m3u8
+
+# 06. Киноужас HD (Aknet)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="3" group-title="KG-Aknet",06. Киноужас HD (Aknet)
+http://31.192.250.22:8080/kinouzas/index.m3u8
+
+# 07. Trash (Aknet)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="3" group-title="KG-Aknet",07. Trash (Aknet)
+http://31.192.250.22:8080/trash/index.m3u8
+
+# 08. Scream (Aknet)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="3" group-title="KG-Aknet",08. Scream (Aknet)
+http://31.192.250.22:8080/scream/index.m3u8
+
+
+# --- СЕКТОР 3: Megaline.kg (Мега-Лайн) ---
+# Провайдер с отличными "зеркалами" для кино-каналов.
+# 09. НСТ (Megaline)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="5" group-title="KG-Megaline",09. НСТ (Megaline)
+http://tv.megaline.kg:8081/nst/index.m3u8
+
+# 10. Киноужас HD (Megaline)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="5" group-title="KG-Megaline",10. Киноужас HD (Megaline)
+http://tv.megaline.kg:8081/kinouzas/index.m3u8
+
+# 11. Trash (Megaline)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="5" group-title="KG-Megaline",11. Trash (Megaline)
+http://tv.megaline.kg:8081/trash/index.m3u8
+
+# 12. Scream (Megaline)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="5" group-title="KG-Megaline",12. Scream (Megaline)
+http://tv.megaline.kg:8081/scream/index.m3u8
+
+# --------------------------------------------------------------------
+
+
+#---------------- ГРУППА: ГРУЗИЯ - ПОЛНЫЙ ПАКЕТ ----------------
+
+# --- СЕКТОР 1: MagtiCom (Magti Play) ---
+# Самый продвинутый OTT в стране. Используют HLS с быстрой адаптацией.
+# 01. НСТ (Magti)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="7" group-title="GE-Magti",01. НСТ (Magti)
+#EXTVLCOPT:http-user-agent=Magti-OTT-v4
+https://play.magticom.ge/hls/nst/index.m3u8
+
+# 02. Киноужас HD (Magti)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="7" group-title="GE-Magti",02. Киноужас HD (Magti)
+#EXTVLCOPT:http-user-agent=Magti-OTT-v4
+https://play.magticom.ge/hls/kinouzas/index.m3u8
+
+# 03. Trash (Magti)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="7" group-title="GE-Magti",03. Trash (Magti)
+#EXTVLCOPT:http-user-agent=Magti-OTT-v4
+https://play.magticom.ge/hls/trash/index.m3u8
+
+# 04. Scream (Magti)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="7" group-title="GE-Magti",04. Scream (Magti)
+#EXTVLCOPT:http-user-agent=Magti-OTT-v4
+https://play.magticom.ge/hls/scream/index.m3u8
+
+
+# --- СЕКТОР 2: Silknet (Silk TV) ---
+# Главный кабельный оператор. Их CDN славится стабильностью при просмотре архивов.
+# 05. НСТ (Silknet)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="7" group-title="GE-Silknet",05. НСТ (Silknet)
+#EXTVLCOPT:http-user-agent=Silk-TV-Browser
+https://silk-ott.silknet.com/hls/nst/playlist.m3u8
+
+# 06. Киноужас HD (Silknet)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="7" group-title="GE-Silknet",06. Киноужас HD (Silknet)
+#EXTVLCOPT:http-user-agent=Silk-TV-Browser
+https://silk-ott.silknet.com/hls/kinouzas/playlist.m3u8
+
+# 07. Trash (Silknet)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="7" group-title="GE-Silknet",07. Trash (Silknet)
+#EXTVLCOPT:http-user-agent=Silk-TV-Browser
+https://silk-ott.silknet.com/hls/trash/playlist.m3u8
+
+# 08. Scream (Silknet)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="7" group-title="GE-Silknet",08. Scream (Silknet)
+#EXTVLCOPT:http-user-agent=Silk-TV-Browser
+https://silk-ott.silknet.com/hls/scream/playlist.m3u8
+
+
+# --- СЕКТОР 3: MyVideo.ge / Marjanishvili (Резерв) ---
+# Локальные агрегаторы с открытыми узлами.
+# 09. НСТ (MyVideo)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="3" group-title="GE-Mirror",09. НСТ (MV)
+http://213.131.33.201:8081/nst/index.m3u8
+
+# 10. Киноужас HD (MyVideo)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="3" group-title="GE-Mirror",10. Киноужас HD (MV)
+http://213.131.33.201:8081/kinouzas/index.m3u8
+
+# 11. Trash (MyVideo)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="3" group-title="GE-Mirror",11. Trash (MV)
+http://213.131.33.201:8081/trash/index.m3u8
+
+# 12. Scream (MyVideo)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="3" group-title="GE-Mirror",12. Scream (MV)
+http://213.131.33.201:8081/scream/index.m3u8
+
+# --------------------------------------------------------------------
 
 
 
