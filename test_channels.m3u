@@ -2327,7 +2327,7 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwO
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 
 # 1.1 Nickelodeon HD
-#EXTINF:-1 tvg-id="nickelodeon-hd" tvg-logo="https://itv.uz/logos/nick_hd.png" group-title="Детские расширенные",1.1 Nickelodeon HD
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://itv.uz/logos/nick_hd.png" group-title="Детские расширенные",1.1 Nickelodeon HD
 https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
 
 # 1.2 Nick Jr.
