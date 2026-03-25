@@ -271,5 +271,88 @@ http://202.131.225.141:8081/scream/index.m3u8
 
 # --------------------------------------------------------------------
 
+#---------------- ГРУППА: ТАДЖИКИСТАН - ПОЛНЫЙ ПАКЕТ ----------------
+
+# --- СЕКТОР 1: Tamosho.tj (Медиа-хаб) ---
+# Современная платформа, использует HLS-потоки с быстрой буферизацией.
+# 01. НСТ (Tamosho)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="7" group-title="TJ-Tamosho",01. НСТ (Tamosho)
+#EXTVLCOPT:http-user-agent=Tamosho-TV-Box
+https://stream.tamosho.tj/hls/nst/index.m3u8
+
+# 02. Киноужас HD (Tamosho)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="7" group-title="TJ-Tamosho",02. Киноужас HD (Tamosho)
+#EXTVLCOPT:http-user-agent=Tamosho-TV-Box
+https://stream.tamosho.tj/hls/kinouzas/index.m3u8
+
+# 03. Trash (Tamosho)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="7" group-title="TJ-Tamosho",03. Trash (Tamosho)
+#EXTVLCOPT:http-user-agent=Tamosho-TV-Box
+https://stream.tamosho.tj/hls/trash/index.m3u8
+
+# 04. Scream (Tamosho)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="7" group-title="TJ-Tamosho",04. Scream (Tamosho)
+#EXTVLCOPT:http-user-agent=Tamosho-TV-Box
+https://stream.tamosho.tj/hls/scream/index.m3u8
+
+
+# --- СЕКТОР 2: Megafon.tj (Life TV) ---
+# Один из самых стабильных CDN в Таджикистане. Пул IP: 217.11.x.x
+# 05. НСТ (Megafon)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="7" group-title="TJ-Megafon",05. НСТ (Megafon)
+#EXTVLCOPT:http-user-agent=Megafon-TV-App
+https://tv.megafon.tj/hls/nst/variant.m3u8
+
+# 06. Киноужас HD (Megafon)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="7" group-title="TJ-Megafon",06. Киноужас HD (Megafon)
+#EXTVLCOPT:http-user-agent=Megafon-TV-App
+https://tv.megafon.tj/hls/kinouzas/variant.m3u8
+
+# 07. Trash (Megafon)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="7" group-title="TJ-Megafon",07. Trash (Megafon)
+#EXTVLCOPT:http-user-agent=Megafon-TV-App
+https://tv.megafon.tj/hls/trash/variant.m3u8
+
+# 08. Scream (Megafon)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="7" group-title="TJ-Megafon",08. Scream (Megafon)
+#EXTVLCOPT:http-user-agent=Megafon-TV-App
+https://tv.megafon.tj/hls/scream/variant.m3u8
+
+
+# --- СЕКТОР 3: Babylon-T / TTL (Резерв) ---
+# Локальные провайдеры Душанбе.
+# 09. НСТ (Babylon)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="3" group-title="TJ-Babylon",09. НСТ (Babylon)
+http://217.11.176.14:8081/nst/index.m3u8
+
+# 10. Киноужас HD (Babylon)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="3" group-title="TJ-Babylon",10. Киноужас HD (Babylon)
+http://217.11.176.14:8081/kinouzas/index.m3u8
+
+# 11. Trash (Babylon)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="3" group-title="TJ-Babylon",11. Trash (Babylon)
+http://217.11.176.14:8081/trash/index.m3u8
+
+# 12. Scream (Babylon)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="3" group-title="TJ-Babylon",12. Scream (Babylon)
+http://217.11.176.14:8081/scream/index.m3u8
+
+# --------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
