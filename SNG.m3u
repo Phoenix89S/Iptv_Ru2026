@@ -141,4 +141,72 @@ http://212.115.244.130:8000/scream/index.m3u8
 
 # --------------------------------------------------------------------
 
+#---------------- ГРУППА: КАЗАХСТАН - ПОЛНЫЙ ПАКЕТ ----------------
+
+# --- СЕКТОР 1: BeeTV.kz (Beeline Kazakhstan) ---
+# Идеально для Трэша и Ужасов. Требуют строгий Referer.
+# 01. НСТ (BeeTV)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="7" group-title="KZ-BeeTV",01. НСТ (BeeTV)
+#EXTVLCOPT:http-referrer=https://beetv.kz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live-beetv.cdn.kz/hls/nst/index.m3u8
+
+# 02. Киноужас HD (BeeTV)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="7" group-title="KZ-BeeTV",02. Киноужас HD (BeeTV)
+#EXTVLCOPT:http-referrer=https://beetv.kz/
+https://live-beetv.cdn.kz/hls/kinouzas/index.m3u8
+
+# 03. Trash (BeeTV)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="7" group-title="KZ-BeeTV",03. Trash (BeeTV)
+#EXTVLCOPT:http-referrer=https://beetv.kz/
+https://live-beetv.cdn.kz/hls/trash/index.m3u8
+
+# 04. Scream (BeeTV)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="7" group-title="KZ-BeeTV",04. Scream (BeeTV)
+#EXTVLCOPT:http-referrer=https://beetv.kz/
+https://live-beetv.cdn.kz/hls/scream/index.m3u8
+
+
+# --- СЕКТОР 2: TV+ (Kazakhtelecom) ---
+# Самый стабильный архив в Казахстане. Пул IP: 95.56.x.x / 95.59.x.x
+# 05. НСТ (TV+)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="7" group-title="KZ-Telecom",05. НСТ (TV+)
+#EXTVLCOPT:http-user-agent=Kazakhtelecom-TV-Plus
+https://tvplus.kz/hls/nst/variant.m3u8
+
+# 06. Киноужас HD (TV+)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="7" group-title="KZ-Telecom",06. Киноужас HD (TV+)
+#EXTVLCOPT:http-user-agent=Kazakhtelecom-TV-Plus
+https://tvplus.kz/hls/kinouzas/variant.m3u8
+
+# 07. Trash (TV+)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="7" group-title="KZ-Telecom",07. Trash (TV+)
+#EXTVLCOPT:http-user-agent=Kazakhtelecom-TV-Plus
+https://tvplus.kz/hls/trash/variant.m3u8
+
+# 08. Scream (TV+)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="7" group-title="KZ-Telecom",08. Scream (TV+)
+#EXTVLCOPT:http-user-agent=Kazakhtelecom-TV-Plus
+https://tvplus.kz/hls/scream/variant.m3u8
+
+
+# --- СЕКТОР 3: Alma TV / G-Music (Резерв) ---
+# 09. НСТ (Alma)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="3" group-title="KZ-Alma",09. НСТ (Alma)
+http://88.204.189.146:8081/nst/index.m3u8
+
+# 10. Киноужас HD (Alma)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="3" group-title="KZ-Alma",10. Киноужас HD (Alma)
+http://88.204.189.146:8081/kinouzas/index.m3u8
+
+# 11. Trash (Alma)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="3" group-title="KZ-Alma",11. Trash (Alma)
+http://88.204.189.146:8081/trash/index.m3u8
+
+# 12. Scream (Alma)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="3" group-title="KZ-Alma",12. Scream (Alma)
+http://88.204.189.146:8081/scream/index.m3u8
+
+# --------------------------------------------------------------------
+
 
