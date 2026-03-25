@@ -6,6 +6,34 @@
 #проверка----
 
 
+#---------------- ГРУППА: ХОРРОР И ТРЭШ ----------------
+
+# --- Сектор 70: Ужасы ---
+# 70.1 НСТ (Zabava/Wink)
+#EXTINF:-1 tvg-id="nst" group-title="Хоррор и Трэш",70.1 НСТ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NST/variant.m3u8
+
+# 70.2 Киноужас HD
+#EXTINF:-1 tvg-id="kinouzas" group-title="Хоррор и Трэш",70.2 Киноужас HD
+http://212.86.228.87:5027/udp/239.1.0.105:1234
+
+# 70.3 Scream
+#EXTINF:-1 tvg-id="scream" group-title="Хоррор и Трэш",70.3 Scream
+http://185.156.173.136/scream/index.m3u8
+
+# 70.4 Trash
+#EXTINF:-1 tvg-id="trash" group-title="Хоррор и Трэш",70.4 Trash
+http://185.156.173.136/trash/index.m3u8
+
+#
+# --------------------------------------------------------------------
+#
+# КОНЕЦ КОНФИГА (Tail)
+# --------------------------------------------------------------------
+
+
+
 # --- ITV.UZ: ТЕСТОВЫЙ ПОЛИГОН (ЗАГЛУШКИ) ---
 
 # 01. Тест (Еда?)
