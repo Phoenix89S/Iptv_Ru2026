@@ -545,6 +545,34 @@ https://cdn4.skygo.mn/live/disk1/Ani/HLSv3-FTA/Ani.m3u8
 #EXTINF:-1, WAKU WAKU JAPAN (Аниме/Дорамы)
 https://cdn4.skygo.mn/live/disk1/WakuWaku_Japan/HLSv3-FTA/WakuWaku_Japan.m3u8
 
+# --- БЛОК 1: СРАЗУ ПОСЛЕ NICKELODEON (1522-1535) ---
+#EXTINF:-1, [TEST] 1522
+https://stream8.cinerama.uz/1522/tracks-v1a1/mono.m3u8
+#EXTINF:-1, [TEST] 1523
+https://stream8.cinerama.uz/1523/tracks-v1a1/mono.m3u8
+#EXTINF:-1, [TEST] 1525
+https://stream8.cinerama.uz/1525/tracks-v1a1/mono.m3u8
+#EXTINF:-1, [TEST] 1530
+https://stream8.cinerama.uz/1530/tracks-v1a1/mono.m3u8
+
+# --- БЛОК 2: СЕРЕДИНА (1540-1555) ---
+#EXTINF:-1, [TEST] 1540
+https://stream8.cinerama.uz/1540/tracks-v1a1/mono.m3u8
+#EXTINF:-1, [TEST] 1545
+https://stream8.cinerama.uz/1545/tracks-v1a1/mono.m3u8
+#EXTINF:-1, [TEST] 1550
+https://stream8.cinerama.uz/1550/tracks-v1a1/mono.m3u8
+#EXTINF:-1, [TEST] 1555
+https://stream8.cinerama.uz/1555/tracks-v1a1/mono.m3u8
+
+# --- БЛОК 3: ПРЕД-ШТОРМОВОЙ (1560-1570) ---
+#EXTINF:-1, [TEST] 1560
+https://stream8.cinerama.uz/1560/tracks-v1a1/mono.m3u8
+#EXTINF:-1, [TEST] 1565
+https://stream8.cinerama.uz/1565/tracks-v1a1/mono.m3u8
+#EXTINF:-1, [TEST] 1570
+https://stream8.cinerama.uz/1570/tracks-v1a1/mono.m3u8
+
 
 # --- ПОИСК В ГЛУБОКОМ СЕКТОРЕ (1570-1580) ---
 
