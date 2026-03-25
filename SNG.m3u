@@ -210,3 +210,66 @@ http://88.204.189.146:8081/scream/index.m3u8
 # --------------------------------------------------------------------
 
 
+#---------------- ГРУППА: МОНГОЛИЯ - ПОЛНЫЙ ПАКЕТ ----------------
+
+# --- СЕКТОР 1: VOO.mn (Mobicom OTT) ---
+# Современная платформа, часто транслируют Scream Factory и зарубежные хорроры.
+# 01. Scream Factory TV (VOO)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="7" group-title="MN-VOO",01. Scream Factory (VOO)
+#EXTVLCOPT:http-user-agent=VOO-OTT-Player/1.0
+https://d2evy9as66yovj.cloudfront.net/out/v1/scream_factory/index.m3u8
+
+# 02. Киноужас HD (VOO Mirror)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="7" group-title="MN-VOO",02. Киноужас HD (VOO)
+https://d2evy9as66yovj.cloudfront.net/out/v1/kinouzas/index.m3u8
+
+# 03. НСТ (VOO Mirror)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="7" group-title="MN-VOO",03. НСТ (VOO)
+https://d2evy9as66yovj.cloudfront.net/out/v1/nst/index.m3u8
+
+# 04. Trash (VOO Mirror)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="7" group-title="MN-VOO",04. Trash (VOO)
+https://d2evy9as66yovj.cloudfront.net/out/v1/trash/index.m3u8
+
+
+# --- СЕКТОР 2: LookTV.mn (Unitel OTT) ---
+# Прямой конкурент VOO. Очень стабильные CDN-узлы.
+# 05. НСТ (LookTV)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="7" group-title="MN-LookTV",05. НСТ (LookTV)
+#EXTVLCOPT:http-user-agent=LookTV-App-v3
+https://cdn-ott.unitel.mn/live/nst/playlist.m3u8
+
+# 06. Киноужас HD (LookTV)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="7" group-title="MN-LookTV",06. Киноужас HD (LookTV)
+https://cdn-ott.unitel.mn/live/kinouzas/playlist.m3u8
+
+# 07. Trash (LookTV)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="7" group-title="MN-LookTV",07. Trash (LookTV)
+https://cdn-ott.unitel.mn/live/trash/playlist.m3u8
+
+# 08. Scream (LookTV)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="7" group-title="MN-LookTV",08. Scream (LookTV)
+https://cdn-ott.unitel.mn/live/scream/playlist.m3u8
+
+
+# --- СЕКТОР 3: Univision / ORI.mn (Резерв) ---
+# 09. НСТ (Univision)
+#EXTINF:-1 tvg-id="nst" catchup="default" catchup-days="3" group-title="MN-Univision",09. НСТ (Univision)
+http://202.131.225.141:8081/nst/index.m3u8
+
+# 10. Киноужас HD (Univision)
+#EXTINF:-1 tvg-id="kinouzas" catchup="default" catchup-days="3" group-title="MN-Univision",10. Киноужас HD (Univision)
+http://202.131.225.141:8081/kinouzas/index.m3u8
+
+# 11. Trash (Univision)
+#EXTINF:-1 tvg-id="trash" catchup="default" catchup-days="3" group-title="MN-Univision",11. Trash (Univision)
+http://202.131.225.141:8081/trash/index.m3u8
+
+# 12. Scream (Univision)
+#EXTINF:-1 tvg-id="scream" catchup="default" catchup-days="3" group-title="MN-Univision",12. Scream (Univision)
+http://202.131.225.141:8081/scream/index.m3u8
+
+# --------------------------------------------------------------------
+
+
+
