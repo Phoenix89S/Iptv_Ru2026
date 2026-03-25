@@ -1,0 +1,69 @@
+#EXTM3U x-tvg-url="http://www.teleguide.info/download/new3/jtv.zip,https://itv.uz/epg/export.xml" cache=3600 deinterlace=1 catchup="append" catchup-days="7" catchup-source="?utc=${start}&lutc=${timestamp}"
+
+
+
+
+#---------------- ГРУППА: УЗБЕКИСТАН - ПОЛНЫЙ ПАКЕТ ----------------
+
+# --- СЕКТОР 1: iTV.uz (Магистральный узел) ---
+# 01. НСТ (iTV)
+#EXTINF:-1 tvg-id="nst" group-title="UZ-iTV",01. НСТ
+#EXTVLCOPT:http-user-agent=iTV-UZ-Player
+https://api.itv.uz/hls/nst/index.m3u8
+
+# 02. Киноужас HD (iTV)
+#EXTINF:-1 tvg-id="kinouzas" group-title="UZ-iTV",02. Киноужас HD
+#EXTVLCOPT:http-user-agent=iTV-UZ-Player
+https://api.itv.uz/hls/kinouzas/index.m3u8
+
+# 03. Trash (iTV)
+#EXTINF:-1 tvg-id="trash" group-title="UZ-iTV",03. Trash
+#EXTVLCOPT:http-user-agent=iTV-UZ-Player
+https://api.itv.uz/hls/trash/index.m3u8
+
+# 04. Scream (iTV)
+#EXTINF:-1 tvg-id="scream" group-title="UZ-iTV",04. Scream
+#EXTVLCOPT:http-user-agent=iTV-UZ-Player
+https://api.itv.uz/hls/scream/index.m3u8
+
+
+# --- СЕКТОР 2: Allplay.uz (Агрегатор) ---
+# 05. НСТ (Allplay)
+#EXTINF:-1 tvg-id="nst" group-title="UZ-Allplay",05. НСТ
+http://cdn.allplay.uz/hls/nst/index.m3u8
+
+# 06. Киноужас HD (Allplay)
+#EXTINF:-1 tvg-id="kinouzas" group-title="UZ-Allplay",06. Киноужас HD
+http://cdn.allplay.uz/hls/kinouzas/index.m3u8
+
+# 07. Trash (Allplay)
+#EXTINF:-1 tvg-id="trash" group-title="UZ-Allplay",07. Trash
+http://cdn.allplay.uz/hls/trash/index.m3u8
+
+# 08. Scream (Allplay)
+#EXTINF:-1 tvg-id="scream" group-title="UZ-Allplay",08. Scream
+http://cdn.allplay.uz/hls/scream/index.m3u8
+
+
+# --- СЕКТОР 3: Sinerama (Кино-хаб) ---
+# 09. НСТ (Sinerama)
+#EXTINF:-1 tvg-id="nst" group-title="UZ-Sinerama",09. НСТ
+#EXTVLCOPT:http-user-agent=Sinerama-App-v2
+https://cdn.sinerama.uz/hls/nst/index.m3u8
+
+# 10. Киноужас HD (Sinerama)
+#EXTINF:-1 tvg-id="kinouzas" group-title="UZ-Sinerama",10. Киноужас HD
+#EXTVLCOPT:http-user-agent=Sinerama-App-v2
+https://cdn.sinerama.uz/hls/kinouzas/index.m3u8
+
+# 11. Trash (Sinerama)
+#EXTINF:-1 tvg-id="trash" group-title="UZ-Sinerama",11. Trash
+#EXTVLCOPT:http-user-agent=Sinerama-App-v2
+https://cdn.sinerama.uz/hls/trash/index.m3u8
+
+# 12. Scream (Sinerama)
+#EXTINF:-1 tvg-id="scream" group-title="UZ-Sinerama",12. Scream
+#EXTVLCOPT:http-user-agent=Sinerama-App-v2
+https://cdn.sinerama.uz/hls/scream/index.m3u8
+
+# --------------------------------------------------------------------
