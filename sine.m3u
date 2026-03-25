@@ -546,6 +546,40 @@ https://cdn4.skygo.mn/live/disk1/Ani/HLSv3-FTA/Ani.m3u8
 https://cdn4.skygo.mn/live/disk1/WakuWaku_Japan/HLSv3-FTA/WakuWaku_Japan.m3u8
 
 
+# --- ПОИСК В ГЛУБОКОМ СЕКТОРЕ (1570-1580) ---
+
+#EXTINF:-1, [TEST] 1570
+https://stream8.cinerama.uz/1570/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1571
+https://stream8.cinerama.uz/1571/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1572
+https://stream8.cinerama.uz/1572/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1573
+https://stream8.cinerama.uz/1573/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1574
+https://stream8.cinerama.uz/1574/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1575
+https://stream8.cinerama.uz/1575/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1576
+https://stream8.cinerama.uz/1576/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1577
+https://stream8.cinerama.uz/1577/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1578
+https://stream8.cinerama.uz/1578/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1579
+https://stream8.cinerama.uz/1579/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, [TEST] 1580
+https://stream8.cinerama.uz/1580/tracks-v1a1/mono.m3u8
 
 
 
