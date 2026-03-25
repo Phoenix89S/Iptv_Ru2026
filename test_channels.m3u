@@ -2322,9 +2322,29 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwO
 
 # --- Детские расширенные ---
 
-# 1.1 Gulli Girl (Extra)
-#EXTINF:-1 tvg-id="Gulli Girl" tvg-name="Gulli Girl" tvg-logo="https://iptv-org.github.io/iptv/logos/GulliGirl.png" group-title="Детские расширенные",1.1 Gulli Girl (Extra)
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwOTcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjVjZGJlOWM2IiwicCI6IjVjZGJlOWM2NjMxZTk1ZDUiLCJjIjoiOTMiLCJ0IjoiODI4NDdmYjkxMTJhNmRhNjU4MGE2NzRhYzZmZjkyNDgiLCJkIjoiNDExMjAyIiwiciI6IjQyMzE3MCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDk3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+# --- ГРУППА: ДЕТСКИЕ РАСШИРЕННЫЕ ---
+
+# 1. Gulli Girl
+#EXTINF:-1 tvg-id="gulli-girl" tvg-logo="https://iptvx.one/picons/gulli_girl.png" group-title="Детские расширенные",1. Gulli Girl
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+
+# 1.1 Nickelodeon HD
+#EXTINF:-1 tvg-id="nickelodeon-hd" tvg-logo="https://itv.uz/logos/nick_hd.png" group-title="Детские расширенные",1.1 Nickelodeon HD
+https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
+
+# 1.2 Nick Jr.
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://itv.uz/logos/nickjr.png" group-title="Детские расширенные",1.2 Nick Jr.
+https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
+
+# 1.3 Nicktoons
+#EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://itv.uz/logos/nicktoons.png" group-title="Детские расширенные",1.3 Nicktoons
+https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
+
+#
+# --------------------------------------------------------------------
+#
+# Tail of the config (as requested)
+# --------------------------------------------------------------------
 
 # 2. Ani
 #EXTINF:-1 tvg-id="Ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Детские расширенные",2. Ani
