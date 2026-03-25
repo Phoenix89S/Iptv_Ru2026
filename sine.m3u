@@ -6,6 +6,68 @@
 #проверка----
 
 
+# --- ITV.UZ: ТЕСТОВЫЙ ПОЛИГОН (ЗАГЛУШКИ) ---
+
+# 01. Тест (Еда?)
+#EXTINF:-1 group-title="ITV СКАНИРОВАНИЕ",01. Тест 1768570
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/1768570/176.m3u8
+
+# 02. Тест (НСТ?)
+#EXTINF:-1 group-title="ITV СКАНИРОВАНИЕ",02. Тест 1768571
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/1768571/176.m3u8
+
+# 03. Тест
+#EXTINF:-1 group-title="ITV СКАНИРОВАНИЕ",03. Тест 1768572
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/1768572/176.m3u8
+
+# 04. Тест (Ваш MuzTV тут рядом был)
+#EXTINF:-1 group-title="ITV СКАНИРОВАНИЕ",04. Тест 1768573
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/1768573/176.m3u8
+
+# 05. Тест
+#EXTINF:-1 group-title="ITV СКАНИРОВАНИЕ",05. Тест 1768574
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/1768574/176.m3u8
+
+# 06. Тест (Может быть FAN)
+#EXTINF:-1 group-title="ITV СКАНИРОВАНИЕ",06. Тест 1768576
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/1768576/176.m3u8
+
+# 07. Тест
+#EXTINF:-1 group-title="ITV СКАНИРОВАНИЕ",07. Тест 1768577
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/1768577/176.m3u8
+
+# 08. Тест
+#EXTINF:-1 group-title="ITV СКАНИРОВАНИЕ",08. Тест 1768578
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/1768578/176.m3u8
+
+# 09. Тест
+#EXTINF:-1 group-title="ITV СКАНИРОВАНИЕ",09. Тест 1768579
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/1768579/176.m3u8
+
+# 10. Тест
+#EXTINF:-1 group-title="ITV СКАНИРОВАНИЕ",10. Тест 1768580
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/1768580/176.m3u8
+# --- ITV.UZ ТЕСТОВЫЕ ПОТОКИ (ПОИСК) ---
+
+# 1. КАНАЛ ЕДА HD (Вариант 1)
+#EXTINF:-1 tvg-id="eda" group-title="ТЕСТ ITV",ЕДА HD
+https://api.itv.uz/hls/eda/index.m3u8
+
+# 2. НСТ (Настоящее Страшное Телевидение)
+#EXTINF:-1 tvg-id="nst" group-title="ТЕСТ ITV",НСТ
+https://api.itv.uz/hls/nst/index.m3u8
+
+# --- ПОПЫТКА ЧЕРЕЗ СЕРВЕР ПЛЕЕРА (БЕЗ ТОКЕНА) ---
+
+#EXTINF:-1, ЕДА HD (Server 2)
+https://v-2.itv.uz/hls/eda/index.m3u8
+
+#EXTINF:-1, НСТ (Server 2)
+https://v-2.itv.uz/hls/nst/index.m3u8
+
+
+
+
 # --- ALLPLAY.UZ: РАЗВЕДКА (ПОИСК FAN) ---
 
 # Прямая попытка на FAN (аниме)
