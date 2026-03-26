@@ -738,6 +738,21 @@ https://stream8.cinerama.uz/1349/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1350/tracks-v1a1/mono.m3u8
 
 
+# --- КАНАЛ: ДОРАМА (КОНТРОЛЬ КАЧЕСТВА) ---
+
+# Дорама (Авто-выбор: SD/HD)
+#EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Кино",Дорама
+https://stream8.cinerama.uz/1293/variant/mono.m3u8
+
+# [Проверка 1] Дорама (SD - v1a1)
+#EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Кино",Дорама (SD)
+https://stream8.cinerama.uz/1293/tracks-v1a1/mono.m3u8
+
+# [Проверка 2] Дорама (HD? - v2a2)
+#EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Кино",Дорама (HD?)
+https://stream8.cinerama.uz/1293/tracks-v2a2/mono.m3u8
+
+# ------------------------------------------------------
 
 
 
