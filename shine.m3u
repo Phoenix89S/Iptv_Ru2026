@@ -2,77 +2,6 @@
 #EXTM3U x-tvg-url="http://www.teleguide.info/download/new3/jtv.zip,https://itv.uz/epg/export.xml" cache=3600 deinterlace=1 catchup="append" catchup-days="7" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-shift=0
 
 
-
-
-# --- СЕКТОР А: ВОКРУГ DA VINCI И ACTION (1220 - 1245) ---
-
-#EXTINF:-1, Поиск 1226
-https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1227
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1230
-https://stream8.cinerama.uz/1230/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1232
-https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1233
-https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1234
-https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1235
-https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1236
-https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1237
-https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1238
-https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1239
-https://stream8.cinerama.uz/1239/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1240
-https://stream8.cinerama.uz/1240/tracks-v1a1/mono.m3u8
-
-# --- СЕКТОР Б: ВОКРУГ TV1000 И EXPLORE (1040 - 1065) ---
-
-#EXTINF:-1, Поиск 1040
-https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1041
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1042
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1043
-https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1044
-https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1047
-https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1048
-https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1049
-https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1060
-https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1061
-https://stream8.cinerama.uz/1061/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1062
-https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1063
-https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
-
-# --- СЕКТОР В: ПРЕМИАЛЬНЫЙ (1100 - 1115) ---
-
-#EXTINF:-1, Поиск 1100
-https://stream8.cinerama.uz/1100/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1101
-https://stream8.cinerama.uz/1101/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1105
-https://stream8.cinerama.uz/1105/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1110
-https://stream8.cinerama.uz/1110/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1111
-https://stream8.cinerama.uz/1111/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Поиск 1112
-https://stream8.cinerama.uz/1112/tracks-v1a1/mono.m3u8
-
 # --- СЕКТОР СКАНИРОВАНИЯ: 1000 - 1050 (БЕЗ СОКРАЩЕНИЙ) ---
 
 #EXTINF:-1, Поиск 1000
@@ -493,7 +422,215 @@ https://stream8.cinerama.uz/1199/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Поиск 1200
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 
+# --- СЕКТОР СКАНИРОВАНИЯ: 1200 - 1250 (БЕЗ СОКРАЩЕНИЙ) ---
 
+#EXTINF:-1, Поиск 1200
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1201
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1202
+https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1203
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1204
+https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1205
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1206
+https://stream8.cinerama.uz/1206/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1207
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1208
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1209
+https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1210
+https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1211
+https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1212
+https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1213
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1214
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1215
+https://stream8.cinerama.uz/1215/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1216
+https://stream8.cinerama.uz/1216/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1217
+https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1218
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1219
+https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1220
+https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1221
+https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1222
+https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1223
+https://stream8.cinerama.uz/1223/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1224
+https://stream8.cinerama.uz/1224/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1225
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1226
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1227
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1228
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1229
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1230
+https://stream8.cinerama.uz/1230/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1231
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1232
+https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1233
+https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1234
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1235
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1236
+https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1237
+https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1238
+https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1239
+https://stream8.cinerama.uz/1239/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1240
+https://stream8.cinerama.uz/1240/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1241
+https://stream8.cinerama.uz/1241/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1242
+https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1243
+https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1244
+https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1245
+https://stream8.cinerama.uz/1245/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1246
+https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1247
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1248
+https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1249
+https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1250
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+
+# --- СЕКТОР СКАНИРОВАНИЯ: 1250 - 1300 (БЕЗ СОКРАЩЕНИЙ) ---
+
+#EXTINF:-1, Поиск 1250
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1251
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1252
+https://stream8.cinerama.uz/1252/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1253
+https://stream8.cinerama.uz/1253/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1254
+https://stream8.cinerama.uz/1254/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1255
+https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1256
+https://stream8.cinerama.uz/1256/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1257
+https://stream8.cinerama.uz/1257/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1258
+https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1259
+https://stream8.cinerama.uz/1259/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1260
+https://stream8.cinerama.uz/1260/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1261
+https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1262
+https://stream8.cinerama.uz/1262/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1263
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1264
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1265
+https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1266
+https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1267
+https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1268
+https://stream8.cinerama.uz/1268/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1269
+https://stream8.cinerama.uz/1269/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1270
+https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1271
+https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1272
+https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1273
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1274
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1275
+https://stream8.cinerama.uz/1275/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1276
+https://stream8.cinerama.uz/1276/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1277
+https://stream8.cinerama.uz/1277/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1278
+https://stream8.cinerama.uz/1278/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1279
+https://stream8.cinerama.uz/1279/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1280
+https://stream8.cinerama.uz/1280/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1281
+https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1282
+https://stream8.cinerama.uz/1282/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1283
+https://stream8.cinerama.uz/1283/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1284
+https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1285
+https://stream8.cinerama.uz/1285/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1286
+https://stream8.cinerama.uz/1286/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1287
+https://stream8.cinerama.uz/1287/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1288
+https://stream8.cinerama.uz/1288/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1289
+https://stream8.cinerama.uz/1289/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1290
+https://stream8.cinerama.uz/1290/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1291
+https://stream8.cinerama.uz/1291/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1292
+https://stream8.cinerama.uz/1292/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1293
+https://stream8.cinerama.uz/1293/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1294
+https://stream8.cinerama.uz/1294/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1295
+https://stream8.cinerama.uz/1295/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1296
+https://stream8.cinerama.uz/1296/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1297
+https://stream8.cinerama.uz/1297/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1298
+https://stream8.cinerama.uz/1298/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1299
+https://stream8.cinerama.uz/1299/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Поиск 1300
+https://stream8.cinerama.uz/1300/tracks-v1a1/mono.m3u8
 
 
 
