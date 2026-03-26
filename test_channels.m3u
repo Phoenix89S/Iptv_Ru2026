@@ -1980,6 +1980,44 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 
 #----------------------------------------------------
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 69 VIJY) ----------------
+
+
+# 69.1 Viju TV1000
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Эфирные ТВ плюс",69.1 Viju TV1000
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+
+# 69.2 Viju TV1000 Русское
+#EXTINF:-1 tvg-id="tv1000-russian" tvg-logo="https://iptvx.one/picons/tv1000_russian.png" group-title="Эфирные ТВ плюс",69.2 Viju TV1000 Русское
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+
+# 69.3 Viju TV1000 Action
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000_action.png" group-title="Эфирные ТВ плюс",69.3 Viju TV1000 Action
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+
+# 69.4 Viju Nature
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat_nature.png" group-title="Эфирные ТВ плюс",69.4 Viju Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+
+# 69.5 Viju Sport
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat_sport.png" group-title="Эфирные ТВ плюс",69.5 Viju Sport
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
+# 69.6 Viju Explore
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat_explore.png" group-title="Эфирные ТВ плюс",69.6 Viju Explore
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+
+# 69.7 Viju History
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat_history.png" group-title="Эфирные ТВ плюс",69.7 Viju History
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
 #---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 70) ----------------
 
 
