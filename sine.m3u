@@ -749,11 +749,13 @@ http://185.156.173.136:80/trash/index.m3u8
 # КОНЕЦ СЕКЦИИ ХОРРОР
 
 
+
+
 # --- КАНАЛ: ДОРАМА (КОНТРОЛЬ КАЧЕСТВА) ---
 
 # Дорама (Авто-выбор: SD/HD)
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Кино",Дорама
-https://stream8.cinerama.uz/1293/variant.m3u8
+https://stream8.cinerama.uz/1293/variant/mono.m3u8
 
 # [Проверка 1] Дорама (SD - v1a1)
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Кино",Дорама (SD)
