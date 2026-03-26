@@ -1980,8 +1980,9 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 
 #----------------------------------------------------
 
-#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 69 VIJY) ----------------
 
+
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 69VIJU/Full & DA VINCI) ----------------
 
 # 69.1 Viju TV1000
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Эфирные ТВ плюс",69.1 Viju TV1000
@@ -2010,6 +2011,43 @@ https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 # 69.7 Viju History
 #EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat_history.png" group-title="Эфирные ТВ плюс",69.7 Viju History
 https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
+# 69.8 Da Vinci
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-logo="https://iptvx.one/picons/da_vinci_learning.png" group-title="Эфирные ТВ плюс",69.8 Da Vinci
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+
+# --- ВТОРАЯ ЧАСТЬ (ПОИСКОВАЯ) ---
+
+# 69.9 Viju TV1000 Новелла
+#EXTINF:-1 tvg-id="viasat-serial" group-title="Эфирные ТВ плюс",69.9 Viju TV1000 Новелла
+https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+# 69.10 Viju TV1000 Romantica
+#EXTINF:-1 tvg-id="viasat-romance" group-title="Эфирные ТВ плюс",69.10 Viju TV1000 Romantica
+https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+# 69.11 Viju+ Premiere
+#EXTINF:-1 tvg-id="viasat-premiere" group-title="Эфирные ТВ плюс",69.11 Viju+ Premiere
+https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+# 69.12 Viju+ Megahit
+#EXTINF:-1 tvg-id="viasat-megahit" group-title="Эфирные ТВ плюс",69.12 Viju+ Megahit
+https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+# 69.13 Viju+ Comedy
+#EXTINF:-1 tvg-id="viasat-comedy" group-title="Эфирные ТВ плюс",69.13 Viju+ Comedy
+https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+# 69.14 Viju+ Serial
+#EXTINF:-1 tvg-id="viasat-serial-hd" group-title="Эфирные ТВ плюс",69.14 Viju+ Serial
+https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+# 69.15 Viju+ Planet
+#EXTINF:-1 tvg-id="viasat-history-hd" group-title="Эфирные ТВ плюс",69.15 Viju+ Planet
+https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+#------------------------------------------  конец блока -------------------
+
 
 
 
