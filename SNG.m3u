@@ -3,6 +3,17 @@
 
 
 
+
+
+# --- ГРУППА: КИНО ---
+
+#EXTINF:-1 tvg-id="viasat-kino" tvg-logo="https://iptvx.one/picons/viasat_kino.png" group-title="Кино",Viasat Kino
+http://89.254.128.5:22280/viasat_kino/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-kino-action" tvg-logo="https://iptvx.one/picons/viasat_kino_action.png" group-title="Кино",Viasat Kino Action
+http://89.254.128.5:22280/viasat_kino_action/index.m3u8
+
+
 #---------------- ГРУППА: УЗБЕКИСТАН - ПОЛНЫЙ ПАКЕТ ----------------
 
 # --- СЕКТОР 1: iTV.uz (Магистральный узел) ---
