@@ -2032,9 +2032,8 @@ http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Эфирные ТВ плюс",69.10.0.0.2 Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 
-
-# 69.11 Viju+ Premiere
-#EXTINF:-1 tvg-id="viasat-premiere" group-title="Эфирные ТВ плюс",69.11 Viju+ Premiere
+#69.11 Viju+ Premiere
+#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Эфирные ТВ плюс",69.11 Viju+ Premiere
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 
 
