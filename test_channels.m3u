@@ -3445,7 +3445,13 @@ https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://itv.uz/logos/nicktoons.png" group-title="Детские тест",003. Nicktoons
 https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
 
+#----------- проверка
 
+
+
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино и сериалы",НСТ
+http://95.215.12.124:8000/nst/mono.m3u8
+ 
 
 
 
