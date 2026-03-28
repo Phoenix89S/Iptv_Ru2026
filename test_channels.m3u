@@ -2018,33 +2018,14 @@ https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 
 # --- ВТОРАЯ ЧАСТЬ (ПОИСКОВАЯ) ---
 
-# 69.9 Viju TV1000 Новелла
-#EXTINF:-1 tvg-id="viasat-serial" group-title="Эфирные ТВ плюс",69.9 Viju TV1000 Новелла
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 
-# 69.10 Viju TV1000 Romantica
-#EXTINF:-1 tvg-id="viasat-romance" group-title="Эфирные ТВ плюс",69.10 Viju TV1000 Romantica
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 
-# 69.11 Viju+ Premiere
-#EXTINF:-1 tvg-id="viasat-premiere" group-title="Эфирные ТВ плюс",69.11 Viju+ Premiere
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 
-# 69.12 Viju+ Megahit
-#EXTINF:-1 tvg-id="viasat-megahit" group-title="Эфирные ТВ плюс",69.12 Viju+ Megahit
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+вставить
 
-# 69.13 Viju+ Comedy
-#EXTINF:-1 tvg-id="viasat-comedy" group-title="Эфирные ТВ плюс",69.13 Viju+ Comedy
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 
-# 69.14 Viju+ Serial
-#EXTINF:-1 tvg-id="viasat-serial-hd" group-title="Эфирные ТВ плюс",69.14 Viju+ Serial
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 
-# 69.15 Viju+ Planet
-#EXTINF:-1 tvg-id="viasat-history-hd" group-title="Эфирные ТВ плюс",69.15 Viju+ Planet
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
 
 #------------------------------------------  конец блока -------------------
 
