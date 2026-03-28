@@ -207,4 +207,32 @@ http://v2.catcast.tv/content/38656/index.m3u8
 http://v2.catcast.tv/content/38657/index.m3u8
 
 
+#EXTM3U
+
+#EXTINF:-1,Остросюжетное HD
+http://188.35.9.11:2015
+
+#EXTINF:-1,ULTO
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+
+#EXTINF:-1,Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+
+#EXTINF:-1,VIP Megahit HD
+http://188.35.9.11:2016
+
+#EXTINF:-1,Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+
+#EXTINF:-1,Киносвидание HD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+
+#EXTINF:-1,Русский Детектив
+http://182.73.122.74:10005/bysid/416
+
+#EXTINF:-1,Русский бестселлер
+http://182.73.122.74:10005/bysid/420
+
+#EXTINF:-1,Кино 1
+http://v2.catcast.tv/content/38617/index.m3u8
 
