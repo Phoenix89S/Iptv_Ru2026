@@ -52,3 +52,22 @@ http://109.197.192.121:8080/dorama/index.m3u8
 
 #EXTINF:-1 tvg-id="zeetv" tvg-logo="https://iptvx.one/picons/zeetv.png" group-title="Кино",Zee TV
 http://212.73.75.200:8000/play/ZeeRussia/index.m3u8
+
+
+#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Кино и сериалы",Viju+ comedy
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Кино и сериалы",Viju+ megahit
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1 tvg-id="trashtv" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="Кино и сериалы",Trash HD
+http://5.188.159.128:8070/Trash_HD/index.m3u8
+#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="Кино и сериалы",FAN
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кино и сериалы",Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино и сериалы",НСТ
+http://193.25.8.59:8000/nst/index.m3u8
+
+#--------------------------------------------------------------------
+# ХВОСТ КОНФИГА (REQUIRED AFTER INSERTIONS)
+#--------------------------------------------------------------------
+
