@@ -236,3 +236,40 @@ http://182.73.122.74:10005/bysid/420
 #EXTINF:-1,Кино 1
 http://v2.catcast.tv/content/38617/index.m3u8
 
+
+
+
+#EXTM3U
+
+# --- ULTO TV: УЖАСЫ И МИСТИКА ---
+
+#EXTINF:-1,Киноужас HD (Ulto)
+http://ultotv.ru:8888/live/cinema/kinouzhas_hd/playlist.m3u8
+
+#EXTINF:-1,НСТ HD (Настоящее Страшное Телевидение)
+http://ultotv.ru:8888/live/cinema/nst_hd/playlist.m3u8
+
+#EXTINF:-1,SHOCK HD
+http://ultotv.ru:8888/live/cinema/shock_hd/playlist.m3u8
+
+#EXTINF:-1,Scream HD
+http://ultotv.ru:8888/live/uhd/scream_hd/playlist.m3u8
+
+#EXTINF:-1,Horror TV
+http://ultotv.ru:8888/live/cinema/horror_tv/playlist.m3u8
+
+#EXTINF:-1,Cinefear
+http://ultotv.ru:8888/live/cinema/cinefear/playlist.m3u8
+
+#EXTINF:-1,Мистика HD
+http://ultotv.ru:8888/live/cinema/mystick_hd/playlist.m3u8
+
+#EXTINF:-1,Sci-Fi HD
+http://ultotv.ru:8888/live/cinema/scifi_hd/playlist.m3u8
+
+#EXTINF:-1,Thriller HD
+http://ultotv.ru:8888/live/cinema/thriller_hd/playlist.m3u8
+
+#EXTINF:-1,Hollywood HD
+http://ultotv.ru:8888/live/cinema/hollywood_hd/playlist.m3u8
+
