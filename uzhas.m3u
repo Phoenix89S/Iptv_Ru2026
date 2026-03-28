@@ -1,0 +1,36 @@
+
+#EXTM3U x-tvg-url="http://www.teleguide.info/download/new3/jtv.zip, https://iptvx.one/epg/epg.xml.gz" url-tvg="https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7"
+
+
+
+# --- ГРУППА: УЖАСЫ И МИСТИКА ---
+
+#EXTINF:-1,Киноужас HD
+https://sc.id-tv.kz/Kinouzhas_hd_38_39.m3u8
+
+#EXTINF:-1,Киноужас
+https://sc.id-tv.kz/Kinouzhas_34_35.m3u8
+
+#EXTINF:-1,НСТ (Настоящее Страшное Телевидение)
+https://sc.id-tv.kz/NST_34_35.m3u8
+
+#EXTINF:-1,НСТ HD
+https://sc.id-tv.kz/NST_hd_38_39.m3u8
+
+#EXTINF:-1,SHOCK
+https://sc.id-tv.kz/Shock_34_35.m3u8
+
+#EXTINF:-1,SHOCK HD
+https://sc.id-tv.kz/Shock_hd_38_39.m3u8
+
+#EXTINF:-1,Sci-Fi (Мистика и Фантастика)
+https://sc.id-tv.kz/Sci_Fi_34_35.m3u8
+
+#EXTINF:-1,Hollywood HD (Часто триллеры/хорроры)
+https://sc.id-tv.kz/Hollywood_hd_38_39.m3u8
+
+#EXTINF:-1,Scream HD
+https://sc.id-tv.kz/Scream_hd_38_39.m3u8
+
+#EXTINF:-1,TV1000 Action HD (Секции хорроров)
+https://sc.id-tv.kz/TV1000_Action_hd_38_39.m3u8
