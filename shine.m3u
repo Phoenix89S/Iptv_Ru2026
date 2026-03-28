@@ -755,6 +755,36 @@ https://stream8.cinerama.uz/1293/tracks-v2a2/mono.m3u8
 # ------------------------------------------------------
 
 
+# ------------------ ГРУППА: КИНО (НСТ - ЗЕРКАЛА СНГ) ------------------
+
+# --- Сектор: Глобальные / CDN ---
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино и сериалы",НСТ (CDN)
+https://strm.yandex.ru/kal/nst_tv/nst_tv0.m3u8
+
+# --- Сектор: Узбекистан ---
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино (UZ)",НСТ (UZ-Mirror)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://cdn.itv.uz/hls/nst/index.m3u8
+
+# --- Сектор: Казахстан ---
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино (KZ)",НСТ (KZ-Mirror 1)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://95.161.227.14:8000/nst/mono.m3u8
+
+#EXTINF:-1 tvg-id="nst" group-title="Кино (KZ)",НСТ (KZ-Mirror 2 Alma TV)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://82.200.158.34:8001/nst
+
+# --- Сектор: Армения ---
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино (AM)",НСТ (AM-Mirror 1)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://212.34.250.21:8000/nst
+
+#EXTINF:-1 tvg-id="nst" group-title="Кино (AM)",НСТ (AM-Mirror 2 Ucom)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://ott-cdn.ucom.am/nst/index.m3u8
+
+# ----------------------------------------------------------------------
 
 
 
