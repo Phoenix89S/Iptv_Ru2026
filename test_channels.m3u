@@ -2033,31 +2033,37 @@ http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 http://176.118.197.101/Evrokino/index.m3u8
 
 
+# 69.11 Viju+ Premiere
+#EXTINF:-1 tvg-id="viasat-premiere" group-title="Эфирные ТВ плюс",69.11 Viju+ Premiere
+http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 
 
 # --- ВТОРАЯ ЧАСТЬ (ПОИСКОВАЯ) ---
 
 
-# 69.11 Viju TV1000 Новелла
-#EXTINF:-1 tvg-id="viasat-serial" group-title="Эфирные ТВ плюс",69.11 Viju TV1000 Новелла
+
+
+
+
+# 69.12 Viju TV1000 Новелла
+#EXTINF:-1 tvg-id="viasat-serial" group-title="Эфирные ТВ плюс",69.12 Viju TV1000 Новелла
 https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 
-# 69.12 Viju TV1000 Romantica
-#EXTINF:-1 tvg-id="viasat-romance" group-title="Эфирные ТВ плюс",69.12 Viju TV1000 Romantica
+# 69.13 Viju TV1000 Romantica
+#EXTINF:-1 tvg-id="viasat-romance" group-title="Эфирные ТВ плюс",69.13 Viju TV1000 Romantica
 https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 
-# 69.13 Viju+ Premiere
-#EXTINF:-1 tvg-id="viasat-premiere" group-title="Эфирные ТВ плюс",69.13 Viju+ Premiere
+# 69.14 Viju+ Premiere
+#EXTINF:-1 tvg-id="viasat-premiere" group-title="Эфирные ТВ плюс",69.14 Viju+ Premiere
 https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 
-# 69.14 Viju+ Serial
-#EXTINF:-1 tvg-id="viasat-serial-hd" group-title="Эфирные ТВ плюс",69.14 Viju+ Serial
+# 69.15 Viju+ Serial
+#EXTINF:-1 tvg-id="viasat-serial-hd" group-title="Эфирные ТВ плюс",69.15 Viju+ Serial
 https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 
-# 69.15 Viju+ Planet
-#EXTINF:-1 tvg-id="viasat-history-hd" group-title="Эфирные ТВ плюс",69.15 Viju+ Planet
+# 69.16 Viju+ Planet
+#EXTINF:-1 tvg-id="viasat-history-hd" group-title="Эфирные ТВ плюс",69.16 Viju+ Planet
 https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
-
 
 вставить
 
