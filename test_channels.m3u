@@ -2390,9 +2390,8 @@ http://45.144.30.222:8000/Disney_Channel/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Gulli Girl" tvg-name="Gulli Girl" tvg-logo="https://iptv-org.github.io/iptv/logos/GulliGirl.png" group-title="Эфирноые ТВ плюс", Gulli Girl
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwOTcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjVjZGJlOWM2IiwicCI6IjVjZGJlOWM2NjMxZTk1ZDUiLCJjIjoiOTMiLCJ0IjoiODI4NDdmYjkxMTJhNmRhNjU4MGE2NzRhYzZmZjkyNDgiLCJkIjoiNDExMjAyIiwiciI6IjQyMzE3MCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDk3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-
+#EXTINF:-1 tvg-id="Gulli Girl" tvg-name="Gulli Girl" tvg-logo="https://iptv-org.github.io/iptv/logos/GulliGirl.png" group-title="Эфирные ТВ плюс", Gulli Girl
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 
 # --- Детские расширенные ---
 
@@ -2400,7 +2399,7 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwO
 
 # 1. Gulli Girl
 #EXTINF:-1 tvg-id="gulli-girl" tvg-logo="https://iptvx.one/picons/gulli_girl.png" group-title="Детские расширенные",1. Gulli Girl
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 
 # 1.1 Nickelodeon HD
 #EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://itv.uz/logos/nick_hd.png" group-title="Детские расширенные",1.1 Nickelodeon HD
