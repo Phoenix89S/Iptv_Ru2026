@@ -74,3 +74,17 @@ https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 # 69.22 Viju+ Planet
 #EXTINF:-1 tvg-id="viasat-history-hd" group-title="Эфирные ТВ плюс",69.22 Viju+ Planet
 https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vip-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="Спорт",Viju+ Sport
+http://188.225.31.197/bpk-tv/000000858/tve/index.m3u8
+
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-logo="https://iptvx.one/picons/davinci.png" group-title="Познавательные",Da Vinci
+http://188.225.31.197/bpk-tv/000000861/tve/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature-history" tvg-logo="https://iptvx.one/picons/viasat-nature-history.png" group-title="Познавательные",Viju+ Planet
+http://188.225.31.197/bpk-tv/000000865/tve/index.m3u8
+
+#EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="Кино и сериалы",Viju+ Serial
+http://188.225.31.197/bpk-tv/000000867/tve/index.m3u8
+
+
