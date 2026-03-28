@@ -1,0 +1,54 @@
+#EXTM3U x-tvg-url="http://www.teleguide.info/download/new3/jtv.zip,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7" catchup-source="?utc=${start}&lutc=${timestamp}"
+
+# --- ГРУППА: КИНО И СЕРИАЛЫ ---
+
+#EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Кино",Кинопоказ
+http://95.183.43.237:8080/238/index.m3u8
+
+#EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" tvg-logo="https://iptvx.one/picons/ostrosyuzetnoe_hd.png" group-title="Кино",Остросюжетное HD
+http://195.161.68.11:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="sovetskoe-kino" tvg-logo="https://iptvx.one/picons/sovetskoe_kino.png" group-title="Кино",Советское кино
+https://mhd116.iptv2022.com/p/SE9b_ztTlv3ZUjXAAnQjWg,..
+
+#EXTINF:-1 tvg-id="kino-tv-hd" tvg-logo="https://iptvx.one/picons/kino_tv_hd.png" group-title="Кино",Кино ТВ HD
+http://193.233.9.49/streams/media/KINO_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="cinema" tvg-logo="https://iptvx.one/picons/cinema.png" group-title="Кино",Cinema
+http://193.233.9.49/streams/media/Cinema/index.m3u8
+
+#EXTINF:-1 tvg-id="komediya" tvg-logo="https://iptvx.one/picons/komediya.png" group-title="Кино",Комедия
+http://193.233.9.49/streams/media/Komediya/index.m3u8
+
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Кино",Мосфильм. Золотая коллекция
+http://109.197.192.121:8080/mosfilm/index.m3u8
+
+#EXTINF:-1 tvg-id="bollywood" tvg-logo="https://iptvx.one/picons/bollywood.png" group-title="Кино",Bollywood
+http://212.73.75.200:8000/play/Bollywood/index.m3u8
+
+#EXTINF:-1 tvg-id="paramount-channel" tvg-logo="https://iptvx.one/picons/paramount_channel.png" group-title="Кино",Paramount Channel
+https://livetv.mylifeisgood.ml/channels/paramount_cha..
+
+#EXTINF:-1 tvg-id="russkiy-detektiv" tvg-logo="https://iptvx.one/picons/russkiy_detektiv.png" group-title="Кино",Русский детектив
+http://212.73.75.200:8000/play/RusskiiDetektiv/index.m3u8
+
+#EXTINF:-1 tvg-id="russkiy-roman" tvg-logo="https://iptvx.one/picons/russkiy_roman.png" group-title="Кино",Русский роман
+http://212.73.75.200:8000/play/RusskiiRoman/index.m3u8
+
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://iptvx.one/picons/nashe_novoe_kino.png" group-title="Кино",Наше новое кино
+http://109.197.192.121:8080/kinohit/index.m3u8
+
+#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://iptvx.one/picons/muzhskoe_kino.png" group-title="Кино",Мужское кино
+http://95.183.43.237:8080/54/index.m3u8
+
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино",НСТ
+http://178.162.218.85:8081/rustv/nst.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="https://iptvx.one/picons/paramount_comedy.png" group-title="Кино",Paramount Comedy
+https://livetv.mylifeisgood.ml/channels/paramount_com..
+
+#EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Кино",Дорама
+http://109.197.192.121:8080/dorama/index.m3u8
+
+#EXTINF:-1 tvg-id="zeetv" tvg-logo="https://iptvx.one/picons/zeetv.png" group-title="Кино",Zee TV
+http://212.73.75.200:8000/play/ZeeRussia/index.m3u8
