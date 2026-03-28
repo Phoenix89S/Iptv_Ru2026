@@ -2016,9 +2016,47 @@ https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="da-vinci-learning" tvg-logo="https://iptvx.one/picons/da_vinci_learning.png" group-title="Эфирные ТВ плюс",69.8 Da Vinci
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 
+# 69.9 Viju+ Megahit
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Эфирные ТВ плюс",69.9 Viju+ Megahit
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+
+# 69.10 Viju+ Comedy
+#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Эфирные ТВ плюс",69.10 Viju+ Comedy
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+
+# 69.10.0.0.1 FAN
+#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="Эфирные ТВ плюс",69.10.0.0.1 FAN
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
+
+# 69.10.0.0.2 Еврокино
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Эфирные ТВ плюс",69.10.0.0.2 Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+
+
+
+
 # --- ВТОРАЯ ЧАСТЬ (ПОИСКОВАЯ) ---
 
 
+# 69.11 Viju TV1000 Новелла
+#EXTINF:-1 tvg-id="viasat-serial" group-title="Эфирные ТВ плюс",69.11 Viju TV1000 Новелла
+https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+# 69.12 Viju TV1000 Romantica
+#EXTINF:-1 tvg-id="viasat-romance" group-title="Эфирные ТВ плюс",69.12 Viju TV1000 Romantica
+https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+# 69.13 Viju+ Premiere
+#EXTINF:-1 tvg-id="viasat-premiere" group-title="Эфирные ТВ плюс",69.13 Viju+ Premiere
+https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+# 69.14 Viju+ Serial
+#EXTINF:-1 tvg-id="viasat-serial-hd" group-title="Эфирные ТВ плюс",69.14 Viju+ Serial
+https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+# 69.15 Viju+ Planet
+#EXTINF:-1 tvg-id="viasat-history-hd" group-title="Эфирные ТВ плюс",69.15 Viju+ Planet
+https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 
 
 вставить
