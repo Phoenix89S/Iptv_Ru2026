@@ -2222,6 +2222,25 @@ http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 
 #----------------------------------------------------------------------------------------
 
+#-------------------------- СЕКТОР 72.5: РЕЗЕРВНЫЙ ПАК AMEDIA (MEGOGO) --------------------------
+
+# 72.5 Amedia 1 (Megogo)
+#EXTINF:-1 tvg-id="amedia-1" tvg-logo="https://iptvx.one/picons/amedia_1.png" group-title="Эфирные ТВ плюс",72.5 Amedia 1
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/554/index.m3u8
+
+# 72.6 Amedia 2 (Megogo)
+#EXTINF:-1 tvg-id="amedia-2" tvg-logo="https://iptvx.one/picons/amedia_2.png" group-title="Эфирные ТВ плюс",72.6 Amedia 2
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/510/index.m3u8
+
+# 72.7 Amedia Premium HD (Megogo)
+#EXTINF:-1 tvg-id="amedia-premium-hd" tvg-logo="https://iptvx.one/picons/amedia_premium_hd.png" group-title="Эфирные ТВ плюс",72.7 Amedia Premium HD
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/555/index.m3u8
+
+# 72.8 Amedia Hit (Megogo)
+#EXTINF:-1 tvg-id="amedia-hit-hd" tvg-logo="https://iptvx.one/picons/amedia_hit_hd.png" group-title="Эфирные ТВ плюс",72.8 Amedia Hit
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/556/index.m3u8
+
+#------------------------------------------------------------------------------------------------
 
 
 
