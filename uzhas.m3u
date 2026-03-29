@@ -2,6 +2,14 @@
 #EXTM3U x-tvg-url="http://www.teleguide.info/download/new3/jtv.zip, https://iptvx.one/epg/epg.xml.gz" url-tvg="https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7"
 
 
+# --- Сектор: Развлекательные (BackusTV) ---
+# BackusTV HD Страшное
+#EXTINF:-1 tvg-id="backustv" tvg-logo="https://static.goodgame.ru/images/avatars/144394.jpg" group-title="Развлекательные",BackusTV HD Страшное
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://hls.goodgame.ru/hls/144394.m3u8
+
+
+
 #EXTINF:-1 group-title="Кино", Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино", Amedia 1 HD
