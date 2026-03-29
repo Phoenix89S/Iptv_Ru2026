@@ -2202,6 +2202,25 @@ https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant
 #
 
 
+#-------------------------- СЕКТОР 72.1: СЕРИАЛЬНЫЙ ПАК AMEDIA --------------------------
+
+# 72.1 Amedia 1 (576p)
+#EXTINF:-1 tvg-id="amedia-1" tvg-logo="https://iptvx.one/picons/amedia_1.png" group-title="Эфирные ТВ плюс",72.1 Amedia 1 (576p)
+http://31.148.48.15/A1/index.m3u8
+
+# 72.2 Amedia 2 (576p)
+#EXTINF:-1 tvg-id="amedia-2" tvg-logo="https://iptvx.one/picons/amedia_2.png" group-title="Эфирные ТВ плюс",72.2 Amedia 2 (576p)
+http://31.148.48.15/A2/index.m3u8
+
+# 72.3 Amedia Hit (720p)
+#EXTINF:-1 tvg-id="amedia-hit-hd" tvg-logo="https://iptvx.one/picons/amedia_hit_hd.png" group-title="Эфирные ТВ плюс",72.3 Amedia Hit (720p)
+http://31.148.48.15/Amedia_HIT_HD/index.m3u8
+
+# 72.4 Amedia Premium (720p)
+#EXTINF:-1 tvg-id="amedia-premium-hd" tvg-logo="https://iptvx.one/picons/amedia_premium_hd.png" group-title="Эфирные ТВ плюс",72.4 Amedia Premium (720p)
+http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+
+#----------------------------------------------------------------------------------------
 
 
 
