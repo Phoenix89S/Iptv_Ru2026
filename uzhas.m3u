@@ -88,3 +88,34 @@ http://188.225.31.197/bpk-tv/000000865/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000867/tve/index.m3u8
 
 
+
+
+# --- Детские ---
+#EXTINF:-1 tvg-id="o-tv" tvg-logo="https://iptvx.one/picons/o.png" group-title="Детские",О!
+http://188.225.31.197/bpk-tv/000000835/tve/index.m3u8
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт
+http://188.225.31.197/bpk-tv/000000841/tve/index.m3u8
+
+# --- Кино и сериалы (Русское) ---
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кино и сериалы",Кино ТВ
+http://188.225.31.197/bpk-tv/000000851/tve/index.m3u8
+#EXTINF:-1 tvg-id="russkiy-roman" tvg-logo="https://iptvx.one/picons/russkiy-roman.png" group-title="Кино и сериалы",Русский роман
+http://188.225.31.197/bpk-tv/000000855/tve/index.m3u8
+#EXTINF:-1 tvg-id="russkiy-detektiv" tvg-logo="https://iptvx.one/picons/russkiy-detektiv.png" group-title="Кино и сериалы",Русский детектив
+http://188.225.31.197/bpk-tv/000000856/tve/index.m3u8
+#EXTINF:-1 tvg-id="russkiy-bestseller" tvg-logo="https://iptvx.one/picons/russkiy-bestseller.png" group-title="Кино и сериалы",Русский бестселлер
+http://188.225.31.197/bpk-tv/000000857/tve/index.m3u8
+
+# --- Семейство Viju (Начало) ---
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="Спорт",Viju+ Sport
+http://188.225.31.197/bpk-tv/000000858/tve/index.m3u8
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="https://iptvx.one/picons/viasat-nature-history.png" group-title="Познавательные",Viju+ Planet
+http://188.225.31.197/bpk-tv/000000865/tve/index.m3u8
+#EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="Кино и сериалы",Viju+ Serial
+http://188.225.31.197/bpk-tv/000000867/tve/index.m3u8
+
+#--------------------------------------------------------------------
+# ХВОСТ КОНФИГА
+#--------------------------------------------------------------------
+
+
