@@ -122,6 +122,16 @@ https://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 
+# 1.1.11 Первый канал HD
+#EXTINF:-1 tvg-id="1-hd" tvg-logo="https://iptvx.one/picons/1_hd.png" group-title="Эфирные ТВ плюс",1.1.11 Первый канал HD
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+
+# 1.1.12 Дом кино
+#EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://iptvx.one/picons/dom-kino.png" group-title="Эфирные ТВ плюс",1.1.12 Дом кино
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+
+
+
 #---------------------------------------------------- конец расширенной орбиты-----
 
 #--------Кнопка 2: Россия 1--------
