@@ -2,120 +2,19 @@
 #EXTM3U x-tvg-url="http://www.teleguide.info/download/new3/jtv.zip, https://iptvx.one/epg/epg.xml.gz" url-tvg="https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7"
 
 
-
-# --- Viju Кино и Сериалы ---
-
-# 69.9 Viju+ Premiere
-#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Эфирные ТВ плюс",69.9 Viju+ Premiere
-http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
-
-# 69.10 Viju+ Megahit
-#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Эфирные ТВ плюс",69.10 Viju+ Megahit
-http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
-
-# 69.11 Viju+ Comedy
-#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Эфирные ТВ плюс",69.11 Viju+ Comedy
-http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
-
-# 69.12 Viju+ Action
-#EXTINF:-1 tvg-id="vip-action" tvg-logo="https://iptvx.one/picons/vip-action.png" group-title="Эфирные ТВ плюс",69.12 Viju+ Action
-http://188.225.31.197/bpk-tv/000000871/tve/index.m3u8
-
-# 69.13 Viju TV1000 Русское
-#EXTINF:-1 tvg-id="tv1000-russian" tvg-logo="https://iptvx.one/picons/tv1000-russian.png" group-title="Эфирные ТВ плюс",69.13 Viju TV1000 Русское
-http://188.225.31.197/bpk-tv/000000872/tve/index.m3u8
-
-# 69.14 Viju TV1000
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Эфирные ТВ плюс",69.14 Viju TV1000
-http://188.225.31.197/bpk-tv/000000873/tve/index.m3u8
-
-# 69.15 Viju TV1000 World Cinema
-#EXTINF:-1 tvg-id="tv1000-world" tvg-logo="https://iptvx.one/picons/tv1000-world.png" group-title="Эфирные ТВ плюс",69.15 Viju TV1000 World Cinema
-http://188.225.31.197/bpk-tv/000000874/tve/index.m3u8
-
-# 69.16 Viju+ Serial
-#EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="Эфирные ТВ плюс",69.16 Viju+ Serial
-http://188.225.31.197/bpk-tv/000000875/tve/index.m3u8
-
-# --- Viju Познавательные ---
-
-# 69.17 Viju History
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Эфирные ТВ плюс",69.17 Viju History
-http://188.225.31.197/bpk-tv/000000876/tve/index.m3u8
-
-# 69.18 Viju Explore
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Эфирные ТВ плюс",69.18 Viju Explore
-http://188.225.31.197/bpk-tv/000000877/tve/index.m3u8
-
-# 69.19 Viju Nature
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Эфирные ТВ плюс",69.19 Viju Nature
-http://188.225.31.197/bpk-tv/000000878/tve/index.m3u8
-
-# --- Спец. нумерация ---
-
-# 69.10.0.0.1 FAN
-#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="Эфирные ТВ плюс",69.10.0.0.1 FAN
-http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
-
-# 69.10.0.0.2 Еврокино
-#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Эфирные ТВ плюс",69.10.0.0.2 Еврокино
-http://176.118.197.101/Evrokino/index.m3u8
-
-# --- Резерв (Cinerama) ---
-
-# 69.20 Viju TV1000 Новелла
-#EXTINF:-1 tvg-id="viasat-serial" group-title="Эфирные ТВ плюс",69.20 Viju TV1000 Новелла
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
-
-# 69.21 Viju TV1000 Romantica
-#EXTINF:-1 tvg-id="viasat-romance" group-title="Эфирные ТВ плюс",69.21 Viju TV1000 Romantica
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
-
-# 69.22 Viju+ Planet
-#EXTINF:-1 tvg-id="viasat-history-hd" group-title="Эфирные ТВ плюс",69.22 Viju+ Planet
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="vip-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="Спорт",Viju+ Sport
-http://188.225.31.197/bpk-tv/000000858/tve/index.m3u8
-
-#EXTINF:-1 tvg-id="da-vinci-learning" tvg-logo="https://iptvx.one/picons/davinci.png" group-title="Познавательные",Da Vinci
-http://188.225.31.197/bpk-tv/000000861/tve/index.m3u8
-
-#EXTINF:-1 tvg-id="viasat-nature-history" tvg-logo="https://iptvx.one/picons/viasat-nature-history.png" group-title="Познавательные",Viju+ Planet
-http://188.225.31.197/bpk-tv/000000865/tve/index.m3u8
-
-#EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="Кино и сериалы",Viju+ Serial
-http://188.225.31.197/bpk-tv/000000867/tve/index.m3u8
-
-
-
-
-# --- Детские ---
-#EXTINF:-1 tvg-id="o-tv" tvg-logo="https://iptvx.one/picons/o.png" group-title="Детские",О!
-http://188.225.31.197/bpk-tv/000000835/tve/index.m3u8
-#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт
-http://188.225.31.197/bpk-tv/000000841/tve/index.m3u8
-
-# --- Кино и сериалы (Русское) ---
-#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кино и сериалы",Кино ТВ
-http://188.225.31.197/bpk-tv/000000851/tve/index.m3u8
-#EXTINF:-1 tvg-id="russkiy-roman" tvg-logo="https://iptvx.one/picons/russkiy-roman.png" group-title="Кино и сериалы",Русский роман
-http://188.225.31.197/bpk-tv/000000855/tve/index.m3u8
-#EXTINF:-1 tvg-id="russkiy-detektiv" tvg-logo="https://iptvx.one/picons/russkiy-detektiv.png" group-title="Кино и сериалы",Русский детектив
-http://188.225.31.197/bpk-tv/000000856/tve/index.m3u8
-#EXTINF:-1 tvg-id="russkiy-bestseller" tvg-logo="https://iptvx.one/picons/russkiy-bestseller.png" group-title="Кино и сериалы",Русский бестселлер
-http://188.225.31.197/bpk-tv/000000857/tve/index.m3u8
-
-# --- Семейство Viju (Начало) ---
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="Спорт",Viju+ Sport
-http://188.225.31.197/bpk-tv/000000858/tve/index.m3u8
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="https://iptvx.one/picons/viasat-nature-history.png" group-title="Познавательные",Viju+ Planet
-http://188.225.31.197/bpk-tv/000000865/tve/index.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="Кино и сериалы",Viju+ Serial
-http://188.225.31.197/bpk-tv/000000867/tve/index.m3u8
-
-#--------------------------------------------------------------------
-# ХВОСТ КОНФИГА
-#--------------------------------------------------------------------
-
-
+#EXTINF:-1 group-title="Кино", Amedia 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 group-title="Кино", Amedia 1 HD
+http://178.217.72.66:8080/A1/video.m3u8
+#EXTINF:-1 group-title="Кино", Amedia 2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 group-title="Кино", Amedia 2 HD
+http://178.217.72.66:8080/A2/index.m3u8
+#EXTINF:-1 group-title="Кино", Amedia Hit
+http://178.217.72.66:8080/Amedia_Hit/index.m3u8
+#EXTINF:-1 group-title="Кино", Amedia Hit HD
+http://77.235.1.19:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Кино", Amedia Premium
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="Кино", Amedia Premium HD
+http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
