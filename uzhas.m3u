@@ -26,3 +26,10 @@ http://77.235.1.19:8000/play/a05f/index.m3u8
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD
 http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
+
+
+#EXTINF:-1 tvg-id="kinouzhas" group-title="Кино",Киноужас
+http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 tvg-id="kinouzhas-hd" group-title="Кино",Киноужас HD
+http://31.210.208.171:8080/kinouzhashd/index.m3u8?token=+W2MSER
