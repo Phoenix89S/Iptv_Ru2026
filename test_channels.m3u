@@ -1,4 +1,10 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz" catchup="default" catchup-days="16" catchup-source="?start={utc}&duration={duration}" timeshift="120" x-recording="true" x-timeshift="true"
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7" catchup-source="${url}&utc=${start}&lutc=${timestamp}" timeshift="7"
+
+#-------------------------- ШАПКА ПЛЕЙЛИСТА (ОБНОВЛЕННАЯ) --------------------------
+# EPG: It999 + Teleguide + Iptvx (Lite/Full)
+# Архив: 7 дней (Перемотка + Запись активны)
+#-----------------------------------------------------------------------------------
+
 
 #EXTINF:-1 tvg-id="1_kanal_evraziya" tvg-name="Первый канал Евразия" tvg-logo="https://raw.githubusercontent.com/frol-aleksan/IPTV/master/logo/1_kanal_evraziya.png" group-title="Test evrasia", Первый канал Евразия (Main Galam)
 https://cdn.galamtv.kz/hls/1_kanal_evraziya/index.m3u8
