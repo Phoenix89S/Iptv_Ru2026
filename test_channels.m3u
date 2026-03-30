@@ -161,6 +161,19 @@ http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d
 
 # -----------------------------------------
 
+#-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС --------------------------
+
+#-----------кнопка 2 РТРС бонус-------------
+
+# 2.3 Россия 1 HD (VGTRK)
+#EXTINF:-1 tvg-id="rossiya-1-hd" tvg-logo="https://iptvx.one/picons/rossiya_1_hd.png" group-title="Эфирные ТВ плюс",2.3 Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+
+# 2.4 Россия 1 (Резерв HD)
+#EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://iptvx.one/picons/rossiya_1.png" group-title="Эфирные ТВ плюс",2.4 Россия 1 (HD)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+
+#-----------------------------------------------------------------------------
 
 
 
