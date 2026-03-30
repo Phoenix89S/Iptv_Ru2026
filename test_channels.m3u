@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7" catchup-source="${url}&utc=${start}&lutc=${timestamp}" timeshift="7"
+то#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7" catchup-source="${url}&utc=${start}&lutc=${timestamp}" timeshift="7"
 
 #-------------------------- ШАПКА ПЛЕЙЛИСТА (ОБНОВЛЕННАЯ) --------------------------
 # EPG: It999 + Teleguide + Iptvx (Lite/Full)
@@ -172,6 +172,43 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 # 2.4 Россия 1 (Резерв HD)
 #EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://iptvx.one/picons/rossiya_1.png" group-title="Эфирные ТВ плюс",2.4 Россия 1 (HD)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+
+#-----------------------------------------------------------------------------
+#-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС --------------------------
+
+#-----------кнопка 2 РТРС СУПЕРБОНУС (HD ОРБИТЫ)-------------
+
+# 2.5 Россия 1 (+2) HD
+#EXTINF:-1 tvg-id="rossiya-1-pl2" tvg-logo="https://iptvx.one/picons/rossiya_1_hd.png" group-title="Эфирные ТВ плюс",2.5 Россия 1 (+2) HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+
+# 2.6 Россия 1 (+3) HD
+#EXTINF:-1 tvg-id="rossiya-1-pl3" tvg-logo="https://iptvx.one/picons/rossiya_1_hd.png" group-title="Эфирные ТВ плюс",2.6 Россия 1 (+3) HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+
+# 2.7 Россия 1 (+4) HD
+#EXTINF:-1 tvg-id="rossiya-1-pl4" tvg-logo="https://iptvx.one/picons/rossiya_1_hd.png" group-title="Эфирные ТВ плюс",2.7 Россия 1 (+4) HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+
+# 2.8 Россия 1 (+5) HD
+#EXTINF:-1 tvg-id="rossiya-1-pl5" tvg-logo="https://iptvx.one/picons/rossiya_1_hd.png" group-title="Эфирные ТВ плюс",2.8 Россия 1 (+5) HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+
+# 2.9 Россия 1 (+6) HD
+#EXTINF:-1 tvg-id="rossiya-1-pl6" tvg-logo="https://iptvx.one/picons/rossiya_1_hd.png" group-title="Эфирные ТВ плюс",2.9 Россия 1 (+6) HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+
+# 2.10 Россия 1 (+7) HD
+#EXTINF:-1 tvg-id="rossiya-1-pl7" tvg-logo="https://iptvx.one/picons/rossiya_1_hd.png" group-title="Эфирные ТВ плюс",2.10 Россия 1 (+7) HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+
+# 2.11 Россия 1 (+8) HD
+#EXTINF:-1 tvg-id="rossiya-1-pl8" tvg-logo="https://iptvx.one/picons/rossiya_1_hd.png" group-title="Эфирные ТВ плюс",2.11 Россия 1 (+8) HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+
+# 2.12 Россия 1 (+9) HD
+#EXTINF:-1 tvg-id="rossiya-1-pl9" tvg-logo="https://iptvx.one/picons/rossiya_1_hd.png" group-title="Эфирные ТВ плюс",2.12 Россия 1 (+9) HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 #-----------------------------------------------------------------------------
 
