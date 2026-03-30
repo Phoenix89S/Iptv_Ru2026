@@ -147,6 +147,18 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8 
 
+# -- Кнопка 2: РТРС Международная ---
+
+# 2. РТР-Планета 
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://iptvx.one/picons/rtr_planeta.png" group-title="Эфирные ТВ плюс"
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+
+# ------------------------------------
+
+
+
+
+
 #----------Кнопка 3: Матч ТВ-----
 
 # 3. Матч ТВ (SD) — РТРС №3
