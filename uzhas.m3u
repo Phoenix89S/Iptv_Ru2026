@@ -315,6 +315,35 @@ http://cdn.kubteltv.workers.dev/?ID=52
 http://cdn.kubteltv.workers.dev/?ID=57
 
 
+# --- Сектор: Кино и Фантастика (ЦТВ) ---
+#EXTINF:-1 tvg-id="fan" group-title="Цифровое телевидение",FAN
+http://origin4.perm.ertelecom.ru/hls/CH_FAN/variant.m3u8
+
+#EXTINF:-1 tvg-id="nst" group-title="Цифровое телевидение",НСТ
+http://origin4.perm.ertelecom.ru/hls/CH_NST/variant.m3u8
+
+#EXTINF:-1 tvg-id="strashnoe-hd" group-title="Цифровое телевидение",Страшное HD
+http://origin4.perm.ertelecom.ru/hls/CH_STRASHNOE_HD/variant.m3u8
+
+# --- Сектор: Российские сериалы (ЦТВ) ---
+#EXTINF:-1 tvg-id="russkiy-roman" group-title="Цифровое телевидение",Русский роман
+http://origin4.perm.ertelecom.ru/hls/CH_R_ROMAN/variant.m3u8
+
+#EXTINF:-1 tvg-id="russkiy-bestseller" group-title="Цифровое телевидение",Русский бестселлер
+http://origin4.perm.ertelecom.ru/hls/CH_R_BESTSELLER/variant.m3u8
+
+#EXTINF:-1 tvg-id="russkiy-detektiv" group-title="Цифровое телевидение",Русский детектив
+http://origin4.perm.ertelecom.ru/hls/CH_R_DETECTIVE/variant.m3u8
+
+# --- Сектор: Познавательные и Детские (ЦТВ) ---
+#EXTINF:-1 tvg-id="moya-planeta" group-title="Цифровое телевидение",Моя планета
+http://origin4.perm.ertelecom.ru/hls/CH_MOYA_PLANETA/variant.m3u8
+
+#EXTINF:-1 tvg-id="nauka" group-title="Цифровое телевидение",Наука
+http://origin4.perm.ertelecom.ru/hls/CH_NAUKA/variant.m3u8
+
+#EXTINF:-1 tvg-id="mult" group-title="Цифровое телевидение",МУЛЬТ
+http://origin4.perm.ertelecom.ru/hls/CH_MULT/variant.m3u8
 
 
 
