@@ -217,3 +217,125 @@ http://cdn.kubteltv.workers.dev/?ID=50
 #EXTINF:-1 tvg-id="bridge-hit" group-title="Музыка",Bridge Hit
 http://cdn.kubteltv.workers.dev/?ID=52
 
+#EXTM3U
+
+# --- ГРУППА: КУБАНЬ (ЕДИНЫЙ СПИСОК) ---
+
+#EXTINF:-1 tvg-id="pervyy" tvg-logo="https://iptvx.one/picons/1_channel.png" group-title="Кубань",1. Первый канал
+http://cdn.kubteltv.workers.dev/?ID=1
+
+#EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Кубань",2. Россия 1
+http://cdn.kubteltv.workers.dev/?ID=2
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match.png" group-title="Кубань",3. Матч!
+http://cdn.kubteltv.workers.dev/?ID=3
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Кубань",4. НТВ
+http://cdn.kubteltv.workers.dev/?ID=4
+
+#EXTINF:-1 tvg-id="5-kanal" tvg-logo="https://iptvx.one/picons/5_kanal.png" group-title="Кубань",5. Пятый канал
+http://cdn.kubteltv.workers.dev/?ID=5
+
+#EXTINF:-1 tvg-id="rossiya-k" tvg-logo="https://iptvx.one/picons/rossia_k.png" group-title="Кубань",6. Россия К
+http://cdn.kubteltv.workers.dev/?ID=6
+
+#EXTINF:-1 tvg-id="rossiya-24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="Кубань",7. Россия 24
+http://cdn.kubteltv.workers.dev/?ID=7
+
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Кубань",8. Карусель
+http://cdn.kubteltv.workers.dev/?ID=8
+
+#EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Кубань",9. ОТР
+http://cdn.kubteltv.workers.dev/?ID=9
+
+#EXTINF:-1 tvg-id="tvc" tvg-logo="https://iptvx.one/picons/tvc.png" group-title="Кубань",10. ТВ Центр
+http://cdn.kubteltv.workers.dev/?ID=10
+
+#EXTINF:-1 tvg-id="ren-tv" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Кубань",11. РЕН ТВ
+http://cdn.kubteltv.workers.dev/?ID=11
+
+#EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-title="Кубань",12. Спас
+http://cdn.kubteltv.workers.dev/?ID=12
+
+#EXTINF:-1 tvg-id="ctc" tvg-logo="https://iptvx.one/picons/ctc.png" group-title="Кубань",13. СТС
+http://cdn.kubteltv.workers.dev/?ID=13
+
+#EXTINF:-1 tvg-id="domashniy" tvg-logo="https://iptvx.one/picons/domashniy.png" group-title="Кубань",14. Домашний
+http://cdn.kubteltv.workers.dev/?ID=14
+
+#EXTINF:-1 tvg-id="tv3" tvg-logo="https://iptvx.one/picons/tv3.png" group-title="Кубань",15. ТВ-3
+http://cdn.kubteltv.workers.dev/?ID=15
+
+#EXTINF:-1 tvg-id="friday" tvg-logo="https://iptvx.one/picons/friday.png" group-title="Кубань",16. Пятница!
+http://cdn.kubteltv.workers.dev/?ID=16
+
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Кубань",17. Звезда
+http://cdn.kubteltv.workers.dev/?ID=17
+
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Кубань",18. Мир
+http://cdn.kubteltv.workers.dev/?ID=18
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Кубань",19. ТНТ
+http://cdn.kubteltv.workers.dev/?ID=19
+
+#EXTINF:-1 tvg-id="muz-tv" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="Кубань",20. Муз-ТВ
+http://cdn.kubteltv.workers.dev/?ID=20
+
+#EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-title="Кубань",24. Че!
+http://cdn.kubteltv.workers.dev/?ID=24
+
+#EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban24.png" group-title="Кубань",28. Кубань 24
+http://cdn.kubteltv.workers.dev/?ID=28
+
+#EXTINF:-1 tvg-id="2x2" tvg-logo="https://iptvx.one/picons/2x2.png" group-title="Кубань",31. 2x2
+http://cdn.kubteltv.workers.dev/?ID=31
+
+#EXTINF:-1 tvg-id="ctc-love" tvg-logo="https://iptvx.one/picons/ctc_love.png" group-title="Кубань",35. СТС Love
+http://cdn.kubteltv.workers.dev/?ID=35
+
+#EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste_rf.png" group-title="Кубань",37. Вместе-РФ
+http://cdn.kubteltv.workers.dev/?ID=37
+
+#EXTINF:-1 tvg-id="usadba-tv" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="Кубань",38. Усадьба
+http://cdn.kubteltv.workers.dev/?ID=38
+
+#EXTINF:-1 tvg-id="krasnodar-tv" tvg-logo="https://iptvx.one/picons/krasnodar.png" group-title="Кубань",39. Краснодар ТВ
+http://cdn.kubteltv.workers.dev/?ID=39
+
+#EXTINF:-1 tvg-id="drive-tv" tvg-logo="https://iptvx.one/picons/drive.png" group-title="Кубань",46. Драйв
+http://cdn.kubteltv.workers.dev/?ID=46
+
+#EXTINF:-1 tvg-id="bridge-classic" tvg-logo="https://iptvx.one/picons/bridge_classic.png" group-title="Кубань",50. Bridge Classic
+http://cdn.kubteltv.workers.dev/?ID=50
+
+#EXTINF:-1 tvg-id="bridge-hit" tvg-logo="https://iptvx.one/picons/bridge_hit.png" group-title="Кубань",52. Bridge Hit
+http://cdn.kubteltv.workers.dev/?ID=52
+
+#EXTINF:-1 tvg-id="kuban-24-orbita" tvg-logo="https://iptvx.one/picons/kuban24.png" group-title="Кубань",57. Кубань 24 Орбита
+http://cdn.kubteltv.workers.dev/?ID=57
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
