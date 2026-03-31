@@ -163,4 +163,57 @@ http://cdn.kubteltv.workers.dev/?ID=52
 #EXTINF:-1 tvg-id="canal-57" group-title="Общие",Канал 57
 http://cdn.kubteltv.workers.dev/?ID=57
 
+#EXTM3U
+
+# --- ОБЩИЕ И ИНФОРМАЦИОННЫЕ ---
+#EXTINF:-1 tvg-id="ntv" group-title="Общие",НТВ
+http://cdn.kubteltv.workers.dev/?ID=4
+#EXTINF:-1 tvg-id="5-kanal" group-title="Общие",Пятый канал
+http://cdn.kubteltv.workers.dev/?ID=5
+#EXTINF:-1 tvg-id="tvc" group-title="Общие",ТВ Центр
+http://cdn.kubteltv.workers.dev/?ID=10
+#EXTINF:-1 tvg-id="rossiya-24" group-title="Инфо",Россия 24
+http://cdn.kubteltv.workers.dev/?ID=7
+#EXTINF:-1 tvg-id="vmeste-rf" group-title="Инфо",Вместе-РФ
+http://cdn.kubteltv.workers.dev/?ID=37
+
+# --- РАЗВЛЕКАТЕЛЬНЫЕ ---
+#EXTINF:-1 tvg-id="ctc" group-title="Развлекательные",СТС
+http://cdn.kubteltv.workers.dev/?ID=13
+#EXTINF:-1 tvg-id="tv3" group-title="Развлекательные",ТВ-3
+http://cdn.kubteltv.workers.dev/?ID=15
+#EXTINF:-1 tvg-id="friday" group-title="Развлекательные",Пятница!
+http://cdn.kubteltv.workers.dev/?ID=16
+#EXTINF:-1 tvg-id="che" group-title="Развлекательные",Че!
+http://cdn.kubteltv.workers.dev/?ID=24
+#EXTINF:-1 tvg-id="2x2" group-title="Развлекательные",2x2
+http://cdn.kubteltv.workers.dev/?ID=31
+#EXTINF:-1 tvg-id="ctc-love" group-title="Развлекательные",CTC Love
+http://cdn.kubteltv.workers.dev/?ID=35
+
+# --- СПОРТ И ХОББИ ---
+#EXTINF:-1 tvg-id="match-tv" group-title="Спорт",Матч!
+http://cdn.kubteltv.workers.dev/?ID=3
+#EXTINF:-1 tvg-id="drive-tv" group-title="Хобби",Драйв
+http://cdn.kubteltv.workers.dev/?ID=46
+#EXTINF:-1 tvg-id="usadba-tv" group-title="Хобби",Усадьба
+http://cdn.kubteltv.workers.dev/?ID=38
+
+# --- РЕГИОНАЛЬНЫЕ (КРАСНОДАР/КУБАНЬ) ---
+#EXTINF:-1 tvg-id="kuban-24" group-title="Региональные",Кубань 24
+http://cdn.kubteltv.workers.dev/?ID=28
+#EXTINF:-1 tvg-id="krasnodar-tv" group-title="Региональные",Краснодар ТВ
+http://cdn.kubteltv.workers.dev/?ID=39
+#EXTINF:-1 tvg-id="kuban-24-orbita" group-title="Региональные",Кубань 24 Орбита
+http://cdn.kubteltv.workers.dev/?ID=57
+
+# --- ДЕТСКИЕ И ПРОЧЕЕ ---
+#EXTINF:-1 tvg-id="karusel" group-title="Детские",Карусель
+http://cdn.kubteltv.workers.dev/?ID=8
+#EXTINF:-1 tvg-id="spas" group-title="Религия",Спас
+http://cdn.kubteltv.workers.dev/?ID=12
+#EXTINF:-1 tvg-id="bridge-classic" group-title="Музыка",Bridge Classic
+http://cdn.kubteltv.workers.dev/?ID=50
+#EXTINF:-1 tvg-id="bridge-hit" group-title="Музыка",Bridge Hit
+http://cdn.kubteltv.workers.dev/?ID=52
 
