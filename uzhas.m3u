@@ -33,3 +33,66 @@ http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 tvg-id="kinouzhas-hd" group-title="Кино",Киноужас HD
 http://31.210.208.171:8080/kinouzhashd/index.m3u8?token=+W2MSER
+
+#-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС --------------------------
+
+# --- Сектор 11.0: Рен ТВ Int Флагман и Резерв ---
+
+# 11.0.0 Рен ТВ Int HD (Источник)
+#EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Эфирные ТВ плюс",11.0.0 Рен ТВ Int HD
+https://cdn2.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+
+# 11.0.1 Рен ТВ Int HD (Дополнение)
+#EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Эфирные ТВ плюс",11.0.1 Рен ТВ Int HD
+https://cdn2.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+
+
+# --- Сектор 11.1 - 11.6: РЕН ТВ (Wink Резерв) ---
+
+# 11.1 РЕН ТВ
+#EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ" tvg-logo="http://epg.it99.org/img/11.png" group-title="Эфирные ТВ плюс",11.1 РЕН ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+# 11.2 РЕН ТВ (+2)
+#EXTINF:-1 tvg-id="rentv-pl2" tvg-name="РЕН ТВ (+2)" tvg-logo="http://epg.it99.org/img/11.png" group-title="Эфирные ТВ плюс",11.2 РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+
+# 11.3 РЕН ТВ (Резерв Wink)
+#EXTINF:-1 tvg-id="rentv" group-title="Эфирные ТВ плюс",11.3 РЕН ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+# 11.4 РЕН ТВ (+2) (Резерв Wink)
+#EXTINF:-1 tvg-id="rentv-pl2" group-title="Эфирные ТВ плюс",11.4 РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+
+# 11.5 РЕН ТВ (+4)
+#EXTINF:-1 tvg-id="rentv-pl4" group-title="Эфирные ТВ плюс",11.5 РЕН ТВ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+
+# 11.6 РЕН ТВ (+7)
+#EXTINF:-1 tvg-id="rentv-pl7" group-title="Эфирные ТВ плюс",11.6 РЕН ТВ (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+
+
+# --- Сектор 11.7 - 11.9+: РЕН ТВ (CDNvideo Орбиты HD/SD) ---
+
+# 11.7 РЕН ТВ International HD
+#EXTINF:-1 tvg-id="ren-tv-int" tvg-logo="https://iptvx.one/picons/rentv_int.png" group-title="Эфирные ТВ плюс",11.7 РЕН ТВ International HD
+https://ren-hls.cdnvideo.ru/ren-int/0/1080p.m3u8
+
+# 11.8 РЕН ТВ HD (Мск)
+#EXTINF:-1 tvg-id="ren-tv-hd" tvg-logo="https://iptvx.one/picons/ren_tv_hd.png" group-title="Эфирные ТВ плюс",11.8 РЕН ТВ HD
+https://ren-hls.cdnvideo.ru/ren-hls/0/1080p.m3u8
+
+# 11.9 РЕН ТВ (+2) HD
+#EXTINF:-1 tvg-id="ren-tv-pl2" tvg-logo="https://iptvx.one/picons/ren_tv_hd.png" group-title="Эфирные ТВ плюс",11.9 РЕН ТВ (+2) HD
+https://ren-hls.cdnvideo.ru/ren-hls/2/1080p.m3u8
+
+#-----------------------------------------------------------------------------
+
