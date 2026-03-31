@@ -96,3 +96,71 @@ https://ren-hls.cdnvideo.ru/ren-hls/2/1080p.m3u8
 
 #-----------------------------------------------------------------------------
 
+
+
+
+
+#EXTINF:-1 tvg-id="canal-3" group-title="Общие",Канал 3
+http://cdn.kubteltv.workers.dev/?ID=3
+
+#EXTINF:-1 tvg-id="canal-4" group-title="Общие",Канал 4
+http://cdn.kubteltv.workers.dev/?ID=4
+
+#EXTINF:-1 tvg-id="canal-5" group-title="Общие",Канал 5
+http://cdn.kubteltv.workers.dev/?ID=5
+
+#EXTINF:-1 tvg-id="canal-7" group-title="Общие",Канал 7
+http://cdn.kubteltv.workers.dev/?ID=7
+
+#EXTINF:-1 tvg-id="canal-8" group-title="Общие",Канал 8
+http://cdn.kubteltv.workers.dev/?ID=8
+
+#EXTINF:-1 tvg-id="canal-10" group-title="Общие",Канал 10
+http://cdn.kubteltv.workers.dev/?ID=10
+
+#EXTINF:-1 tvg-id="canal-12" group-title="Общие",Канал 12
+http://cdn.kubteltv.workers.dev/?ID=12
+
+#EXTINF:-1 tvg-id="canal-13" group-title="Общие",Канал 13
+http://cdn.kubteltv.workers.dev/?ID=13
+
+#EXTINF:-1 tvg-id="canal-15" group-title="Общие",Канал 15
+http://cdn.kubteltv.workers.dev/?ID=15
+
+#EXTINF:-1 tvg-id="canal-16" group-title="Общие",Канал 16
+http://cdn.kubteltv.workers.dev/?ID=16
+
+#EXTINF:-1 tvg-id="canal-24" group-title="Общие",Канал 24
+http://cdn.kubteltv.workers.dev/?ID=24
+
+#EXTINF:-1 tvg-id="canal-28" group-title="Общие",Канал 28
+http://cdn.kubteltv.workers.dev/?ID=28
+
+#EXTINF:-1 tvg-id="canal-31" group-title="Общие",Канал 31
+http://cdn.kubteltv.workers.dev/?ID=31
+
+#EXTINF:-1 tvg-id="canal-35" group-title="Общие",Канал 35
+http://cdn.kubteltv.workers.dev/?ID=35
+
+#EXTINF:-1 tvg-id="canal-37" group-title="Общие",Канал 37
+http://cdn.kubteltv.workers.dev/?ID=37
+
+#EXTINF:-1 tvg-id="canal-38" group-title="Общие",Канал 38
+http://cdn.kubteltv.workers.dev/?ID=38
+
+#EXTINF:-1 tvg-id="canal-39" group-title="Общие",Канал 39
+http://cdn.kubteltv.workers.dev/?ID=39
+
+#EXTINF:-1 tvg-id="canal-46" group-title="Общие",Канал 46
+http://cdn.kubteltv.workers.dev/?ID=46
+
+#EXTINF:-1 tvg-id="canal-50" group-title="Общие",Канал 50
+http://cdn.kubteltv.workers.dev/?ID=50
+
+#EXTINF:-1 tvg-id="canal-52" group-title="Общие",Канал 52
+http://cdn.kubteltv.workers.dev/?ID=52
+
+#EXTINF:-1 tvg-id="canal-57" group-title="Общие",Канал 57
+http://cdn.kubteltv.workers.dev/?ID=57
+
+
