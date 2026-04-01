@@ -2317,6 +2317,29 @@ http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/556/index.m3u8
 #------------------------------------------------------------------------------------------------
 
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 73) ----------------
+
+# --- Сектор 73.0: Дни недели ---
+
+# 73. Среда
+#EXTINF:-1 tvg-id="sreda" tvg-logo="https://iptvx.one/picons/sreda.png" group-title="Эфирные ТВ плюс",73. Среда
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SREDA/variant.m3u8
+
+# 73.1 Среда (Резерв)
+#EXTINF:-1 tvg-id="sreda" tvg-logo="https://iptvx.one/picons/sreda.png" group-title="Эфирные ТВ плюс",73.1 Среда (Резерв)
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=8zIg7oO2dj7zRXDm3VJ-mw&e=2068506945&scheme=https
+
+# 73.2 Пятница!
+#EXTINF:-1 tvg-id="friday" tvg-logo="https://iptvx.one/picons/friday.png" group-title="Эфирные ТВ плюс",73.2 Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+
+# 73.3 Суббота!
+#EXTINF:-1 tvg-id="subbota" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Эфирные ТВ плюс",73.3 Суббота!
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=K5qwXPiww7h9EIwodnvrAQ&e=2068506935&scheme=https
+
+#
+# --------------------------------------------------------------------
 
 
 
