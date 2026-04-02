@@ -1,0 +1,25 @@
+name: Generate Icon List
+
+on:
+  push:
+    paths:
+      - icons/**/*
+
+jobs:
+  generate-icon-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Generate Icon List
+        run: |
+          ls icons/ > icon_list.txt
+
+      - name: Commit and Push Icon List
+        run: |
+          git config --local user.email 'action@github.com'
+          git config --local user.name 'GitHub Action'
+          git add icon_list.txt
+          git commit -m 'Update icon list' || echo 'No changes to commit'
+          git push
