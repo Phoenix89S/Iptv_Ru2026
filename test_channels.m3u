@@ -1,4 +1,4 @@
-то#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7" catchup-source="${url}&utc=${start}&lutc=${timestamp}" timeshift="7"
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7" catchup-source="${url}&utc=${start}&lutc=${timestamp}" timeshift="7"
 
 #-------------------------- ШАПКА ПЛЕЙЛИСТА (ОБНОВЛЕННАЯ) --------------------------
 # EPG: It999 + Teleguide + Iptvx (Lite/Full)
@@ -1059,17 +1059,44 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-id="tv3-international" tvg-logo="https://iptvx.one/picons/tv3-international.png" group-title="Эфирные ТВ плюс",38.2 ТВ-3 International
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_TV3_INT/variant.m3u8
 
-# 39. ПЯТНИЦА! HD — Основной поток (Полировка)
-#EXTINF:-1 tvg-id="friday" tvg-logo="https://iptvx.one/picons/friday_hd.png" group-title="Эфирные ТВ плюс",39. Пятница! HD
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_PYATNICA_HD/variant.m3u8
 
-# 39.1 Пятница! — Резервный поток (HQ/SD)
-#EXTINF:-1 tvg-id="friday" tvg-logo="https://iptvx.one/picons/friday.png" group-title="Эфирные ТВ плюс",39.1 Пятница! (Резерв)
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_PYATNICA/variant.m3u8
 
-# 39.2 Пятница! International — Международная версия
-#EXTINF:-1 tvg-id="friday-international" tvg-logo="https://iptvx.one/picons/friday-international.png" group-title="Эфирные ТВ плюс",39.2 Пятница! International
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_PYATNICA_INT/variant.m3u8
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 39)  ----------------
+
+# --- Сектор 39.0: Пятница! (Каркас) ---
+# 39. Пятница!
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные ТВ плюс" tvg-logo="https://karnei4.github.io/convert/logo-z/04fbc8829fa8cb451a8af03ad716ada4.png" tvg-id="Пятница!",39. Пятница!
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY/variant.m3u8
+
+# --- Сектор 39.1: Орбиты ---
+# 39.1.1 Пятница! (Мск)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные ТВ плюс" tvg-logo="https://karnei4.github.io/convert/logo-z/04fbc8829fa8cb451a8af03ad716ada4.png" tvg-id="Пятница!",39.1.1 Пятница!
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY/variant.m3u8
+
+# 39.1.2 Пятница! (+2)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные ТВ плюс" tvg-logo="https://karnei4.github.io/convert/logo-z/fdf100fb4e0cddada1e753af3b26f6b0.png" tvg-id="Пятница! (+2)",39.1.2 Пятница! (+2)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_URAL/variant.m3u8
+
+# 39.1.3 Пятница! (+4)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные ТВ плюс" tvg-logo="https://karnei4.github.io/convert/logo-z/e889d560eefa2006f17a2f073c879e10.png" tvg-id="Пятница! (+4)",39.1.3 Пятница! (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+
+# 39.1.4 Пятница! (+7)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные ТВ плюс" tvg-logo="https://karnei4.github.io/convert/logo-z/04fbc8829fa8cb451a8af03ad716ada4.png" tvg-id="Пятница! (+7)",39.1.4 Пятница! (+7)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+
+#
+# --------------------------------------------------------------------
+
+
+
+
+
 
 # 40. ЗВЕЗДА HD — Основной поток (Официальный HD)
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda_hd.png" group-title="Эфирные ТВ плюс",40. Звезда HD
