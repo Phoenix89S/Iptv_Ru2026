@@ -1,4 +1,45 @@
 #EXTM3U
+
+#-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС --------------------------
+
+# --- Сектор 1.0: Первый канал (Флагманы и Резервы) ---
+
+# 1. Первый канал HD (VGTRK/Cdn)
+#EXTINF:-1 tvg-id="1-hd" tvg-logo="https://iptvx.one/picons/1_hd.png" group-title="Эфирные ТВ плюс",1 Первый канал HD
+https://1tvrus-live.cdnvideo.ru/1tv/1tv-hd/1080p.m3u8
+
+# 1.0.1 Первый канал (Резерв HD)
+#EXTINF:-1 tvg-id="1" tvg-logo="https://iptvx.one/picons/1.png" group-title="Эфирные ТВ плюс",1.0.1 Первый канал (HD)
+https://1tvrus-live.cdnvideo.ru/1tv/1tv-sd/index.m3u8
+
+# 1.0.2 Первый канал (Wink)
+#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.it99.org/img/1.png" group-title="Эфирные ТВ плюс",1.0.2 Первый канал (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1CHANNEL/variant.m3u8
+
+
+# --- Сектор 1.1: Первый канал (HD Орбиты) ---
+
+# 1.1.1 Первый канал (+2) HD
+#EXTINF:-1 tvg-id="1-pl2" tvg-logo="https://iptvx.one/picons/1_hd.png" group-title="Эфирные ТВ плюс",1.1.1 Первый канал (+2) HD
+https://1tvrus-live.cdnvideo.ru/1tv/1tv-pl2-hd/1080p.m3u8
+
+# 1.1.2 Первый канал (+4) HD
+#EXTINF:-1 tvg-id="1-pl4" tvg-logo="https://iptvx.one/picons/1_hd.png" group-title="Эфирные ТВ плюс",1.1.2 Первый канал (+4) HD
+https://1tvrus-live.cdnvideo.ru/1tv/1tv-pl4-hd/1080p.m3u8
+
+# 1.1.3 Первый канал (+6) HD
+#EXTINF:-1 tvg-id="1-pl6" tvg-logo="https://iptvx.one/picons/1_hd.png" group-title="Эфирные ТВ плюс",1.1.3 Первый канал (+6) HD
+https://1tvrus-live.cdnvideo.ru/1tv/1tv-pl6-hd/1080p.m3u8
+
+# 1.1.4 Первый канал (+8) HD
+#EXTINF:-1 tvg-id="1-pl8" tvg-logo="https://iptvx.one/picons/1_hd.png" group-title="Эфирные ТВ плюс",1.1.4 Первый канал (+8) HD
+https://1tvrus-live.cdnvideo.ru/1tv/1tv-pl8-hd/1080p.m3u8
+
+#-----------------------------------------------------------------------------
+
+
+
 #EXTINF:-1, Stream 200
 https://streaming.thestream.cyou/live/200.m3u8
 #EXTINF:-1, Stream 201
