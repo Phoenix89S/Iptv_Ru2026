@@ -1,4 +1,266 @@
+
+
 #EXTM3U
+
+# ====================================================================
+# БЛОК 1: ФЕДЕРАЛЬНЫЕ И РЕГИОНАЛЬНЫЕ (WINK / GEO-BLOCKED)
+# ====================================================================
+
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Первый канал (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия К (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru@SD",НТВ (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.ru@SD",Пятый Канал (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+
+#EXTINF:-1 tvg-id="OTR.ru@SD",ОТР (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-id="TVCentr.ru@SD",ТВ Центр (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+
+#EXTINF:-1 tvg-id="STS.ru@SD",СТС (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru@SD",ТНТ (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+
+#EXTINF:-1 tvg-id="RENTV.ru@SD",РЕН ТВ (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="Friday.ru@SD",Пятница! (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+
+#EXTINF:-1 tvg-id="Domashniy.ru@SD",Домашний (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+
+#EXTINF:-1 tvg-id="TV3.ru@SD",ТВ-3 (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+
+#EXTINF:-1 tvg-id="2x2.ru@SD",2х2 (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
+#EXTINF:-1 tvg-id="Che.ru@SD",Че! (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+
+#EXTINF:-1 tvg-id="STSLove.ru@SD",СТС Love (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+
+#EXTINF:-1 tvg-id="Subbota.ru@SD",Суббота! (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
+#EXTINF:-1 tvg-id="TNT4.ru@SD",ТНТ4 (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+
+#EXTINF:-1 tvg-id="U.ru@SD",Ю (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru@SD",Карусель (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru@SD",Солнце (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru@SD",Муз ТВ (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru@SD",Звезда (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+
+#EXTINF:-1 tvg-id="Spas.ru@SD",Спас (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru@SD",Мир (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru@Plus7",Мир +7 (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+
+# --- РЕГИОНАЛЬНЫЕ (WINK) ---
+#EXTINF:-1 tvg-id="SanktPeterburg.ru@SD",Санкт-Петербург HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+
+#EXTINF:-1 tvg-id="LenTV24.ru@SD",Лен ТВ 24 (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+
+#EXTINF:-1 tvg-id="NovgorOblTV.ru@HD",Новгородское областное телевидение [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="Kuban24.ru@SD",Кубань 24 [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+
+#EXTINF:-1 tvg-id="Prima.ru@SD",Прима (1080p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+
+#EXTINF:-1 tvg-id="Vostok24.ru@SD",Восток 24 (Владивосток) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+
+#EXTINF:-1 tvg-id="NTK21.ru@HD",НТК 21 (Биробиджан) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+
+
+# ====================================================================
+# БЛОК 2: ТЕМАТИЧЕСКИЕ (ПРЯМЫЕ ССЫЛКИ / 31.148.48.15)
+# ====================================================================
+
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru@SD",Europa Plus TV (1080p)
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FAN.ru@SD",FAN (1080p)
+http://31.148.48.15/Fan/index.m3u8
+
+#EXTINF:-1 tvg-id="FashionLifeStyle.ru@SD",FASHION & LIFESTYLE (1080p)
+http://31.148.48.15/Fashion_One_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodTime.ru@SD",FoodTime (1080p)
+http://31.148.48.15/Eda_Premium_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HDL.ru@SD",HDL (720p)
+http://31.148.48.15/HD_Life/index.m3u8
+
+#EXTINF:-1 tvg-id="Hollywood.ru@SD",Hollywood (576p)
+http://31.148.48.15/AMC/index.m3u8
+
+#EXTINF:-1 tvg-id="Hollywood.ru@SD",Hollywood HD (1080p)
+http://31.148.48.15/MGM_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="KHL.ru@SD",KHL (720p)
+http://31.148.48.15/KHL_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="KHLPrime.ru@SD",KHL Prime (720p)
+http://31.148.48.15/KHL_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchStrana.ru@SD",Match! Strana (720p)
+http://31.148.48.15/Match_Strana/index.m3u8
+
+#EXTINF:-1 tvg-id="MMATV.us@SD",MMA-TV (576p)
+http://31.148.48.15/M1_Global/index.m3u8
+
+#EXTINF:-1 tvg-id="RTGTV.ru@SD",RTG TV (720p)
+http://31.148.48.15/RTG_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="RTGTV.ru@SD",RTG TV (576p)
+http://31.148.48.15/RTG/index.m3u8
+
+#EXTINF:-1 tvg-id="RUTV.ru@SD",RU.TV (576p)
+http://31.148.48.15/RU_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="STSkids.ru@SD",STS kids (1080p)
+http://31.148.48.15/STS_Kids_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TERRA.ru@SD",Terra (576p)
+http://31.148.48.15/Terra/index.m3u8
+
+#EXTINF:-1 tvg-id="TERRA.ru@SD",Terra HD (720p)
+http://31.148.48.15/Terra_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru@SD",Travel+Adventure (1080p)
+http://31.148.48.15/Travel_Adventure_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD",viju TV1000 Русское
+http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
+
+#EXTINF:-1 tvg-id="AutoPlus.ru@SD",Авто Плюс (576p)
+http://31.148.48.15/Avto_Plus/index.m3u8
+
+#EXTINF:-1 tvg-id="Belarus24.by@SD",Беларусь 24 (576p)
+http://31.148.48.15/Belarus_24/index.m3u8
+
+#EXTINF:-1 tvg-id="BelRos.ru@SD",БелРос (576p)
+http://31.148.48.15/BelRos/index.m3u8
+
+#EXTINF:-1 tvg-id="BoksTV.ru@SD",Бокс ТВ (720p)
+http://31.148.48.15/Boks_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Vremya.ru@SD",Время (576p)
+http://31.148.48.15/Vremya/index.m3u8
+
+#EXTINF:-1 tvg-id="Doctor.ru@SD",Доктор (1080p)
+http://31.148.48.15/Doktor/index.m3u8
+
+#EXTINF:-1 tvg-id="DomkinoPremium.ru@SD",Дом Кино Премиум HD (1080p)
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Evrokino.ru@SD",Еврокино (576p)
+http://31.148.48.15/Evrokino/index.m3u8
+
+#EXTINF:-1 tvg-id="Zhara.ru@SD",Жара TV (576p)
+http://31.148.48.15/Zhara/index.m3u8
+
+#EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD",Живая Планета (576p)
+http://31.148.48.15/Zhivaya_Planeta/index.m3u8
+
+#EXTINF:-1 tvg-id="Zhivi.ru@SD",ЖИВИ! (1080p)
+http://31.148.48.15/Zhivi/index.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru@SD",Звезда (+4) (576p)
+http://31.148.48.15/Zvezda/index.m3u8
+
+#EXTINF:-1 tvg-id="ZdorovoeTV.ru@SD",Здоровое ТВ (576p)
+http://31.148.48.15/Zdorovoe_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="ZooTV.ru@SD",Зоо ТВ (576p)
+http://31.148.48.15/Zoo_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="IllusionPlus.ru@SD",Иллюзион+ (576p)
+http://31.148.48.15/Illusion_plus/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 #-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС --------------------------
 
