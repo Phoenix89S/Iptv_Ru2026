@@ -142,3 +142,40 @@ https://streaming.thestream.cyou/live/248.m3u8
 https://streaming.thestream.cyou/live/249.m3u8
 #EXTINF:-1, Stream 250
 https://streaming.thestream.cyou/live/250.m3u8
+
+#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip_premiere_hd.png" group-title="Кино",VIP Premiere
+http://s04.wsbof.com/tv1000-premium-hd/mpegts?token=60a8878e
+
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip_megahit_hd.png" group-title="Кино",VIP Megahit
+http://s04.wsbof.com/tv1000-megahit-hd/mpegts?token=60a8878e
+
+#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip_comedy_hd.png" group-title="Кино",VIP Comedy
+http://s04.wsbof.com/tv1000-comedy-hd/mpegts?token=60a8878e
+
+#EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip_serial_hd.png" group-title="Кино",VIP Serial
+http://s04.wsbof.com/vip-serial-hd/mpegts?token=60a8878e
+
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Кино",TV1000
+http://s04.wsbof.com/tv1000/mpegts?token=60a8878e
+
+#EXTINF:-1 tvg-id="tv1000-hd" tvg-logo="https://iptvx.one/picons/tv1000_hd.png" group-title="Кино",TV1000 HD
+http://s04.wsbof.com/tv1000-hd/mpegts?token=60a8878e
+
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000_action.png" group-title="Кино",TV1000 Action
+http://s04.wsbof.com/tv1000-action/mpegts?token=60a8878e
+
+#EXTINF:-1 tvg-id="tv1000-action-hd" tvg-logo="https://iptvx.one/picons/tv1000_action_hd.png" group-title="Кино",TV1000 Action HD
+http://s04.wsbof.com/tv1000-action-hd/mpegts?token=60a8878e
+
+#EXTINF:-1 tvg-id="tv1000-rus-kino" tvg-logo="https://iptvx.one/picons/tv1000_russian.png" group-title="Кино",TV1000 Русское Кино
+http://s04.wsbof.com/tv1000-ru-kino/mpegts?token=60a8878e
+
+#EXTINF:-1 tvg-id="tv1000-rus-kino-hd" tvg-logo="https://iptvx.one/picons/tv1000_russian_hd.png" group-title="Кино",TV1000 Русское Кино HD
+http://s04.wsbof.com/tv1000-russkoje-hd/mpegts?token=60a8878e
+
+#EXTINF:-1 tvg-id="tv1000-world-kino" tvg-logo="https://iptvx.one/picons/tv1000_world.png" group-title="Кино",TV1000 World Kino
+http://s04.wsbof.com/tv1000-world-kino/mpegts?token=60a8878e
+
+
+
+
