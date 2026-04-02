@@ -1,0 +1,17 @@
+name: Process Icons
+
+on:
+  workflow_dispatch:
+
+jobs:
+  process_icons:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Process icons with timezone shift and quality
+        run: |
+          echo 'Processing icons...'
+          # Add your script or commands to process icons here.
+          
