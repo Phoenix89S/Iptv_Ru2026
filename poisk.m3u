@@ -438,6 +438,13 @@ http://s04.wsbof.com/tv1000-russkoje-hd/mpegts?token=60a8878e
 #EXTINF:-1 tvg-id="tv1000-world-kino" tvg-logo="https://iptvx.one/picons/tv1000_world.png" group-title="Кино",TV1000 World Kino
 http://s04.wsbof.com/tv1000-world-kino/mpegts?token=60a8878e
 
+#-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС --------------------------
 
+# --- Сектор 74.0: Наша Раша (VF) ---
 
+# 74. VF Наша Раша
+#EXTINF:-1 tvg-id="nasha-rasha" tvg-logo="https://iptvx.one/picons/nasha_rasha.png" group-title="Эфирные ТВ плюс",74. VF Наша Раша
+http://f2a50ca2.ucomist.net/iptv/9MKMDCYBPS4Q2E/17010/index.m3u8
+
+#-----------------------------------------------------------------------------
 
