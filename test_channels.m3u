@@ -227,18 +227,63 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
-#------------- кнопка 4 НТВ (РТРС - 04) --------------------------
+#------------- кнопка 4 НТВ (Все орбиты) --------------------------
 
-# 4. НТВ — РТРС №4
-#EXTINF:-1 tvg-id="NTV" tvg-name="НТВ" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/NTV_0HD.png" group-title="Эфирные ТВ плюс",4. НТВ
+#---------  4 - HD  -------------
+
+# 4. НТВ (-1) Калининград
+#EXTINF:-1 tvg-id="NTV-1" tvg-name="НТВ (-1)" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/NTV_-1SD.png" group-title="Эфирные ТВ плюс",4. НТВ (-1)
+http://cdn.ntv.ru/ntv-1/tracks-v3a1/mono.m3u8
+
+# 4.1. НТВ (+0) Москва
+#EXTINF:-1 tvg-id="NTV" tvg-name="НТВ" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/NTV_0HD.png" group-title="Эфирные ТВ плюс",4.1. НТВ
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
 
-# 4.1 НТВ (Архив)
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="NTV" tvg-name="НТВ" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/NTV%20-1.png" group-title="Эфирные ТВ плюс",4.1 НТВ (Архив)
+# 4.2. НТВ (+1) Самара
+#EXTINF:-1 tvg-id="NTV+1" tvg-name="НТВ (+1)" group-title="Эфирные ТВ плюс",4.2. НТВ (+1)
+http://cdn.ntv.ru/ntv1/tracks-v3a1/mono.m3u8
+
+# 4.3. НТВ (+2) Урал
+#EXTINF:-1 tvg-id="NTV+2" tvg-name="НТВ (+2)" group-title="Эфирные ТВ плюс",4.3. НТВ (+2)
+http://cdn.ntv.ru/ntv2/tracks-v3a1/mono.m3u8
+
+# 4.4. НТВ (+3) Омск
+#EXTINF:-1 tvg-id="NTV+3" tvg-name="НТВ (+3)" group-title="Эфирные ТВ плюс",4.4. НТВ (+3)
+http://cdn.ntv.ru/ntv3/tracks-v3a1/mono.m3u8
+
+# 4.5. НТВ (+4) Красноярск
+#EXTINF:-1 tvg-id="NTV+4" tvg-name="НТВ (+4)" group-title="Эфирные ТВ плюс",4.5. НТВ (+4)
+http://cdn.ntv.ru/ntv4/tracks-v3a1/mono.m3u8
+
+# 4.6. НТВ (+5) Иркутск
+#EXTINF:-1 tvg-id="NTV+5" tvg-name="НТВ (+5)" group-title="Эфирные ТВ плюс",4.6. НТВ (+5)
+http://cdn.ntv.ru/ntv5/tracks-v3a1/mono.m3u8
+
+# 4.7. НТВ (+6) Якутск
+#EXTINF:-1 tvg-id="NTV+6" tvg-name="НТВ (+6)" group-title="Эфирные ТВ плюс",4.7. НТВ (+6)
+http://cdn.ntv.ru/ntv6/tracks-v3a1/mono.m3u8
+
+# 4.8. НТВ (+7) Владивосток
+#EXTINF:-1 tvg-id="NTV+7" tvg-name="НТВ (+7)" group-title="Эфирные ТВ плюс",4.8. НТВ (+7)
+http://cdn.ntv.ru/ntv7/tracks-v3a1/mono.m3u8
+
+# 4.9. НТВ (+8) Магадан
+#EXTINF:-1 tvg-id="NTV+8" tvg-name="НТВ (+8)" group-title="Эфирные ТВ плюс",4.9. НТВ (+8)
+http://cdn.ntv.ru/ntv8/tracks-v3a1/mono.m3u8
+
+# 4.10. НТВ (+9) Камчатка
+#EXTINF:-1 tvg-id="NTV+9" tvg-name="НТВ (+9)" group-title="Эфирные ТВ плюс",4.10. НТВ (+9)
+http://cdn.ntv.ru/ntv9/tracks-v3a1/mono.m3u8
+
+#---------  4 - SD -------------
+
+# 4.11. НТВ (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="NTV" tvg-name="НТВ" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/NTV%20-1.png" group-title="Эфирные ТВ плюс",4.11. НТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 
 #----------------------------------------------------------------------
+
 
 
 
