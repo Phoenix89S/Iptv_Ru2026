@@ -435,7 +435,7 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 # 11.0.0 Рен ТВ Int HD (Источник)
 #EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Эфирные ТВ плюс",11.0.0 Рен ТВ Int HD
-https://cdn2.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 # 11.0.1 Рен ТВ Int HD (Дополнение)
 #EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Эфирные ТВ плюс",11.0.1 Рен ТВ Int HD
