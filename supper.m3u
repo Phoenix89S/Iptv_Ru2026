@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+
 
 #EXTINF:-1 tvg-name="FAN" tvg-logo="https://i.ibb.co/L8N0k9v/fan-hd.png" group-title="Кино",FAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -10,6 +11,18 @@ http://ottlinks.club/hls/0202020202/404.m3u8
 #EXTVLCOPT:http-referrer=http://starcius-cinema.com/
 http://starcius-cinema.com/00096/index.m3u8?token=010101010101
 
+
+#EXTINF:-1 tvg-id="fan-hd" tvg-name="FAN HD" tvg-logo="https://i.ibb.co/L8N0k9v/fan-hd.png" group-title="Кино (Open CDN)",FAN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://voka-video-3.cdn.itv.by/hls/FAN_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="centralnoe-tv" tvg-name="Центральное Телевидение" tvg-logo="https://i.ibb.co/6yV0m2p/ctv.png" group-title="Общие (Open CDN)",Центральное Телевидение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://81.163.100.198:8081/ctv/index.m3u8
+
+#EXTINF:-1 tvg-id="v-mire-zhivotnyh-hd" tvg-name="В мире животных HD" group-title="Познавательные (Open CDN)",В мире животных HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://voka-video-3.cdn.itv.by/hls/V_mire_zhivotnyh_HD/index.m3u8
 
 
 
