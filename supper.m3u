@@ -5,6 +5,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://hls127.freeott.top:8080/HCTV/mono.m3u8
 
+#EXTINF:-1 tvg-id="sts-kids" tvg-name="СТС Kids" tvg-logo="https://i.postimg.cc/mD3636XF/sts-kids.png" group-title="Детские",СТС Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
 
 
 
