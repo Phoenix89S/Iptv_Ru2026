@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
 
 #EXTINF:-1 tvg-name="FAN" tvg-logo="https://i.ibb.co/L8N0k9v/fan-hd.png" group-title="Кино",FAN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://ottlinks.club/
 http://ottlinks.club/hls/0202020202/404.m3u8
