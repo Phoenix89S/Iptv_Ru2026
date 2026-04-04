@@ -2197,13 +2197,6 @@ http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Эфирные ТВ плюс",69.10 Viju+ Comedy
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 
-# 69.16.0.0.1 FAN
-#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="Эфирные ТВ плюс",69.16.0.0.1 FAN
-http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
-
-# 69.16.0.0.2 Еврокино
-#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Эфирные ТВ плюс",69.16.0.0.2 Еврокино
-http://176.118.197.101/Evrokino/index.m3u8
 
 #69.11 Viju+ Premiere
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Эфирные ТВ плюс",69.11 Viju+ Premiere
@@ -2239,6 +2232,13 @@ https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 
 вставить
 
+# 69.17 FAN
+#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/FAN.png" group-title="Эфирные ТВ плюс",69.17 FAN
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
+
+# 69.17.1 Еврокино
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Эфирные ТВ плюс",69.17.1 Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
 
 
 
