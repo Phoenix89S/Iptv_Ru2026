@@ -5,6 +5,10 @@
 #EXTVLCOPT:http-referrer=http://ottlinks.club/
 http://ottlinks.club/hls/0202020202/404.m3u8
 
+#EXTINF:-1 tvg-id="centralnoe-tv" tvg-name="Центральное Телевидение" tvg-logo="https://i.ibb.co/6yV0m2p/ctv.png" group-title="Общие",Центральное Телевидение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=http://starcius-cinema.com/
+http://starcius-cinema.com/00096/index.m3u8?token=010101010101
 
 
 
