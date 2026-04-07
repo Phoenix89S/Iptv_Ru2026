@@ -1,10 +1,6 @@
-#EXTM3U
-#EXT-X-SESSION-DATA:ID="DIMA-BACK-OFF",VALUE="OFF"
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="9" catchup-source="${url}&utc=${start}&lutc=${timestamp}" timeshift="9"
 #PLAYLIST:ЭФИРНЫЕ ТВ ПЛЮС (Edition 2026)
-#URL-TVG:http://www.teleguide.info/download/new3/jtv.zip,http://epg.it99.org/epg.xml.gz
-#LOGO:https://naggdd.github.io/iptv/logos/main_logo.png
-#DESCRIPTION:Персонализированный мультиплекс. Конфигурация: Антенна 1 + Антенна 2.
-
+#DESCRIPTION:Персонализированный мультиплекс (labiau). Конфигурация: Антенна 1 + Антенна 2.
 #
 # --------------------------------------------------------------------
 #  ЭФИРНЫЕ ТВ ПЛЮС — АВТОРСКИЙ КОНФИГ (labiau)
