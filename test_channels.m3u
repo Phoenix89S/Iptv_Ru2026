@@ -2455,6 +2455,32 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=K5
 # --------------------------------------------------------------------
 
 
+#-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (74-75) --------------------------
+
+# --- Сектор 74.0: Музыка и Регионы ---
+# 74. Новое Радио ТВ
+#EXTINF:-1 tvg-id="novoeradio-tv" tvg-logo="https://iptvx.one/picons/novoeradio_tv.png" group-title="Эфирные ТВ плюс",74. Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+
+# 74.1 Новое Телевидение HD
+#EXTINF:-1 tvg-id="novoe-tv" tvg-logo="https://iptvx.one/picons/novoe_tv.png" group-title="Эфирные ТВ плюс",74.1 Новое Телевидение HD
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+
+
+# --- Сектор 75.0: Кино-линейка (V) ---
+# 75.1 red
+#EXTINF:-1 tvg-id="tv1000-red" tvg-logo="https://iptvx.one/picons/viju_red.png" group-title="Эфирные ТВ плюс",75.1 red
+http://158.101.222.193:88/georgia_play.php?id=red
+
+# 75.2 black
+#EXTINF:-1 tvg-id="tv1000-black" tvg-logo="https://iptvx.one/picons/viju_black.png" group-title="Эфирные ТВ плюс",75.2 black
+http://158.101.222.193:88/georgia_play.php?id=black
+
+# 75.3 sci-fi
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viju_explore.png" group-title="Эфирные ТВ плюс",75.3 sci-fi
+http://158.101.222.193:88/georgia_play.php?id=scifi
+
+#-----------------------------------------------------------------------------
 
 
 
