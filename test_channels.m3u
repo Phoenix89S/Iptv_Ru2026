@@ -2499,6 +2499,23 @@ http://158.101.222.193:88/georgia_play.php?id=scifi
 
 #-----------------------------------------------------------------------------
 
+#-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (76.x) --------------------------
+
+# --- Сектор 76.0: Просвещение и ВУЗы ---
+
+# 76. Univer HD
+#EXTINF:-1 tvg-id="univer-tv" tvg-logo="https://iptvx.one/picons/univer_tv.png" group-title="Эфирные ТВ плюс",76. Univer HD
+http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+
+# 76.1 Univer (MQ)
+#EXTINF:-1 tvg-id="univer-tv" tvg-logo="https://iptvx.one/picons/univer_tv.png" group-title="Эфирные ТВ плюс",76.1 Univer (MQ)
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+
+# 76.2 История
+#EXTINF:-1 tvg-id="istoriya" tvg-logo="https://iptvx.one/picons/istoriya.png" group-title="Эфирные ТВ плюс",76.2 История
+http://31.148.48.15/Istoriya/index.m3u8
+
+#-----------------------------------------------------------------------------
 
 
 
