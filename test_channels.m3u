@@ -2183,9 +2183,19 @@ https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat_history.png" group-title="Эфирные ТВ плюс",69.7 Viju History
 https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 
-# 69.8 Da Vinci
+#-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС --------------------------
+
+# --- Сектор 69.8: Da Vinci (Multi-Language) ---
+
+# 69.8 Da Vinci (RU)
 #EXTINF:-1 tvg-id="da-vinci-learning" tvg-logo="https://iptvx.one/picons/da_vinci_learning.png" group-title="Эфирные ТВ плюс",69.8 Da Vinci
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+
+# 69.8.1 Da Vinci (EN)
+#EXTINF:-1 tvg-id="da-vinci-learning-en" tvg-logo="https://iptvx.one/picons/da_vinci.png" group-title="Эфирные ТВ плюс",69.8.1 Da Vinci (English)
+http://158.101.222.193:88/georgia_play.php?id=davinci
+
+#-----------------------------------------------------------------------------
 
 
 
