@@ -2,61 +2,38 @@
 #PLAYLIST: ЭФИРНЫЕ ТВ ПЛЮС (60.x)
 #EXTGRP: Эфирные ТВ плюс
 
-#-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (60.x) --------------------------
+#-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС --------------------------
 
-# --- Сектор 60.0: Международный Мультиплекс ---
+# --- Сектор: КИНО И УЖАСЫ ---
 
-#EXTINF:-1 tvg-id="ren-tv-int" tvg-logo="https://iptvx.one/picons/ren_tv_int.png" group-title="Эфирные ТВ плюс",60.1 РЕН ТВ International
-http://moobl.ru/hls/Rentv_international.m3u8
+# НСТ (Настоящее Страшное Телевидение)
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Эфирные ТВ плюс",НСТ
+http://80.77.52.3/streams/media/nstv_/20x576/index.m3u8
 
-#EXTINF:-1 tvg-id="domashniy-int" tvg-logo="https://iptvx.one/picons/domashniy_int.png" group-title="Эфирные ТВ плюс",60.3 Домашний International
-http://moobl.ru/hls/Domashny_international.m3u8
+# --- Сектор: РОССИЙСКИЕ INTERNATIONAL (HD/SD) ---
 
-#EXTINF:-1 tvg-id="ctc-int" tvg-logo="https://iptvx.one/picons/ctc_int.png" group-title="Эфирные ТВ плюс",60.4 СТС International
-http://moobl.ru/hls/STS_int.m3u8
+# РТР Планета (Россия)
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://iptvx.one/picons/rtr_planeta.png" group-title="Эфирные ТВ плюс",РТР Планета
+https://cdn4.skygo.mn/live/disk1/RTRPlaneta/HLSv3-FTA/RTRPlaneta.m3u8
 
-#-----------------------------------------------------------------------------
+# НТВ Мир
+#EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://iptvx.one/picons/ntv_mir.png" group-title="Эфирные ТВ плюс",НТВ Мир
+https://cdn4.skygo.mn/live/disk1/NTV/HLSv3-FTA/NTV.m3u8
 
-#-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (60.x) --------------------------
+# Россия 24
+#EXTINF:-1 tvg-id="rossiya-24" tvg-logo="https://iptvx.one/picons/r24.png" group-title="Эфирные ТВ плюс",Россия 24
+https://cdn4.skygo.mn/live/disk1/Russia24/HLSv3-FTA/Russia24.m3u8
 
-# --- Сектор 60.0: Международный Мультиплекс (SkyGo) ---
+# ТВ Центр International
+#EXTINF:-1 tvg-id="tvc-int" tvg-logo="https://iptvx.one/picons/tvc_int.png" group-title="Эфирные ТВ плюс",ТВ Центр International
+https://cdn4.skygo.mn/live/disk1/TVCI/HLSv3-FTA/TVCI.m3u8
 
-# 60. Первый канал International
-#EXTINF:-1 tvg-id="1-kanal-int" tvg-logo="https://iptvx.one/picons/1_kanal_int.png" group-title="Эфирные ТВ плюс",60. Первый канал International
-https://cdn4.skygo.mn/live/disk1/1Kanal/HLSv3-FTA/1Kanal.m3u8
+# Карусель International
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel_int.png" group-title="Эфирные ТВ плюс",Карусель International
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 
-# 60.1 РЕН ТВ International
-#EXTINF:-1 tvg-id="ren-tv-int" tvg-logo="https://iptvx.one/picons/ren_tv_int.png" group-title="Эфирные ТВ плюс",60.1 РЕН ТВ International
-https://cdn4.skygo.mn/live/disk1/REN/HLSv3-FTA/REN.m3u8
-
-# 60.2 Пятый канал International
-#EXTINF:-1 tvg-id="5-kanal-int" tvg-logo="https://iptvx.one/picons/5_kanal_int.png" group-title="Эфирные ТВ плюс",60.2 Пятый канал International
-https://cdn4.skygo.mn/live/disk1/5Kanal/HLSv3-FTA/5Kanal.m3u8
-
-# 60.3 Домашний International
-#EXTINF:-1 tvg-id="domashniy-int" tvg-logo="https://iptvx.one/picons/domashniy_int.png" group-title="Эфирные ТВ плюс",60.3 Домашний International
-https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
-
-# 60.4 СТС International
-#EXTINF:-1 tvg-id="ctc-int" tvg-logo="https://iptvx.one/picons/ctc_int.png" group-title="Эфирные ТВ плюс",60.4 СТС International
-https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
-
-# 60.5 СТС Kids International (HD)
-#EXTINF:-1 tvg-id="ctc-kids" tvg-logo="https://iptvx.one/picons/ctc_kids.png" group-title="Эфирные ТВ плюс",60.5 СТС Kids International
-https://cdn4.skygo.mn/live/disk1/STSKids/HLSv3-FTA/STSKids.m3u8
-
-# 60.6 СТС Kids (Резерв)
-#EXTINF:-1 tvg-id="ctc-kids" tvg-logo="https://iptvx.one/picons/ctc_kids.png" group-title="Эфирные ТВ плюс",60.6 СТС Kids (Резерв)
-http://178.124.153.123:4400/stskids
-
-# 60.7 TNT4 International+4
-#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Эфирные ТВ плюс",60.7 TNT4 International+4
-https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+# 8 канал International
+#EXTINF:-1 tvg-id="8-kanal" tvg-logo="https://iptvx.one/picons/8_kanal.png" group-title="Эфирные ТВ плюс",8 канал
+http://serv25.vintera.tv:8081/8tv/8tv/playlist.m3u8
 
 #-----------------------------------------------------------------------------
-
-
-
-
-
-
