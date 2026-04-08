@@ -3885,11 +3885,12 @@ https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 
 # --- Сектор 2.4: Международная Россия ---
 
-# --- Сектор 2.4: Международное вещание ---
+# --- Сектор 2.4: Международное вещание----- 
 
 # 2.4.1 Planeta RTR EU
-#EXTINF:-1 tvg-id="rossiya-1" tvg-logo="Https://github.com/Phoenix89S/Iptv_Ru2026/blob/main/icons%2FPlaneta_RTR_Eu.png" group-title="ВГТРК",2.4.1 Planeta RTR EU
+#EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/Planeta_RTR_Eu.png" group-title="ВГТРК",2.4.1 Planeta RTR EU
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+
 
 
 
