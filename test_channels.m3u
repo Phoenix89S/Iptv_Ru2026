@@ -3813,6 +3813,8 @@ http://95.215.12.124:8000/nst/mono.m3u8
  
 #---------------- ГРУППА: ВГТРК (КНОПКА 2) ----------------
 
+#---------------- ГРУППА: ВГТРК (КНОПКА 2) ----------------
+
 # --- Сектор 2.0: Федеральные каналы (Main + Backup) ---
 
 # 2. Россия 1 HD
@@ -3866,10 +3868,17 @@ http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/zapad24.png" group-title="ВГТРК",2.3.5 Запад 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 
-# 2.3.5.1 Запад 24 (SD Резерв)
-#EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/zapad24_SD.png" group-title="ВГТРК",2.3.5.1 Запад 24
+# 2.3.5.1 Запад 24 (SD)
+#EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/zapad24_SD.png" group-title="ВГТРК",2.3.5.1 Запад 24 SD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-sd/index.m3u8
 
+# 2.3.5.2 Сибирь 24 (SD)
+#EXTINF:-1 tvg-id="sibir-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/sibir24_SD.png" group-title="ВГТРК",2.3.5.2 Сибирь 24 SD
+https://gtrk-novosibirsk.cdnvideo.ru/gtrk-novosibirsk/sibir24-sd/playlist.m3u8
+
+# 2.3.5.3 Сибирь 24 (HD)
+#EXTINF:-1 tvg-id="sibir-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/sibir24_HD.png" group-title="ВГТРК",2.3.5.3 Сибирь 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sibir/sibir24-hd/index.m3u8
 
 # 2.3.6 Урал 24 HD (Челябинск)
 #EXTINF:-1 tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="ВГТРК",2.3.6 Урал 24 HD
@@ -3884,13 +3893,15 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-sd/track_101_4e9e7e
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 
 
-# --- Сектор 2.4: Международная Россия ---
-
-# --- Сектор 2.4: Международное вещание----- 
+# --- Сектор 2.4: Международное вещание ---
 
 # 2.4.1 Planeta RTR EU
 #EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/Planeta_RTR_Eu.png" group-title="ВГТРК",2.4.1 Planeta RTR EU
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+
+#
+# --------------------------------------------------------------------
+
 
 
 
