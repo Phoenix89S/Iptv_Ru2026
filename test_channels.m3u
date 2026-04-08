@@ -3820,8 +3820,12 @@ http://95.215.12.124:8000/nst/mono.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 # 2.1 Россия 24
-#EXTINF:-1 tvg-id="rossiya-24" tvg-logo="https://iptvx.one/picons/r24.png" group-title="ВГТРК",2.1 Россия 24
+#EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ВГТРК",2.1 Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+
+# 2.1.1 Россия 24 HD
+#EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ВГТРК",2.1.1 Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8 
 
 # 2.2 Россия К HD
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="ВГТРК",2.2 Россия К HD
