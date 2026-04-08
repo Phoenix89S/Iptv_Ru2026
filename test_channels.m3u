@@ -3814,12 +3814,21 @@ http://95.215.12.124:8000/nst/mono.m3u8
 #---------------- ГРУППА: ВГТРК (КНОПКА 2) ----------------
 
 #---------------- ГРУППА: ВГТРК (КНОПКА 2) ----------------
+#---------------- ГРУППА: ВГТРК (КНОПКА 2) ----------------
 
 # --- Сектор 2.0: Федеральные каналы (Main + Backup) ---
 
 # 2. Россия 1 HD
 #EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://iptvx.one/picons/r1_hd.png" group-title="ВГТРК",2. Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+
+# 2.0.1 Россия 1 (Калининград) HD
+#EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://iptvx.one/picons/r1_hd.png" group-title="ВГТРК",2.0.1 Россия 1 (Калининград) HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+
+# 2.0.2 Россия 1 (Ярославль)
+#EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://iptvx.one/picons/r1.png" group-title="ВГТРК",2.0.2 Россия 1 (Ярославль)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
 
 # 2.1 Россия 24
 #EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ВГТРК",2.1 Россия 24
@@ -3838,7 +3847,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russiak-sd/index.m3u8
 
 
-# --- Сектор 2.3: Региональная сеть (Алфавитный порядок) ---
+# --- Сектор 2.3: Региональная сеть (Строгий алфавитный порядок) ---
 
 # 2.3.1 Арктика 24 HD (Архангельск)
 #EXTINF:-1 tvg-id="arktika-24" tvg-logo="https://iptvx.one/picons/arktika-24.png" group-title="ВГТРК",2.3.1 Арктика 24 HD
@@ -3868,28 +3877,32 @@ http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/zapad24.png" group-title="ВГТРК",2.3.5 Запад 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 
-# 2.3.5.1 Запад 24 (SD)
+# 2.3.5.1 Запад 24 SD
 #EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/zapad24_SD.png" group-title="ВГТРК",2.3.5.1 Запад 24 SD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-sd/index.m3u8
 
-# 2.3.5.2 Сибирь 24 (SD)
-#EXTINF:-1 tvg-id="sibir-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/sibir24_SD.png" group-title="ВГТРК",2.3.5.2 Сибирь 24 SD
-https://gtrk-novosibirsk.cdnvideo.ru/gtrk-novosibirsk/sibir24-sd/playlist.m3u8
+# 2.3.6 ЛенТВ24 HD
+#EXTINF:-1 tvg-id="lentv24" tvg-logo="https://iptvx.one/picons/lentv24.png" group-title="ВГТРК",2.3.6 ЛенТВ24 HD
+https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 
-# 2.3.5.3 Сибирь 24 (HD)
-#EXTINF:-1 tvg-id="sibir-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/sibir24_HD.png" group-title="ВГТРК",2.3.5.3 Сибирь 24 HD
+# 2.3.7 Сибирь 24 HD (Красноярск)
+#EXTINF:-1 tvg-id="sibir-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/sibir24_HD.png" group-title="ВГТРК",2.3.7 Сибирь 24 HD (Крск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+
+# 2.3.8 Сибирь 24 HD (Новосибирск)
+#EXTINF:-1 tvg-id="sibir-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/sibir24_HD.png" group-title="ВГТРК",2.3.8 Сибирь 24 HD (Нск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sibir/sibir24-hd/index.m3u8
 
-# 2.3.6 Урал 24 HD (Челябинск)
-#EXTINF:-1 tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="ВГТРК",2.3.6 Урал 24 HD
+# 2.3.9 Урал 24 HD (Челябинск)
+#EXTINF:-1 tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="ВГТРК",2.3.9 Урал 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/track_101_4e9e7e3b/chunklist.m3u8
 
-# 2.3.6.1 Урал 24 (SD Резерв)
-#EXTINF:-1 tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="ВГТРК",2.3.6.1 Урал 24
+# 2.3.9.1 Урал 24 (SD Резерв)
+#EXTINF:-1 tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="ВГТРК",2.3.9.1 Урал 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-sd/track_101_4e9e7e3b/chunklist.m3u8
 
-# 2.3.7 Якутия 24
-#EXTINF:-1 tvg-id="yakutiya-24" tvg-logo="https://iptvx.one/picons/yakutiya24.png" group-title="ВГТРК",2.3.7 Якутия 24
+# 2.3.10 Якутия 24
+#EXTINF:-1 tvg-id="yakutiya-24" tvg-logo="https://iptvx.one/picons/yakutiya24.png" group-title="ВГТРК",2.3.10 Якутия 24
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 
 
@@ -3898,6 +3911,9 @@ https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 # 2.4.1 Planeta RTR EU
 #EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/Planeta_RTR_Eu.png" group-title="ВГТРК",2.4.1 Planeta RTR EU
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+
+#
+# --------------------------------------------------------------------
 
 #
 # --------------------------------------------------------------------
