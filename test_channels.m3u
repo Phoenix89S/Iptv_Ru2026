@@ -3863,12 +3863,13 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 
 # 2.3.5 Запад 24 HD (Калининград)
-#EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://iptvx.one/picons/zapad24.png" group-title="ВГТРК",2.3.5 Запад 24 HD
+#EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/zapad24.png" group-title="ВГТРК",2.3.5 Запад 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 
 # 2.3.5.1 Запад 24 (SD Резерв)
-#EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://iptvx.one/picons/zapad24.png" group-title="ВГТРК",2.3.5.1 Запад 24
+#EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/zapad24_SD.png" group-title="ВГТРК",2.3.5.1 Запад 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-sd/index.m3u8
+
 
 # 2.3.6 Урал 24 HD (Челябинск)
 #EXTINF:-1 tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="ВГТРК",2.3.6 Урал 24 HD
