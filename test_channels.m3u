@@ -3966,7 +3966,7 @@ http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d
 http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
 
 # 2.4.4 Россия РТР
-#EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://iptvx.one/picons/rtr_planeta.png" group-title="ВГТРК",2.4.4 Россия РТР
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/rossiaRTR.png" group-title="ВГТРК",2.4.4 Россия РТР
 http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
 
 # --- Сектор 2.5: Радио ТВ ---
