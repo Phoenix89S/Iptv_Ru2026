@@ -3844,7 +3844,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
 #EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ВГТРК",2.1 Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8 
 
-# 2.1.0.1 Россия 24 (SD)
+# 2.1.0.1 Россия 24
 #EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ВГТРК",2.1.0.1 Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 
@@ -3855,6 +3855,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia24-sd/index.m3u8
 # 2.1.0.3 Россия 24 (Ярославль)
 #EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ВГТРК",2.1.0.3 Россия 24 (Ярославль)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia24-sd/index.m3u8
+
 
 # --- Сектор 2.2: Культура ---
 
