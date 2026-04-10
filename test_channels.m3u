@@ -3822,6 +3822,7 @@ http://95.215.12.124:8000/nst/mono.m3u8
  
 #---------------- ГРУППА: ВГТРК (КНОПКА 2) ----------------
 
+
 #---------------- ГРУППА: ВГТРК (КНОПКА 2) ----------------
 
 # --- Сектор 2.0: Федеральные каналы (Main + Регионы) ---
@@ -3834,9 +3835,18 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://iptvx.one/picons/r1_hd.png" group-title="ВГТРК",2.0.1 Россия 1 (Калининград) HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 
-# 2.0.2 Россия 1 (Ярославль)
-#EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://iptvx.one/picons/r1.png" group-title="ВГТРК",2.0.2 Россия 1 (Ярославль)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
+# 2.0.2 Россия 1 (Ростов-на-Дону) HD
+#EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://iptvx.one/picons/r1_hd.png" group-title="ВГТРК",2.0.2 Россия 1 (Ростов-на-Дону) HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia1-hd/index.m3u8
+
+# 2.0.3 Россия 1 (Санкт-Петербург) HD
+#EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://iptvx.one/picons/r1_hd.png" group-title="ВГТРК",2.0.3 Россия 1 (Санкт-Петербург) HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8
+
+# 2.0.4 Россия 1 (Ярославль)
+#EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://iptvx.one/picons/r1.png" group-title="ВГТРК",2.0.4 Россия 1 (Ярославль)
+https://vgtrkregion-reg.cdnvideo.ru/yaroslavl/russia1-sd/index.m3u8
+
 
 # --- Сектор 2.1: Информационный блок ---
 
@@ -3846,29 +3856,40 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
 # 2.1.0.1 Россия 24
 #EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ВГТРК",2.1.0.1 Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+https://vod.splay.uz/live_splay/original/Rossiya24/tracks-v1a1/mono.m3u8
 
 # 2.1.0.2 Россия 24 (Калининград)
 #EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ВГТРК",2.1.0.2 Россия 24 (Калининград)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia24-sd/index.m3u8
 
-# 2.1.0.3 Россия 24 (Ярославль)
-#EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ВГТРК",2.1.0.3 Россия 24 (Ярославль)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia24-sd/index.m3u8
+# 2.1.0.3 Россия 24 (Ростов-на-Дону)
+#EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ВГТРК",2.1.0.3 Россия 24 (Ростов-на-Дону)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia24-sd/index.m3u8
+
+# 2.1.0.4 Россия 24 (Санкт-Петербург)
+#EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ВГТРК",2.1.0.4 Россия 24 (Санкт-Петербург)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia24-sd/index.m3u8
+
+# 2.1.0.5 Россия 24 (Ярославль)
+#EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ВГТРК",2.1.0.5 Россия 24 (Ярославль)
+https://vgtrkregion-reg.cdnvideo.ru/yaroslavl/russia24-sd/index.m3u8
 
 
 # --- Сектор 2.2: Культура ---
 
-# 2.2 Россия К HD
-#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="ВГТРК",2.2 Россия К HD
+# 2.2 Россия К HD (Вариант 1)
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="ВГТРК",2.2 Россия К HD (Var 1)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+
+# 2.2.0.1 Россия К HD (Вариант 2)
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="ВГТРК",2.2.0.1 Россия К HD (Var 2)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 
 # 2.2.1 Россия К (SD Резерв)
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="ВГТРК",2.2.1 Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russiak-sd/index.m3u8
 
-
-# --- Сектор 2.3: Региональная сеть (Алфавитный порядок) ---
+# --- Сектор 2.3: Региональная сеть (Строгий алфавитный порядок) ---
 
 # 2.3.1 Арктика 24 HD (Архангельск)
 #EXTINF:-1 tvg-id="arktika-24" tvg-logo="https://iptvx.one/picons/arktika-24.png" group-title="ВГТРК",2.3.1 Арктика 24 HD
@@ -3916,7 +3937,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 
 # 2.3.8 Сибирь 24 HD (Новосибирск)
 #EXTINF:-1 tvg-id="sibir-24" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/sibir24_HD.png" group-title="ВГТРК",2.3.8 Сибирь 24 HD (Нск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sibir/sibir24-hd/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 
 # 2.3.9 Урал 24 HD (Челябинск)
 #EXTINF:-1 tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="ВГТРК",2.3.9 Урал 24 HD
@@ -3929,7 +3950,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-sd/track_101_4e9e7e
 # 2.3.10 Якутия 24
 #EXTINF:-1 tvg-id="yakutiya-24" tvg-logo="https://iptvx.one/picons/yakutiya24.png" group-title="ВГТРК",2.3.10 Якутия 24
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
-
 
 # --- Сектор 2.4: Международное вещание ---
 
@@ -3949,18 +3969,13 @@ http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150
 #EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://iptvx.one/picons/rtr_planeta.png" group-title="ВГТРК",2.4.4 Россия РТР
 http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
 
-
-# --- Сектор 2.5: Радио ТВ (Вещание с видеорядом) ---
+# --- Сектор 2.5: Радио ТВ ---
 
 # 2.5 Вести FM
 #EXTINF:-1 tvg-id="vestifm" tvg-logo="https://iptvx.one/picons/vesti_fm.png" group-title="ВГТРК",2.5 Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 
-
-#
 # --------------------------------------------------------------------
-
-
 
 
 
