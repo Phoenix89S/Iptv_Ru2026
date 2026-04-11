@@ -72,6 +72,13 @@ https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=_7
 # Финальная часть конфига (tail)
 # --------------------------------------------------------------------
 
+# --- Сектор: Детские / Мультфильмы ---
+# Барбоскины
+#EXTINF:-1 tvg-id="barboskiny" tvg-logo="https://i.ytimg.com/vi/S7TfB7n0K-Y/maxresdefault.jpg" group-title="Мультфильмы",Барбоскины
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://57.128.196.110/12129/index.m3u8?token=080808080808
+
+# --------------------------------------------------------------------
 
 
 
