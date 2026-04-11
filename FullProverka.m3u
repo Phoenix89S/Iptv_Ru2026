@@ -40,6 +40,51 @@ http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 # Финальная часть конфига (tail)
 # --------------------------------------------------------------------
 
+# --- Сектор: Развлекательные / Международные ---
+
+#EXTINF:-1 tvg-id="friday-int" tvg-logo="https://iptvx.one/picons/friday_int.png" group-title="Эфирные ТВ плюс",Пятница! International
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+
+#EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts_int.png" group-title="Эфирные ТВ плюс",СТС International
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+
+# --- Сектор: Музыкальные ---
+
+#EXTINF:-1 tvg-id="viva-russia" tvg-logo="https://iptvx.one/picons/viva_russia.png" group-title="Музыка",VIVA Russia HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=huO81WRGvesnVMCCPmNTRQ&e=2068506970&scheme=https
+
+#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://iptvx.one/picons/europa_plus_tv.png" group-title="Музыка",Europa Plus TV HD
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+
+# --- Сектор: Информационные / Региональные ---
+
+#EXTINF:-1 tvg-id="tsargrad" tvg-logo="https://iptvx.one/picons/tsargrad.png" group-title="Новости",Царьград
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
+
+#EXTINF:-1 tvg-id="volga-24" tvg-logo="https://iptvx.one/picons/volga_24.png" group-title="Региональные",Волга 24
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=_7UkYU5qiM1_bzRvs98rdQ&e=2068506946&scheme=https
+
+#
+# --------------------------------------------------------------------
+# Финальная часть конфига (tail)
+# --------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
