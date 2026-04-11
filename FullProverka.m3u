@@ -81,6 +81,8 @@ http://57.128.196.110/12129/index.m3u8?token=080808080808
 # --------------------------------------------------------------------
 
 
+#EXTINF:-1 tvg-id="8-kanal-krasnoyarsk" tvg-logo="https://play-lh.googleusercontent.com/I6P9m9D0WunvP_0p2E-vRclHq9V8y0-a_X7-19A_5A8r_5A" group-title="Региональные",8 Канал (Красноярский край)
+http://live.mediabaytv.workers.dev/?ID=414
 
 
 
