@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="smile-tv" tvg-logo="https://iptvx.one/picons/smile_tv.png" group-title="Детские",Смайлик ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=QkuMcRYb3s5QP8UeGEtUGw&e=2068506964&scheme=https
+
+#EXTINF:-1 tvg-id="tv3-hd" tvg-logo="https://iptvx.one/picons/tv3_hd.png" group-title="Развлекательные",ТВ-3 HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
+
+#--------------------------------------------------------------------
+# Финальная часть конфига (tail)
+#--------------------------------------------------------------------
