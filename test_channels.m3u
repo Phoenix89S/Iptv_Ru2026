@@ -2539,6 +2539,39 @@ http://31.148.48.15/Istoriya/index.m3u8
 
 #-----------------------------------------------------------------------------
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 77) ----------------
+
+# --- Сектор 77: Платформа Смотрим ---
+
+# 77.1 Смотрим 100% Детское
+#EXTINF:-1 tvg-id="smotrim-detskoe" tvg-logo="https://iptvx.one/picons/smotrim_detskoe.png" group-title="Эфирные ТВ плюс",77.1 Смотрим 100% Детское
+https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+
+# 77.2 Смотрим 100% Классика
+#EXTINF:-1 tvg-id="smotrim-klassika" tvg-logo="https://iptvx.one/picons/smotrim_klassika.png" group-title="Эфирные ТВ плюс",77.2 Смотрим 100% Классика
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+
+# 77.3 Смотрим 100% Любовь
+#EXTINF:-1 tvg-id="smotrim-lubov" tvg-logo="https://iptvx.one/picons/smotrim_lubov.png" group-title="Эфирные ТВ плюс",77.3 Смотрим 100% Любовь
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+
+# 77.4 Смотрим 100% Мужское
+#EXTINF:-1 tvg-id="smotrim-muzhskoe" tvg-logo="https://iptvx.one/picons/smotrim_muzhskoe.png" group-title="Эфирные ТВ плюс",77.4 Смотрим 100% Мужское
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+
+# 77.5 Смотрим 100% Праздник
+#EXTINF:-1 tvg-id="smotrim-prazdnik" tvg-logo="https://iptvx.one/picons/smotrim_prazdnik.png" group-title="Эфирные ТВ плюс",77.5 Смотрим 100% Праздник
+https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+
+# 77.6 Смотрим 100% Факты
+#EXTINF:-1 tvg-id="smotrim-fakty" tvg-logo="https://iptvx.one/picons/smotrim_fakty.png" group-title="Эфирные ТВ плюс",77.6 Смотрим 100% Факты
+https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+
+# 77.7 Честный Детектив
+#EXTINF:-1 tvg-id="chestnyi-detektiv" tvg-logo="https://iptvx.one/picons/chestnyi_detektiv.png" group-title="Эфирные ТВ плюс",77.7 Честный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+# --------------------------------------------------------------------
 
 
 
