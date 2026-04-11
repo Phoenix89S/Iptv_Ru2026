@@ -10,3 +10,39 @@ https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=ri
 #--------------------------------------------------------------------
 # Финальная часть конфига (tail)
 #--------------------------------------------------------------------
+
+
+
+
+# --- Сектор: Развлекательные / Кино ---
+
+#EXTINF:-1 tvg-id="rutube-tv" tvg-logo="https://iptvx.one/picons/rutube_tv.png" group-title="Развлекательные",Rutube TV
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=BB38oulqX9y3TSbPkK6_Kw&e=2068506930&scheme=https
+
+#EXTINF:-1 tvg-id="taina" tvg-logo="https://iptvx.one/picons/taina.png" group-title="Кино",Тайна
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=IjZLkcpj2TbbBby8FXaA-A&e=2068506937&scheme=https
+
+#EXTINF:-1 tvg-id="russkiy-detektiv" tvg-logo="https://iptvx.one/picons/russkiy_detektiv.png" group-title="Кино",Русский детектив
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+
+#EXTINF:-1 tvg-id="russkiy-roman" tvg-logo="https://iptvx.one/picons/russkiy_roman_hd.png" group-title="Кино",Русский роман
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+
+# --- Сектор: Познавательные ---
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery_channel_hd.png" group-title="Познавательные",Discovery Channel HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+
+#
+# --------------------------------------------------------------------
+# Финальная часть конфига (tail)
+# --------------------------------------------------------------------
+
+
+
+
+
+
+
