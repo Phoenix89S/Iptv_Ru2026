@@ -1807,10 +1807,11 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 
 #------------ группа: Эфирные ТВ плюс (Блок: МУЗЫКА) ------------
 
-# 57.1 Europa Plus TV (HD)
-#EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="https://i.imgur.com/GLc4qrc.png" group-title="Эфирные ТВ плюс",57.1 Europa Plus TV
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
+# --- Сектор 57.1: Europa Plus ---
+# 57.1 Europa Plus TV HD
+#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://iptvx.one/picons/europa_plus_tv.png" group-title="Эфирные ТВ плюс",57.1 Europa Plus TV HD
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
+
 
 # 57.2 FON Music (TNT Music stream)
 #EXTINF:-1 tvg-id="tnt-music" tvg-name="TNT Music" tvg-logo="https://i.imgur.com/tXABQDE.png" group-title="Эфирные ТВ плюс",57.2 FON Music
@@ -1822,10 +1823,12 @@ https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 
-# 57.4 VIVA Russia (1080p)
-#EXTINF:-1 tvg-id="viva-russia" tvg-name="VIVA Russia" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="Эфирные ТВ плюс",57.4 VIVA Russia (1080p)
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
+# --- Сектор 57.4: VIVA Russia ---
+# 57.4 VIVA Russia HD
+#EXTINF:-1 tvg-id="viva-russia" tvg-logo="https://iptvx.one/picons/viva_russia.png" group-title="Эфирные ТВ плюс",57.4 VIVA Russia HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=huO81WRGvesnVMCCPmNTRQ&e=2068506970&scheme=https
+
 
 # 57.5 Музыка 1 International [Not 24/7]
 #EXTINF:-1 tvg-id="mus-1-int" tvg-name="Музыка 1 Int" tvg-logo="https://i.imgur.com/DIKe5vA.png" group-title="Эфирные ТВ плюс",57.5 Музыка 1 International
