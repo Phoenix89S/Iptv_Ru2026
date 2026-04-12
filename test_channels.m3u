@@ -4035,6 +4035,9 @@ http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21d
 #EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/rossiaRTR.png" group-title="ВГТРК",2.4.5 Россия РТР (Var 2)
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
 
+# 2.4.6 Россия 24 International
+#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://iptvx.one/picons/r24.png" group-title="ВГТРК",2.4.6 Россия 24 International
+https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
 
 # --- Сектор 2.5: Радио ТВ ---
 
