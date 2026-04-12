@@ -3996,21 +3996,26 @@ https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 
 # --- Сектор 2.4: Международное вещание ---
 
-# 2.4.1 Planeta RTR EU
-#EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/Planeta_RTR_Eu.png" group-title="ВГТРК",2.4.1 Planeta RTR EU
-https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
-
-# 2.4.2 Planeta RTR (Вариант 1)
-#EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://iptvx.one/picons/rtr_planeta.png" group-title="ВГТРК",2.4.2 Planeta RTR
+# 2.4.1 Planeta RTR (Вариант 1)
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://iptvx.one/picons/rtr_planeta.png" group-title="ВГТРК",2.4.1 Planeta RTR (Var 1)
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 
-# 2.4.3 Planeta RTR (Вариант 2)
-#EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://iptvx.one/picons/rtr_planeta.png" group-title="ВГТРК",2.4.3 Planeta RTR
+# 2.4.2 Planeta RTR (Вариант 2)
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://iptvx.one/picons/rtr_planeta.png" group-title="ВГТРК",2.4.2 Planeta RTR (Var 2)
 http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
 
-# 2.4.4 Россия РТР
-#EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/rossiaRTR.png" group-title="ВГТРК",2.4.4 Россия РТР
+# 2.4.3 Planeta RTR EU
+#EXTINF:-1 tvg-id="rossiya-1" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/Planeta_RTR_Eu.png" group-title="ВГТРК",2.4.3 Planeta RTR EU
+https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+
+# 2.4.4 Россия РТР (Вариант 1)
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/rossiaRTR.png" group-title="ВГТРК",2.4.4 Россия РТР (Var 1)
 http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
+
+# 2.4.5 Россия РТР (Вариант 2)
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/rossiaRTR.png" group-title="ВГТРК",2.4.5 Россия РТР (Var 2)
+http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
+
 
 # --- Сектор 2.5: Радио ТВ ---
 
