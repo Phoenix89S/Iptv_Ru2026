@@ -2574,6 +2574,24 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 # --------------------------------------------------------------------
 
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 78) ----------------
+
+# --- Сектор 78.1: Amedia / A1 ---
+# 78.1 A1 HD (720p)
+#EXTINF:-1 tvg-id="A1.ru" tvg-logo="https://iptvx.one/picons/a1_hd.png" group-title="Эфирные ТВ плюс",78.1 A1 HD [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+
+# --- Сектор 78.2: A2 ---
+# 78.2 A2 HD (1080p)
+#EXTINF:-1 tvg-id="A2.ru" tvg-logo="https://iptvx.one/picons/a2_hd.png" group-title="Эфирные ТВ плюс",78.2 A2 HD [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+
+# --- Сектор 78.3: Amedia Hit ---
+# 78.3 Amedia Hit HD (1080p)
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-logo="https://iptvx.one/picons/amedia_hit_hd.png" group-title="Эфирные ТВ плюс",78.3 Amedia Hit HD [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+
+# --------------------------------------------------------------------
 
 
 
