@@ -1,0 +1,34 @@
+#EXTM3U
+# --------------------------------------------------------------------
+# ЭКСПЕРИМЕНТАЛЬНЫЙ ПЛЕЙЛИСТ: СЕКТОР ТЕСТИРОВАНИЯ (12.04.2026)
+# --------------------------------------------------------------------
+
+#EXTINF:-1,Первый Метео
+http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
+
+#EXTINF:-1,Первый Мистический (Беларусь)
+http://188.138.75.245/hls/1mistika/index.m3u8
+
+#EXTINF:-1,Смайл ТВ
+rtmp://89.107.113.89:1935/live/ktv2
+
+#EXTINF:-1,Смайлик ТВ
+http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+
+#EXTINF:-1,Неизвестная планета
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+
+#EXTINF:-1,RU TV
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+
+#EXTINF:-1,RU TV HD
+http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
+
+#EXTINF:-1,Матч Футбол 1 HD
+http://95.154.129.24/hls/hd1/hd1.m3u8
+
+#EXTINF:-1,Матч Футбол 2 HD
+
+# --------------------------------------------------------------------
+# tail of the config
+# --------------------------------------------------------------------
