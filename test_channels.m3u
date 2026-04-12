@@ -2613,6 +2613,88 @@ http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 
 
 
+#------- проверка 81 кнопка--------------
+
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 81) ----------------
+
+# --- Сектор 81.1: Мужской характер и Треш ---
+# 81.1 Мужское кино
+#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://iptvx.one/picons/muzhskoe_kino.png" group-title="Эфирные ТВ плюс",81.1 Мужское кино
+http://s05.wsbof.com/muzhskoe-kino/mpegts?token=a0ac444f
+
+# 81.2 Мужское кино HD
+#EXTINF:-1 tvg-id="muzhskoe-kino-hd" tvg-logo="https://iptvx.one/picons/muzhskoe_kino_hd.png" group-title="Эфирные ТВ плюс",81.2 Мужское кино HD
+http://s05.wsbof.com/muzhskoe-kino-hd-orig/mpegts?token=a0ac444f
+
+# 81.3 Наше Мужское HD
+#EXTINF:-1 tvg-id="nashe-muzhskoe-hd" tvg-logo="https://iptvx.one/picons/nashe_muzhskoe_hd.png" group-title="Эфирные ТВ плюс",81.3 Наше Мужское HD
+http://s05.wsbof.com/nashe-muzshkoe-hd-orig/mpegts?token=a0ac444f
+
+# 81.4 Trash HD
+#EXTINF:-1 tvg-id="trash-hd" tvg-logo="https://iptvx.one/picons/trash_hd.png" group-title="Эфирные ТВ плюс",81.4 Trash HD
+http://s05.wsbof.com/trash-hd/mpegts?token=a0ac444f
+
+
+# --- Сектор 81.5: Ужасы и Шок ---
+# 81.5 Страшное HD
+#EXTINF:-1 tvg-id="strashnoe-hd" tvg-logo="https://iptvx.one/picons/strashnoe_hd.png" group-title="Эфирные ТВ плюс",81.5 Страшное HD
+http://s05.wsbof.com/strashnoe-hd/mpegts?token=a0ac444f
+
+# 81.6 Шокирующее HD
+#EXTINF:-1 tvg-id="shokiruschee-hd" tvg-logo="https://iptvx.one/icn/shokiruyushchee.png" group-title="Эфирные ТВ плюс",81.6 Шокирующее HD
+http://s05.wsbof.com/shokiruschee-hd-orig/mpegts?token=a0ac444f
+
+# 81.7 Киноужас HD
+#EXTINF:-1 tvg-id="kinouzhas-hd" tvg-logo="https://iptvx.one/picons/kinouzhas_hd.png" group-title="Эфирные ТВ плюс",81.7 Киноужас HD
+http://s05.wsbof.com/kinouzhas-hd-orig/mpegts?token=a0ac444f
+
+# 81.8 НСТ
+#EXTINF:-1 tvg-id="hct" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Эфирные ТВ плюс",81.8 НСТ
+http://s05.wsbof.com/hct/mpegts?token=a0ac444f
+
+
+# --- Сектор 81.9: Комедийный цех ---
+# 81.9 Комедия
+#EXTINF:-1 tvg-id="russkaya-komediya" tvg-logo="https://iptvx.one/picons/komediya.png" group-title="Эфирные ТВ плюс",81.9 Комедия
+http://s05.wsbof.com/russkaja-comedija/mpegts?token=a0ac444f
+
+# 81.10 Кинокомедия
+#EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://iptvx.one/picons/kinokomediya.png" group-title="Эфирные ТВ плюс",81.10 Кинокомедия
+http://s05.wsbof.com/kinokomedia/mpegts?token=a0ac444f
+
+# 81.11 Кинокомедия HD
+#EXTINF:-1 tvg-id="kinokomediya-hd" tvg-logo="https://iptvx.one/picons/kinokomediya_hd.png" group-title="Эфирные ТВ плюс",81.11 Кинокомедия HD
+http://s05.wsbof.com/kinokomedia-hd-orig/mpegts?token=a0ac444f
+
+# 81.12 Комедийное HD
+#EXTINF:-1 tvg-id="komediynoe-hd" tvg-logo="https://iptvx.one/picons/komediynoe_hd.png" group-title="Эфирные ТВ плюс",81.12 Комедийное HD
+http://s05.wsbof.com/komedijnoe-hd-orig/mpegts?token=a0ac444f
+
+# --------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
