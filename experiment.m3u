@@ -3,32 +3,46 @@
 # ЭКСПЕРИМЕНТАЛЬНЫЙ ПЛЕЙЛИСТ: СЕКТОР ТЕСТИРОВАНИЯ (12.04.2026)
 # --------------------------------------------------------------------
 
-#EXTINF:-1,Первый Метео
-http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
+#
 
-#EXTINF:-1,Первый Мистический (Беларусь)
-http://188.138.75.245/hls/1mistika/index.m3u8
+#EXTM3U
 
-#EXTINF:-1,Смайл ТВ
-rtmp://89.107.113.89:1935/live/ktv2
+#EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" group-title="Фильмовые", Киноужас
+#EXTGRP:Фильмовые
+https://tbs01-edge11.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Смайлик ТВ
-http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас HD" group-title="Фильмовые", Киноужас HD
+#EXTGRP:Фильмовые
+rtmp://5.182.231.251//2056
 
-#EXTINF:-1,Неизвестная планета
-http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horror TV" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15786/logo_256_1670420636.jpg" group-title="Фильмовые", Horror TV
+#EXTGRP:Фильмовые
+http://cdn-lb.iptv2022.com/p/nxfJjGYhMgG_JD4JiUY7jA,1681389680/streaming/horror_tv/324/1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,RU TV
-http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Страх HD" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="Фильмовые", Страх HD
+#EXTGRP:Фильмовые
+https://hls.goodgame.ru/hls/202127.m3u8
 
-#EXTINF:-1,RU TV HD
-http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кошмар HD" tvg-logo="https://tv-app.ru/images/logo-channel/tv-koshmar-hd.png" group-title="Фильмовые", Кошмар HD
+#EXTGRP:Фильмовые
+https://playlist.wasd.tv/live/1697889/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Матч Футбол 1 HD
-http://95.154.129.24/hls/hd1/hd1.m3u8
+#EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" group-title="Фильмовые", Премиальное HD
+#EXTGRP:Фильмовые
+https://stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MjczNTA3OCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkyMTMwMjc4LCJzZXNzaW9uX2lkIjoiOWNmODQ0NGJiOGM3NWI5NGFjNDJiM2JkNGI3ZWMxMzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.hUXvl74L08qIrIia8T5RQVD8khzcJt-HW6HB1kR6Shc
 
-#EXTINF:-1,Матч Футбол 2 HD
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" group-title="Фильмовые", Остросюжетное HD
+#EXTGRP:Фильмовые
+https://stream-msk-03.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MjczNTA3OCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkyMTMwMjc4LCJzZXNzaW9uX2lkIjoiOWNmODQ0NGJiOGM3NWI5NGFjNDJiM2JkNGI3ZWMxMzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.hUXvl74L08qIrIia8T5RQVD8khzcJt-HW6HB1kR6Shc
 
-# --------------------------------------------------------------------
-# tail of the config
-# --------------------------------------------------------------------
+#EXTINF:-1 tvg-name="Киноклуб" tvg-logo="https://img.catcast.tv/uploads/04062022/banners/39005-629ba53ce1357.png" group-title="Фильмовые", Киноклуб
+#EXTGRP:Фильмовые
+https://autopilot.catcast.tv/content/39005/index.m3u8
+
+#EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" group-title="Фильмовые", Trash HD
+#EXTGRP:Фильмовые
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+
+#EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli Girl" group-title="Детские", Gulli Girl
+#EXTGRP:Детские
+http://europe3.livetv.az/russia/gulli_girl_2023/playlist.m3u8
