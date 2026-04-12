@@ -26,3 +26,28 @@ http://89.208.231.18:8080/kinoujas_hd/index.m3u8
 # 05. Киноужас (SD резерв)
 #EXTINF:-1 tvg-id="kinoujas" group-title="Ужасы",Киноужас
 http://89.208.231.18:8080/kinoujas/index.m3u8
+
+
+
+# --- СЕКТОР: УЖАСЫ (ВЕТКА TERSKOL / BOZZTV) ---
+
+# [НСТ] — Настоящее Страшное Телевидение
+#EXTINF:-1 tvg-id="nst" group-title="Ужасы",НСТ (Terskol)
+https://fl1001.bozztv.com/terskol-t3/tracks-v1a1/mono.m3u8
+
+# [SCREAM] — Шокирующее
+#EXTINF:-1 tvg-id="shokiruushee" group-title="Ужасы",Scream (Terskol)
+https://fl1001.bozztv.com/terskol-t5/tracks-v1a1/mono.m3u8
+
+# [КИНОУЖАС HD] — Премиальный хоррор-слот
+#EXTINF:-1 tvg-id="kinoujas-hd" group-title="Ужасы",Киноужас HD (Terskol)
+https://fl1001.bozztv.com/terskol-t8/tracks-v1a1/mono.m3u8
+
+# [КИНОУЖАС] — SD версия (Резерв)
+#EXTINF:-1 tvg-id="kinoujas" group-title="Ужасы",Киноужас (Terskol)
+https://fl1001.bozztv.com/terskol-t9/tracks-v1a1/mono.m3u8
+
+# [ИЗВЕСТИЯ] — Для симметрии (Твой эталон на CDNVideo)
+#EXTINF:-1 tvg-id="izvestia" group-title="Инфо",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
