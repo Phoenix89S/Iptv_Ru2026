@@ -10,6 +10,19 @@
 # ЭКСПЕРИМЕНТАЛЬНЫЙ ПЛЕЙЛИСТ: СЕКТОР "ПЛАНЕТА И ПРИРОДА"
 # --------------------------------------------------------------------
 
+# --- СЕКТОР: КУБТЕЛ ТЕСТ (НСТ, ЕДА, SCREAM) ---
+
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы",НСТ
+http://cdn.kubteltv.workers.dev/?ID=159
+
+#EXTINF:-1 tvg-id="eda" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Кухня",Еда
+http://cdn.kubteltv.workers.dev/?ID=153
+
+#EXTINF:-1 tvg-id="shokiruushee" tvg-logo="https://iptvx.one/picons/shokiruushee.png" group-title="Ужасы",Scream (Шокирующее)
+http://cdn.kubteltv.workers.dev/?ID=332
+
+
+
 # --- КУБТЕЛ / WORKERS (HD & 4K) ---
 
 #EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="https://iptvx.one/picons/zhivaya_priroda.png" group-title="Природа",Живая природа
@@ -66,3 +79,6 @@ http://46.53.208.4:80/live/1500.m3u8
 # --------------------------------------------------------------------
 # tail of the config
 # --------------------------------------------------------------------
+
+
+
