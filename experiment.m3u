@@ -533,6 +533,20 @@ http://cdn.itv.by/viasat_history/index.m3u8
 http://cdn.itv.by/da_vinci/index.m3u8
 
 
+#---------------- ГРУППА: КИНО (АНТИ-СИНЕРАМА) ----------------
+
+# 75. Дом кино (Wink-коридор)
+#EXTINF:-1 tvg-id="dom-kino" group-title="КИНО",75. Дом кино (W)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8
+
+# 76. Дом кино (Резерв - Открытый шлюз)
+#EXTINF:-1 tvg-id="dom-kino" group-title="КИНО",76. Дом кино (Z)
+http://185.117.155.105:8000/play/a028/index.m3u8
+
+# 77. Дом кино Премиум HD (Для особых ценителей)
+#EXTINF:-1 tvg-id="dom-kino-premium" group-title="КИНО",77. Дом кино Премиум
+http://158.101.222.193:88/georgia_play.php?id=dom_kino_premium
 
 
 
