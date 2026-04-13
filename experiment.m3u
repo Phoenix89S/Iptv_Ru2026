@@ -505,6 +505,32 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DAVINCI/variant.m3u8
 
 # --------------------------------------------------------------------
 
+#---------------- ГРУППА: VOKA (ТЕСТ) ----------------
+
+# 69.4 Viju Nature (Voka)
+#EXTINF:-1 tvg-id="viasat-nature" group-title="VOKA",69.4 Viju Nature (Voka)
+#EXTVLCOPT:http-user-agent=VokaTV/Android/5.12.0
+http://cdn.itv.by/viasat_nature/index.m3u8
+
+# 69.5 Viju Sport (Voka)
+#EXTINF:-1 tvg-id="viasat-sport" group-title="VOKA",69.5 Viju Sport (Voka)
+#EXTVLCOPT:http-user-agent=VokaTV/Android/5.12.0
+http://cdn.itv.by/viasat_sport/index.m3u8
+
+# 69.6 Viju Explore (Voka)
+#EXTINF:-1 tvg-id="viasat-explore" group-title="VOKA",69.6 Viju Explore (Voka)
+#EXTVLCOPT:http-user-agent=VokaTV/Android/5.12.0
+http://cdn.itv.by/viasat_explore/index.m3u8
+
+# 69.7 Viju History (Voka)
+#EXTINF:-1 tvg-id="viasat-history" group-title="VOKA",69.7 Viju History (Voka)
+#EXTVLCOPT:http-user-agent=VokaTV/Android/5.12.0
+http://cdn.itv.by/viasat_history/index.m3u8
+
+# 69.8 Da Vinci (Voka)
+#EXTINF:-1 tvg-id="da-vinci-learning" group-title="VOKA",69.8 Da Vinci (Voka)
+#EXTVLCOPT:http-user-agent=VokaTV/Android/5.12.0
+http://cdn.itv.by/da_vinci/index.m3u8
 
 
 
