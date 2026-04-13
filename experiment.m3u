@@ -230,3 +230,73 @@ https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #-------------------------------------------------------
 
 
+
+
+
+
+
+# --- Сектор 69.0: VIJU / VIASAT (Эфирные ТВ плюс) ---
+
+# 69.1 Viju+ Sport
+#EXTINF:-1 tvg-id="viasat_sport" tvg-logo="https://iptvx.one/picons/viasat_sport_hd.png" group-title="Эфирные ТВ плюс",69.1 Viju+ Sport
+http://158.101.222.193:88/georgia_play.php?id=viasatsport
+
+# 69.2 Viju Explore
+#EXTINF:-1 tvg-id="viasat_explore" tvg-logo="https://iptvx.one/picons/viasat_explore.png" group-title="Эфирные ТВ плюс",69.2 Viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+
+# 69.3 Da Vinci
+#EXTINF:-1 tvg-id="da_vinci_learning" tvg-logo="https://iptvx.one/picons/da_vinci_learning.png" group-title="Эфирные ТВ плюс",69.3 Da Vinci
+http://158.101.222.193:88/georgia_play.php?id=davinci
+
+# 69.4 Viju+ Premiere
+#EXTINF:-1 tvg-id="viasat_premium_hd" tvg-logo="https://iptvx.one/picons/viasat_premiere_hd.png" group-title="Эфирные ТВ плюс",69.4 Viju+ Premiere
+http://158.101.222.193:88/georgia_play.php?id=viasatvip
+
+# 69.5 Viju+ Megahit
+#EXTINF:-1 tvg-id="viasat_megahit_hd" tvg-logo="https://iptvx.one/picons/viasat_megahit_hd.png" group-title="Эфирные ТВ плюс",69.5 Viju+ Megahit
+http://158.101.222.193:88/georgia_play.php?id=viasatmegahit
+
+# 69.6 Viju+ Comedy
+#EXTINF:-1 tvg-id="viasat_comedy_hd" tvg-logo="https://iptvx.one/picons/viasat_comedy_hd.png" group-title="Эфирные ТВ плюс",69.6 Viju+ Comedy
+http://158.101.222.193:88/georgia_play.php?id=viasatcomedy
+
+# 69.7 Viju+ Cinema
+#EXTINF:-1 tvg-id="viasat_cinema" tvg-logo="https://iptvx.one/picons/viasat_cinema.png" group-title="Эфирные ТВ плюс",69.7 Viju+ Cinema
+http://158.101.222.193:88/georgia_play.php?id=viasatcinema
+
+# 69.8 Viju+ Serial
+#EXTINF:-1 tvg-id="viasat_serial" tvg-logo="https://iptvx.one/picons/viasat_serial.png" group-title="Эфирные ТВ плюс",69.8 Viju+ Serial
+http://158.101.222.193:88/georgia_play.php?id=viasatserial
+
+# 69.9 Viju History
+#EXTINF:-1 tvg-id="viasat_history" tvg-logo="https://iptvx.one/picons/viasat_history.png" group-title="Эфирные ТВ плюс",69.9 Viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathistory
+
+# 69.10 Viju Nature
+#EXTINF:-1 tvg-id="viasat_nature" tvg-logo="https://iptvx.one/picons/viasat_nature.png" group-title="Эфирные ТВ плюс",69.10 Viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnature
+
+# 69.11 Viju+ Trend
+#EXTINF:-1 tvg-id="viasat_vip_trend" tvg-logo="https://iptvx.one/picons/viasat_trend.png" group-title="Эфирные ТВ плюс",69.11 Viju+ Trend
+http://158.101.222.193:88/georgia_play.php?id=viasat_vip_trend
+
+# 69.12 TV1000
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Эфирные ТВ плюс",69.12 TV1000
+http://158.101.222.193:88/georgia_play.php?id=viasat_tv1000
+
+# 69.13 TV1000 Русское кино
+#EXTINF:-1 tvg-id="tv1000_russian_cinema" tvg-logo="https://iptvx.one/picons/tv1000_russian_cinema.png" group-title="Эфирные ТВ плюс",69.13 TV1000 Русское кино
+http://158.101.222.193:88/georgia_play.php?id=viasat_tv1000_russian
+
+# 69.14 TV1000 Action
+#EXTINF:-1 tvg-id="tv1000_action" tvg-logo="https://iptvx.one/picons/tv1000_action.png" group-title="Эфирные ТВ плюс",69.14 TV1000 Action
+http://158.101.222.193:88/georgia_play.php?id=viasataction
+
+# 69.15 Viju TV1000 Global
+#EXTINF:-1 tvg-id="viasat_film" tvg-logo="https://iptvx.one/picons/viasat_film.png" group-title="Эфирные ТВ плюс",69.15 Viju TV1000 Global
+http://158.101.222.193:88/georgia_play.php?id=viasat_film
+
+# ---------------------------------------------------------
+
+
