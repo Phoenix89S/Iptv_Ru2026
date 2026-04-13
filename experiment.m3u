@@ -421,3 +421,42 @@ https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=CineramaPlayer
 #EXTVLCOPT:http-forwarded-for=213.230.125.10
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+
+
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 69) ----------------
+
+# 69.4 Viju Nature
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Эфирные ТВ плюс",69.4 Viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnature
+
+# 69.5 Viju Sport
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Эфирные ТВ плюс",69.5 Viju Sport
+http://158.101.222.193:88/georgia_play.php?id=viasatsport
+
+# 69.6 Viju Explore
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Эфирные ТВ плюс",69.6 Viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexplore
+
+# 69.7 Viju History
+#EXTINF:-1 tvg-id="viasat-history" group-title="Эфирные ТВ плюс",69.7 Viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathistory
+
+# 69.8 Da Vinci
+#EXTINF:-1 tvg-id="da-vinci-learning" group-title="Эфирные ТВ плюс",69.8 Da Vinci
+http://158.101.222.193:88/georgia_play.php?id=davinci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
