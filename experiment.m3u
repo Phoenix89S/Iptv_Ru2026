@@ -301,119 +301,123 @@ http://158.101.222.193:88/georgia_play.php?id=viasat_film
 
 
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (ТЕСТ СИНЕРАМА) ----------------
 
-#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (ТЕСТ МАСКИРОВКИ) ----------------
-
-# --- ВАРИАНТ 1: Родной плеер (CineramaPlayer) ---
-# 69.1 Viju Premiere HD
-#EXTINF:-1 tvg-id="viju-plus-premiere" group-title="Эфирные ТВ плюс",69.1 Viju Premiere
-#EXTVLCOPT:http-user-agent=CineramaPlayer
-https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
-
-# 69.2 Viju Megahit HD
-#EXTINF:-1 tvg-id="viju-plus-megahit" group-title="Эфирные ТВ плюс",69.2 Viju Megahit
-#EXTVLCOPT:http-user-agent=CineramaPlayer
-https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
-
-# 69.3 Viju Comedy HD
-#EXTINF:-1 tvg-id="viju-plus-comedy" group-title="Эфирные ТВ плюс",69.3 Viju Comedy
-#EXTVLCOPT:http-user-agent=CineramaPlayer
-https://stream8.cinerama.uz/1223/tracks-v1a1/mono.m3u8
-
-# 69.4 Viju Nature
-#EXTINF:-1 tvg-id="viasat-nature" group-title="Эфирные ТВ плюс",69.4 Viju Nature
+# --- ВАРИАНТ А: CineramaPlayer ---
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Эфирные ТВ плюс",69.4а Viju Nature (A)
 #EXTVLCOPT:http-user-agent=CineramaPlayer
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 
-# 69.5 Viju Sport
-#EXTINF:-1 tvg-id="viasat-sport" group-title="Эфирные ТВ плюс",69.5 Viju Sport
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Эфирные ТВ плюс",69.5а Viju Sport (A)
 #EXTVLCOPT:http-user-agent=CineramaPlayer
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Эфирные ТВ плюс",69.6а Viju Explore (A)
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 
-# --- ВАРИАНТ 2: Android 13 (Cinerama App) ---
-# 69.6 Viju Explore
-#EXTINF:-1 tvg-id="viasat-explore" group-title="Эфирные ТВ плюс",69.6 Viju Explore
+#EXTINF:-1 tvg-id="viasat-history" group-title="Эфирные ТВ плюс",69.7а Viju History (A)
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="da-vinci-learning" group-title="Эфирные ТВ плюс",69.8а Da Vinci (A)
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+
+
+# --- ВАРИАНТ Б: Android 13 ---
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Эфирные ТВ плюс",69.4б Viju Nature (Б)
+#EXTVLCOPT:http-user-agent=Cinerama/3.2.1 (Android/13)
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Эфирные ТВ плюс",69.5б Viju Sport (Б)
+#EXTVLCOPT:http-user-agent=Cinerama/3.2.1 (Android/13)
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Эфирные ТВ плюс",69.6б Viju Explore (Б)
 #EXTVLCOPT:http-user-agent=Cinerama/3.2.1 (Android/13)
 https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 
-# 69.7 Viju History
-#EXTINF:-1 tvg-id="viasat-history" group-title="Эфирные ТВ плюс",69.7 Viju History
+#EXTINF:-1 tvg-id="viasat-history" group-title="Эфирные ТВ плюс",69.7б Viju History (Б)
 #EXTVLCOPT:http-user-agent=Cinerama/3.2.1 (Android/13)
 https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 
-# 69.8 Viju TV1000 HD
-#EXTINF:-1 tvg-id="tv1000-hd" group-title="Эфирные ТВ плюс",69.8 Viju TV1000 HD
+#EXTINF:-1 tvg-id="da-vinci-learning" group-title="Эфирные ТВ плюс",69.8б Da Vinci (Б)
 #EXTVLCOPT:http-user-agent=Cinerama/3.2.1 (Android/13)
-https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-
-# 69.9 Viju TV1000 Action HD
-#EXTINF:-1 tvg-id="tv1000-action-hd" group-title="Эфирные ТВ плюс",69.9 Viju TV1000 Action HD
-#EXTVLCOPT:http-user-agent=Cinerama/3.2.1 (Android/13)
-https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-
-# 69.10 Viju TV1000 Русское HD
-#EXTINF:-1 tvg-id="tv1000-ru-kino-hd" group-title="Эфирные ТВ плюс",69.10 Viju TV1000 Русское HD
-#EXTVLCOPT:http-user-agent=Cinerama/3.2.1 (Android/13)
-https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 
 
-# --- ВАРИАНТ 3: Браузер (Mozilla) ---
-# 69.11 Da Vinci
-#EXTINF:-1 tvg-id="da-vinci-learning" group-title="Эфирные ТВ плюс",69.11 Da Vinci
+# --- ВАРИАНТ В: Mozilla ---
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Эфирные ТВ плюс",69.4в Viju Nature (В)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Эфирные ТВ плюс",69.5в Viju Sport (В)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Эфирные ТВ плюс",69.6в Viju Explore (В)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="viasat-history" group-title="Эфирные ТВ плюс",69.7в Viju History (В)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="da-vinci-learning" group-title="Эфирные ТВ плюс",69.8в Da Vinci (В)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 
-# 69.12 VIP Serial (Резерв)
-#EXTINF:-1 tvg-id="vip-serial" group-title="Эфирные ТВ плюс",69.12 VIP Serial HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 
-# 69.13 Viju TV1000 (SD)
-#EXTINF:-1 tvg-id="tv1000" group-title="Эфирные ТВ плюс",69.13 Viju TV1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-
-# 69.14 Viju TV1000 Action (SD)
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Эфирные ТВ плюс",69.14 Viju TV1000 Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-
-# 69.15 Viju TV1000 Русское (SD)
-#EXTINF:-1 tvg-id="tv1000-ru-kino" group-title="Эфирные ТВ плюс",69.15 Viju TV1000 Русское
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
-
-
-# --- ВАРИАНТ 4: FULL STEALTH (Referer + Player) ---
-# 69.16 Viju Premiere (Double Protection)
-#EXTINF:-1 tvg-id="viju-plus-premiere" group-title="Эфирные ТВ плюс",69.16 Viju Premiere
-#EXTVLCOPT:http-user-agent=CineramaPlayer
-#EXTVLCOPT:http-referer=https://cinerama.uz/
-https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
-
-# 69.17 Viju Megahit (Double Protection)
-#EXTINF:-1 tvg-id="viju-plus-megahit" group-title="Эфирные ТВ плюс",69.17 Viju Megahit
-#EXTVLCOPT:http-user-agent=CineramaPlayer
-#EXTVLCOPT:http-referer=https://cinerama.uz/
-https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
-
-# 69.18 Viju Comedy (Double Protection)
-#EXTINF:-1 tvg-id="viju-plus-comedy" group-title="Эфирные ТВ плюс",69.18 Viju Comedy
-#EXTVLCOPT:http-user-agent=CineramaPlayer
-#EXTVLCOPT:http-referer=https://cinerama.uz/
-https://stream8.cinerama.uz/1223/tracks-v1a1/mono.m3u8
-
-# 69.19 Viju Nature (Double Protection)
-#EXTINF:-1 tvg-id="viasat-nature" group-title="Эфирные ТВ плюс",69.19 Viju Nature
+# --- ВАРИАНТ Г: Stealth (UA + Referer) ---
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Эфирные ТВ плюс",69.4г Viju Nature (Г)
 #EXTVLCOPT:http-user-agent=CineramaPlayer
 #EXTVLCOPT:http-referer=https://cinerama.uz/
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 
-# 69.20 Viju Sport (Double Protection)
-#EXTINF:-1 tvg-id="viasat-sport" group-title="Эфирные ТВ плюс",69.20 Viju Sport
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Эфирные ТВ плюс",69.5г Viju Sport (Г)
 #EXTVLCOPT:http-user-agent=CineramaPlayer
 #EXTVLCOPT:http-referer=https://cinerama.uz/
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 
-# --------------------------------------------------------------------
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Эфирные ТВ плюс",69.6г Viju Explore (Г)
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+#EXTVLCOPT:http-referer=https://cinerama.uz/
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="viasat-history" group-title="Эфирные ТВ плюс",69.7г Viju History (Г)
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+#EXTVLCOPT:http-referer=https://cinerama.uz/
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="da-vinci-learning" group-title="Эфирные ТВ плюс",69.8г Da Vinci (Г)
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+#EXTVLCOPT:http-referer=https://cinerama.uz/
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+
+
+# --- ВАРИАНТ Д: IP Masking (X-Forwarded-For) ---
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Эфирные ТВ плюс",69.4д Viju Nature (Д)
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+#EXTVLCOPT:http-forwarded-for=213.230.125.10
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Эфирные ТВ плюс",69.5д Viju Sport (Д)
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+#EXTVLCOPT:http-forwarded-for=213.230.125.10
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Эфирные ТВ плюс",69.6д Viju Explore (Д)
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+#EXTVLCOPT:http-forwarded-for=213.230.125.10
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="viasat-history" group-title="Эфирные ТВ плюс",69.7д Viju History (Д)
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+#EXTVLCOPT:http-forwarded-for=213.230.125.10
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="da-vinci-learning" group-title="Эфирные ТВ плюс",69.8д Da Vinci (Д)
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+#EXTVLCOPT:http-forwarded-for=213.230.125.10
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
