@@ -300,3 +300,35 @@ http://158.101.222.193:88/georgia_play.php?id=viasat_film
 # ---------------------------------------------------------
 
 
+
+
+# 69.4 Viju Nature
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat_nature.png" group-title="Эфирные ТВ плюс",69.4 Viju Nature
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+
+# 69.5 Viju Sport
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat_sport.png" group-title="Эфирные ТВ плюс",69.5 Viju Sport
+#EXTVLCOPT:http-user-agent=CineramaPlayer
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
+# 69.6 Viju Explore
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat_explore.png" group-title="Эфирные ТВ плюс",69.6 Viju Explore
+#EXTVLCOPT:http-user-agent=Cinerama/3.2.1 (Android/13)
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+
+# 69.7 Viju History
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat_history.png" group-title="Эфирные ТВ плюс",69.7 Viju History
+#EXTVLCOPT:http-user-agent=Cinerama/3.2.1 (Android/13)
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
+#-------------------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС --------------------------
+
+# --- Сектор 69.8: Da Vinci (Multi-Language) ---
+
+# 69.8 Da Vinci (RU)
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-logo="https://iptvx.one/picons/da_vinci_learning.png" group-title="Эфирные ТВ плюс",69.8 Da Vinci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+
+
