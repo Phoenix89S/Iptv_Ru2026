@@ -5,20 +5,64 @@
 
 #
 
-# --- СЕКТОР: ЧИСТЫЙ ХОРРОР (ТОЛЬКО УЖАСЫ И ШОК) ---
+#
+# --------------------------------------------------------------------
+# ЭКСПЕРИМЕНТАЛЬНЫЙ ПЛЕЙЛИСТ: СЕКТОР "ПЛАНЕТА И ПРИРОДА"
+# --------------------------------------------------------------------
 
-# [НСТ] — Настоящее Страшное Телевидение
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Ужасы",НСТ
-http://94.79.51.107:8080/nst/index.m3u8
+# --- КУБТЕЛ / WORKERS (HD & 4K) ---
 
-# [SCREAM] — Шокирующее (Тот самый Скрим)
-#EXTINF:-1 tvg-id="shokiruushee" tvg-logo="https://iptvx.one/picons/shokiruushee.png" group-title="Ужасы",Scream (Шокирующее)
-http://89.208.231.18:8080/shokiruushee/index.m3u8
+#EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="https://iptvx.one/picons/zhivaya_priroda.png" group-title="Природа",Живая природа
+http://cdn.kubteltv.workers.dev/?ID=339
 
-# [КИНОУЖАС HD] — Максимальное качество (1080p)
-#EXTINF:-1 tvg-id="kinoujas_hd" tvg-logo="https://iptvx.one/picons/kinoujas_hd.png" group-title="Ужасы",Киноужас HD
-http://89.208.231.18:8080/kinoujas_hd/index.m3u8
+#EXTINF:-1 tvg-id="teletravel" tvg-logo="https://iptvx.one/picons/teleputeshestviya.png" group-title="Путешествия",Телепутешествия
+http://cdn.kubteltv.workers.dev/?ID=257
 
-# [КИНОУЖАС] — SD версия (Стабильный поток)
-#EXTINF:-1 tvg-id="kinoujas" tvg-logo="https://iptvx.one/picons/kinoujas.png" group-title="Ужасы",Киноужас
-http://89.208.231.18:8080/kinoujas/index.m3u8
+#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami_turista.png" group-title="Путешествия",Глазами туриста
+http://cdn.kubteltv.workers.dev/?ID=341
+
+#EXTINF:-1 tvg-id="glazami-turista-4k" tvg-logo="https://iptvx.one/picons/glazami_turista_4k.png" group-title="Путешествия",Глазами туриста 4K
+http://cdn.kubteltv.workers.dev/?ID=342
+
+#EXTINF:-1 tvg-id="moya-planeta-hd" tvg-logo="https://iptvx.one/picons/moya_planeta_hd.png" group-title="Природа",Моя Планета HD
+http://cdn.kubteltv.workers.dev/?ID=349
+
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya_planeta.png" group-title="Природа",Живая Планета
+http://cdn.kubteltv.workers.dev/?ID=350
+
+
+# --- МИРОВАЯ ФАУНА (CINERAMA / UZ) ---
+
+#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://iptvx.one/picons/animal_planet.png" group-title="Природа",Animal Planet
+https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://iptvx.one/picons/discovery_channel.png" group-title="Познавательное",Discovery
+https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo" tvg-logo="https://iptvx.one/picons/national_geographic.png" group-title="Познавательное",National Geographic
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat_geo_wild.png" group-title="Природа",NAT GEO WILD
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="zhivaya-priroda-hd" group-title="Природа",Живая Природа HD (Stream8)
+https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="priklyucheniya" group-title="Познавательное",Приключения
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+
+
+# --- РЕЗЕРВНЫЕ И АЛЬТЕРНАТИВНЫЕ ПОТОКИ ---
+
+#EXTINF:-1 tvg-id="moya-planeta" group-title="Природа",Моя Планета (VOD)
+http://vod.tuva.ru/myplanet/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Природа",Viasat Nature
+http://45.145.32.13:20440/viasat_nature/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="terra-hd" group-title="Познавательное",Terra HD
+http://46.53.208.4:80/live/1500.m3u8
+
+# --------------------------------------------------------------------
+# tail of the config
+# --------------------------------------------------------------------
