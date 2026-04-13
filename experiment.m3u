@@ -446,6 +446,78 @@ http://158.101.222.193:88/georgia_play.php?id=viasathistory
 http://158.101.222.193:88/georgia_play.php?id=davinci
 
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (ТЕСТ: УЗ & ЗАБАВА) ----------------
+
+# --- Сектор УЗ (iTV.uz) ---
+
+# 69.4 Viju Nature (УЗ)
+#EXTINF:-1 tvg-id="viasat-nature" group-title="УЗ",69.4 Viju Nature (УЗ)
+#EXTVLCOPT:http-user-agent=itvPlayer
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/107/176.m3u8
+
+# 69.5 Viju Sport (УЗ)
+#EXTINF:-1 tvg-id="viasat-sport" group-title="УЗ",69.5 Viju Sport (УЗ)
+#EXTVLCOPT:http-user-agent=itvPlayer
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/108/176.m3u8
+
+# 69.6 Viju Explore (УЗ)
+#EXTINF:-1 tvg-id="viasat-explore" group-title="УЗ",69.6 Viju Explore (УЗ)
+#EXTVLCOPT:http-user-agent=itvPlayer
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/104/176.m3u8
+
+# 69.7 Viju History (УЗ)
+#EXTINF:-1 tvg-id="viasat-history" group-title="УЗ",69.7 Viju History (УЗ)
+#EXTVLCOPT:http-user-agent=itvPlayer
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/105/176.m3u8
+
+# 69.8 Da Vinci (УЗ)
+#EXTINF:-1 tvg-id="da-vinci-learning" group-title="УЗ",69.8 Da Vinci (УЗ)
+#EXTVLCOPT:http-user-agent=itvPlayer
+https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/110/176.m3u8
+
+
+# --- Сектор ЗАБАВА (Wink) ---
+
+# 69.4 Viju Nature (Забава)
+#EXTINF:-1 tvg-id="viasat-nature" group-title="ЗАБАВА",69.4 Viju Nature (Забава)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATNATURE/variant.m3u8
+
+# 69.5 Viju Sport (Забава)
+#EXTINF:-1 tvg-id="viasat-sport" group-title="ЗАБАВА",69.5 Viju Sport (Забава)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATSPORT/variant.m3u8
+
+# 69.6 Viju Explore (Забава)
+#EXTINF:-1 tvg-id="viasat-explore" group-title="ЗАБАВА",69.6 Viju Explore (Забава)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLORE/variant.m3u8
+
+# 69.7 Viju History (Забава)
+#EXTINF:-1 tvg-id="viasat-history" group-title="ЗАБАВА",69.7 Viju History (Забава)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORY/variant.m3u8
+
+# 69.8 Da Vinci (Забава)
+#EXTINF:-1 tvg-id="da-vinci-learning" group-title="ЗАБАВА",69.8 Da Vinci (Забава)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DAVINCI/variant.m3u8
+
+# --------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
