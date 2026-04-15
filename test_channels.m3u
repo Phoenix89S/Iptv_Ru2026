@@ -4580,6 +4580,31 @@ https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 
 
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 110) ----------------
+
+#----- сектор вражеское тв--------
+
+# 110. TIS TV
+#EXTINF:-1 group-title="Эфирные ТВ плюс",110. TIS TV Ⓢ
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+
+# 110.1 Первый городской (Одесса)
+#EXTINF:-1 group-title="Эфирные ТВ плюс",110.1 Perviy Gorodskoy Odessa
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+
+# 110.2 Черновицкий Проминь
+#EXTINF:-1 group-title="Эфирные ТВ плюс",110.2 Chernivtsi Promin
+http://langate.tv/promin/live_720/index.m3u8
+
+#
+# --------------------------------------------------------------------
+#
+
+
+
+
+
+
 
 
 
