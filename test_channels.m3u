@@ -2008,7 +2008,8 @@ http://iptv46.mcx-ix.ru:8077/viju_nature_hd/index.m3u8
 # 63.1 Русский роман (Архив/Токен)
 #EXTINF:-1 tvg-id="russkij-roman" tvg-name="Русский роман" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="Эфирные ТВ плюс",63.1 Русский роман (T)
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.19F77 (iPhone; U; CPU OS 15_5 like Mac OS X; ru_ru)
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4MDgwLzgwMTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjVjZGJlOWM2IiwicCI6IjVjZGJlOWM2NjMxZTk1ZDUiLCJjIjoiMTAiLCJ0IjoiZGM2NTM1ZTllNTMxOGRhMmY1NDU4MGFmMzlhYjUwMmIiLCJkIjoiNDExMjAyIiwiciI6IjQyMzE3MCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDEwL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+http://vod.tuva.ru/rusroman/index.m3u8
+
 
 # 63.2 Русский детектив (Архив/Токен)
 #EXTINF:-1 tvg-id="russkiy-detektiv" tvg-name="Русский детектив" tvg-logo="https://i.imgur.com/H3qhN8S.png" group-title="Эфирные ТВ плюс",63.2 Русский детектив (T)
