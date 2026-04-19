@@ -5,6 +5,11 @@
 # Архив: 7 дней (Перемотка + Запись активны)
 #-----------------------------------------------------------------------------------
 
+#EXTINF:-1, Твц 1
+https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Твц 2
+https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="1_kanal_evraziya" tvg-name="Первый канал Евразия" tvg-logo="https://raw.githubusercontent.com/frol-aleksan/IPTV/master/logo/1_kanal_evraziya.png" group-title="Test evrasia", Первый канал Евразия (Main Galam)
 https://cdn.galamtv.kz/hls/1_kanal_evraziya/index.m3u8
