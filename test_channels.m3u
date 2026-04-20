@@ -2391,6 +2391,13 @@ http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Эфирные ТВ плюс",70.14 НСТ
 http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС ----------------
+
+# 70.14.1 TRASH
+#EXTINF:-1 tvg-id="trash" tvg-name="TRASH" tvg-logo="https://iptvx.one/picons/trash.png" group-title="Эфирные ТВ плюс",70.14.1 TRASH
+https://tinyurl.com/aleks-u-romki-2/6396/index.m3u8
+
+
 # 70.15 Scream
 #EXTINF:-1 tvg-id="scream" tvg-logo="https://iptvx.one/picons/scream.png" group-title="Эфирные ТВ плюс",70.15 Scream
 https://stream8.cinerama.uz/1241/tracks-v1a1/mono.m3u8
