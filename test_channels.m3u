@@ -1,4 +1,4 @@
-\#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7" catchup-source="${url}&utc=${start}&lutc=${timestamp}" timeshift="7"
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7" catchup-source="${url}&utc=${start}&lutc=${timestamp}" timeshift="7"
 
 #-------------------------- ШАПКА ПЛЕЙЛИСТА (ОБНОВЛЕННАЯ) --------------------------
 # EPG: It999 + Teleguide + Iptvx (Lite/Full)
@@ -2393,10 +2393,12 @@ http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
 
 #---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС ----------------
 
-# 70.14.1 TRASH
-#EXTINF:-1 tvg-id="trash" tvg-name="TRASH" tvg-logo="https://iptvx.one/picons/trash.png" group-title="Эфирные ТВ плюс",70.14.1 TRASH
-https://tinyurl.com/aleks-u-romki-2/6396/index.m3u8
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС ----------------
 
+# 70.14.1 TRASH
+#EXTINF:-1 tvg-id="trash" tvg-name="TRASH" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/TRASH.png" group-title="Эфирные ТВ плюс",70.14.1 TRASH
+https://tinyurl.com/aleks-u-romki-2/6396/index.m3u8
+#-----------------------------------------------------------------
 
 # 70.15 Scream
 #EXTINF:-1 tvg-id="scream" tvg-logo="https://iptvx.one/picons/scream.png" group-title="Эфирные ТВ плюс",70.15 Scream
