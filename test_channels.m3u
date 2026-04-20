@@ -4111,6 +4111,13 @@ https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd0
 #EXTINF:-1 tvg-id="vestifm" tvg-logo="https://iptvx.one/picons/vesti_fm.png" group-title="ВГТРК",2.5 Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 
+#---------------- ГРУППА: ВГТРК ----------------
+
+# 2.5.1 Вести ФМ (Плеер Смотрим) — Оригинал
+#EXTINF:-1 tvg-id="vesti-fm" tvg-name="Вести ФМ (Web)" tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="ВГТРК",2.5.1 Вести ФМ (Смотрим)
+https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+
+
 # --------------------------------------------------------------------
 
 
