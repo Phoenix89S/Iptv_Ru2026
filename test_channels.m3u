@@ -1562,8 +1562,10 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 # --- Сектор 48: Кулинария и лайфстайл ---
 
 # 48.0 Телеканал Еда
-#EXTINF:-1 tvg-id="eda-tv" tvg-name="Еда" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/eda_oval_green.png" group-title="Эфирные ТВ плюс",48.0 Еда
+#EXTINF:-1 tvg-id="eda-tv" tvg-name="Еда" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/eda.png" group-title="Эфирные ТВ плюс",48.0 Еда
 https://tinyurl.com/aleks-u-romki-2/6009/index.m3u8
+
+
 
 # 48.1 Food Time (Заглушка)
 #EXTINF:-1 tvg-id="food-time" tvg-name="Food Time" tvg-logo="https://iptvx.one/picons/food_time.png" group-title="Эфирные ТВ плюс",48.1 Food Time
