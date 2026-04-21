@@ -2770,6 +2770,72 @@ http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 
 
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 90) ----------------
+#----------------подгруппа/ сектор: СЕМЕЙКА нст  (КНОПКА 90) ----------------
+# 
+# 90. НСТ
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Эфирные ТВ плюс",90. НСТ
+http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
+
+# 90.1 Заглушка
+#EXTINF:-1 group-title="Эфирные ТВ плюс",90.1 Заглушка
+http://127.0.0.1:1234
+
+# 90.2 Заглушка
+#EXTINF:-1 group-title="Эфирные ТВ плюс",90.2 Заглушка
+http://127.0.0.1:1234
+
+# --- Блок Cinema ---
+# 90.3 Cinema
+#EXTINF:-1 tvg-id="cinema" tvg-logo="https://iptvx.one/picons/cinema.png" group-title="Эфирные ТВ плюс",90.3 Cinema
+http://
+
+# 90.4 Заглушка
+#EXTINF:-1 group-title="Эфирные ТВ плюс",90.4 Заглушка
+http://127.0.0.1:1234
+
+# --- Блок Кинокомедия ---
+# 90.5 Кинокомедия
+#EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://iptvx.one/picons/kinokomediya.png" group-title="Эфирные ТВ плюс",90.5 Кинокомедия
+http://
+
+# 90.6 Заглушка
+#EXTINF:-1 group-title="Эфирные ТВ плюс",90.6 Заглушка
+http://127.0.0.1:1234
+
+# --- Блок FAN ---
+# 90.7 FAN
+#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/FAN.png" group-title="Эфирные ТВ плюс",90.7 FAN
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
+
+# 90.8 Заглушка
+#EXTINF:-1 group-title="Эфирные ТВ плюс",90.8 Заглушка
+http://127.0.0.1:1234
+
+# 90.9 Заглушка
+#EXTINF:-1 group-title="Эфирные ТВ плюс",90.9 Заглушка
+http://127.0.0.1:1234
+
+# --- Блок Trash ---
+# 90.13 TRASH
+#EXTINF:-1 tvg-id="trash" tvg-name="TRASH" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/TRASH.png" group-title="Эфирные ТВ плюс",90.13 TRASH
+https://tinyurl.com/aleks-u-romki-2/6396/index.m3u8
+
+# 90.13.1 Заглушка
+#EXTINF:-1 group-title="Эфирные ТВ плюс",90.13.1 Заглушка
+http://127.0.0.1:1234
+
+# --- Блок Киноужас ---
+# 90.14 Киноужас
+#EXTINF:-1 tvg-id="kinoujas" tvg-logo="https://iptvx.one/picons/kinoujas_hd.png" group-title="Эфирные ТВ плюс",90.14 Киноужас
+http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
+
+# 90.14.1 Заглушка
+#EXTINF:-1 group-title="Эфирные ТВ плюс",90.14.1 Заглушка
+http://127.0.0.1:1234
+
+#
+# -------------------------------------------------------------------
 
 
 #
