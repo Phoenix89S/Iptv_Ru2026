@@ -179,3 +179,246 @@ http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
 #EXTINF:-1, ЕГЭ ТВ
 http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
 
+
+
+
+
+
+#EXTINF:-1, Dunyo bo`ylab UZ
+https://stream8.cinerama.uz/1006/tracks-v1a2/mono.m3u8
+#EXTINF:-1, Zor TV HD
+https://stream8.cinerama.uz/1016/tracks-v1a2/mono.m3u8
+#EXTINF:-1, Kinoteatr
+https://stream8.cinerama.uz/1009/tracks-v1a2/mono.m3u8
+#EXTINF:-1, My5 UZ
+https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Mahalla
+https://stream8.cinerama.uz/1013/tracks-v1a2/mono.m3u8
+#EXTINF:-1, Yoshlar
+https://stream8.cinerama.uz/1002/tracks-v1a2/mono.m3u8
+#EXTINF:-1, Navo
+https://stream8.cinerama.uz/1008/tracks-v1a2/mono.m3u8
+#EXTINF:-1, Uzbekiston
+https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Uzbekistan 24
+https://stream8.cinerama.uz/1011/tracks-v1a2/mono.m3u8
+#EXTINF:-1, Nurafshon TV UZ
+https://stream8.cinerama.uz/1220/tracks-v1a2/mono.m3u8
+#EXTINF:-1, Известия HD
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1, Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.m3u8
+#EXTINF:-1, Россия-24
+http://s83.rafail1982.uz/1021/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Первый канал HD
+http://s83.rafail1982.uz/1214/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Известия HD
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1, Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.m3u8
+#EXTINF:-1, Travel TV HD ru
+https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
+#EXTINF:-1, Россия-24
+https://stream8.cinerama.uz/1021/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1, Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Звезда +4
+http://vod.tuva.ru:8080/zvezda/index.m3u8
+#EXTINF:-1, Россия 24 (Абакан)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8
+#EXTINF:-1, Россия 24 (Белгород)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia24-sd/index.m3u8
+#EXTINF:-1, Россия 1
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:-1, Россия 1 +2
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1, Россия 1 +3
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1, Россия 1 +4
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1, Россия 1 +5
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1, Россия 1 +6
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1, Россия 1 +7
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1, Россия 1 +8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1, Россия 1 +9
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1, НТВ +2
+http://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1, НТВ +4
+http://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1, НТВ +7
+http://cdn.ntv.ru/ntv7/playlist.m3u8
+#EXTINF:-1, НТВ HD
+http://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1, НТВ Право
+http://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1, НТВ Сериал
+http://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1, НТВ Стиль
+http://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1, НТВ Хит
+http://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1, Россия К HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+#EXTINF:-1, Россия К HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF:-1, Мир 24 HD
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Мир +2
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Мир +4
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Мир +7
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
+#EXTINF:-1, НТВ HD
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=E5FB6LF5iVXO3ikWKlv1NA&e=2068506931&scheme=https
+#EXTINF:-1, ТНТ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=LTSrgtYBpE8r2aujUZ81LA&e=2068506931&scheme=https
+#EXTINF:-1, ТНТ4 HD
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=gSfZr_b1wBE3aUNAD0mlXA&e=2068506932&scheme=https
+#EXTINF:-1, ТВ3 HD
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
+#EXTINF:-1, 2x2
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
+#EXTINF:-1, Суббота
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=K5qwXPiww7h9EIwodnvrAQ&e=2068506935&scheme=https
+#EXTINF:-1, Ю
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=ypW_sLxBx1nKFR48-gn7hQ&e=2068506935&scheme=https
+#EXTINF:-1, Большая азия
+https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=nzkWYIxTzLiM0tQ2DC9S5Q&e=2068506935&scheme=https
+#EXTINF:-1, Охотник и рыболов
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Kmb5U8Od5In6YypbGhahIg&e=2068506936&scheme=https
+#EXTINF:-1, Москва FM (Online RADIO)
+https://icecast-vgtrk.cdnvideo.ru/moscowfm128
+#EXTINF:-1, Дорожное радио (Online RADIO)
+https://hls-01-dorognoe.emgsound.ru/15/112/playlist.m3u8
+#EXTINF:-1, Пи FM (Online RADIO)
+https://cdn.pifm.ru/mp3rdplay
+#EXTINF:-1, Эльдарадио FM (Online RADIO)
+https://emgspb.hostingradio.ru/eldoradio128.mp3
+#EXTINF:-1, Remix FM (Online RADIO)
+https://irp2.volna.top/remixfm
+#EXTINF:-1, Ратник
+http://online-video.rbc.ru/online/rbctv.m3u8
+#EXTINF:-1, ТВЦ
+http://s83.rafail1982.uz/1025/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Звезда
+http://s83.rafail1982.uz/1050/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, 12 КАНАЛ
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1, 4 канал
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1, Дагестан
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1, Евразия Орск
+http://live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1, Кино и сериалы
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1, Королёв ТВ HD
+http://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
+#EXTINF:-1, Липецкое время
+http://serv25.vintera.tv:8081/liptime/liptime/chunks.m3u8
+#EXTINF:-1, Setanta Sports 1 HD
+http://stream8.cinerama.uz/1263/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Setanta Sports 2 HD
+http://stream8.cinerama.uz/1264/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Матч! Футбол 1
+http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
+#EXTINF:-1, Матч! Футбол 2
+http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
+#EXTINF:-1, Trace Sport Stars HD
+http://s8.rafail1982.uz/1274/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Viju+ Sport
+http://s8.rafail1982.uz/1229/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Матч! Планета
+http://s8.rafail1982.uz/1243/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, KHL HD
+http://s8.rafail1982.uz/1422/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Мир сериала
+http://31.148.48.15/Mir_Seriala/index.m3u8
+#EXTINF:-1, FAN HD
+http://31.148.48.15/Fan/index.m3u8
+#EXTINF:-1, Родное кино
+http://185.161.224.211/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
+#EXTINF:-1, VIP Serial HD
+http://185.161.224.211/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1, Дом Кино
+http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1, Дом Кино Премиум HD
+http://31.148.48.15/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1, Еврокино
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1, Кинопоказ
+http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1, O'zbekiston
+http://s83.rafail1982.uz/1001/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Yoshlar HD UZ
+http://s83.rafail1982.uz/1002/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Toshkent UZ
+http://s83.rafail1982.uz/1003/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Sport UZ HD
+http://s83.rafail1982.uz/1004/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Dunyo bo`ylab UZ
+http://s83.rafail1982.uz/1006/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Bolajon
+http://s83.rafail1982.uz/1007/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Kinoteatr HD UZ
+http://s83.rafail1982.uz/1009/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Futbol
+http://s83.rafail1982.uz/1010/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, My5 UZ
+http://s83.rafail1982.uz/1012/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Mahalla UZ
+http://s83.rafail1982.uz/1013/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Уникум HD
+http://s83.rafail1982.uz/1033/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Карусель HD
+http://s83.rafail1982.uz/1034/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, В гостях у сказки HD
+http://s83.rafail1982.uz/1270/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Duck TV
+http://s83.rafail1982.uz/1271/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Мама
+http://s83.rafail1982.uz/1244/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Мульт HD orig
+http://s83.rafail1982.uz/1246/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Капитан Фантастика HD
+http://s83.rafail1982.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Рыжий
+http://s83.rafail1982.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Мультиландия HD
+http://s83.rafail1982.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Tiji TV
+http://s83.rafail1982.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Авто Плюс HD
+http://s83.rafail1982.uz/1036/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Охота и рыбалка
+http://s83.rafail1982.uz/1038/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Загородный
+http://s83.rafail1982.uz/1044/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, HDL
+http://s83.rafail1982.uz/1222/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1, Живи Активно HD
+http://s83.rafail1982.uz/1405/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Доктор HD
+http://s83.rafail1982.uz/1409/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Загородный
+http://s83.rafail1982.uz/1410/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Охотник и рыболов HD
+http://s83.rafail1982.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Первый космический HD
+http://s83.rafail1982.uz/1415/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Инсайт ТВ UHD
+http://s83.rafail1982.uz/1416/tracks-v1a1/mono.m3u8
+
+
