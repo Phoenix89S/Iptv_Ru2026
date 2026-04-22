@@ -77,3 +77,105 @@ http://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 #EXTINF:-1, WFC HD
 http://live-3.otcnet.ru/wfcrus/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1, WB TV
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+#EXTINF:-1, RTL9
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1, FOX NEWS NOW
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1, FX USA
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1, FXX USA
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1, ТВОЕ ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1, ТВОЕ ТВ HD - ЮМОР
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1, Твоё ТВ HD Юмор v2
+http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1, ТНТ4 International
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1, Рен ТВ International
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1, Пятница! International
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:-1, ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1, ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1, Перец
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1, MTV USA HD
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1, MTV Live USA HD
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1, Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+#EXTINF:-1, Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1, Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
+#EXTINF:-1, Новое Телевидение HD
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1, RTL 102.5 DISCO
+https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b3256000.m3u8
+#EXTINF:-1, RTL 102.5 TRAFFIC
+http://streamcdng6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/chunklist_b3256000.m3u8
+#EXTINF:-1, Music tv
+http://217.79.184.52/Nostalgia/index.m3u8
+#EXTINF:-1, Music Az Hit
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+#EXTINF:-1, Music Az
+http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1, Mix Music
+https://cdamix.streaming.ws/mixmusic/live/chunklist.m3u8
+#EXTINF:-1, MCM FR
+http://41.205.93.154/MCM/index.m3u8
+#EXTINF:-1, МАТЧ ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Матч ТВ
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Матч HD
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1, Setanta Sports 2 Georgia
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:-1, Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1, Cinema
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1, VIJU TV1000 action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1, Antofagasta TV
+http://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1, Canal Parlamento (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1, Congreso de los Diputados 1 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:-1, Congreso de los Diputados 2 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
+#EXTINF:-1, Congreso de los Diputados 3 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
+#EXTINF:-1, Congreso de los Diputados 4 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
+#EXTINF:-1, Congreso de los Diputados 5 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
+#EXTINF:-1, Fibwi (1080p) [Not 24/7]
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
+#EXTINF:-1, Нано ТВ
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+#EXTINF:-1, Зоо ТВ
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1, World Fashion
+https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+#EXTINF:-1, RTG
+http://195.26.83.96:7007/play/a00n/index.m3u8
+#EXTINF:-1, UNIVER (HD)
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:-1, ЕГЭ ТВ
+http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
+
