@@ -1,4 +1,67 @@
-#EXTM3U
+
+
+#EXTM3U x-tvg-url="http://nasharu.tv/iptv/epg/epg_ssiptv.xml" url-tvg="http://nasharu.tv/iptv/epg/epg_full.xml.gz" size="medium" catchup="shift" catchup-days="3"
+
+#EXTINF:0 group-title="Русские" tvg-id="pervy" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал HD
+#EXTGRP:Русские
+http://ip1.orgip.net/101/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="pervy" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал
+#EXTGRP:Русские
+http://ip1.orgip.net/0101/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="pervy-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал (+2)
+#EXTGRP:Русские
+http://ip1.orgip.net/180/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="pervy-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал (+4)
+#EXTGRP:Русские
+http://ip1.orgip.net/181/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="pervy-pl6" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал (+6)
+#EXTGRP:Русские
+http://ip1.orgip.net/192/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="pervy-pl9" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал (+9)
+#EXTGRP:Русские
+http://ip1.orgip.net/159/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="pervy-mn1" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал (-1)
+#EXTGRP:Русские
+http://ip1.orgip.net/137/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="rossia1" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1 HD
+#EXTGRP:Русские
+http://ip1.orgip.net/102/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="rossia1" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1
+#EXTGRP:Русские
+http://ip1.orgip.net/0102/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="rossia1-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1 (+2)
+#EXTGRP:Русские
+http://ip1.orgip.net/182/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="rossia1-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1 (+4)
+#EXTGRP:Русские
+http://ip1.orgip.net/183/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="rossia1-pl6" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1 (+6)
+#EXTGRP:Русские
+http://ip1.orgip.net/194/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="rossia1-pl9" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1 (+9)
+#EXTGRP:Русские
+http://ip1.orgip.net/160/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Русские" tvg-id="rossia1-mn1" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1 (-1)
+#EXTGRP:Русские
+http://ip1.orgip.net/138/video.m3u8?token=M4f082ab4c
+
+
+
+
+
 #EXTINF:-1, Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
 #EXTINF:-1, НТВ HD
