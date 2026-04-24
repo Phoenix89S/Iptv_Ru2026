@@ -2279,25 +2279,37 @@ http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 
 
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (Сектор 69) ----------------
+
 # 69.12 Viju TV1000 Новелла
-#EXTINF:-1 tvg-id="viasat-serial" group-title="Эфирные ТВ плюс",69.12 Viju TV1000 Новелла
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="viasat-serial" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/viju_novella.png" group-title="Эфирные ТВ плюс",69.12 Viju TV1000 Новелла
+http://46.53.208.4:80/live/545-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 # 69.13 Viju TV1000 Romantica
-#EXTINF:-1 tvg-id="viasat-romance" group-title="Эфирные ТВ плюс",69.13 Viju TV1000 Romantica
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="viasat-romance" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/viju_romantica.png" group-title="Эфирные ТВ плюс",69.13 Viju TV1000 Romantica
+http://46.53.208.4:80/live/3111-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 # 69.14 Viju+ Premiere
-#EXTINF:-1 tvg-id="viasat-premiere" group-title="Эфирные ТВ плюс",69.14 Viju+ Premiere
+#EXTINF:-1 tvg-id="viasat-premiere" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/viju_premiere.png" group-title="Эфирные ТВ плюс",69.14 Viju+ Premiere
 https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
 
 # 69.15 Viju+ Serial
-#EXTINF:-1 tvg-id="viasat-serial-hd" group-title="Эфирные ТВ плюс",69.15 Viju+ Serial
-https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="viasat-serial-hd" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/viju_serial.png" group-title="Эфирные ТВ плюс",69.15 Viju+ Serial
+https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+
+# 69.15.1 Viasat Kino Comedy HD (БОНУС)
+#EXTINF:-1 tvg-id="viasat-comedy-hd" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/viju_comedy.png" group-title="Эфирные ТВ плюс",69.15.1 Viasat Kino Comedy HD
+http://ukr2.ukrainske.tv/493/video.m3u8
 
 # 69.16 Viju+ Planet
-#EXTINF:-1 tvg-id="viasat-history-hd" group-title="Эфирные ТВ плюс",69.16 Viju+ Planet
+#EXTINF:-1 tvg-id="viasat-history-hd" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/viju_planet.png" group-title="Эфирные ТВ плюс",69.16 Viju+ Planet
 https://stream8.cinerama.uz/[ID]/tracks-v1a1/mono.m3u8
+
+# 69.16.1 Viju+ Planet (Резерв)
+#EXTINF:-1 tvg-id="viasat-history-hd" tvg-logo="https://raw.githubusercontent.com/Phoenix89S/Iptv_Ru2026/main/icons/viju_planet.png" group-title="Эфирные ТВ плюс",69.16.1 Viju+ Planet
+https://a3569457567-s70378.cdn.ngenix.net/vip_planet/2/index.m3u8
+
+#---------------
 
 вставить
 
