@@ -2850,6 +2850,25 @@ http://127.0.0.1:1234
 #
 # -------------------------------------------------------------------
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 91) ----------------
+
+# 91. Gulli Girl
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Эфирные ТВ плюс",91. Gulli Girl
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/gulli_girl/2/index.m3u8
+
+# 91.1 Gulli Girl (Full path)
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Эфирные ТВ плюс",91.1 Gulli Girl (Full path)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/gulli_girl/2/index.m3u8
+
+# 91.2 TiJi
+#EXTINF:-1 tvg-id="tiji" group-title="Эфирные ТВ плюс",91.2 TiJi
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+
+#--------------------
+
 
 #
 
