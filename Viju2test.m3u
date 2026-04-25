@@ -170,3 +170,36 @@ https://a3569457567-s70378.cdn.ngenix.net/viasat_planet/2/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Эфирные ТВ плюс",69.15 Viasat Sport
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+
+
+#---------------- ДОПОЛНЕНИЕ: ТЕСТ (НОВАЯ ВЕРСИЯ) ----------------
+
+#EXTINF:-1 tvg-id="eda-tv" group-title="Эфирные ТВ тест",69.16 Еда
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/eda/2/index.m3u8
+
+#EXTINF:-1 tvg-id="trash-tv" group-title="Эфирные ТВ тест",69.17 Trash
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/trash/2/index.m3u8
+
+#EXTINF:-1 tvg-id="scream-tv" group-title="Эфирные ТВ тест",69.18 Scream
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/scream/2/index.m3u8
+
+
+#---------------- ДОПОЛНЕНИЕ: ПЛЮС (СТАРАЯ ВЕРСИЯ) ----------------
+
+#EXTINF:-1 tvg-id="eda-tv" group-title="Эфирные ТВ плюс",69.16 Телеканал Еда
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/eda/2/index.m3u8
+
+#EXTINF:-1 tvg-id="trash-tv" group-title="Эфирные ТВ плюс",69.17 Trash TV
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/trash/2/index.m3u8
+
+#EXTINF:-1 tvg-id="scream-tv" group-title="Эфирные ТВ плюс",69.18 Scream TV
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/scream/2/index.m3u8
+
+
+
