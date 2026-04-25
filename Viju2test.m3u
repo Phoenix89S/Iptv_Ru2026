@@ -41,3 +41,132 @@ https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat_sport.png" group-title="Спорт",viju+ Sport
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+
+
+
+#EXTM3U
+
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ТЕСТ (НОВАЯ ВЕРСИЯ) ----------------
+
+#EXTINF:-1 tvg-id="viju-tv1000" group-title="Эфирные ТВ тест",69.1 viju TV1000
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-tv1000-russian" group-title="Эфирные ТВ тест",69.2 viju TV1000 Русское
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000_russian/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-tv1000-action" group-title="Эфирные ТВ тест",69.3 viju TV1000 Action
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000_action/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-tv1000-novella" group-title="Эфирные ТВ тест",69.4 viju TV1000 Новелла
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000_novella/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-tv1000-romantica" group-title="Эфирные ТВ тест",69.5 viju TV1000 Romantica
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_romantica/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-explore" group-title="Эфирные ТВ тест",69.6 viju Explore
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-history" group-title="Эфирные ТВ тест",69.7 viju History
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-nature" group-title="Эфирные ТВ тест",69.8 viju Nature
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-da-vinci" group-title="Эфирные ТВ тест",69.9 viju Da Vinci
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/da_vinci/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-plus-premiere" group-title="Эфирные ТВ тест",69.10 viju+ Premiere
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-plus-megahit" group-title="Эфирные ТВ тест",69.11 viju+ Megahit
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-plus-comedy" group-title="Эфирные ТВ тест",69.12 viju+ Comedy
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-plus-serial" group-title="Эфирные ТВ тест",69.13 viju+ Serial
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-plus-planet" group-title="Эфирные ТВ тест",69.14 viju+ Planet
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_planet/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-plus-sport" group-title="Эфирные ТВ тест",69.15 viju+ Sport
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+
+
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (СТАРАЯ ВЕРСИЯ) ----------------
+
+#EXTINF:-1 tvg-id="tv1000" group-title="Эфирные ТВ плюс",69.1 TV1000
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000/2/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1000-russian" group-title="Эфирные ТВ плюс",69.2 TV1000 Русское кино
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000_russian/2/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Эфирные ТВ плюс",69.3 TV1000 Action
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000_action/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-novella" group-title="Эфирные ТВ плюс",69.4 Viasat Novella
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000_novella/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-romantica" group-title="Эфирные ТВ плюс",69.5 Viasat Romantica
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_romantica/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Эфирные ТВ плюс",69.6 Viasat Explore
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-history" group-title="Эфирные ТВ плюс",69.7 Viasat History
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Эфирные ТВ плюс",69.8 Viasat Nature
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
+
+#EXTINF:-1 tvg-id="da-vinci-learning" group-title="Эфирные ТВ плюс",69.9 Da Vinci Learning
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/da_vinci/2/index.m3u8
+
+#EXTINF:-1 tvg-id="vip-premiere" group-title="Эфирные ТВ плюс",69.10 VIP Premiere
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
+
+#EXTINF:-1 tvg-id="vip-megahit" group-title="Эфирные ТВ плюс",69.11 VIP Megahit
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
+
+#EXTINF:-1 tvg-id="vip-comedy" group-title="Эфирные ТВ плюс",69.12 VIP Comedy
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
+
+#EXTINF:-1 tvg-id="vip-serial" group-title="Эфирные ТВ плюс",69.13 VIP Serial
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-planet" group-title="Эфирные ТВ плюс",69.14 Viasat Planet
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_planet/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Эфирные ТВ плюс",69.15 Viasat Sport
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
