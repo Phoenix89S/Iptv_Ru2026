@@ -243,3 +243,99 @@ https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/tiji_hd/2/index.m3u8
 
 
+
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ТЕСТ (НОВАЯ ВЕРСИЯ) ----------------
+
+# 69.19 Gulli Girl
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Эфирные ТВ тест",69.19 Gulli Girl
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/gulli_girl/2/index.m3u8
+
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Эфирные ТВ тест",69.19 Gulli Girl HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/gulli_girl_hd/2/index.m3u8
+
+# 69.20 TiJi
+#EXTINF:-1 tvg-id="tiji" group-title="Эфирные ТВ тест",69.20 TiJi
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+
+#EXTINF:-1 tvg-id="tiji" group-title="Эфирные ТВ тест",69.20 TiJi HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tiji_hd/2/index.m3u8
+
+# 69.21 Мульт
+#EXTINF:-1 tvg-id="mult" group-title="Эфирные ТВ тест",69.21 Мульт
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/mult/2/index.m3u8
+
+#EXTINF:-1 tvg-id="mult-hd" group-title="Эфирные ТВ тест",69.21 Мульт HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/mult_hd/2/index.m3u8
+
+
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (СТАРАЯ ВЕРСИЯ) ----------------
+
+# 69.19 Gulli Girl (Твоя правка)
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Эфирные ТВ плюс",69.19 Gulli Girl
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/gulli/2/index.m3u8
+
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Эфирные ТВ плюс",69.19 Gulli Girl HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/gulli_hd/2/index.m3u8
+
+# 69.20 TiJi
+#EXTINF:-1 tvg-id="tiji" group-title="Эфирные ТВ плюс",69.20 TiJi
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+
+#EXTINF:-1 tvg-id="tiji" group-title="Эфирные ТВ плюс",69.20 TiJi HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tiji_hd/2/index.m3u8
+
+# 69.21 Мульт
+#EXTINF:-1 tvg-id="mult" group-title="Эфирные ТВ плюс",69.21 Мульт
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/mult/2/index.m3u8
+
+#EXTINF:-1 tvg-id="mult-hd" group-title="Эфирные ТВ плюс",69.21 Мульт HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/mult_hd/2/index.m3u8
+
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ТЕСТ (НОВАЯ ВЕРСИЯ) ----------------
+
+# 69.22 Ani
+#EXTINF:-1 tvg-id="ani" group-title="Эфирные ТВ тест",69.22 Ani
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/ani/2/index.m3u8
+
+#EXTINF:-1 tvg-id="ani-hd" group-title="Эфирные ТВ тест",69.22 Ani HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/ani_hd/2/index.m3u8
+
+
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (СТАРАЯ ВЕРСИЯ) ----------------
+
+# 69.22 Ani
+#EXTINF:-1 tvg-id="ani" group-title="Эфирные ТВ плюс",69.22 Ani
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/ani/2/index.m3u8
+
+#EXTINF:-1 tvg-id="ani-hd" group-title="Эфирные ТВ плюс",69.22 Ani HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/ani_hd/2/index.m3u8
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
