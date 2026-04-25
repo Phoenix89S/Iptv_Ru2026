@@ -201,5 +201,45 @@ https://a3569457567-s70378.cdn.ngenix.net/trash/2/index.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://a3569457567-s70378.cdn.ngenix.net/scream/2/index.m3u8
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ТЕСТ (НОВАЯ ВЕРСИЯ) ----------------
+
+# 69.19 Gulli Girl (Варианты)
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Эфирные ТВ тест",69.19 Gulli Girl
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/gulli_girl/2/index.m3u8
+
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Эфирные ТВ тест",69.19.1 Gulli (Резерв)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/gulli/2/index.m3u8
+
+# 69.20 TiJi (Варианты)
+#EXTINF:-1 tvg-id="tiji" group-title="Эфирные ТВ тест",69.20 TiJi
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+
+#EXTINF:-1 tvg-id="tiji" group-title="Эфирные ТВ тест",69.20.1 TiJi (Alt)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tiji_tv/2/index.m3u8
+
+
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (СТАРАЯ ВЕРСИЯ) ----------------
+
+# 69.19 Gulli Girl (Твоя правка)
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Эфирные ТВ плюс",69.19 Gulli Girl
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/gulli/2/index.m3u8
+
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Эфирные ТВ плюс",69.19.1 Gulli Girl (Full path)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/gulli_girl/2/index.m3u8
+
+# 69.20 TiJi
+#EXTINF:-1 tvg-id="tiji" group-title="Эфирные ТВ плюс",69.20 TiJi
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+
+#EXTINF:-1 tvg-id="tiji" group-title="Эфирные ТВ плюс",69.20.1 TiJi HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tiji_hd/2/index.m3u8
 
 
