@@ -346,6 +346,37 @@ https://a3569457567-s70378.cdn.ngenix.net/ani/2/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/ani_hd/2/index.m3u8
  
 
+#---------------- ГРУППА: ЭФИРНЫЕ ТВ ПЛЮС (КНОПКА 700.1) ----------------
+
+# 700.1 tv1000
+#EXTINF:-1 tvg-id="viju-tv1000" tvg-name="tv1000" group-title="Эфирные ТВ плюс" catchup="append" catchup-days="7",700.1 tv1000
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000/2/index.m3u8
+
+# 700.1.1 viju TV1000 (Новая система)
+#EXTINF:-1 tvg-id="viju-tv1000" tvg-name="viju TV1000" group-title="Эфирные ТВ плюс" catchup="append" catchup-days="7",700.1.1 viju TV1000
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000/2/index.m3u8
+
+# 700.2 tv1000_russian
+#EXTINF:-1 tvg-id="viju-tv1000-russian" tvg-name="tv1000_russian" group-title="Эфирные ТВ плюс" catchup="append" catchup-days="7",700.2 tv1000_russian
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000_russian/2/index.m3u8
+
+# 700.2.1 viju TV1000 Русское (Новая система)
+#EXTINF:-1 tvg-id="viju-tv1000-russian" tvg-name="viju TV1000 Русское" group-title="Эфирные ТВ плюс" catchup="append" catchup-days="7",700.2.1 viju TV1000 Русское
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000_russian/2/index.m3u8
+
+# 700.3 tv1000_action
+#EXTINF:-1 tvg-id="viju-tv1000-action" tvg-name="tv1000_action" group-title="Эфирные ТВ плюс" catchup="append" catchup-days="7",700.3 tv1000_action
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000_action/2/index.m3u8
+
+# 700.3.1 viju TV1000 Action (Новая система)
+#EXTINF:-1 tvg-id="viju-tv1000-action" tvg-name="viju TV1000 Action" group-title="Эфирные ТВ плюс" catchup="append" catchup-days="7",700.3.1 viju TV1000 Action
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000_action/2/index.m3u8
 
 
 
