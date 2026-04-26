@@ -21,7 +21,7 @@ https://a3569457567-s70378.cdn.ngenix.net/1tv_eurasia/2/index.m3u8
 
 # ---------------- ГРУППА: VIJU / VIASAT ----------------
 
-#EXTINF:-1 tvg-id="viju-plus-premier" tvg-logo="https://iptvx.one/picons/vip_premiere_hd.png" group-title="Кино",viju+ Premier
+#EXTINF:-1 tvg-id="viju-plus-premier" tvg-logo="https://iptvx.one/picons/vip_premiere_hd.png" group-title="Кино",viju+ Premiere
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
 
