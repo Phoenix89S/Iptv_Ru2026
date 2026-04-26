@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz" catchup="append" catchup-days="7" catchup-source="?utc={utc}&lutc={lutc}" timeshift="7" m3uheader-archive="7"
 
 # ---------------- ГРУППА: VIJU / VIASAT ----------------
 
