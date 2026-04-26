@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7" catchup-source="${url}&utc=${start}&lutc=${timestamp}" timeshift="7"
+18#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7" catchup-source="${url}&utc=${start}&lutc=${timestamp}" timeshift="7"
 
 #-------------------------- ШАПКА ПЛЕЙЛИСТА (ОБНОВЛЕННАЯ) --------------------------
 # EPG: It999 + Teleguide + Iptvx (Lite/Full)
@@ -4734,7 +4734,47 @@ http://langate.tv/promin/live_720/index.m3u8
 # --------------------------------------------------------------------
 #
 
+# ---------------- ГРУППА: VIJU / VIASAT ----------------
 
+#EXTINF:-1 tvg-id="viju-plus-premier" tvg-logo="https://iptvx.one/picons/vip_premiere_hd.png" group-title="Кино",viju+ Premiere
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-plus-megahit" tvg-logo="https://iptvx.one/picons/vip_megahit_hd.png" group-title="Кино",viju+ Megahit
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-plus-serial" tvg-logo="https://iptvx.one/picons/vip_serial_hd.png" group-title="Кино",viju+ Serial
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Кино",TV1000
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000/2/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000_action.png" group-title="Кино",TV1000 Action
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000_action/2/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1000-russian" tvg-logo="https://iptvx.one/picons/tv1000_russian_cinema.png" group-title="Кино",TV1000 Русское кино
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/tv1000_russian/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat_explore.png" group-title="Познавательные",viju+ Explore
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat_history.png" group-title="Познавательные",viju+ History
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat_nature.png" group-title="Познавательные",viju+ Nature
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat_sport.png" group-title="Спорт",viju+ Sport
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
 
 
 
