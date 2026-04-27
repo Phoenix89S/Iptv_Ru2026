@@ -1,0 +1,54 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip,https://iptvx.one/epg/epg.xml.gz" refresh="3600"
+#EXTVLCOPT:osd-format=%n. %t
+#EXTVLCOPT:m3u-autoload=1
+
+
+# ---------------- РЕЗУЛЬТАТЫ СКАННРОВАНИЯ (ИДЕНТИФИЦИРОВАНО) ----------------
+
+# 5007. Movie TV
+#EXTINF:-1 tvg-id="movie-tv-uz" tvg-logo="https://itv.uz/uploads/channels/logos/movie_tv.png" group-title="Кино",Movie TV (UZ)
+http://46.53.208.4/live/5007.m3u8
+
+# 5028. Поехали!
+#EXTINF:-1 tvg-id="poehali" tvg-logo="https://iptvx.one/picons/poehali.png" group-title="Познавательные",Поехали!
+http://46.53.208.4/live/5028.m3u8
+
+# 5029. MuzTV UZ
+#EXTINF:-1 tvg-id="muztv-uz" tvg-logo="https://itv.uz/uploads/channels/logos/muztv.png" group-title="Музыка",MuzTV UZ
+http://46.53.208.4/live/5029.m3u8
+
+# 5105. Дом Кино
+#EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://iptvx.one/picons/dom_kino.png" group-title="Кино",Дом Кино
+http://46.53.208.4/live/5105.m3u8
+
+# 5107. viju TV1000
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/viju_tv1000.png" group-title="Кино",viju TV1000
+http://46.53.208.4/live/5107.m3u8
+
+# 5108. Мультиландия
+#EXTINF:-1 tvg-id="multilandia" tvg-logo="https://iptvx.one/picons/multilandia.png" group-title="Детские",Мультиландия
+http://46.53.208.4/live/5108.m3u8
+
+# 5109. viju TV1000 Русское
+#EXTINF:-1 tvg-id="tv1000-rus" tvg-logo="https://iptvx.one/picons/viju_tv1000_rus.png" group-title="Кино",viju TV1000 Русское
+http://46.53.208.4/live/5109.m3u8
+
+# 5111. Дом Кино Премиум
+#EXTINF:-1 tvg-id="dom-kino-premium" tvg-logo="https://iptvx.one/picons/dom_kino_premium_hd.png" group-title="Кино",Дом Кино Премиум
+http://46.53.208.4/live/5111.m3u8
+
+# 5120. ТНТ International
+#EXTINF:-1 tvg-id="tnt-international" tvg-logo="https://iptvx.one/picons/tnt_int.png" group-title="Общие",ТНТ International
+http://46.53.208.4/live/5120.m3u8
+
+# 5121. Пятый канал
+#EXTINF:-1 tvg-id="5-kanal" tvg-logo="https://iptvx.one/picons/5_kanal.png" group-title="Общие",Пятый канал
+http://46.53.208.4/live/5121.m3u8
+
+# 5123. Карусель
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель
+http://46.53.208.4/live/5123.m3u8
+
+# 5127. ТВ-3 International
+#EXTINF:-1 tvg-id="tv3-international" tvg-logo="https://iptvx.one/picons/tv3_int.png" group-title="Общие",ТВ-3 International
+http://46.53.208.4/live/5127.m3u8
