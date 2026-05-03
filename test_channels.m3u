@@ -1,4 +1,4 @@
-18#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7" catchup-source="${url}&utc=${start}&lutc=${timestamp}" timeshift="7"
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="7" catchup-source="${url}&utc=${start}&lutc=${timestamp}" timeshift="7"
 
 #-------------------------- ШАПКА ПЛЕЙЛИСТА (ОБНОВЛЕННАЯ) --------------------------
 # EPG: It999 + Teleguide + Iptvx (Lite/Full)
