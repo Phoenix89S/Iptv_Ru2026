@@ -166,6 +166,7 @@ def normalize_region_code(code: str) -> str | None:
 # ============================================================
 
 FEDERAL_BUTTONS = {
+    # 1-й мультиплекс (первый десяток РТРС)
     1: ("Первый канал", "channel1"),
     2: ("Россия 1", "russia1"),
     3: ("Матч ТВ", "matchtv"),
@@ -176,6 +177,8 @@ FEDERAL_BUTTONS = {
     8: ("Карусель", "karusel"),
     9: ("ОТР", "otr"),
     10: ("ТВЦ", "tvc"),
+
+    # 2-й мультиплекс (второй десяток РТРС)
     11: ("РЕН ТВ", "rentv"),
     12: ("Спас", "spas"),
     13: ("СТС", "sts"),
@@ -186,6 +189,24 @@ FEDERAL_BUTTONS = {
     18: ("МИР", "mir"),
     19: ("ТНТ", "tnt"),
     20: ("Муз-ТВ", "muztv"),
+
+    # 3-й мультиплекс (ФИНАЛЬНЫЙ, ЗАКРЫТ)
+    21: ("Ю", "yu"),
+    22: ("Че", "che"),
+    23: ("ТНТ4", "tnt4"),
+    24: ("СТС Love", "stslove"),
+    25: ("2x2", "2x2"),
+    26: ("СТС Kids", "stskids"),
+    27: ("РБК", "rbk"),
+    28: ("Ru TV", "rutv"),
+    29: ("Ru TV HD", "rutvhd"),
+    30: ("Первый канал HD", "channel1hd"),
+    31: ("Россия 1 HD", "russia1hd"),
+    32: ("Матч Страна", "matchstrana"),
+    33: ("Москва 24", "moskva24"),
+    34: ("THT Music", "thtmusic"),
+    35: ("FAN", "fan"),
+    36: ("Ключ", "kluch"),
 }
 
 TVG_TO_BUTTON = {tvg: num for num, (_, tvg) in FEDERAL_BUTTONS.items()}
